@@ -1167,467 +1167,485 @@
     <icon src="https://cltv.tmsimg.com/assets/s89920_ll_h15_ab.png?w=360&amp;h=270"/>
     <display-name>ZooMoo</display-name>
   </channel>
-  <programme start="20260108050000 +0000" channel="sky_sports_1_mexico" stop="20260108063000 +0000">
-    <title>Dallas Stars vs. Washington Cap</title>
-  </programme>
-  <programme start="20260108050000 +0000" channel="sky_sports_16" stop="20260108070000 +0000">
+  <programme start="20260109040000 +0000" channel="sky_sports_16" stop="20260109060000 +0000">
     <title>Deportivo Alavés vs. Real Ovied</title>
   </programme>
-  <programme start="20260108050000 +0000" channel="sky_sports_24" stop="20260108053000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
-  <programme start="20260108053000 +0000" channel="sky_sports_24" stop="20260108073000 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260108063000 +0000" channel="sky_sports_1_mexico" stop="20260108070000 +0000">
-    <title>SKY Sports</title>
-  </programme>
-  <programme start="20260108070000 +0000" channel="sky_sports_1_mexico" stop="20260108090000 +0000">
-    <title>Real Zaragoza vs. UD las Palmas</title>
-  </programme>
-  <programme start="20260108070000 +0000" channel="sky_sports_16" stop="20260108080000 +0000">
-    <title>Jornadas Laliga</title>
-  </programme>
-  <programme start="20260108073000 +0000" channel="sky_sports_24" stop="20260108093000 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260108080000 +0000" channel="sky_sports_16" stop="20260108100000 +0000">
-    <title>Rayo Vallecano vs. Getafe</title>
-  </programme>
-  <programme start="20260108090000 +0000" channel="sky_sports_1_mexico" stop="20260108100000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260108093000 +0000" channel="sky_sports_24" stop="20260108100000 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260108100000 +0000" channel="sky_sports_1_mexico" stop="20260108110000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260108100000 +0000" channel="sky_sports_16" stop="20260108104500 +0000">
-    <title>Sky Sports 16</title>
-  </programme>
-  <programme start="20260108100000 +0000" channel="sky_sports_24" stop="20260108120000 +0000">
-    <title>Fortuna Düsseldorf vs. Schalke</title>
-  </programme>
-  <programme start="20260108104500 +0000" channel="sky_sports_16" stop="20260108124500 +0000">
-    <title>Sevilla vs. Levante</title>
-  </programme>
-  <programme start="20260108110000 +0000" channel="sky_sports_1_mexico" stop="20260108120000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260108120000 +0000" channel="sky_sports_1_mexico" stop="20260108143000 +0000">
-    <title>Isu figure skating championshi</title>
-  </programme>
-  <programme start="20260108120000 +0000" channel="sky_sports_24" stop="20260108140000 +0000">
-    <title>Eintracht Braunschweig vs. FC S</title>
-  </programme>
-  <programme start="20260108124500 +0000" channel="sky_sports_16" stop="20260108144500 +0000">
-    <title>RCD Mallorca vs. Girona FC</title>
-  </programme>
-  <programme start="20260108140000 +0000" channel="sky_sports_24" stop="20260108160000 +0000">
-    <title>SV Werder Bremen vs. 1. FC Köln</title>
-  </programme>
-  <programme start="20260108143000 +0000" channel="sky_sports_1_mexico" stop="20260108150000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260108144500 +0000" channel="sky_sports_16" stop="20260108164500 +0000">
-    <title>Elche vs. Villarreal</title>
-  </programme>
-  <programme start="20260108150000 +0000" channel="sky_sports_1_mexico" stop="20260108170000 +0000">
-    <title>Eibar vs. CD Mirandés</title>
-  </programme>
-  <programme start="20260108160000 +0000" channel="sky_sports_24" stop="20260108180000 +0000">
-    <title>unión berlín vs. 1. Fc heidenhe</title>
-  </programme>
-  <programme start="20260108164500 +0000" channel="sky_sports_16" stop="20260108174500 +0000">
-    <title>Jornadas Laliga</title>
-  </programme>
-  <programme start="20260108170000 +0000" channel="sky_sports_1_mexico" stop="20260108193000 +0000">
-    <title>Dallas Stars vs. Washington Cap</title>
-  </programme>
-  <programme start="20260108174500 +0000" channel="sky_sports_16" stop="20260108180000 +0000">
-    <title>Previo</title>
-  </programme>
-  <programme start="20260108180000 +0000" channel="sky_sports_16" stop="20260108200000 +0000">
-    <title>Atlético de Madrid vs. Real Mad</title>
-  </programme>
-  <programme start="20260108180000 +0000" channel="sky_sports_24" stop="20260108200000 +0000">
-    <title>VfB Stuttgart vs. FC Bayern Mün</title>
-  </programme>
-  <programme start="20260108193000 +0000" channel="sky_sports_1_mexico" stop="20260108200000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260108200000 +0000" channel="sky_sports_1_mexico" stop="20260108210000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260108200000 +0000" channel="sky_sports_16" stop="20260108203000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260108200000 +0000" channel="sky_sports_24" stop="20260108220000 +0000">
-    <title>RB Leipzig vs. E. Frankfurt</title>
-  </programme>
-  <programme start="20260108203000 +0000" channel="sky_sports_16" stop="20260108223000 +0000">
-    <title>CA Osasuna vs. Athletic Club de</title>
-  </programme>
-  <programme start="20260108210000 +0000" channel="sky_sports_1_mexico" stop="20260108230000 +0000">
-    <title>Real Valladolid vs. R. Racing C</title>
-  </programme>
-  <programme start="20260108220000 +0000" channel="sky_sports_24" stop="20260109000000 +0000">
-    <title>SC Freiburg vs. FSV Mainz</title>
-  </programme>
-  <programme start="20260108223000 +0000" channel="sky_sports_16" stop="20260109003000 +0000">
-    <title>Espanyol Vs. Barcelona</title>
-  </programme>
-  <programme start="20260108230000 +0000" channel="sky_sports_1_mexico" stop="20260109013000 +0000">
-    <title>Anaheim Ducks vs. Carolina Hurr</title>
-  </programme>
-  <programme start="20260109000000 +0000" channel="sky_sports_24" stop="20260109020000 +0000">
-    <title>TSG Hoffenheim vs. FC Augsburg</title>
-  </programme>
-  <programme start="20260109003000 +0000" channel="sky_sports_16" stop="20260109023000 +0000">
-    <title>Atlético de Madrid vs. Real Mad</title>
-  </programme>
-  <programme start="20260109013000 +0000" channel="sky_sports_1_mexico" stop="20260109020000 +0000">
-    <title>Bundesliga special show #07</title>
-  </programme>
-  <programme start="20260109020000 +0000" channel="sky_sports_1_mexico" stop="20260109030000 +0000">
-    <title>ISU 2025- 2026 Men - Short Pro</title>
-  </programme>
-  <programme start="20260109020000 +0000" channel="sky_sports_24" stop="20260109023000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
-  <programme start="20260109023000 +0000" channel="sky_sports_16" stop="20260109030000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260109023000 +0000" channel="sky_sports_24" stop="20260109030000 +0000">
-    <title>Bundesliga special show #10 -</title>
-  </programme>
-  <programme start="20260109030000 +0000" channel="sky_sports_1_mexico" stop="20260109040000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260109030000 +0000" channel="sky_sports_16" stop="20260109050000 +0000">
-    <title>Deportivo Alavés vs. Real Ovied</title>
-  </programme>
-  <programme start="20260109030000 +0000" channel="sky_sports_24" stop="20260109050000 +0000">
+  <programme start="20260109040000 +0000" channel="sky_sports_24" stop="20260109060000 +0000">
     <title>Union Berlin vs. RB Leipzig</title>
   </programme>
-  <programme start="20260109040000 +0000" channel="sky_sports_1_mexico" stop="20260109050000 +0000">
+  <programme start="20260109050000 +0000" channel="sky_sports_1_mexico" stop="20260109060000 +0000">
     <title>Anaheim Ducks vs. Carolina Hurr</title>
   </programme>
-  <programme start="20260109050000 +0000" channel="sky_sports_1_mexico" stop="20260109063000 +0000">
+  <programme start="20260109060000 +0000" channel="sky_sports_1_mexico" stop="20260109073000 +0000">
     <title>Anaheim Ducks vs. Carolina Hurr</title>
   </programme>
-  <programme start="20260109050000 +0000" channel="sky_sports_16" stop="20260109070000 +0000">
+  <programme start="20260109060000 +0000" channel="sky_sports_16" stop="20260109080000 +0000">
     <title>RC Celta de Vigo vs. Valencia C</title>
   </programme>
-  <programme start="20260109050000 +0000" channel="sky_sports_24" stop="20260109053000 +0000">
+  <programme start="20260109060000 +0000" channel="sky_sports_24" stop="20260109063000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260109053000 +0000" channel="sky_sports_24" stop="20260109081500 +0000">
+  <programme start="20260109063000 +0000" channel="sky_sports_24" stop="20260109091500 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260109063000 +0000" channel="sky_sports_1_mexico" stop="20260109070000 +0000">
+  <programme start="20260109073000 +0000" channel="sky_sports_1_mexico" stop="20260109080000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260109070000 +0000" channel="sky_sports_1_mexico" stop="20260109090000 +0000">
+  <programme start="20260109080000 +0000" channel="sky_sports_1_mexico" stop="20260109100000 +0000">
     <title>Córdoba vs. Burgos CF</title>
   </programme>
-  <programme start="20260109070000 +0000" channel="sky_sports_16" stop="20260109090000 +0000">
+  <programme start="20260109080000 +0000" channel="sky_sports_16" stop="20260109100000 +0000">
     <title>RCD Mallorca vs. Girona FC</title>
   </programme>
-  <programme start="20260109081500 +0000" channel="sky_sports_24" stop="20260109101500 +0000">
+  <programme start="20260109091500 +0000" channel="sky_sports_24" stop="20260109111500 +0000">
     <title>Karlsruher SC vs. SC Paderborn</title>
-  </programme>
-  <programme start="20260109090000 +0000" channel="sky_sports_1_mexico" stop="20260109100000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260109090000 +0000" channel="sky_sports_16" stop="20260109100000 +0000">
-    <title>Jornadas Laliga</title>
   </programme>
   <programme start="20260109100000 +0000" channel="sky_sports_1_mexico" stop="20260109110000 +0000">
     <title>SKY Sports News</title>
   </programme>
-  <programme start="20260109100000 +0000" channel="sky_sports_16" stop="20260109104500 +0000">
-    <title>Sky Sports 16</title>
-  </programme>
-  <programme start="20260109101500 +0000" channel="sky_sports_24" stop="20260109121500 +0000">
-    <title>SV Elversberg vs. Fortuna Düsse</title>
-  </programme>
-  <programme start="20260109104500 +0000" channel="sky_sports_16" stop="20260109114500 +0000">
+  <programme start="20260109100000 +0000" channel="sky_sports_16" stop="20260109110000 +0000">
     <title>Jornadas Laliga</title>
   </programme>
   <programme start="20260109110000 +0000" channel="sky_sports_1_mexico" stop="20260109120000 +0000">
     <title>SKY Sports News</title>
   </programme>
-  <programme start="20260109114500 +0000" channel="sky_sports_16" stop="20260109134500 +0000">
-    <title>RC Celta de Vigo vs. Valencia C</title>
-  </programme>
-  <programme start="20260109120000 +0000" channel="sky_sports_1_mexico" stop="20260109130000 +0000">
-    <title>ISU 2025- 2026 Women - Short P</title>
-  </programme>
-  <programme start="20260109121500 +0000" channel="sky_sports_24" stop="20260109141500 +0000">
-    <title>Bayern Múnich vs. FC St. Pa</title>
-  </programme>
-  <programme start="20260109130000 +0000" channel="sky_sports_1_mexico" stop="20260109153000 +0000">
-    <title>Anaheim Ducks vs. Carolina Hurr</title>
-  </programme>
-  <programme start="20260109134500 +0000" channel="sky_sports_16" stop="20260109154500 +0000">
-    <title>CA Osasuna vs. Athletic Club de</title>
-  </programme>
-  <programme start="20260109141500 +0000" channel="sky_sports_24" stop="20260109161500 +0000">
-    <title>Bayer 04 Leverkusen vs. Borussi</title>
-  </programme>
-  <programme start="20260109153000 +0000" channel="sky_sports_1_mexico" stop="20260109160000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260109154500 +0000" channel="sky_sports_16" stop="20260109174500 +0000">
-    <title>Real Sociedad vs. Atlético de Madrid</title>
-  </programme>
-  <programme start="20260109160000 +0000" channel="sky_sports_1_mexico" stop="20260109183000 +0000">
-    <title>Isu figure skating championshi</title>
-  </programme>
-  <programme start="20260109161500 +0000" channel="sky_sports_24" stop="20260109181500 +0000">
-    <title>Hamburger SV vs. VfB Stuttgart</title>
-  </programme>
-  <programme start="20260109174500 +0000" channel="sky_sports_16" stop="20260109184500 +0000">
-    <title>Jornadas Laliga</title>
-  </programme>
-  <programme start="20260109181500 +0000" channel="sky_sports_24" stop="20260109183000 +0000">
-    <title>Previo</title>
-  </programme>
-  <programme start="20260109183000 +0000" channel="sky_sports_1_mexico" stop="20260109203000 +0000">
-    <title>Cádiz CF vs. Real Sporting de G</title>
-  </programme>
-  <programme start="20260109183000 +0000" channel="sky_sports_24" stop="20260109203000 +0000">
-    <title>Frankfurt vs. Borussia Dortmund</title>
-  </programme>
-  <programme start="20260109184500 +0000" channel="sky_sports_16" stop="20260109190000 +0000">
-    <title>Previo</title>
-  </programme>
-  <programme start="20260109190000 +0000" channel="sky_sports_16" stop="20260109210000 +0000">
-    <title>Getafe vs. Real Sociedad</title>
-  </programme>
-  <programme start="20260109203000 +0000" channel="sky_sports_1_mexico" stop="20260109230000 +0000">
-    <title>Anaheim Ducks vs. Carolina Hurr</title>
-  </programme>
-  <programme start="20260109203000 +0000" channel="sky_sports_24" stop="20260109210000 +0000">
-    <title>Bundesliga Meister show</title>
-  </programme>
-  <programme start="20260109210000 +0000" channel="sky_sports_16" stop="20260109213000 +0000">
-    <title>LaLiga Preview</title>
-  </programme>
-  <programme start="20260109210000 +0000" channel="sky_sports_24" stop="20260109230000 +0000">
-    <title>Frankfurt vs. Borussia Dortmund</title>
-  </programme>
-  <programme start="20260109213000 +0000" channel="sky_sports_16" stop="20260109233000 +0000">
-    <title>Barcelona Vs. Athletic Club</title>
-  </programme>
-  <programme start="20260109230000 +0000" channel="sky_sports_1_mexico" stop="20260109233000 +0000">
-    <title>Bundesliga special show #07</title>
-  </programme>
-  <programme start="20260109230000 +0000" channel="sky_sports_24" stop="20260110010000 +0000">
-    <title>Borussia Dortmund vs. M'gladbac</title>
-  </programme>
-  <programme start="20260109233000 +0000" channel="sky_sports_1_mexico" stop="20260110010000 +0000">
-    <title>Isu figure skating championshi</title>
-  </programme>
-  <programme start="20260109233000 +0000" channel="sky_sports_16" stop="20260110000000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260110000000 +0000" channel="sky_sports_16" stop="20260110020000 +0000">
-    <title>Atlético de Madrid vs. Real Mad</title>
-  </programme>
-  <programme start="20260110010000 +0000" channel="sky_sports_1_mexico" stop="20260110033000 +0000">
-    <title>St. Louis Blues vs. Utah Mammot</title>
-  </programme>
-  <programme start="20260110010000 +0000" channel="sky_sports_24" stop="20260110013000 +0000">
-    <title>Bundesliga talk</title>
-  </programme>
-  <programme start="20260110013000 +0000" channel="sky_sports_24" stop="20260110023000 +0000">
-    <title>Bundesliga Highlights Show</title>
-  </programme>
-  <programme start="20260110020000 +0000" channel="sky_sports_16" stop="20260110023000 +0000">
-    <title>LALIGA Smash</title>
-  </programme>
-  <programme start="20260110023000 +0000" channel="sky_sports_16" stop="20260110030000 +0000">
-    <title>LaLiga Preview</title>
-  </programme>
-  <programme start="20260110023000 +0000" channel="sky_sports_24" stop="20260110030000 +0000">
-    <title>Bundesliga special show #11 -</title>
-  </programme>
-  <programme start="20260110030000 +0000" channel="sky_sports_16" stop="20260110050000 +0000">
-    <title>Getafe vs. Real Sociedad</title>
-  </programme>
-  <programme start="20260110030000 +0000" channel="sky_sports_24" stop="20260110050000 +0000">
-    <title>Union Berlin vs. RB Leipzig</title>
-  </programme>
-  <programme start="20260110033000 +0000" channel="sky_sports_1_mexico" stop="20260110043000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260110043000 +0000" channel="sky_sports_1_mexico" stop="20260110050000 +0000">
-    <title>St. Louis Blues vs. Utah Mammot</title>
-  </programme>
-  <programme start="20260110050000 +0000" channel="sky_sports_1_mexico" stop="20260110070000 +0000">
-    <title>St. Louis Blues vs. Utah Mammot</title>
-  </programme>
-  <programme start="20260110050000 +0000" channel="sky_sports_16" stop="20260110070000 +0000">
-    <title>Sevilla vs. Levante</title>
-  </programme>
-  <programme start="20260110050000 +0000" channel="sky_sports_24" stop="20260110053000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
-  <programme start="20260110053000 +0000" channel="sky_sports_24" stop="20260110090000 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260110070000 +0000" channel="sky_sports_1_mexico" stop="20260110080000 +0000">
-    <title>SKY Sports</title>
-  </programme>
-  <programme start="20260110070000 +0000" channel="sky_sports_16" stop="20260110090000 +0000">
-    <title>Getafe vs. Real Sociedad</title>
-  </programme>
-  <programme start="20260110080000 +0000" channel="sky_sports_1_mexico" stop="20260110090000 +0000">
-    <title>ISU 2025- 2026 Men - Short Pro</title>
-  </programme>
-  <programme start="20260110090000 +0000" channel="sky_sports_1_mexico" stop="20260110100000 +0000">
-    <title>SKY Sports News</title>
-  </programme>
-  <programme start="20260110090000 +0000" channel="sky_sports_16" stop="20260110111500 +0000">
+  <programme start="20260109110000 +0000" channel="sky_sports_16" stop="20260109114500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260110090000 +0000" channel="sky_sports_24" stop="20260110110000 +0000">
-    <title>SC Paderborn 07 vs. SV Elversbe</title>
+  <programme start="20260109111500 +0000" channel="sky_sports_24" stop="20260109131500 +0000">
+    <title>SV Elversberg vs. Fortuna Düsse</title>
+  </programme>
+  <programme start="20260109114500 +0000" channel="sky_sports_16" stop="20260109124500 +0000">
+    <title>Jornadas Laliga</title>
+  </programme>
+  <programme start="20260109120000 +0000" channel="sky_sports_1_mexico" stop="20260109130000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260109124500 +0000" channel="sky_sports_16" stop="20260109144500 +0000">
+    <title>RC Celta de Vigo vs. Valencia C</title>
+  </programme>
+  <programme start="20260109130000 +0000" channel="sky_sports_1_mexico" stop="20260109140000 +0000">
+    <title>ISU 2025- 2026 Women - Short P</title>
+  </programme>
+  <programme start="20260109131500 +0000" channel="sky_sports_24" stop="20260109151500 +0000">
+    <title>Bayern Múnich vs. FC St. Pa</title>
+  </programme>
+  <programme start="20260109140000 +0000" channel="sky_sports_1_mexico" stop="20260109163000 +0000">
+    <title>Anaheim Ducks vs. Carolina Hurr</title>
+  </programme>
+  <programme start="20260109144500 +0000" channel="sky_sports_16" stop="20260109164500 +0000">
+    <title>CA Osasuna vs. Athletic Club de</title>
+  </programme>
+  <programme start="20260109151500 +0000" channel="sky_sports_24" stop="20260109171500 +0000">
+    <title>Bayer 04 Leverkusen vs. Borussi</title>
+  </programme>
+  <programme start="20260109163000 +0000" channel="sky_sports_1_mexico" stop="20260109170000 +0000">
+    <title>LALIGA Smash</title>
+  </programme>
+  <programme start="20260109164500 +0000" channel="sky_sports_16" stop="20260109184500 +0000">
+    <title>Real Sociedad vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20260109170000 +0000" channel="sky_sports_1_mexico" stop="20260109193000 +0000">
+    <title>Isu figure skating championshi</title>
+  </programme>
+  <programme start="20260109171500 +0000" channel="sky_sports_24" stop="20260109191500 +0000">
+    <title>Hamburger SV vs. VfB Stuttgart</title>
+  </programme>
+  <programme start="20260109184500 +0000" channel="sky_sports_16" stop="20260109194500 +0000">
+    <title>Jornadas Laliga</title>
+  </programme>
+  <programme start="20260109191500 +0000" channel="sky_sports_24" stop="20260109193000 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260109193000 +0000" channel="sky_sports_1_mexico" stop="20260109213000 +0000">
+    <title>Cádiz CF vs. Real Sporting de G</title>
+  </programme>
+  <programme start="20260109193000 +0000" channel="sky_sports_24" stop="20260109213000 +0000">
+    <title>Frankfurt vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20260109194500 +0000" channel="sky_sports_16" stop="20260109200000 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260109200000 +0000" channel="sky_sports_16" stop="20260109220000 +0000">
+    <title>Getafe vs. Real Sociedad</title>
+  </programme>
+  <programme start="20260109213000 +0000" channel="sky_sports_1_mexico" stop="20260110000000 +0000">
+    <title>Anaheim Ducks vs. Carolina Hurr</title>
+  </programme>
+  <programme start="20260109213000 +0000" channel="sky_sports_24" stop="20260109220000 +0000">
+    <title>Bundesliga Meister show</title>
+  </programme>
+  <programme start="20260109220000 +0000" channel="sky_sports_16" stop="20260109223000 +0000">
+    <title>LaLiga Preview</title>
+  </programme>
+  <programme start="20260109220000 +0000" channel="sky_sports_24" stop="20260110000000 +0000">
+    <title>Frankfurt vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20260109223000 +0000" channel="sky_sports_16" stop="20260110003000 +0000">
+    <title>Barcelona Vs. Athletic Club</title>
+  </programme>
+  <programme start="20260110000000 +0000" channel="sky_sports_1_mexico" stop="20260110003000 +0000">
+    <title>Bundesliga special show #07</title>
+  </programme>
+  <programme start="20260110000000 +0000" channel="sky_sports_24" stop="20260110020000 +0000">
+    <title>Borussia Dortmund vs. M'gladbac</title>
+  </programme>
+  <programme start="20260110003000 +0000" channel="sky_sports_1_mexico" stop="20260110020000 +0000">
+    <title>Isu figure skating championshi</title>
+  </programme>
+  <programme start="20260110003000 +0000" channel="sky_sports_16" stop="20260110010000 +0000">
+    <title>LALIGA Smash</title>
+  </programme>
+  <programme start="20260110010000 +0000" channel="sky_sports_16" stop="20260110030000 +0000">
+    <title>Atlético de Madrid vs. Real Mad</title>
+  </programme>
+  <programme start="20260110020000 +0000" channel="sky_sports_1_mexico" stop="20260110043000 +0000">
+    <title>St. Louis Blues vs. Utah Mammot</title>
+  </programme>
+  <programme start="20260110020000 +0000" channel="sky_sports_24" stop="20260110023000 +0000">
+    <title>Bundesliga talk</title>
+  </programme>
+  <programme start="20260110023000 +0000" channel="sky_sports_24" stop="20260110033000 +0000">
+    <title>Bundesliga Highlights Show</title>
+  </programme>
+  <programme start="20260110030000 +0000" channel="sky_sports_16" stop="20260110033000 +0000">
+    <title>LALIGA Smash</title>
+  </programme>
+  <programme start="20260110033000 +0000" channel="sky_sports_16" stop="20260110040000 +0000">
+    <title>LaLiga Preview</title>
+  </programme>
+  <programme start="20260110033000 +0000" channel="sky_sports_24" stop="20260110040000 +0000">
+    <title>Bundesliga special show #11 -</title>
+  </programme>
+  <programme start="20260110040000 +0000" channel="sky_sports_16" stop="20260110060000 +0000">
+    <title>Getafe vs. Real Sociedad</title>
+  </programme>
+  <programme start="20260110040000 +0000" channel="sky_sports_24" stop="20260110060000 +0000">
+    <title>Union Berlin vs. RB Leipzig</title>
+  </programme>
+  <programme start="20260110043000 +0000" channel="sky_sports_1_mexico" stop="20260110053000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260110053000 +0000" channel="sky_sports_1_mexico" stop="20260110060000 +0000">
+    <title>St. Louis Blues vs. Utah Mammot</title>
+  </programme>
+  <programme start="20260110060000 +0000" channel="sky_sports_1_mexico" stop="20260110080000 +0000">
+    <title>St. Louis Blues vs. Utah Mammot</title>
+  </programme>
+  <programme start="20260110060000 +0000" channel="sky_sports_16" stop="20260110080000 +0000">
+    <title>Sevilla vs. Levante</title>
+  </programme>
+  <programme start="20260110060000 +0000" channel="sky_sports_24" stop="20260110063000 +0000">
+    <title>Bundesliga weekly</title>
+  </programme>
+  <programme start="20260110063000 +0000" channel="sky_sports_24" stop="20260110100000 +0000">
+    <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260110080000 +0000" channel="sky_sports_1_mexico" stop="20260110090000 +0000">
+    <title>SKY Sports</title>
+  </programme>
+  <programme start="20260110080000 +0000" channel="sky_sports_16" stop="20260110100000 +0000">
+    <title>Getafe vs. Real Sociedad</title>
+  </programme>
+  <programme start="20260110090000 +0000" channel="sky_sports_1_mexico" stop="20260110100000 +0000">
+    <title>ISU 2025- 2026 Men - Short Pro</title>
   </programme>
   <programme start="20260110100000 +0000" channel="sky_sports_1_mexico" stop="20260110110000 +0000">
     <title>SKY Sports News</title>
   </programme>
+  <programme start="20260110100000 +0000" channel="sky_sports_16" stop="20260110121500 +0000">
+    <title>Sky Sports 16</title>
+  </programme>
+  <programme start="20260110100000 +0000" channel="sky_sports_24" stop="20260110120000 +0000">
+    <title>SC Paderborn 07 vs. SV Elversbe</title>
+  </programme>
   <programme start="20260110110000 +0000" channel="sky_sports_1_mexico" stop="20260110120000 +0000">
     <title>SKY Sports News</title>
   </programme>
-  <programme start="20260110110000 +0000" channel="sky_sports_24" stop="20260110130000 +0000">
+  <programme start="20260110120000 +0000" channel="sky_sports_1_mexico" stop="20260110130000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260110120000 +0000" channel="sky_sports_24" stop="20260110140000 +0000">
     <title>SC Paderborn 07 vs. SV Darmstad</title>
   </programme>
-  <programme start="20260110111500 +0000" channel="sky_sports_16" stop="20260110114500 +0000">
+  <programme start="20260110121500 +0000" channel="sky_sports_16" stop="20260110124500 +0000">
     <title>LaLiga Preview</title>
   </programme>
-  <programme start="20260110114500 +0000" channel="sky_sports_16" stop="20260110120000 +0000">
+  <programme start="20260110124500 +0000" channel="sky_sports_16" stop="20260110130000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260110120000 +0000" channel="sky_sports_1_mexico" stop="20260110140000 +0000">
+  <programme start="20260110130000 +0000" channel="sky_sports_1_mexico" stop="20260110150000 +0000">
     <title>CD Mirandés vs. Almería</title>
   </programme>
-  <programme start="20260110120000 +0000" channel="sky_sports_16" stop="20260110140000 +0000">
+  <programme start="20260110130000 +0000" channel="sky_sports_16" stop="20260110150000 +0000">
     <title>Real Oviedo vs. Real Betis</title>
   </programme>
-  <programme start="20260110130000 +0000" channel="sky_sports_24" stop="20260110133000 +0000">
+  <programme start="20260110140000 +0000" channel="sky_sports_24" stop="20260110143000 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260110133000 +0000" channel="sky_sports_24" stop="20260110153000 +0000">
+  <programme start="20260110143000 +0000" channel="sky_sports_24" stop="20260110163000 +0000">
     <title>FC St. Pauli vs. RB Leipzig</title>
   </programme>
-  <programme start="20260110140000 +0000" channel="sky_sports_1_mexico" stop="20260110141500 +0000">
+  <programme start="20260110150000 +0000" channel="sky_sports_1_mexico" stop="20260110151500 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260110140000 +0000" channel="sky_sports_16" stop="20260110141500 +0000">
+  <programme start="20260110150000 +0000" channel="sky_sports_16" stop="20260110151500 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260110141500 +0000" channel="sky_sports_1_mexico" stop="20260110161500 +0000">
+  <programme start="20260110151500 +0000" channel="sky_sports_1_mexico" stop="20260110171500 +0000">
     <title>Andorra F.C. vs. Cultural Leone</title>
   </programme>
-  <programme start="20260110141500 +0000" channel="sky_sports_16" stop="20260110161500 +0000">
+  <programme start="20260110151500 +0000" channel="sky_sports_16" stop="20260110171500 +0000">
     <title>Villarreal vs. Deportivo Ala</title>
   </programme>
-  <programme start="20260110153000 +0000" channel="sky_sports_24" stop="20260110160000 +0000">
+  <programme start="20260110163000 +0000" channel="sky_sports_24" stop="20260110170000 +0000">
     <title>Bundesliga Meister show</title>
   </programme>
-  <programme start="20260110160000 +0000" channel="sky_sports_24" stop="20260110163000 +0000">
+  <programme start="20260110170000 +0000" channel="sky_sports_24" stop="20260110173000 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260110161500 +0000" channel="sky_sports_1_mexico" stop="20260110163000 +0000">
+  <programme start="20260110171500 +0000" channel="sky_sports_1_mexico" stop="20260110173000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260110161500 +0000" channel="sky_sports_16" stop="20260110163000 +0000">
+  <programme start="20260110171500 +0000" channel="sky_sports_16" stop="20260110173000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260110163000 +0000" channel="sky_sports_1_mexico" stop="20260110183000 +0000">
+  <programme start="20260110173000 +0000" channel="sky_sports_1_mexico" stop="20260110193000 +0000">
     <title>Burgos CF vs. Eibar</title>
   </programme>
-  <programme start="20260110163000 +0000" channel="sky_sports_16" stop="20260110183000 +0000">
+  <programme start="20260110173000 +0000" channel="sky_sports_16" stop="20260110193000 +0000">
     <title>Girona FC vs. CA Osasuna</title>
   </programme>
-  <programme start="20260110163000 +0000" channel="sky_sports_24" stop="20260110183000 +0000">
+  <programme start="20260110173000 +0000" channel="sky_sports_24" stop="20260110193000 +0000">
     <title>Leverkusen vs. Stuttgart</title>
   </programme>
-  <programme start="20260110183000 +0000" channel="sky_sports_1_mexico" stop="20260110190000 +0000">
+  <programme start="20260110193000 +0000" channel="sky_sports_1_mexico" stop="20260110200000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260110183000 +0000" channel="sky_sports_16" stop="20260110184500 +0000">
+  <programme start="20260110193000 +0000" channel="sky_sports_16" stop="20260110194500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260110183000 +0000" channel="sky_sports_24" stop="20260110203000 +0000">
+  <programme start="20260110193000 +0000" channel="sky_sports_24" stop="20260110213000 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260110184500 +0000" channel="sky_sports_16" stop="20260110190000 +0000">
+  <programme start="20260110194500 +0000" channel="sky_sports_16" stop="20260110200000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260110190000 +0000" channel="sky_sports_1_mexico" stop="20260110210000 +0000">
+  <programme start="20260110200000 +0000" channel="sky_sports_1_mexico" stop="20260110220000 +0000">
     <title>R. Racing Club vs. Real Zaragoz</title>
   </programme>
-  <programme start="20260110190000 +0000" channel="sky_sports_16" stop="20260110210000 +0000">
+  <programme start="20260110200000 +0000" channel="sky_sports_16" stop="20260110220000 +0000">
     <title>Valencia vs. Elche</title>
   </programme>
-  <programme start="20260110203000 +0000" channel="sky_sports_24" stop="20260110223000 +0000">
+  <programme start="20260110213000 +0000" channel="sky_sports_24" stop="20260110233000 +0000">
     <title>1. FC Heidenheim 1846 vs. 1. FC</title>
   </programme>
-  <programme start="20260110210000 +0000" channel="sky_sports_1_mexico" stop="20260110220000 +0000">
+  <programme start="20260110220000 +0000" channel="sky_sports_1_mexico" stop="20260110230000 +0000">
     <title>SKY Sports News</title>
   </programme>
-  <programme start="20260110210000 +0000" channel="sky_sports_16" stop="20260110213000 +0000">
+  <programme start="20260110220000 +0000" channel="sky_sports_16" stop="20260110223000 +0000">
     <title>Jornadas Laliga</title>
   </programme>
-  <programme start="20260110213000 +0000" channel="sky_sports_16" stop="20260110233000 +0000">
+  <programme start="20260110223000 +0000" channel="sky_sports_16" stop="20260111003000 +0000">
     <title>Real Oviedo vs. Real Betis</title>
   </programme>
-  <programme start="20260110220000 +0000" channel="sky_sports_1_mexico" stop="20260110230000 +0000">
+  <programme start="20260110230000 +0000" channel="sky_sports_1_mexico" stop="20260111000000 +0000">
     <title>ISU 2025- 2026 Men - Short Pro</title>
   </programme>
-  <programme start="20260110223000 +0000" channel="sky_sports_24" stop="20260111003000 +0000">
+  <programme start="20260110233000 +0000" channel="sky_sports_24" stop="20260111013000 +0000">
     <title>Freiburg vs. Hamburger SV</title>
   </programme>
-  <programme start="20260110230000 +0000" channel="sky_sports_1_mexico" stop="20260111013000 +0000">
+  <programme start="20260111000000 +0000" channel="sky_sports_1_mexico" stop="20260111023000 +0000">
     <title>Detroit Red Wings vs. Montréal</title>
   </programme>
-  <programme start="20260110233000 +0000" channel="sky_sports_16" stop="20260111013000 +0000">
+  <programme start="20260111003000 +0000" channel="sky_sports_16" stop="20260111023000 +0000">
     <title>Villarreal vs. Deportivo Ala</title>
   </programme>
-  <programme start="20260111003000 +0000" channel="sky_sports_24" stop="20260111023000 +0000">
+  <programme start="20260111013000 +0000" channel="sky_sports_24" stop="20260111033000 +0000">
     <title>1. FC Union Berlin vs. 1. FsV M</title>
   </programme>
-  <programme start="20260111013000 +0000" channel="sky_sports_1_mexico" stop="20260111020000 +0000">
+  <programme start="20260111023000 +0000" channel="sky_sports_1_mexico" stop="20260111030000 +0000">
     <title>LALIGA Smash</title>
   </programme>
-  <programme start="20260111013000 +0000" channel="sky_sports_16" stop="20260111033000 +0000">
+  <programme start="20260111023000 +0000" channel="sky_sports_16" stop="20260111043000 +0000">
     <title>Barcelona Vs. Athletic Club</title>
   </programme>
-  <programme start="20260111020000 +0000" channel="sky_sports_1_mexico" stop="20260111030000 +0000">
+  <programme start="20260111030000 +0000" channel="sky_sports_1_mexico" stop="20260111040000 +0000">
     <title>ISU 2025- 2026 Women - Short P</title>
   </programme>
-  <programme start="20260111023000 +0000" channel="sky_sports_24" stop="20260111030000 +0000">
+  <programme start="20260111033000 +0000" channel="sky_sports_24" stop="20260111040000 +0000">
     <title>Bundesliga special show #11 -</title>
   </programme>
-  <programme start="20260111030000 +0000" channel="sky_sports_1_mexico" stop="20260111040000 +0000">
+  <programme start="20260111040000 +0000" channel="sky_sports_1_mexico" stop="20260111050000 +0000">
     <title>SKY Sports News</title>
   </programme>
-  <programme start="20260111030000 +0000" channel="sky_sports_24" stop="20260111050000 +0000">
+  <programme start="20260111040000 +0000" channel="sky_sports_24" stop="20260111060000 +0000">
     <title>FC St. Pauli vs. RB Leipzig</title>
   </programme>
-  <programme start="20260111033000 +0000" channel="sky_sports_16" stop="20260111040000 +0000">
+  <programme start="20260111043000 +0000" channel="sky_sports_16" stop="20260111050000 +0000">
     <title>LaLiga Preview</title>
   </programme>
-  <programme start="20260111040000 +0000" channel="sky_sports_1_mexico" stop="20260111050000 +0000">
+  <programme start="20260111050000 +0000" channel="sky_sports_1_mexico" stop="20260111060000 +0000">
     <title>Detroit Red Wings vs. Montréal</title>
   </programme>
-  <programme start="20260111040000 +0000" channel="sky_sports_16" stop="20260111050000 +0000">
+  <programme start="20260111050000 +0000" channel="sky_sports_16" stop="20260111060000 +0000">
     <title>Valencia vs. Elche</title>
+  </programme>
+  <programme start="20260111060000 +0000" channel="sky_sports_1_mexico" stop="20260111073000 +0000">
+    <title>Detroit Red Wings vs. Montréal</title>
+  </programme>
+  <programme start="20260111060000 +0000" channel="sky_sports_16" stop="20260111070000 +0000">
+    <title>Valencia vs. Elche</title>
+  </programme>
+  <programme start="20260111060000 +0000" channel="sky_sports_24" stop="20260111063000 +0000">
+    <title>Bundesliga weekly</title>
+  </programme>
+  <programme start="20260111063000 +0000" channel="sky_sports_24" stop="20260111100000 +0000">
+    <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260111070000 +0000" channel="sky_sports_16" stop="20260111090000 +0000">
+    <title>Girona FC vs. CA Osasuna</title>
+  </programme>
+  <programme start="20260111073000 +0000" channel="sky_sports_1_mexico" stop="20260111080000 +0000">
+    <title>SKY Sports</title>
+  </programme>
+  <programme start="20260111080000 +0000" channel="sky_sports_1_mexico" stop="20260111100000 +0000">
+    <title>CD Mirandés vs. Almería</title>
+  </programme>
+  <programme start="20260111090000 +0000" channel="sky_sports_16" stop="20260111110000 +0000">
+    <title>Real Oviedo vs. Real Betis</title>
+  </programme>
+  <programme start="20260111100000 +0000" channel="sky_sports_1_mexico" stop="20260111110000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260111100000 +0000" channel="sky_sports_24" stop="20260111120000 +0000">
+    <title>SC Paderborn 07 vs. SV Darmstad</title>
+  </programme>
+  <programme start="20260111110000 +0000" channel="sky_sports_1_mexico" stop="20260111120000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260111110000 +0000" channel="sky_sports_16" stop="20260111121500 +0000">
+    <title>Sky Sports 16</title>
+  </programme>
+  <programme start="20260111120000 +0000" channel="sky_sports_1_mexico" stop="20260111130000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260111120000 +0000" channel="sky_sports_24" stop="20260111140000 +0000">
+    <title>Karlsruher SC vs. SC Paderborn</title>
+  </programme>
+  <programme start="20260111121500 +0000" channel="sky_sports_16" stop="20260111124500 +0000">
+    <title>Jornadas Laliga</title>
+  </programme>
+  <programme start="20260111124500 +0000" channel="sky_sports_16" stop="20260111130000 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260111130000 +0000" channel="sky_sports_1_mexico" stop="20260111150000 +0000">
+    <title>CD Leganés vs. Real Valladolid</title>
+  </programme>
+  <programme start="20260111130000 +0000" channel="sky_sports_16" stop="20260111150000 +0000">
+    <title>Rayo Vallecano vs. RCD Mallorca</title>
+  </programme>
+  <programme start="20260111140000 +0000" channel="sky_sports_24" stop="20260111143000 +0000">
+    <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260111143000 +0000" channel="sky_sports_24" stop="20260111163000 +0000">
+    <title>M'gladbach vs. Augsburg</title>
+  </programme>
+  <programme start="20260111150000 +0000" channel="sky_sports_1_mexico" stop="20260111151500 +0000">
+    <title>SKY Sports</title>
+  </programme>
+  <programme start="20260111150000 +0000" channel="sky_sports_16" stop="20260111151500 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260111151500 +0000" channel="sky_sports_1_mexico" stop="20260111171500 +0000">
+    <title>Málaga vs. AD Ceuta</title>
+  </programme>
+  <programme start="20260111151500 +0000" channel="sky_sports_16" stop="20260111171500 +0000">
+    <title>Levante vs. Espanyol</title>
+  </programme>
+  <programme start="20260111163000 +0000" channel="sky_sports_24" stop="20260111183000 +0000">
+    <title>Bayern Munich vs. Wolfsburg</title>
+  </programme>
+  <programme start="20260111171500 +0000" channel="sky_sports_1_mexico" stop="20260111173000 +0000">
+    <title>SKY Sports</title>
+  </programme>
+  <programme start="20260111171500 +0000" channel="sky_sports_16" stop="20260111174500 +0000">
+    <title>Jornadas Laliga</title>
+  </programme>
+  <programme start="20260111173000 +0000" channel="sky_sports_1_mexico" stop="20260111210000 +0000">
+    <title>Copa Davis 2025 final singles</title>
+  </programme>
+  <programme start="20260111174500 +0000" channel="sky_sports_16" stop="20260111183000 +0000">
+    <title>Sky Sports 16</title>
+  </programme>
+  <programme start="20260111183000 +0000" channel="sky_sports_16" stop="20260111190000 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260111183000 +0000" channel="sky_sports_24" stop="20260111193000 +0000">
+    <title>Bundesliga Post</title>
+  </programme>
+  <programme start="20260111190000 +0000" channel="sky_sports_16" stop="20260111210000 +0000">
+    <title>Supercopa de España 2026</title>
+  </programme>
+  <programme start="20260111193000 +0000" channel="sky_sports_24" stop="20260111213000 +0000">
+    <title>Leverkusen vs. Stuttgart</title>
+  </programme>
+  <programme start="20260111210000 +0000" channel="sky_sports_1_mexico" stop="20260111220000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260111210000 +0000" channel="sky_sports_16" stop="20260111211500 +0000">
+    <title>Post Juego</title>
+  </programme>
+  <programme start="20260111211500 +0000" channel="sky_sports_16" stop="20260111214500 +0000">
+    <title>Jornadas Laliga</title>
+  </programme>
+  <programme start="20260111213000 +0000" channel="sky_sports_24" stop="20260111233000 +0000">
+    <title>M'gladbach vs. Augsburg</title>
+  </programme>
+  <programme start="20260111214500 +0000" channel="sky_sports_16" stop="20260111234500 +0000">
+    <title>Rayo Vallecano vs. RCD Mallorca</title>
+  </programme>
+  <programme start="20260111220000 +0000" channel="sky_sports_1_mexico" stop="20260112000000 +0000">
+    <title>CD Leganés vs. Real Valladolid</title>
+  </programme>
+  <programme start="20260111233000 +0000" channel="sky_sports_24" stop="20260112013000 +0000">
+    <title>Bayern Munich vs. Wolfsburg</title>
+  </programme>
+  <programme start="20260111234500 +0000" channel="sky_sports_16" stop="20260112014500 +0000">
+    <title>Levante vs. Espanyol</title>
+  </programme>
+  <programme start="20260112000000 +0000" channel="sky_sports_1_mexico" stop="20260112023000 +0000">
+    <title>Washington Capitals vs. Nashvil</title>
+  </programme>
+  <programme start="20260112013000 +0000" channel="sky_sports_24" stop="20260112033000 +0000">
+    <title>Stuttgart vs. Hoffenheim</title>
+  </programme>
+  <programme start="20260112014500 +0000" channel="sky_sports_16" stop="20260112021500 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260112021500 +0000" channel="sky_sports_16" stop="20260112041500 +0000">
+    <title>Supercopa de España 2026</title>
+  </programme>
+  <programme start="20260112023000 +0000" channel="sky_sports_1_mexico" stop="20260112030000 +0000">
+    <title>LALIGA Smash</title>
+  </programme>
+  <programme start="20260112030000 +0000" channel="sky_sports_1_mexico" stop="20260112040000 +0000">
+    <title>ISU 2025- 2026 Men - Short Pro</title>
+  </programme>
+  <programme start="20260112033000 +0000" channel="sky_sports_24" stop="20260112040000 +0000">
+    <title>Bundesliga special show #10 -</title>
+  </programme>
+  <programme start="20260112040000 +0000" channel="sky_sports_1_mexico" stop="20260112050000 +0000">
+    <title>SKY Sports News</title>
+  </programme>
+  <programme start="20260112040000 +0000" channel="sky_sports_24" stop="20260112060000 +0000">
+    <title>Wolfsburg vs. Freiburg</title>
+  </programme>
+  <programme start="20260112041500 +0000" channel="sky_sports_16" stop="20260112043000 +0000">
+    <title>Post Juego</title>
+  </programme>
+  <programme start="20260112043000 +0000" channel="sky_sports_16" stop="20260112050000 +0000">
+    <title>Jornadas Laliga</title>
   </programme>
   <programme channel="1" start="20260108060000 +0000" stop="20260108070001 +0000">
     <liveEvent>false</liveEvent>
@@ -13792,7 +13810,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109134000 +0000" stop="20260109143000 +0000" channel="107374">
+  <programme start="20260109134000 +0000" stop="20260109143100 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Terri prepara a la nueva cría de rinoceronte del zoológico para recibir una vacuna que le salvará.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -13815,7 +13833,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260109143000 +0000" stop="20260109150000 +0000" channel="107374">
+  <programme start="20260109143100 +0000" stop="20260109150000 +0000" channel="107374">
     <title>S.O.S. Animal</title>
     <desc>Los residentes reciben ayuda del equipo para combatir un brote de moquillo en la región.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18707853_b_v12_ac.jpg?w=240&amp;h=360"/>
@@ -13842,7 +13860,7 @@
     <category>Animals</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260109160000 +0000" stop="20260109165000 +0000" channel="107374">
+  <programme start="20260109160000 +0000" stop="20260109165200 +0000" channel="107374">
     <title>Operación Tanzania</title>
     <desc>A pesar de exponer a un grupo sospechoso de matar elefantes, el amanecer compromete al infiltrado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14417645_b_v11_ad.jpg?w=240&amp;h=360"/>
@@ -13856,7 +13874,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260109165000 +0000" stop="20260109174000 +0000" channel="107374">
+  <programme start="20260109165200 +0000" stop="20260109174000 +0000" channel="107374">
     <title>Refugio en el granero</title>
     <desc>Llega la primavera en Míchigan y Barn Sanctuary se prepara para abrir las pasturas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18103428_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -13877,7 +13895,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260109174000 +0000" stop="20260109183000 +0000" channel="107374">
+  <programme start="20260109174000 +0000" stop="20260109183200 +0000" channel="107374">
     <title>Operación Tanzania</title>
     <desc>El equipo de VETPAW debe retirarse cuando la operación crea roces con las agencias del gobierno.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14417645_b_v11_ad.jpg?w=240&amp;h=360"/>
@@ -13892,7 +13910,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260109183000 +0000" stop="20260109192000 +0000" channel="107374">
+  <programme start="20260109183200 +0000" stop="20260109192200 +0000" channel="107374">
     <title>Dentro de Wild Frank</title>
     <desc>Frank Cuesta vuelve a Tailandia para cuidar a los animales en su refugio.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17679138_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -13900,7 +13918,7 @@
     <category>Documentary</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109192000 +0000" stop="20260109201000 +0000" channel="107374">
+  <programme start="20260109192200 +0000" stop="20260109201200 +0000" channel="107374">
     <title>Dentro de Wild Frank</title>
     <desc>Una elefanta asiática embarazada de 15 meses se somete a una revisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17679138_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -13909,7 +13927,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109201000 +0000" stop="20260109210000 +0000" channel="107374">
+  <programme start="20260109201200 +0000" stop="20260109210100 +0000" channel="107374">
     <title>Dentro de Wild Frank</title>
     <desc>Frank Cuesta vuelve a Tailandia para cuidar a los animales en su refugio.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17679138_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -13918,7 +13936,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109210000 +0000" stop="20260109215000 +0000" channel="107374">
+  <programme start="20260109210100 +0000" stop="20260109215200 +0000" channel="107374">
     <title>Dentro de Wild Frank</title>
     <desc>Frank encuentra una serpiente en peligro de extinción. Frank ve al bebé elefante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17679138_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -13927,7 +13945,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109215000 +0000" stop="20260109224000 +0000" channel="107374">
+  <programme start="20260109215200 +0000" stop="20260109224200 +0000" channel="107374">
     <title>El acuario</title>
     <desc>Una colonia de pingüinos africanos aumenta la población tras la temporada de apareamiento.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16544826_b_v11_al.jpg?w=240&amp;h=360"/>
@@ -13942,7 +13960,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260109224000 +0000" stop="20260109233000 +0000" channel="107374">
+  <programme start="20260109224200 +0000" stop="20260109233100 +0000" channel="107374">
     <title>Wild Frank</title>
     <desc>Frank muestra un caimán negro. Partido de fútbol entre los niños de los Dessana y los Sateré Mawé.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13246475_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -13956,7 +13974,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260109233000 +0000" stop="20260110002000 +0000" channel="107374">
+  <programme start="20260109233100 +0000" stop="20260110002200 +0000" channel="107374">
     <title>Historias animales</title>
     <desc>Un viaje para descubrir los secretos y orígenes de los majestuosos felinos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25335381_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -13967,7 +13985,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110002000 +0000" stop="20260110011000 +0000" channel="107374">
+  <programme start="20260110002200 +0000" stop="20260110011200 +0000" channel="107374">
     <title>Alaska: la última frontera</title>
     <desc>Los Kilchers luchan por concluir grandes proyectos antes de que llegue el invierno.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8989001_b_v11_bg.jpg?w=240&amp;h=360"/>
@@ -13991,7 +14009,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260110011000 +0000" stop="20260110020000 +0000" channel="107374">
+  <programme start="20260110011200 +0000" stop="20260110020100 +0000" channel="107374">
     <title>Alaska: la última frontera</title>
     <desc>Eivin y Eve llevan a sus hijos en una aventura para ir a pescar cangrejos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8989001_b_v11_bg.jpg?w=240&amp;h=360"/>
@@ -14015,7 +14033,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260110020000 +0000" stop="20260110025000 +0000" channel="107374">
+  <programme start="20260110020100 +0000" stop="20260110025000 +0000" channel="107374">
     <title>Cazadores de dinosaurios</title>
     <desc>La familia Abercrombie descubre un mapa de fósiles mamut en su rancho en Nuevo México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18305814_b_v12_ar.jpg?w=240&amp;h=360"/>
@@ -14058,7 +14076,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110034000 +0000" stop="20260110043000 +0000" channel="107374">
+  <programme start="20260110034000 +0000" stop="20260110043200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert se enfrenta a la serpiente de cascabel diamantada del oeste en Arizona por primera vez.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14080,7 +14098,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110043000 +0000" stop="20260110052000 +0000" channel="107374">
+  <programme start="20260110043200 +0000" stop="20260110052200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Bindi nada junto a los tiburones ballena. Terri se une a un examen minucioso de un oso pardo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14103,7 +14121,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260110052000 +0000" stop="20260110061000 +0000" channel="107374">
+  <programme start="20260110052200 +0000" stop="20260110061100 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert alimenta a 44 caimanes en simultáneo. Terri hace un descubrimiento impactante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14126,7 +14144,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260110061000 +0000" stop="20260110070000 +0000" channel="107374">
+  <programme start="20260110061100 +0000" stop="20260110070200 +0000" channel="107374">
     <title>Wild Frank: caza</title>
     <desc>Frank Cuesta examina la actividad de la caza para tratar de responder si todavía es necesaria.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16784786_b_v12_ad.jpg?w=240&amp;h=360"/>
@@ -14138,7 +14156,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110070000 +0000" stop="20260110075000 +0000" channel="107374">
+  <programme start="20260110070200 +0000" stop="20260110075100 +0000" channel="107374">
     <title>Cazadores de dinosaurios</title>
     <desc>La familia Abercrombie descubre un mapa de fósiles mamut en su rancho en Nuevo México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18305814_b_v12_ar.jpg?w=240&amp;h=360"/>
@@ -14159,7 +14177,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110075000 +0000" stop="20260110084000 +0000" channel="107374">
+  <programme start="20260110075100 +0000" stop="20260110084000 +0000" channel="107374">
     <title>Cazadores de dinosaurios</title>
     <desc>Volvieron los dino cowboys y exploran el oeste para buscar fósiles prehistóricos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18305814_b_v12_ar.jpg?w=240&amp;h=360"/>
@@ -14181,7 +14199,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110084000 +0000" stop="20260110093000 +0000" channel="107374">
+  <programme start="20260110084000 +0000" stop="20260110093100 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert se enfrenta a la serpiente de cascabel diamantada del oeste en Arizona por primera vez.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14203,7 +14221,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110093000 +0000" stop="20260110102000 +0000" channel="107374">
+  <programme start="20260110093100 +0000" stop="20260110102200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Bindi nada junto a los tiburones ballena. Terri se une a un examen minucioso de un oso pardo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14226,7 +14244,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260110102000 +0000" stop="20260110111000 +0000" channel="107374">
+  <programme start="20260110102200 +0000" stop="20260110111000 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert alimenta a 44 caimanes en simultáneo. Terri hace un descubrimiento impactante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14261,7 +14279,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110120000 +0000" stop="20260110125000 +0000" channel="107374">
+  <programme start="20260110120000 +0000" stop="20260110125100 +0000" channel="107374">
     <title>Wild Frank: Gorilas</title>
     <desc>Frank llega a Congo para documentar las consecuencias de la caza furtiva en las crías de gorila.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15462387_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -14270,7 +14288,7 @@
     <category>Entertainment</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110125000 +0000" stop="20260110134000 +0000" channel="107374">
+  <programme start="20260110125100 +0000" stop="20260110134200 +0000" channel="107374">
     <title>El zoológico del Bronx</title>
     <desc>El zoológico da la bienvenida al zorro orejudo Edward como su nuevo embajador animal.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20657409_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -14291,7 +14309,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">7</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110134000 +0000" stop="20260110143000 +0000" channel="107374">
+  <programme start="20260110134200 +0000" stop="20260110143200 +0000" channel="107374">
     <title>Criaturas misteriosas con Forrest Galante</title>
     <desc>Forrest está en Mozambique para localizar a un elefante toro que ha estado destruyendo las aldeas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20780130_b_v12_af.jpg?w=240&amp;h=360"/>
@@ -14308,7 +14326,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110143000 +0000" stop="20260110150000 +0000" channel="107374">
+  <programme start="20260110143200 +0000" stop="20260110150000 +0000" channel="107374">
     <title>Pequeños gigantes de la naturaleza</title>
     <desc>Bradley y Billy ponen a prueba las sorprendentes habilidades del lagarto cornudo gigante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17357254_b_v12_ad.jpg?w=240&amp;h=360"/>
@@ -14367,7 +14385,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
     <rating system="Régie du cinéma">G</rating>
   </programme>
-  <programme start="20260110160000 +0000" stop="20260110165000 +0000" channel="107374">
+  <programme start="20260110160000 +0000" stop="20260110165200 +0000" channel="107374">
     <title>El acuario</title>
     <desc>El acuario recibe a dos belugas. Scarlett, la adorable leona marina, cumple 2 años.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16544826_b_v11_al.jpg?w=240&amp;h=360"/>
@@ -14382,7 +14400,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110165000 +0000" stop="20260110174000 +0000" channel="107374">
+  <programme start="20260110165200 +0000" stop="20260110174100 +0000" channel="107374">
     <title>Cazadores de dinosaurios</title>
     <desc>La familia Abercrombie descubre un mapa de fósiles mamut en su rancho en Nuevo México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18305814_b_v12_ar.jpg?w=240&amp;h=360"/>
@@ -14403,7 +14421,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110174000 +0000" stop="20260110183000 +0000" channel="107374">
+  <programme start="20260110174100 +0000" stop="20260110183100 +0000" channel="107374">
     <title>Cazadores de dinosaurios</title>
     <desc>Volvieron los dino cowboys y exploran el oeste para buscar fósiles prehistóricos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18305814_b_v12_ar.jpg?w=240&amp;h=360"/>
@@ -14425,7 +14443,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110183000 +0000" stop="20260110192000 +0000" channel="107374">
+  <programme start="20260110183100 +0000" stop="20260110192200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert se enfrenta a la serpiente de cascabel diamantada del oeste en Arizona por primera vez.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14447,7 +14465,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110192000 +0000" stop="20260110201000 +0000" channel="107374">
+  <programme start="20260110192200 +0000" stop="20260110201200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Bindi nada junto a los tiburones ballena. Terri se une a un examen minucioso de un oso pardo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14470,7 +14488,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260110201000 +0000" stop="20260110210000 +0000" channel="107374">
+  <programme start="20260110201200 +0000" stop="20260110210200 +0000" channel="107374">
     <title>Los Irwin</title>
     <desc>Robert alimenta a 44 caimanes en simultáneo. Terri hace un descubrimiento impactante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17268339_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14493,7 +14511,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260110210000 +0000" stop="20260110215000 +0000" channel="107374">
+  <programme start="20260110210200 +0000" stop="20260110215200 +0000" channel="107374">
     <title>Wild Frank: caza</title>
     <desc>Frank Cuesta examina la actividad de la caza para tratar de responder si todavía es necesaria.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16784786_b_v12_ad.jpg?w=240&amp;h=360"/>
@@ -14505,7 +14523,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110215000 +0000" stop="20260110224000 +0000" channel="107374">
+  <programme start="20260110215200 +0000" stop="20260110224000 +0000" channel="107374">
     <title>Refugio en el granero</title>
     <desc>Llega la primavera en Míchigan y Barn Sanctuary se prepara para abrir las pasturas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18103428_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -14526,7 +14544,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110224000 +0000" stop="20260110233000 +0000" channel="107374">
+  <programme start="20260110224000 +0000" stop="20260110233200 +0000" channel="107374">
     <title>Operación Tanzania</title>
     <desc>El equipo de VETPAW debe retirarse cuando la operación crea roces con las agencias del gobierno.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14417645_b_v11_ad.jpg?w=240&amp;h=360"/>
@@ -14541,7 +14559,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110233000 +0000" stop="20260111002000 +0000" channel="107374">
+  <programme start="20260110233200 +0000" stop="20260111002200 +0000" channel="107374">
     <title>Dentro de Wild Frank</title>
     <desc>Frank Cuesta vuelve a Tailandia para cuidar a los animales en su refugio.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17679138_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -33687,7 +33705,7 @@
   <programme start="20260110023000 +0000" stop="20260110030000 +0000" channel="20548">
     <title>The Film Tours México</title>
     <desc>Un vistazo a la influencia mutua entre el cine y la percepción de la Ciudad de México.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31794896_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p31794896_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>History</category>
     <category>Documentary</category>
@@ -33723,7 +33741,7 @@
   </programme>
   <programme start="20260110043000 +0000" stop="20260110053000 +0000" channel="20548">
     <title>Los Indispensables con Reyes Razo</title>
-    <icon src="https://cltv.tmsimg.com/assets/p31785865_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p31785865_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Politics</category>
   </programme>
   <programme start="20260110053000 +0000" stop="20260110060000 +0000" channel="20548">
@@ -39609,6 +39627,7 @@
     <category>Children</category>
     <category>Comedy</category>
     <category>Adventure</category>
+    <category>Action</category>
     <credits>
       <actor>Ethan Hawke</actor>
       <actor>Jacob Bertrand</actor>
@@ -40276,6 +40295,7 @@
     <credits>
       <actor>Roman Karev</actor>
       <actor>Elena Kareva</actor>
+      <actor>Elena Solovieva</actor>
       <director>Leonid Rakhmanin</director>
     </credits>
     <rating system="USA Parental Rating">TVG</rating>
@@ -40299,6 +40319,7 @@
     <credits>
       <actor>Roman Karev</actor>
       <actor>Elena Kareva</actor>
+      <actor>Elena Solovieva</actor>
       <director>Leonid Rakhmanin</director>
     </credits>
     <rating system="USA Parental Rating">TVG</rating>
@@ -49967,6 +49988,7 @@
       <director>Alice Diop</director>
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
   </programme>
   <programme start="20260110191700 +0000" stop="20260110215000 +0000" channel="101730">
     <title>El sustituto</title>
@@ -56631,6 +56653,7 @@
     <date>2026</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260109103000 +0000" stop="20260109110000 +0000" channel="184496">
     <title>Campeones</title>
@@ -56640,6 +56663,7 @@
     <date>2026</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260109110000 +0000" stop="20260109130000 +0000" channel="184496">
     <title>Boxeo</title>
@@ -56856,9 +56880,10 @@
   </programme>
   <programme start="20260109014500 +0000" stop="20260109021000 +0000" channel="106112">
     <title>Hot in Cleveland</title>
-    <desc>Tres muy buenas amigas se redescubren a ellas mismas en Cleveland, Ohio.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11148940_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
+    <desc>Melanie se siente desplazada por sus amigas cuando estas le piden consejo a su compañera.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8100033_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>The Italian Job</sub-title>
+    <date>2014</date>
     <category>Sitcom</category>
     <credits>
       <actor>Valerie Bertinelli</actor>
@@ -56869,15 +56894,16 @@
     <rating system="Freiwillige Selbstkontrolle Fernsehen">6</rating>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K7</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
   <programme start="20260109021000 +0000" stop="20260109023000 +0000" channel="106112">
     <title>Hot in Cleveland</title>
-    <desc>Tres muy buenas amigas se redescubren a ellas mismas en Cleveland, Ohio.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11148940_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
+    <desc>Melanie y Joy se disputan ser el 'más uno' de Victoria para la ceremonia de los Oscars.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8100033_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Mystery Date: Oscar Edition</sub-title>
+    <date>2014</date>
     <category>Sitcom</category>
     <credits>
       <actor>Valerie Bertinelli</actor>
@@ -56888,7 +56914,7 @@
     <rating system="Freiwillige Selbstkontrolle Fernsehen">6</rating>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K7</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
@@ -57668,9 +57694,10 @@
   </programme>
   <programme start="20260109163500 +0000" stop="20260109170000 +0000" channel="106112">
     <title>Hot in Cleveland</title>
-    <desc>Tres muy buenas amigas se redescubren a ellas mismas en Cleveland, Ohio.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11148940_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
+    <desc>Joy decide contarle finalmente a Mitch como se siente, pero un entrenador se cruza en su camino.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8100033_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Auction Heroes</sub-title>
+    <date>2014</date>
     <category>Sitcom</category>
     <credits>
       <actor>Valerie Bertinelli</actor>
@@ -57681,7 +57708,7 @@
     <rating system="Freiwillige Selbstkontrolle Fernsehen">6</rating>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K7</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
@@ -58154,9 +58181,10 @@
   </programme>
   <programme start="20260110021500 +0000" stop="20260110024000 +0000" channel="106112">
     <title>Hot in Cleveland</title>
-    <desc>Tres muy buenas amigas se redescubren a ellas mismas en Cleveland, Ohio.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11148940_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
+    <desc>Simon regresa a la vida de Joy justo cuando más feliz se encuentra ella con Mitch.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8100033_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Don Elka</sub-title>
+    <date>2014</date>
     <category>Sitcom</category>
     <credits>
       <actor>Valerie Bertinelli</actor>
@@ -58164,10 +58192,10 @@
       <actor>Wendie Malick</actor>
     </credits>
     <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">6</rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">12</rating>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K7</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
@@ -58914,38 +58942,46 @@
   </programme>
   <programme start="20260110171500 +0000" stop="20260110173500 +0000" channel="106112">
     <title>Un hombre, un plan</title>
-    <desc>Un hombre debe ocuparse más de sus hijos cuando su esposa retoma su actividad profesional.</desc>
+    <desc>Adam se ofrece para hacer dieta vegana con Kate para intentar crear un lazo con ella.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12909853_b_v8_au.jpg?w=240&amp;h=360"/>
-    <date>2016</date>
+    <sub-title>Las costillas de Adam</sub-title>
+    <date>2019</date>
     <category>Sitcom</category>
     <credits>
       <actor>Matt LeBlanc</actor>
       <actor>Liza Snyder</actor>
       <actor>Kevin Nealon</actor>
+      <director>Kari Lizer</director>
     </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
+    <rating system="Australian Classification Board">PG</rating>
+    <rating system="Canadian Parental Rating">PG</rating>
+    <rating system="USA Parental Rating">TVPG</rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">S</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260110173500 +0000" stop="20260110180000 +0000" channel="106112">
     <title>Un hombre, un plan</title>
-    <desc>Un hombre debe ocuparse más de sus hijos cuando su esposa retoma su actividad profesional.</desc>
+    <desc>Adam se lesiona en la espalda al levantar su peso, pero quiere celebrar igualmente su cumpleaños.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12909853_b_v8_au.jpg?w=240&amp;h=360"/>
-    <date>2016</date>
+    <sub-title>Adam actúa acorde a su edad</sub-title>
+    <date>2019</date>
     <category>Sitcom</category>
     <credits>
       <actor>Matt LeBlanc</actor>
       <actor>Liza Snyder</actor>
       <actor>Kevin Nealon</actor>
+      <director>Kevin Bright</director>
     </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
+    <rating system="Australian Classification Board">PG</rating>
+    <rating system="Canadian Parental Rating">PG</rating>
+    <rating system="USA Parental Rating">TVPG</rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260110180000 +0000" stop="20260110182000 +0000" channel="106112">
@@ -59256,9 +59292,10 @@
   </programme>
   <programme start="20260110234500 +0000" stop="20260111001000 +0000" channel="106112">
     <title>Hot in Cleveland</title>
-    <desc>Tres muy buenas amigas se redescubren a ellas mismas en Cleveland, Ohio.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11148940_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
+    <desc>Melanie se siente desplazada por sus amigas cuando estas le piden consejo a su compañera.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8100033_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>The Italian Job</sub-title>
+    <date>2014</date>
     <category>Sitcom</category>
     <credits>
       <actor>Valerie Bertinelli</actor>
@@ -59269,7 +59306,7 @@
     <rating system="Freiwillige Selbstkontrolle Fernsehen">6</rating>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K7</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
@@ -64300,7 +64337,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
   </programme>
-  <programme start="20260109122500 +0000" stop="20260109131500 +0000" channel="25788">
+  <programme start="20260109122500 +0000" stop="20260109131600 +0000" channel="25788">
     <title>Hombres del Ártico</title>
     <desc>Los ríos alrededor de Tanana se vuelven traicioneros; el cuñado de Charlie, George, se pierde.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9337536_b_v8_as.jpg?w=240&amp;h=360"/>
@@ -64319,7 +64356,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260109131500 +0000" stop="20260109140500 +0000" channel="25788">
+  <programme start="20260109131600 +0000" stop="20260109140300 +0000" channel="25788">
     <title>Operación Alaska</title>
     <desc>Mike y Kathleen comienzan a trabajar en el interior, pero todo avanza lento.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9501972_b_v12_ay.jpg?w=240&amp;h=360"/>
@@ -64337,7 +64374,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260109140500 +0000" stop="20260109145500 +0000" channel="25788">
+  <programme start="20260109140300 +0000" stop="20260109145500 +0000" channel="25788">
     <title>Tras la pista del oro</title>
     <desc>Parker y el equipo avanzan solo 50 millas de la caminata de 600 millas, con escasos alimentos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13914795_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -64723,27 +64760,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110120000 +0000" stop="20260110122500 +0000" channel="25788">
-    <title>Pequeños gigantes de la naturaleza</title>
-    <desc>Bradley y Billy viajan a Sudáfrica para poner a prueba las habilidades del lagarto armadillo.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p17357254_b_v12_ad.jpg?w=240&amp;h=360"/>
-    <sub-title>Mordedura jurásica</sub-title>
-    <date>2019</date>
-    <category>Animals</category>
-    <credits>
-      <actor>Bradley Trevor Greive</actor>
-      <actor>Billy Almon</actor>
-    </credits>
-    <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
-    <rating system="Régie du cinéma">G</rating>
-  </programme>
-  <programme start="20260110122500 +0000" stop="20260110131500 +0000" channel="25788">
+  <programme start="20260110120000 +0000" stop="20260110125300 +0000" channel="25788">
     <title>El zoológico del Bronx</title>
     <desc>El zoológico espera con ansias la llegada de un leopardo de las nieves.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13698268_b_v8_aq.jpg?w=240&amp;h=360"/>
@@ -64757,7 +64774,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110131500 +0000" stop="20260110140500 +0000" channel="25788">
+  <programme start="20260110125300 +0000" stop="20260110134600 +0000" channel="25788">
     <title>El zoológico de San Diego</title>
     <desc>El personal espera que los rinocerontes negros se apareen. Las suricatas inician una nueva dieta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17028006_b_v12_aq.jpg?w=240&amp;h=360"/>
@@ -64772,7 +64789,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
   </programme>
-  <programme start="20260110140500 +0000" stop="20260110145500 +0000" channel="25788">
+  <programme start="20260110134600 +0000" stop="20260110143900 +0000" channel="25788">
     <title>El acuario</title>
     <desc>Una ballena beluga adorable es entrenada. Un tiburón de punta negra no come normalmente.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16544826_b_v11_al.jpg?w=240&amp;h=360"/>
@@ -64790,7 +64807,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260110145500 +0000" stop="20260110154500 +0000" channel="25788">
+  <programme start="20260110143900 +0000" stop="20260110153000 +0000" channel="25788">
     <title>África</title>
     <desc>África del sur es un estallido de vida debido a dos gran corrientes de océano que barren el Cabo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9642830_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -64809,7 +64826,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260110154500 +0000" stop="20260110163500 +0000" channel="25788">
+  <programme start="20260110153000 +0000" stop="20260110162100 +0000" channel="25788">
     <title>África</title>
     <desc>El Sahara, el desierto más grande de la Tierra, es la parte más difícil de África para sobrevivir.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9642830_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -64828,7 +64845,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260110163500 +0000" stop="20260110172500 +0000" channel="25788">
+  <programme start="20260110162100 +0000" stop="20260110171300 +0000" channel="25788">
     <title>África</title>
     <desc>Los desiertos, montañas y selvas de África prueban la resistencia de los equipos de filmación.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9642830_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -64847,7 +64864,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260110172500 +0000" stop="20260110181500 +0000" channel="25788">
+  <programme start="20260110171300 +0000" stop="20260110180500 +0000" channel="25788">
     <title>Extraídos</title>
     <desc>Los supervivientes se enfrentan en una carrera de natación para recuperar una bolsa de suministros.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27386934_b_v12_ag.jpg?w=240&amp;h=360"/>
@@ -64860,7 +64877,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110181500 +0000" stop="20260110190600 +0000" channel="25788">
+  <programme start="20260110180500 +0000" stop="20260110185600 +0000" channel="25788">
     <title>Extraídos</title>
     <desc>Una caja de suministros crucial queda varada en medio de un lago helado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27386934_b_v12_ag.jpg?w=240&amp;h=360"/>
@@ -64873,7 +64890,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260110190600 +0000" stop="20260110195700 +0000" channel="25788">
+  <programme start="20260110185600 +0000" stop="20260110195000 +0000" channel="25788">
     <title>Mexicánicos, la carrera Panamericana</title>
     <desc>La historia y conmemoración de los 70 años de la Carrera Panamericana.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20387928_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -64891,7 +64908,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260110195700 +0000" stop="20260110204800 +0000" channel="25788">
+  <programme start="20260110195000 +0000" stop="20260110204300 +0000" channel="25788">
     <title>Mexicánicos</title>
     <desc>Martin Vaca viaja a Phoenix para explorar clubes de autos y talleres.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11109098_b_v11_as.jpg?w=240&amp;h=360"/>
@@ -64907,7 +64924,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110204800 +0000" stop="20260110214000 +0000" channel="25788">
+  <programme start="20260110204300 +0000" stop="20260110213600 +0000" channel="25788">
     <title>Mexicánicos</title>
     <desc>Alessa y Michelle quieren sorprender a su papá restaurando su Mustang Clásico de 1965.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11109098_b_v11_as.jpg?w=240&amp;h=360"/>
@@ -64924,7 +64941,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110214000 +0000" stop="20260110223100 +0000" channel="25788">
+  <programme start="20260110213600 +0000" stop="20260110222900 +0000" channel="25788">
     <title>Mexicánicos</title>
     <desc>Se viaja a a la comunidad latina apasionada por la personalización de autos y motos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11109098_b_v11_as.jpg?w=240&amp;h=360"/>
@@ -64940,7 +64957,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110223100 +0000" stop="20260110232200 +0000" channel="25788">
+  <programme start="20260110222900 +0000" stop="20260110232200 +0000" channel="25788">
     <title>Mexicánicos</title>
     <desc>El exfutbolista Oswaldo Sánchez encarga a Martín Vaca la restauración de un Mercedes 95.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11109098_b_v11_as.jpg?w=240&amp;h=360"/>
@@ -65313,7 +65330,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109154700 +0000" stop="20260109163600 +0000" channel="97928">
+  <programme start="20260109154700 +0000" stop="20260109163500 +0000" channel="97928">
     <title>Rescata mi restaurante</title>
     <desc>Robert intenta transformar dos sitios en Nueva Jersey que fueron devastados por el huracán Sandy.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10181714_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -65332,7 +65349,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109163600 +0000" stop="20260109172700 +0000" channel="97928">
+  <programme start="20260109163500 +0000" stop="20260109172600 +0000" channel="97928">
     <title>Cirugías de pesadilla</title>
     <desc>Descubre los secretos de los rellenos dérmicos de labios y cómo se ha impulsado el sector.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18563714_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -65347,7 +65364,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260109172700 +0000" stop="20260109181700 +0000" channel="97928">
+  <programme start="20260109172600 +0000" stop="20260109181700 +0000" channel="97928">
     <title>Cirugías de pesadilla</title>
     <desc>Jordan voló a Turquía para hacerse un aumento de glúteos a precio reducido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18563714_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -65595,7 +65612,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
   </programme>
-  <programme start="20260110055800 +0000" stop="20260110073700 +0000" channel="97928">
+  <programme start="20260110055800 +0000" stop="20260110073600 +0000" channel="97928">
     <title>Kilos mortales: sus vidas hoy</title>
     <desc>Sean debe superar tragedias recientes en su vida; Dottie lucha por mantenerse en el buen camino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11369327_b_v8_az.jpg?w=240&amp;h=360"/>
@@ -65617,7 +65634,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
   </programme>
-  <programme start="20260110073700 +0000" stop="20260110091100 +0000" channel="97928">
+  <programme start="20260110073600 +0000" stop="20260110091100 +0000" channel="97928">
     <title>Kilos mortales: sus vidas hoy</title>
     <desc>Ashley no puede someterse a una cirugía de extracción de piel porque aún no ha adelgazado bastante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11369327_b_v8_az.jpg?w=240&amp;h=360"/>
@@ -65659,7 +65676,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
   </programme>
-  <programme start="20260110095900 +0000" stop="20260110104700 +0000" channel="97928">
+  <programme start="20260110095900 +0000" stop="20260110104800 +0000" channel="97928">
     <title>Kilos mortales</title>
     <desc>Chad desoye los consejos del doctor tras su operación y acaba padeciendo una crisis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9045265_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -65680,7 +65697,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
   </programme>
-  <programme start="20260110104700 +0000" stop="20260110120000 +0000" channel="97928">
+  <programme start="20260110104800 +0000" stop="20260110120000 +0000" channel="97928">
     <title>Cirugías: al borde de la vida</title>
     <desc>Rod Laing realiza la que probablemente sea la operación de columna vertebral más difícil que existe.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14951741_b_v11_ai.jpg?w=240&amp;h=360"/>
@@ -65954,7 +65971,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260110231900 +0000" stop="20260111010100 +0000" channel="97928">
+  <programme start="20260110231900 +0000" stop="20260111010000 +0000" channel="97928">
     <title>Kilos mortales: Adolescentes</title>
     <desc>Un trauma lleva a Amber y su madre a encontrar consuelo en la comida.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27228438_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -66806,7 +66823,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110192800 +0000" stop="20260110201700 +0000" channel="109896">
+  <programme start="20260110192800 +0000" stop="20260110210700 +0000" channel="109896">
     <title>El curioso caso de...</title>
     <desc>La secta de Sheryl cree que los gatos son cruciales para la salvación. Un rival desafía a Sheryl.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p29102632_b_v11_ah.jpg?w=240&amp;h=360"/>
@@ -66818,24 +66835,6 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
     <rating system="Kijkwijzer">12</rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
-  </programme>
-  <programme start="20260110201700 +0000" stop="20260110210700 +0000" channel="109896">
-    <title>Investigación en curso</title>
-    <desc>El asesinato de una pareja multimillonaria sorprende a Toronto.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16898252_b_v12_av.jpg?w=240&amp;h=360"/>
-    <sub-title>Enemigos invisibles</sub-title>
-    <date>2022</date>
-    <category>Crime</category>
-    <category>Mystery</category>
-    <credits>
-      <actor>Benita Alexander-Noel</actor>
-    </credits>
-    <rating system="USA Parental Rating">TV14</rating>
-    <rating system="Canadian Parental Rating">14+</rating>
-    <rating system="Australian Classification Board">M 15+</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
-    <rating system="Kijkwijzer">9</rating>
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
   </programme>
   <programme start="20260110210700 +0000" stop="20260110215700 +0000" channel="109896">
@@ -66870,7 +66869,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">16</rating>
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
   </programme>
-  <programme start="20260110224600 +0000" stop="20260110233600 +0000" channel="109896">
+  <programme start="20260110224600 +0000" stop="20260110233700 +0000" channel="109896">
     <title>Crimen casi perfecto</title>
     <desc>Encuentran a Russel Douglas asesinado a tiros en su automóvil, en una carretera solitaria.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15726529_b_v12_ah.jpg?w=240&amp;h=360"/>
@@ -66890,7 +66889,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
-  <programme start="20260110233600 +0000" stop="20260111002600 +0000" channel="109896">
+  <programme start="20260110233700 +0000" stop="20260111002600 +0000" channel="109896">
     <title>Muerte en el pueblo</title>
     <desc>Cuando el entrenador de los Globetrotters es asesinado, la ciudad de Frederick, queda conmocionada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14727775_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -73165,7 +73164,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109110000 +0000" stop="20260109115000 +0000" channel="46608">
+  <programme start="20260109110000 +0000" stop="20260109115100 +0000" channel="46608">
     <title>RMD Garage</title>
     <desc>Un Bubble Top 1962 recibe paragolpes montados a ras, interior de lujo hecho a mano y una parrilla.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14259818_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -73181,7 +73180,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260109115000 +0000" stop="20260109124000 +0000" channel="46608">
+  <programme start="20260109115100 +0000" stop="20260109124100 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Ekstensive Metal Works de Houston especializados en diseños personalizados encaran retos difíciles.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26272723_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -73198,7 +73197,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109124000 +0000" stop="20260109133000 +0000" channel="46608">
+  <programme start="20260109124100 +0000" stop="20260109132900 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Ekstensive Metal Works de Houston especializados en diseños personalizados encaran retos difíciles.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26272723_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -73215,7 +73214,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109133000 +0000" stop="20260109142000 +0000" channel="46608">
+  <programme start="20260109132900 +0000" stop="20260109142000 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Ekstensive Metal Works de Houston especializados en diseños personalizados encaran retos difíciles.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26272723_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -73232,7 +73231,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109142000 +0000" stop="20260109151000 +0000" channel="46608">
+  <programme start="20260109142000 +0000" stop="20260109151200 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Ekstensive Metal Works de Houston especializados en diseños personalizados encaran retos difíciles.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26272723_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -73249,7 +73248,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109151000 +0000" stop="20260109160000 +0000" channel="46608">
+  <programme start="20260109151200 +0000" stop="20260109160700 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Ekstensive Metal Works de Houston especializados en diseños personalizados encaran retos difíciles.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26272723_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -73266,41 +73265,44 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260109160000 +0000" stop="20260109165000 +0000" channel="46608">
-    <title>Reyes de Autos Clásicos</title>
-    <desc>Jason descubre que el Chevrolet Chevelle de 1966 que compró es un raro modelo SS.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8430791_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <sub-title>Chevelle SS</sub-title>
-    <date>2011</date>
+  <programme start="20260109160700 +0000" stop="20260109165800 +0000" channel="46608">
+    <title>ADN mecánico</title>
+    <desc>Ganar el &quot;SEMA&quot; podría llevar el negocio al siguiente nivel. El dúo transforma un Mustang 2018.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15054724_b_v8_ad.jpg?w=240&amp;h=360"/>
+    <sub-title>Descarrilado, por supuesto</sub-title>
+    <date>2018</date>
     <category>Reality</category>
-    <category>Documentary</category>
+    <category>Auto</category>
     <credits>
-      <actor>Ron McClure</actor>
-      <actor>Jason McClure</actor>
+      <actor>Doug DeBerti</actor>
+      <actor>Brad DeBerti</actor>
     </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
+    <rating system="USA Parental Rating">TV14</rating>
+    <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260109165000 +0000" stop="20260109174000 +0000" channel="46608">
-    <title>Reyes de Autos Clásicos</title>
-    <desc>El equipo trata de obtener un Cadillac 1950; la renovación de la Ruta 66 da a Ron cambio de opinión.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8430791_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <sub-title>Caddy Shock</sub-title>
-    <date>2011</date>
+  <programme start="20260109165800 +0000" stop="20260109174800 +0000" channel="46608">
+    <title>ADN mecánico</title>
+    <desc>Los DeBerti se apuran para terminar el Mustang 2018 para el SEMA.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15054724_b_v8_ad.jpg?w=240&amp;h=360"/>
+    <sub-title>Carrera a la cima</sub-title>
+    <date>2018</date>
     <category>Reality</category>
-    <category>Documentary</category>
+    <category>Auto</category>
     <credits>
-      <actor>Ron McClure</actor>
-      <actor>Jason McClure</actor>
+      <actor>Doug DeBerti</actor>
+      <actor>Brad DeBerti</actor>
+      <director>Jeff Santos</director>
     </credits>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="USA Parental Rating">TV14</rating>
+    <rating system="Canadian Parental Rating">14+</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260109174000 +0000" stop="20260109183000 +0000" channel="46608">
+  <programme start="20260109174800 +0000" stop="20260109183800 +0000" channel="46608">
     <title>Diesel Dave</title>
     <desc>Diesel Dave elige su primera camioneta para regalar y pretende construir otra versión del Kodiak.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12382578_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -73321,7 +73323,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260109183000 +0000" stop="20260109192000 +0000" channel="46608">
+  <programme start="20260109183800 +0000" stop="20260109192500 +0000" channel="46608">
     <title>Diesel Dave</title>
     <desc>Diesel Dave continúa trabajando en el Kodiak mientras intenta no salirse del presupuesto.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12382578_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -73342,7 +73344,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260109192000 +0000" stop="20260109201000 +0000" channel="46608">
+  <programme start="20260109192500 +0000" stop="20260109201400 +0000" channel="46608">
     <title>Diesel Dave</title>
     <desc>Un importante cliente desea personalizar un Ram 3500, lo cual pone a prueba al equipo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12382578_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -73363,7 +73365,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260109201000 +0000" stop="20260109210000 +0000" channel="46608">
+  <programme start="20260109201400 +0000" stop="20260109210100 +0000" channel="46608">
     <title>Diesel Dave</title>
     <desc>Heavy D asombra a los mecánicos con su última construcción: un tanque.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12382578_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -73384,7 +73386,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260109210000 +0000" stop="20260109215000 +0000" channel="46608">
+  <programme start="20260109210100 +0000" stop="20260109215300 +0000" channel="46608">
     <title>Garaje Goblin</title>
     <desc>El equipo de Globlin Works Garage desea abrir un taller más grande para poder lidiar con la demanda.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14950904_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -73406,7 +73408,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260109215000 +0000" stop="20260109224000 +0000" channel="46608">
+  <programme start="20260109215300 +0000" stop="20260109224300 +0000" channel="46608">
     <title>Garaje Goblin</title>
     <desc>Jimmy no se muestra impresionado cuando Helen llega al taller con un BMW E30 de los años 80.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14950904_b_v8_ad.jpg?w=240&amp;h=360"/>
@@ -73428,7 +73430,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260109224000 +0000" stop="20260109233000 +0000" channel="46608">
+  <programme start="20260109224300 +0000" stop="20260109233000 +0000" channel="46608">
     <title>Gas Monkey al rescate</title>
     <desc>Richard va a Oklahoma para rehabilitar un taller de reparación local.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14424022_b_v12_ag.jpg?w=240&amp;h=360"/>
@@ -73448,7 +73450,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260109233000 +0000" stop="20260110002000 +0000" channel="46608">
+  <programme start="20260109233000 +0000" stop="20260110002100 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Con docenas de premios en sus paredes, este equipo de Texas siempre tiene las manos llenas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23583611_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -73465,7 +73467,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110002000 +0000" stop="20260110011000 +0000" channel="46608">
+  <programme start="20260110002100 +0000" stop="20260110010700 +0000" channel="46608">
     <title>El dúo mecánico</title>
     <desc>Un Impala de 1964 es traído de vuelta a la vida; un camión de bomberos Bruco de 1951.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9256222_b_v12_br.jpg?w=240&amp;h=360"/>
@@ -73486,7 +73488,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260110011000 +0000" stop="20260110020000 +0000" channel="46608">
+  <programme start="20260110010700 +0000" stop="20260110015800 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy se topa con un Mercedes SL55 AMG en una subasta, algo demasiado alto. Bob arruina una idea.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73502,7 +73504,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110020000 +0000" stop="20260110025000 +0000" channel="46608">
+  <programme start="20260110015800 +0000" stop="20260110024900 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy acepta un tanque de paintball y una apuesta de su padre por una camioneta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73518,7 +73520,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110025000 +0000" stop="20260110034000 +0000" channel="46608">
+  <programme start="20260110024900 +0000" stop="20260110033900 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy, buscando la forma de mejorar su negocio, a veces acepta más trabajo del que puede abarcar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73534,7 +73536,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110034000 +0000" stop="20260110043000 +0000" channel="46608">
+  <programme start="20260110033900 +0000" stop="20260110042900 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Larry Wood le pide a Andy Cohen una réplica a escala real de uno de sus diseños Hot Wheel.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73550,7 +73552,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110043000 +0000" stop="20260110052000 +0000" channel="46608">
+  <programme start="20260110042900 +0000" stop="20260110052000 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Una de las grandes ideas de Andy le presenta una oportunidad única al local.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73566,7 +73568,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110052000 +0000" stop="20260110061000 +0000" channel="46608">
+  <programme start="20260110052000 +0000" stop="20260110060600 +0000" channel="46608">
     <title>El dúo mecánico</title>
     <desc>Un Impala de 1964 es traído de vuelta a la vida; un camión de bomberos Bruco de 1951.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9256222_b_v12_br.jpg?w=240&amp;h=360"/>
@@ -73587,7 +73589,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260110061000 +0000" stop="20260110070000 +0000" channel="46608">
+  <programme start="20260110060600 +0000" stop="20260110065600 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy se topa con un Mercedes SL55 AMG en una subasta, algo demasiado alto. Bob arruina una idea.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73603,7 +73605,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110070000 +0000" stop="20260110074800 +0000" channel="46608">
+  <programme start="20260110065600 +0000" stop="20260110074600 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy acepta un tanque de paintball y una apuesta de su padre por una camioneta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73619,7 +73621,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110074800 +0000" stop="20260110083600 +0000" channel="46608">
+  <programme start="20260110074600 +0000" stop="20260110083300 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy, buscando la forma de mejorar su negocio, a veces acepta más trabajo del que puede abarcar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73635,7 +73637,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110083600 +0000" stop="20260110092400 +0000" channel="46608">
+  <programme start="20260110083300 +0000" stop="20260110092200 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Larry Wood le pide a Andy Cohen una réplica a escala real de uno de sus diseños Hot Wheel.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73651,7 +73653,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110092400 +0000" stop="20260110101200 +0000" channel="46608">
+  <programme start="20260110092200 +0000" stop="20260110101000 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Una de las grandes ideas de Andy le presenta una oportunidad única al local.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73667,7 +73669,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110101200 +0000" stop="20260110110000 +0000" channel="46608">
+  <programme start="20260110101000 +0000" stop="20260110110000 +0000" channel="46608">
     <title>Texas Metal</title>
     <desc>Con docenas de premios en sus paredes, este equipo de Texas siempre tiene las manos llenas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23583611_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -73684,21 +73686,31 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110110000 +0000" stop="20260110115000 +0000" channel="46608">
-    <title>Cazador de Repuestos</title>
-    <desc>Paul Cowland y Dave Southall hallan un trozo de historia automotriz con un Triumph Herald de 1966.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p11303018_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>El Mensajero del Triunfo</sub-title>
-    <date>2014</date>
-    <category>Documentary</category>
+  <programme start="20260110110000 +0000" stop="20260110112400 +0000" channel="46608">
+    <title>Herencia Custom Garage</title>
+    <desc>Federico Bonomi y su grupo de amigos emprenderán una impresionante aventura sobre dos ruedas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p13166728_b_v8_ac.jpg?w=240&amp;h=360"/>
+    <date>2016</date>
+    <category>Motorcycle</category>
+    <category>Adventure</category>
     <credits>
-      <actor>Paul Cowland</actor>
-      <actor>Dave Southall</actor>
+      <actor>Federico Bonomi</actor>
     </credits>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110115000 +0000" stop="20260110124000 +0000" channel="46608">
+  <programme start="20260110112400 +0000" stop="20260110115100 +0000" channel="46608">
+    <title>Herencia Custom Garage</title>
+    <desc>Federico Bonomi y su grupo de amigos emprenderán una impresionante aventura sobre dos ruedas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p13166728_b_v8_ac.jpg?w=240&amp;h=360"/>
+    <date>2016</date>
+    <category>Motorcycle</category>
+    <category>Adventure</category>
+    <credits>
+      <actor>Federico Bonomi</actor>
+    </credits>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
+  </programme>
+  <programme start="20260110115100 +0000" stop="20260110124100 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy pide ayuda para arreglar un Roadster de 1932 y otro proyecto le ocasiona muchos problemas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73714,7 +73726,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110124000 +0000" stop="20260110133000 +0000" channel="46608">
+  <programme start="20260110124100 +0000" stop="20260110133300 +0000" channel="46608">
     <title>American Chopper</title>
     <desc>Un par de motocicletas contrastantes; Junior diseña una motocicleta que funciona con etanol.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p185411_b_v8_bc.jpg?w=240&amp;h=360"/>
@@ -73734,7 +73746,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110133000 +0000" stop="20260110142000 +0000" channel="46608">
+  <programme start="20260110133300 +0000" stop="20260110142500 +0000" channel="46608">
     <title>American Chopper</title>
     <desc>OCC arma una moto inspirada en la GTO 1965. Junior diseña una moto para un cliente corporativo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p185411_b_v8_bc.jpg?w=240&amp;h=360"/>
@@ -73754,7 +73766,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260110142000 +0000" stop="20260110151000 +0000" channel="46608">
+  <programme start="20260110142500 +0000" stop="20260110151600 +0000" channel="46608">
     <title>American Chopper</title>
     <desc>El equipo de OCC crea una motocicleta clásica para un fan y Senior debe confiar en Mikey.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p185411_b_v8_bc.jpg?w=240&amp;h=360"/>
@@ -73773,7 +73785,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110151000 +0000" stop="20260110160000 +0000" channel="46608">
+  <programme start="20260110151600 +0000" stop="20260110160700 +0000" channel="46608">
     <title>ADN mecánico recargado</title>
     <desc>La construcción de un camión que pueda transportar otros camiones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17930904_b_v11_ae.jpg?w=240&amp;h=360"/>
@@ -73786,7 +73798,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
   </programme>
-  <programme start="20260110160000 +0000" stop="20260110165000 +0000" channel="46608">
+  <programme start="20260110160700 +0000" stop="20260110165900 +0000" channel="46608">
     <title>El dúo mecánico</title>
     <desc>Un Impala de 1964 es traído de vuelta a la vida; un camión de bomberos Bruco de 1951.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9256222_b_v12_br.jpg?w=240&amp;h=360"/>
@@ -73807,7 +73819,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260110165000 +0000" stop="20260110174000 +0000" channel="46608">
+  <programme start="20260110165900 +0000" stop="20260110175500 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy se topa con un Mercedes SL55 AMG en una subasta, algo demasiado alto. Bob arruina una idea.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73823,7 +73835,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110174000 +0000" stop="20260110183000 +0000" channel="46608">
+  <programme start="20260110175500 +0000" stop="20260110184800 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy acepta un tanque de paintball y una apuesta de su padre por una camioneta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73839,7 +73851,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110183000 +0000" stop="20260110192000 +0000" channel="46608">
+  <programme start="20260110184800 +0000" stop="20260110194100 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Andy, buscando la forma de mejorar su negocio, a veces acepta más trabajo del que puede abarcar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73855,7 +73867,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110192000 +0000" stop="20260110201000 +0000" channel="46608">
+  <programme start="20260110194100 +0000" stop="20260110203300 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Larry Wood le pide a Andy Cohen una réplica a escala real de uno de sus diseños Hot Wheel.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73871,7 +73883,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110201000 +0000" stop="20260110210000 +0000" channel="46608">
+  <programme start="20260110203300 +0000" stop="20260110212600 +0000" channel="46608">
     <title>Chatarra de Oro</title>
     <desc>Una de las grandes ideas de Andy le presenta una oportunidad única al local.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11547795_b_v8_ai.jpg?w=240&amp;h=360"/>
@@ -73887,41 +73899,44 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
     <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260110210000 +0000" stop="20260110215000 +0000" channel="46608">
-    <title>Reyes de Autos Clásicos</title>
-    <desc>Jason descubre que el Chevrolet Chevelle de 1966 que compró es un raro modelo SS.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8430791_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <sub-title>Chevelle SS</sub-title>
-    <date>2011</date>
+  <programme start="20260110212600 +0000" stop="20260110221500 +0000" channel="46608">
+    <title>ADN mecánico</title>
+    <desc>Ganar el &quot;SEMA&quot; podría llevar el negocio al siguiente nivel. El dúo transforma un Mustang 2018.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15054724_b_v8_ad.jpg?w=240&amp;h=360"/>
+    <sub-title>Descarrilado, por supuesto</sub-title>
+    <date>2018</date>
     <category>Reality</category>
-    <category>Documentary</category>
+    <category>Auto</category>
     <credits>
-      <actor>Ron McClure</actor>
-      <actor>Jason McClure</actor>
+      <actor>Doug DeBerti</actor>
+      <actor>Brad DeBerti</actor>
     </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
+    <rating system="USA Parental Rating">TV14</rating>
+    <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260110215000 +0000" stop="20260110224000 +0000" channel="46608">
-    <title>Reyes de Autos Clásicos</title>
-    <desc>El equipo trata de obtener un Cadillac 1950; la renovación de la Ruta 66 da a Ron cambio de opinión.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8430791_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <sub-title>Caddy Shock</sub-title>
-    <date>2011</date>
+  <programme start="20260110221500 +0000" stop="20260110230200 +0000" channel="46608">
+    <title>ADN mecánico</title>
+    <desc>Los DeBerti se apuran para terminar el Mustang 2018 para el SEMA.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15054724_b_v8_ad.jpg?w=240&amp;h=360"/>
+    <sub-title>Carrera a la cima</sub-title>
+    <date>2018</date>
     <category>Reality</category>
-    <category>Documentary</category>
+    <category>Auto</category>
     <credits>
-      <actor>Ron McClure</actor>
-      <actor>Jason McClure</actor>
+      <actor>Doug DeBerti</actor>
+      <actor>Brad DeBerti</actor>
+      <director>Jeff Santos</director>
     </credits>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">12</rating>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="USA Parental Rating">TV14</rating>
+    <rating system="Canadian Parental Rating">14+</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260110224000 +0000" stop="20260110233000 +0000" channel="46608">
+  <programme start="20260110230200 +0000" stop="20260110235100 +0000" channel="46608">
     <title>Diesel Dave</title>
     <desc>Diesel Dave elige su primera camioneta para regalar y pretende construir otra versión del Kodiak.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12382578_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -73942,22 +73957,22 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260110233000 +0000" stop="20260111002000 +0000" channel="46608">
-    <title>Reyes de Autos Clásicos</title>
-    <desc>El equipo lucha para encontrar partes raras para un Studebaker Champion de 1950.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8430791_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <sub-title>Campeón al volante</sub-title>
-    <date>2011</date>
+  <programme start="20260110235100 +0000" stop="20260111004100 +0000" channel="46608">
+    <title>American Hot Rod</title>
+    <desc>Boyd Coddington y su equipo crean carros personalizados.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p12129155_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2004</date>
     <category>Reality</category>
-    <category>Documentary</category>
+    <category>Auto</category>
+    <category>How-to</category>
     <credits>
-      <actor>Ron McClure</actor>
-      <actor>Jason McClure</actor>
+      <actor>Boyd Coddington</actor>
+      <actor>Diane Coddington</actor>
+      <actor>Jo Coddington</actor>
     </credits>
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
   <programme start="20260108234800 +0000" stop="20260109001200 +0000" channel="66488">
     <title>La vida en la playa</title>
@@ -75634,7 +75649,7 @@
   <programme start="20260109063000 +0000" stop="20260109070000 +0000" channel="79589">
     <title>Hamster &amp; Gretel</title>
     <desc>Nordle hace trampa en un concurso de orquídeas, lo que lleva a malos resultados.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p22575496_b_v12_an.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p28084803_b_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Gentlemen Prefer Fronds: Sock It To Me, Bailey</sub-title>
     <date>2025</date>
     <category>Animated</category>
@@ -104015,6 +104030,7 @@
     <category>Self improvement</category>
     <category>Community</category>
     <category>Entertainment</category>
+    <category>Religious</category>
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
@@ -104092,6 +104108,7 @@
     <category>Self improvement</category>
     <category>Community</category>
     <category>Entertainment</category>
+    <category>Religious</category>
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
@@ -113260,7 +113277,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
   <programme start="20260109020000 +0000" stop="20260109040000 +0000" channel="72189">
-    <title>Fútbol Saudi League</title>
+    <title>Fútbol Saudi League [Nuevo]</title>
     <desc>Fecha 14 de la Saudi Pro League, temporada 2025-26. Desde el Al-Awwal Park, en Riad, Arabia Saudita.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002NKDV8.jpg?w=240&amp;h=360"/>
     <sub-title>Al Nassr vs. Al Qadsiah</sub-title>
@@ -113497,7 +113514,7 @@
   <programme start="20260109173000 +0000" stop="20260109193000 +0000" channel="72189">
     <title>Fútbol Saudi League [En vivo] [Nuevo]</title>
     <desc>Jornada 14 de la Liga Profesional Saudí 2025-26. Desde el King Abdullah Sports City, en Yeda.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002NL090.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002RNBFC.jpg?w=240&amp;h=360"/>
     <sub-title>Al Kholood vs. Al Ittihad</sub-title>
     <category>Soccer</category>
   </programme>
@@ -115435,7 +115452,7 @@
   <programme start="20260109171500 +0000" stop="20260109193000 +0000" channel="66879">
     <title>Saudi League Soccer [En vivo] [Nuevo]</title>
     <desc>From Al Hazem Club Stadium in Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002NL090.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002RNBFC.jpg?w=240&amp;h=360"/>
     <sub-title>Al Kholood vs. Al Ittihad</sub-title>
     <category>Soccer</category>
   </programme>
@@ -115456,7 +115473,7 @@
   <programme start="20260109233000 +0000" stop="20260110013000 +0000" channel="66879">
     <title>Saudi League Soccer</title>
     <desc>From Al Hazem Club Stadium in Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002NL090.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002RNBFC.jpg?w=240&amp;h=360"/>
     <sub-title>Al Kholood vs. Al Ittihad</sub-title>
     <category>Soccer</category>
   </programme>
@@ -119395,9 +119412,9 @@
     <category>News</category>
   </programme>
   <programme start="20260110033000 +0000" stop="20260110034000 +0000" channel="105781">
-    <title>Noticias</title>
-    <desc>Cada hora, las veinticuatro horas del día, un programa con la última información global.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9683988_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <title>News</title>
+    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p19092565_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2012</date>
     <category>News</category>
   </programme>
@@ -119428,9 +119445,9 @@
     <category>News</category>
   </programme>
   <programme start="20260110040000 +0000" stop="20260110041000 +0000" channel="105781">
-    <title>Noticias</title>
-    <desc>Cada hora, las veinticuatro horas del día, un programa con la última información global.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9683988_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <title>News</title>
+    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p19092565_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2012</date>
     <category>News</category>
   </programme>
@@ -119460,9 +119477,9 @@
     <category>News</category>
   </programme>
   <programme start="20260110043000 +0000" stop="20260110044000 +0000" channel="105781">
-    <title>Noticias</title>
-    <desc>Cada hora, las veinticuatro horas del día, un programa con la última información global.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9683988_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <title>News</title>
+    <desc>Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p19092565_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2012</date>
     <category>News</category>
   </programme>
@@ -124698,7 +124715,7 @@
   <programme start="20260110140000 +0000" stop="20260110150000 +0000" channel="125039">
     <title>Rocket League: The Good Bounce</title>
     <desc>The latest coverage on all things Rocket League, from meta changes to VCT coverage.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p21408413_b_v8_ad.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p21408416_b_v8_ab.jpg?w=240&amp;h=360"/>
     <date>2022</date>
     <category>Gaming</category>
     <category>Entertainment</category>
@@ -145702,17 +145719,17 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260110153000 +0000" stop="20260110170000 +0000" channel="101111">
-    <title>Lo mejor de Imagen Noticias</title>
-    <desc>Un resumen que recoge lo mas importante de la información.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p30473065_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2025</date>
-    <category>News</category>
-    <category>Public affairs</category>
+    <title>Sale el sol para todos</title>
+    <desc>Un resumen que recapitula lo más importante de la semana.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p17428476_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <date>2019</date>
+    <category>Entertainment</category>
     <credits>
-      <actor>Kena Uribe</actor>
-      <actor>Adriana Treviño</actor>
-      <actor>Monserrat Ortiz</actor>
+      <actor>Luz María Zetina</actor>
+      <actor>Mauricio Barcelata</actor>
+      <actor>Carlos Arenas</actor>
     </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260110170000 +0000" stop="20260110210000 +0000" channel="101111">
     <title>Al fin de primera mano</title>
@@ -145729,9 +145746,10 @@
   </programme>
   <programme start="20260110210000 +0000" stop="20260110220000 +0000" channel="101111">
     <title>En compañía de</title>
-    <desc>El mundo del espectáculo más abierto a las confesiones, aquí los famosos hablan de todo.</desc>
+    <desc>César Acosta pasó de ser un ícono del rock and roll en español a conocido actor y conductor.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p669884_st_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2007</date>
+    <sub-title>César Acosta</sub-title>
+    <date>2022</date>
     <category>Entertainment</category>
     <category>Talk</category>
     <credits>
@@ -145791,10 +145809,11 @@
     <title>Campeones</title>
     <desc>Las historias de las leyendas del boxeo mexicano.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30186833_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Grandes Leyendas</sub-title>
+    <sub-title>Grandes leyendas</sub-title>
     <date>2025</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260109073000 +0000" stop="20260109080000 +0000" channel="136770">
     <title>Campeones</title>
@@ -145896,10 +145915,11 @@
     <title>Campeones</title>
     <desc>Las historias de las leyendas del boxeo mexicano.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30186833_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Grandes Leyendas</sub-title>
+    <sub-title>Grandes leyendas</sub-title>
     <date>2025</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="136770">
     <title>Campeones</title>
@@ -149538,10 +149558,11 @@
     <title>Campeones</title>
     <desc>Las historias de las leyendas del boxeo mexicano.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30186833_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Grandes Leyendas</sub-title>
+    <sub-title>Grandes leyendas</sub-title>
     <date>2025</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260109083000 +0000" stop="20260109090000 +0000" channel="67632">
     <title>Campeones</title>
@@ -149663,10 +149684,11 @@
     <title>Campeones</title>
     <desc>Las historias de las leyendas del boxeo mexicano.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30186833_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Grandes Leyendas</sub-title>
+    <sub-title>Grandes leyendas</sub-title>
     <date>2025</date>
     <category>Sports talk</category>
     <category>Biography</category>
+    <category>Boxing</category>
   </programme>
   <programme start="20260110033000 +0000" stop="20260110063000 +0000" channel="67632">
     <title>Béisbol Liga Mexicana del Pacífico [En vivo] [Nuevo]</title>
@@ -158973,7 +158995,7 @@
   <programme start="20260109183000 +0000" stop="20260109190000 +0000" channel="101361">
     <title>Placer y angustia digital</title>
     <desc>El efecto del uso de dispositivos móviles en la salud mental de niñas, niños y adolescentes.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p28150027_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p28150027_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2024</date>
     <category>Documentary</category>
     <category>Health</category>
@@ -159110,7 +159132,7 @@
   <programme start="20260110150000 +0000" stop="20260110160000 +0000" channel="101361">
     <title>Placer y angustia digital</title>
     <desc>El efecto del uso de dispositivos móviles en la salud mental de niñas, niños y adolescentes.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p28150027_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p28150027_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2024</date>
     <category>Documentary</category>
     <category>Health</category>
@@ -197114,7 +197136,23 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260109120000 +0000" stop="20260109125300 +0000" channel="140026">
+  <programme start="20260109120000 +0000" stop="20260109124800 +0000" channel="140026">
+    <title>Fuerza de mujer</title>
+    <desc>Bahar recibe el alta, pero su necesidad de un trasplante es cada vez más urgente.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
+    <category>Drama</category>
+    <credits>
+      <actor>Özge Özpirincci</actor>
+      <actor>Caner Cindoruk</actor>
+      <actor>Bennu Yildirimlar</actor>
+      <director>Merve Girgin Aytekin</director>
+      <director>Nadim Güç</director>
+    </credits>
+    <rating system="USA Parental Rating">TVPG</rating>
+    <rating system="Canadian Parental Rating">PG</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
+  </programme>
+  <programme start="20260109124800 +0000" stop="20260109133800 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Enver descubre una verdad difícil de digerir a través del celular de Bahar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197130,7 +197168,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260109125300 +0000" stop="20260109134400 +0000" channel="140026">
+  <programme start="20260109133800 +0000" stop="20260109143200 +0000" channel="140026">
     <title>¿Y tú quién eres?</title>
     <desc>Demir localiza a la tía de Oyku, ella le cuenta parte de la verdad y lo deja lleno de dudas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16616022_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -197143,7 +197181,7 @@
     </credits>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260109134400 +0000" stop="20260109143500 +0000" channel="140026">
+  <programme start="20260109143200 +0000" stop="20260109152400 +0000" channel="140026">
     <title>¿Y tú quién eres?</title>
     <desc>Las autoridades buscan a Oyku para llevarla al orfanato, pero las cosas dan un giro inesperado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16616022_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -197158,7 +197196,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
-  <programme start="20260109143500 +0000" stop="20260109152600 +0000" channel="140026">
+  <programme start="20260109152400 +0000" stop="20260109162000 +0000" channel="140026">
     <title>¿Y tú quién eres?</title>
     <desc>Cemal improvisa para acercarse a su presa. Demir tiene un plan, quiere sacar a Ugur de prisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16616022_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -197173,7 +197211,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
-  <programme start="20260109152600 +0000" stop="20260109162100 +0000" channel="140026">
+  <programme start="20260109162000 +0000" stop="20260109171300 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>Tasio hace una propuesta a Carmen cuando se entera de los planes que tiene Claudia para su hijo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197188,7 +197226,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260109162100 +0000" stop="20260109171600 +0000" channel="140026">
+  <programme start="20260109171300 +0000" stop="20260109180300 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>Fina quiere abrirse con Isidro sobre su relación, pero para él aún es difícil aceptarla. Jaime.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197203,7 +197241,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260109171600 +0000" stop="20260109180800 +0000" channel="140026">
+  <programme start="20260109180300 +0000" stop="20260109185900 +0000" channel="140026">
     <title>Aile</title>
     <desc>Un intento de asesinato obliga a Devin a pactar con Hulya, necesita saber quién es el culpable.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28118344_i_v11_ab.jpg?w=240&amp;h=360"/>
@@ -197219,7 +197257,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
-  <programme start="20260109180800 +0000" stop="20260109190100 +0000" channel="140026">
+  <programme start="20260109185900 +0000" stop="20260109195000 +0000" channel="140026">
     <title>Aile</title>
     <desc>Hulya tiene claro quién está detrás del atentando y le hace una pregunta a Devin que la hace dudar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28118350_i_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197235,7 +197273,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
-  <programme start="20260109190100 +0000" stop="20260109195400 +0000" channel="140026">
+  <programme start="20260109195000 +0000" stop="20260109204600 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp responde la llamada de Bahar, pero Ceyda toma el teléfono y le pide que devuelva el celular.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197253,7 +197291,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260109195400 +0000" stop="20260109204700 +0000" channel="140026">
+  <programme start="20260109204600 +0000" stop="20260109215700 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp insiste en devolver el teléfono a Enver y poder explicar que no abandonó a sus hijos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197271,7 +197309,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260109204700 +0000" stop="20260109213900 +0000" channel="140026">
+  <programme start="20260109215700 +0000" stop="20260109225300 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Mientras Doruk ve a su padre por primera vez, Enver quiere visitar a Arif en el hospital.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197288,7 +197326,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Kijkwijzer">6</rating>
   </programme>
-  <programme start="20260109213900 +0000" stop="20260109223100 +0000" channel="140026">
+  <programme start="20260109225300 +0000" stop="20260109234400 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp empieza a beber y pierde la cabeza con los recuerdos de sus hijos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197305,7 +197343,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Kijkwijzer">6</rating>
   </programme>
-  <programme start="20260109223100 +0000" stop="20260109232600 +0000" channel="140026">
+  <programme start="20260109234400 +0000" stop="20260110003600 +0000" channel="140026">
     <title>Bahar</title>
     <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197320,7 +197358,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260109232600 +0000" stop="20260110001800 +0000" channel="140026">
+  <programme start="20260110003600 +0000" stop="20260110012600 +0000" channel="140026">
     <title>Bahar</title>
     <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197335,7 +197373,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110001800 +0000" stop="20260110011000 +0000" channel="140026">
+  <programme start="20260110012600 +0000" stop="20260110021600 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>Fina quiere abrirse con Isidro sobre su relación, pero para él aún es difícil aceptarla. Jaime.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197350,7 +197388,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110011000 +0000" stop="20260110020500 +0000" channel="140026">
+  <programme start="20260110021600 +0000" stop="20260110030600 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>María se esfuerza para que los Ortega se lleven una buena impresión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197366,7 +197404,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110020500 +0000" stop="20260110025500 +0000" channel="140026">
+  <programme start="20260110030600 +0000" stop="20260110035500 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197381,7 +197419,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110025500 +0000" stop="20260110034500 +0000" channel="140026">
+  <programme start="20260110035500 +0000" stop="20260110044500 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197396,7 +197434,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110034500 +0000" stop="20260110043500 +0000" channel="140026">
+  <programme start="20260110044500 +0000" stop="20260110053500 +0000" channel="140026">
     <title>Bahar</title>
     <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197411,7 +197449,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110043500 +0000" stop="20260110052500 +0000" channel="140026">
+  <programme start="20260110053500 +0000" stop="20260110062300 +0000" channel="140026">
     <title>Bahar</title>
     <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197426,7 +197464,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110052500 +0000" stop="20260110061500 +0000" channel="140026">
+  <programme start="20260110062300 +0000" stop="20260110071200 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Mientras Doruk ve a su padre por primera vez, Enver quiere visitar a Arif en el hospital.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197443,7 +197481,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Kijkwijzer">6</rating>
   </programme>
-  <programme start="20260110061500 +0000" stop="20260110070500 +0000" channel="140026">
+  <programme start="20260110071200 +0000" stop="20260110075800 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp empieza a beber y pierde la cabeza con los recuerdos de sus hijos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197460,7 +197498,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Kijkwijzer">6</rating>
   </programme>
-  <programme start="20260110070500 +0000" stop="20260110075500 +0000" channel="140026">
+  <programme start="20260110075800 +0000" stop="20260110084700 +0000" channel="140026">
     <title>¿Y tú quién eres?</title>
     <desc>Las autoridades buscan a Oyku para llevarla al orfanato, pero las cosas dan un giro inesperado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16616022_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -197475,7 +197513,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
-  <programme start="20260110075500 +0000" stop="20260110084500 +0000" channel="140026">
+  <programme start="20260110084700 +0000" stop="20260110093400 +0000" channel="140026">
     <title>¿Y tú quién eres?</title>
     <desc>Cemal improvisa para acercarse a su presa. Demir tiene un plan, quiere sacar a Ugur de prisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16616022_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -197490,7 +197528,7 @@
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
-  <programme start="20260110084500 +0000" stop="20260110093500 +0000" channel="140026">
+  <programme start="20260110093400 +0000" stop="20260110102400 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>Fina quiere abrirse con Isidro sobre su relación, pero para él aún es difícil aceptarla. Jaime.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197505,7 +197543,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110093500 +0000" stop="20260110102500 +0000" channel="140026">
+  <programme start="20260110102400 +0000" stop="20260110111400 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>María se esfuerza para que los Ortega se lleven una buena impresión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197521,7 +197559,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110102500 +0000" stop="20260110111500 +0000" channel="140026">
+  <programme start="20260110111400 +0000" stop="20260110120000 +0000" channel="140026">
     <title>Bahar</title>
     <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -197536,22 +197574,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110111500 +0000" stop="20260110120000 +0000" channel="140026">
-    <title>Bahar</title>
-    <desc>Una mujer decide rehacer su vida, pero termina descubriendo aspectos oscuros de su familia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p27279414_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <date>2024</date>
-    <category>Comedy</category>
-    <category>Drama</category>
-    <credits>
-      <actor>Demet Evgar</actor>
-      <actor>Bugra Gulsoy</actor>
-      <actor>Mehmet Yilmaz Ak</actor>
-      <director>Neslihan Yesilyurt</director>
-    </credits>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
-  </programme>
-  <programme start="20260110120000 +0000" stop="20260110130500 +0000" channel="140026">
+  <programme start="20260110120000 +0000" stop="20260110124500 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197566,7 +197589,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110130500 +0000" stop="20260110135500 +0000" channel="140026">
+  <programme start="20260110124500 +0000" stop="20260110133200 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197581,7 +197604,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110135500 +0000" stop="20260110144500 +0000" channel="140026">
+  <programme start="20260110133200 +0000" stop="20260110142400 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197596,7 +197619,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110144500 +0000" stop="20260110153500 +0000" channel="140026">
+  <programme start="20260110142400 +0000" stop="20260110151400 +0000" channel="140026">
     <title>El chico de oro</title>
     <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
@@ -197611,7 +197634,22 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110153500 +0000" stop="20260110163000 +0000" channel="140026">
+  <programme start="20260110151400 +0000" stop="20260110160600 +0000" channel="140026">
+    <title>El chico de oro</title>
+    <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p27983450_i_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2025</date>
+    <category>Drama</category>
+    <category>Romance</category>
+    <credits>
+      <actor>Afra Saraçoglu</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Mert Ramazan Demir</actor>
+      <director>Burcu Alptekin</director>
+    </credits>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
+  </programme>
+  <programme start="20260110160600 +0000" stop="20260110165600 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>Fina quiere abrirse con Isidro sobre su relación, pero para él aún es difícil aceptarla. Jaime.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197626,7 +197664,7 @@
     <rating system="Instituto de Cinematografía y de las Artes Visuales">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110163000 +0000" stop="20260110172500 +0000" channel="140026">
+  <programme start="20260110165600 +0000" stop="20260110174700 +0000" channel="140026">
     <title>Sueños de libertad</title>
     <desc>María se esfuerza para que los Ortega se lleven una buena impresión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26774021_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -197642,7 +197680,7 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260110172500 +0000" stop="20260110181500 +0000" channel="140026">
+  <programme start="20260110174700 +0000" stop="20260110183900 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Enver descubre que Sarp no está muerto y se muestra reticente a compartir la información con Bahar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197658,7 +197696,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110181500 +0000" stop="20260110190500 +0000" channel="140026">
+  <programme start="20260110183900 +0000" stop="20260110193100 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Levent encuentra a Sarp, pero él no está muy interesado en rencontrarse con Enver.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197675,7 +197713,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110190500 +0000" stop="20260110195800 +0000" channel="140026">
+  <programme start="20260110193100 +0000" stop="20260110202400 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp se decide, y Enver no puede soportar el secreto que ha escondido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197692,7 +197730,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110195800 +0000" stop="20260110205100 +0000" channel="140026">
+  <programme start="20260110202400 +0000" stop="20260110211800 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Ceyda le pide a Arif que sea honesto con Bahar, pero él está muy emocional y confundido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197708,7 +197746,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110205100 +0000" stop="20260110214300 +0000" channel="140026">
+  <programme start="20260110211800 +0000" stop="20260110221300 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Hatice y Sirin le dicen a Enver que Sarp está casado con otra mujer y tiene hijos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197726,7 +197764,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110214300 +0000" stop="20260110223500 +0000" channel="140026">
+  <programme start="20260110221300 +0000" stop="20260110230000 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Los hombres de Suat encuentran a Sarp con Enver y los persiguen. Enver se desmaya en un taxi.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197744,7 +197782,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110223500 +0000" stop="20260110233000 +0000" channel="140026">
+  <programme start="20260110230000 +0000" stop="20260110235000 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp responde la llamada de Bahar, pero Ceyda toma el teléfono y le pide que devuelva el celular.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -197762,7 +197800,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
-  <programme start="20260110233000 +0000" stop="20260111002000 +0000" channel="140026">
+  <programme start="20260110235000 +0000" stop="20260111005700 +0000" channel="140026">
     <title>Fuerza de mujer</title>
     <desc>Sarp insiste en devolver el teléfono a Enver y poder explicar que no abandonó a sus hijos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15558758_b_v12_ai.jpg?w=240&amp;h=360"/>
@@ -212590,9 +212628,8 @@
   </programme>
   <programme start="20260109043000 +0000" stop="20260109060000 +0000" channel="84425">
     <title>Mariposa de Barrio</title>
-    <desc>Los hermanos de Jenni la encuentran moribunda. Jenni no es feliz y su familia está a su lado.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p14160351_b_v12_ad.jpg?w=240&amp;h=360"/>
-    <sub-title>Sobredosis</sub-title>
+    <desc>La conmovedora historia de Jenni Rivera, más conocida como &quot;La Diva de la Banda&quot;, La Gran Señora.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p14307251_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2017</date>
     <category>Soap</category>
     <category>Music</category>
@@ -212629,20 +212666,11 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">C</rating>
   </programme>
   <programme start="20260109073000 +0000" stop="20260109090000 +0000" channel="84425">
-    <title>Mujer, casos de la vida real</title>
-    <desc>Representación de historias verdaderas enviadas por el público a la actriz Silvia Pinal.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p446549_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>1985</date>
+    <title>Mujer, casos de la vida real - Edición especial</title>
+    <desc>Edición especial sobre el programa de historias verdaderas enviadas por el público a Silvia Pinal.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p446524_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Drama</category>
     <category>Reality</category>
-    <credits>
-      <actor>Silvia Pinal</actor>
-      <director>Rubén Barajas</director>
-      <director>Adriana Barraza</director>
-      <director>Benjamín Cann</director>
-    </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
-    <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">C</rating>
   </programme>
   <programme start="20260109090000 +0000" stop="20260109100000 +0000" channel="84425">
@@ -212738,20 +212766,19 @@
   </programme>
   <programme start="20260109153000 +0000" stop="20260109170000 +0000" channel="84425">
     <title>Victoria</title>
-    <desc>Victoria y Jerónimo van a la fiesta en la casa de Valeria y se llevan una sorpresa inesperada.</desc>
+    <desc>Una mujer madura se debate entre los convencionalismos y su amor por un hombre menor.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13412686_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Encuentros inesperados</sub-title>
-    <date>2008</date>
+    <date>2007</date>
     <category>Soap</category>
     <credits>
       <actor>Victoria Ruffo</actor>
+      <actor>Mauricio Ochmann</actor>
       <actor>Arturo Peniche</actor>
-      <actor>Ricardo Abarca</actor>
       <director>Rodolfo Hoyos</director>
     </credits>
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
   </programme>
   <programme start="20260109170000 +0000" stop="20260109183000 +0000" channel="84425">
     <title>Mujer, casos de la vida real - Edición especial</title>
@@ -212771,6 +212798,7 @@
     <credits>
       <director>Alan Coton</director>
     </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
   </programme>
   <programme start="20260109192500 +0000" stop="20260109202000 +0000" channel="84425">
     <title>Esta historia me suena, Vol. 5</title>
@@ -212784,9 +212812,8 @@
   </programme>
   <programme start="20260109202000 +0000" stop="20260109215000 +0000" channel="84425">
     <title>Mariposa de Barrio</title>
-    <desc>Pedro visita a Jenni con toda la familia. Le cuentan que Trino fue por Chiquis.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p14160351_b_v12_ad.jpg?w=240&amp;h=360"/>
-    <sub-title>Custodia en un hilo</sub-title>
+    <desc>La conmovedora historia de Jenni Rivera, más conocida como &quot;La Diva de la Banda&quot;, La Gran Señora.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p14307251_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2017</date>
     <category>Soap</category>
     <category>Music</category>
@@ -212801,20 +212828,19 @@
   </programme>
   <programme start="20260109215000 +0000" stop="20260109232000 +0000" channel="84425">
     <title>Victoria</title>
-    <desc>Victoria y Jerónimo se sinceran, pero algo los interrumpe. Enrique no encuentra respuestas.</desc>
+    <desc>Una mujer madura se debate entre los convencionalismos y su amor por un hombre menor.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13412686_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Confesiones y emergencias</sub-title>
-    <date>2008</date>
+    <date>2007</date>
     <category>Soap</category>
     <credits>
       <actor>Victoria Ruffo</actor>
+      <actor>Mauricio Ochmann</actor>
       <actor>Arturo Peniche</actor>
-      <actor>Ricardo Abarca</actor>
       <director>Rodolfo Hoyos</director>
     </credits>
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
   </programme>
   <programme start="20260109232000 +0000" stop="20260110010000 +0000" channel="84425">
     <title>Hasta que el dinero nos separe</title>
@@ -212876,9 +212902,8 @@
   </programme>
   <programme start="20260110043000 +0000" stop="20260110060000 +0000" channel="84425">
     <title>Mariposa de Barrio</title>
-    <desc>Pedro visita a Jenni con toda la familia. Le cuentan que Trino fue por Chiquis.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p14160351_b_v12_ad.jpg?w=240&amp;h=360"/>
-    <sub-title>Custodia en un hilo</sub-title>
+    <desc>La conmovedora historia de Jenni Rivera, más conocida como &quot;La Diva de la Banda&quot;, La Gran Señora.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p14307251_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2017</date>
     <category>Soap</category>
     <category>Music</category>
@@ -212941,6 +212966,7 @@
     <credits>
       <director>Alan Coton</director>
     </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
   </programme>
   <programme start="20260110100000 +0000" stop="20260110115000 +0000" channel="84425">
     <title>Laura sin censura</title>
@@ -212986,9 +213012,8 @@
   </programme>
   <programme start="20260110131000 +0000" stop="20260110173000 +0000" channel="84425">
     <title>Hasta que el dinero nos separe</title>
-    <desc>Nelson logra recuperar a Susana; Marco se pelea con un hombre que quiere con Alejandra.</desc>
+    <desc>Rafael y Alejandra se conocen en medio de un accidente y la pareja comienza a enamorarse.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13458395_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Chantaje sucio</sub-title>
     <date>2009</date>
     <category>Soap</category>
     <credits>
@@ -212997,7 +213022,7 @@
       <actor>Victor Noriega</actor>
       <director>Emilio Larrosa</director>
     </credits>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260110173000 +0000" stop="20260110213000 +0000" channel="84425">
     <title>Mariposa de Barrio</title>
@@ -225461,19 +225486,16 @@
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
   <programme start="20260110120000 +0000" stop="20260110123000 +0000" channel="11118">
-    <title>Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360"/>
+    <title>La Dr. Polo vida sin límites</title>
+    <desc>Acompaña a Ana junto al Dr. Ramos mientras exploran el alivio natural.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p29058570_st_v8_ab.jpg?w=240&amp;h=360"/>
     <category>Shopping</category>
+    <category>Health</category>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
+    <credits>
+      <actor>Ana María Polo</actor>
+    </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">C</rating>
   </programme>
   <programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="11118">
     <title>Programa pagado</title>
@@ -225667,19 +225689,8 @@
     <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260110173000 +0000" stop="20260110180000 +0000" channel="11118">
-    <title>Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_bc.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
-    <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
+    <title>Neida Sandoval Presenta a MemoryXL</title>
+    <icon src="https://cltv.tmsimg.com/assets/p31525890_b_v12_ab.jpg?w=240&amp;h=360"/>
   </programme>
   <programme start="20260110180000 +0000" stop="20260110183000 +0000" channel="11118">
     <title>Programa pagado</title>
@@ -229873,6 +229884,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">14</rating>
     <rating system="Kijkwijzer">12</rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
   </programme>
   <programme start="20260109132100 +0000" stop="20260109134300 +0000" channel="16213">
     <title>The Big Bang Theory</title>
@@ -230588,6 +230600,7 @@
     <rating system="Australian Classification Board">M 15+</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
     <rating system="Kijkwijzer">AL</rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
   </programme>
   <programme start="20260110113400 +0000" stop="20260110115400 +0000" channel="16213">
     <title>Miracle Workers</title>
@@ -230701,6 +230714,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">14</rating>
     <rating system="Kijkwijzer">12</rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
   </programme>
   <programme start="20260110134100 +0000" stop="20260110135300 +0000" channel="16213">
     <title>Hollywood One on One</title>
