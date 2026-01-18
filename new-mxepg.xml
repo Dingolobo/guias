@@ -32679,7 +32679,7 @@
   <programme start="20260118232500 +0000" stop="20260119023000 +0000" channel="16463">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -37446,35 +37446,54 @@
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119123000 +0000" channel="82436">
-    <title>Hazlo en casa</title>
-    <desc>Un taller en el que se enseña a crear juegos y objetos divertidos con elementos sencillos.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19323794_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>How-to</category>
+    <title>Pili y el Guardián Enmascarado</title>
+    <desc>Pili, una niña muy curiosa, utiliza toda su inteligencia para ayudar al Guardián Enmascarado.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p18482757_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2020</date>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Entertainment</category>
     <credits>
-      <actor>Carlos Mario Mejía</actor>
+      <actor>Mara Campanelli</actor>
+      <actor>Marcelo Armand</actor>
+      <actor>Pablo Gandolfo</actor>
+      <director>María Antolini</director>
     </credits>
+    <rating system="USA Parental Rating">TVG</rating>
+    <rating system="Régie du cinéma">G</rating>
+    <rating system="Canadian Parental Rating">G</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260119123000 +0000" stop="20260119130000 +0000" channel="82436">
-    <title>Alas y raíces</title>
-    <icon src="https://cltv.tmsimg.com/assets/p18528597_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
+    <title>Nada nos para</title>
+    <desc>Programa que transmite lo mejor del mundo de los deportes que practican los jóvenes en el Perú.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p21042411_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2021</date>
+    <category>Exercise</category>
+    <category>Educational</category>
+    <credits>
+      <actor>Mario Cortijo</actor>
+    </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260119130000 +0000" stop="20260119133000 +0000" channel="82436">
+    <title>Bim Bam Muñes</title>
+    <desc>Una fantástica revista de animación con divertidos personajes.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p21578584_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2022</date>
+    <category>Educational</category>
     <category>Entertainment</category>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="USA Parental Rating">TVY7</rating>
-    <rating system="Canadian Parental Rating">C8</rating>
   </programme>
-  <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="82436">
-    <title>Conferencia matutina del presidente de México</title>
-    <desc>Conferencia de la presidenta Claudia Sheinbaum Pardo, en vivo desde el Palacio Nacional.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p17208764_b_v12_ab.jpg?w=240&amp;h=360"/>
+  <programme start="20260119133000 +0000" stop="20260119150000 +0000" channel="82436">
+    <title>Conferencia de Claudia Sheinbaum</title>
+    <desc>La toma de protesta y el primer mensaje a la nación de la presidenta de México, Claudia Sheinbaum.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p24125945_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Special</category>
-    <category>Politics</category>
-    <credits>
-      <actor>Claudia Sheinbaum Pardo</actor>
-    </credits>
+    <category>News</category>
+    <category>Public affairs</category>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119170000 +0000" channel="82436">
+  <programme start="20260119150000 +0000" stop="20260119180000 +0000" channel="82436">
     <title>Capital por cual</title>
     <desc>Las noticias más relevantes para comenzar el día informado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19792988_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -37488,24 +37507,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Canadian Parental Rating">G</rating>
   </programme>
-  <programme start="20260119170000 +0000" stop="20260119180000 +0000" channel="82436">
-    <title>Conferencia de Martí Batres Guadarrama</title>
-    <desc>Conferencia de prensa del jefe de gobierno de la Ciudad de México.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19206240_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
-    <category>Special</category>
-    <category>Community</category>
-    <category>Politics</category>
-  </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="82436">
-    <title>MYP: Prevención de enfermedades y problemas bucales</title>
-    <desc>Cómo prevenir las enfermedades bucodentales a través de hábitos saludables.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p24364869_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <category>Special</category>
-    <category>Health</category>
-    <category>Medical</category>
-  </programme>
-  <programme start="20260119190000 +0000" stop="20260119201500 +0000" channel="82436">
+  <programme start="20260119180000 +0000" stop="20260119191500 +0000" channel="82436">
     <title>Mañanera 360</title>
     <desc>Análisis de los temas de mayor interés de la conferencia matutina presidencial.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22454744_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -37520,68 +37522,91 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Canadian Parental Rating">G</rating>
   </programme>
-  <programme start="20260119201500 +0000" stop="20260119203000 +0000" channel="82436">
-    <title>¿Neuroqué?</title>
-    <desc>Desde la neurociencia, Fabricio Ballarini, investigador del CONICET, quita dudas a su sobrina.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p15062281_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2016</date>
+  <programme start="20260119191500 +0000" stop="20260119193000 +0000" channel="82436">
+    <title>Libros en acción</title>
+    <desc>Lo más increíble de las historias es que se encuentran en todas partes.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p17983802_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2020</date>
     <category>Children</category>
-    <category>Educational</category>
-    <category>Science</category>
+    <category>Books &amp; literature</category>
+    <category>Entertainment</category>
     <credits>
-      <actor>Uma Salduende</actor>
-      <actor>Fabricio Matías Ballarini</actor>
+      <actor>Dana Elizondo</actor>
     </credits>
+  </programme>
+  <programme start="20260119193000 +0000" stop="20260119200000 +0000" channel="82436">
+    <title>Pie Rojo</title>
+    <desc>Alex es un gorila, emocionado por descubrir el mundo junto a sus amigos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p10744822_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2014</date>
+    <category>Children</category>
+    <category>Adventure</category>
+    <category>Animals</category>
+    <category>Educational</category>
+    <category>Animated</category>
+    <credits>
+      <actor>Mario Filio</actor>
+      <actor>Jimena Flores Arellano</actor>
+      <actor>Mario Arvizu</actor>
+    </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260119200000 +0000" stop="20260119210000 +0000" channel="82436">
+    <title>Conferencia de Clara Brugada</title>
+    <icon src="https://cltv.tmsimg.com/assets/p30004705_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2025</date>
+    <category>Special</category>
+    <rating system="USA Parental Rating">TVG</rating>
+    <rating system="Régie du cinéma">G</rating>
+    <rating system="Canadian Parental Rating">G</rating>
+  </programme>
+  <programme start="20260119210000 +0000" stop="20260119220000 +0000" channel="82436">
+    <title>Conversando en el 21</title>
+    <icon src="https://cltv.tmsimg.com/assets/p22777543_b_v8_ac.jpg?w=240&amp;h=360"/>
+    <date>2022</date>
+    <category>Interview</category>
     <rating system="USA Parental Rating">TVG</rating>
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
-  </programme>
-  <programme start="20260119203000 +0000" stop="20260119210000 +0000" channel="82436">
-    <title>El diván de Valentina</title>
-    <desc>La cotidianeidad de una familia latina a través de una niña de nueve años.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p374115_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2002</date>
-    <category>Comedy drama</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-  </programme>
-  <programme start="20260119210000 +0000" stop="20260119220000 +0000" channel="82436">
-    <title>Ecos de la FIL</title>
-    <desc>Feria Internacional del Libro de Guadalajara, la reunión editorial más importante de Iberoamérica.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p24335429_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2023</date>
-    <category>Event</category>
-    <category>Books &amp; literature</category>
   </programme>
   <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="82436">
-    <title>Mujeres rebeladas</title>
-    <desc>Se comparten las experiencias de mujeres que lograron superar diversas situaciones de violencia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18069184_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
-    <category>Documentary</category>
-    <category>Self improvement</category>
-    <credits>
-      <actor>Marilú Rasso</actor>
-    </credits>
+    <title>Conecta: Cartelera cultural activa</title>
+    <desc>Un programa que tiene como objetivo informar a los ciudadanos sobre la cartelera cultural.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p20383473_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <date>2021</date>
+    <category>News</category>
+    <category>Community</category>
+    <rating system="USA Parental Rating">TVG</rating>
+    <rating system="Régie du cinéma">G</rating>
+    <rating system="Canadian Parental Rating">G</rating>
   </programme>
   <programme start="20260119223000 +0000" stop="20260119230000 +0000" channel="82436">
-    <title>Mujeres con causa</title>
-    <desc>Historia de los pilares del ámbito cultural, político, feminista y de defensa de los derechos LGBT+.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19909011_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Public affairs</category>
-    <category>LGBTQ</category>
+    <title>Cultural 21</title>
+    <desc>Un periodismo que examina el espíritu del momento.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p24170584_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2023</date>
+    <category>News</category>
   </programme>
-  <programme start="20260119230000 +0000" stop="20260120000000 +0000" channel="82436">
-    <title>La piel de la ciudad</title>
-    <desc>Se recorre la ciudad de Montevideo para descubrir las miles de historias que tiene por contar.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p20504704_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
+  <programme start="20260119230000 +0000" stop="20260119233000 +0000" channel="82436">
+    <title>¿Y tú, tú qué vas a hacer?</title>
+    <desc>Un viajero descubre la riqueza gastronómica, cultural y tradicional de Guanajuato en México.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p22603518_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2022</date>
+    <category>Travel</category>
+    <category>Community</category>
     <category>Public affairs</category>
     <credits>
-      <actor>Diego González</actor>
+      <actor>Arap Bethke</actor>
     </credits>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">B15</rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260119233000 +0000" stop="20260120000000 +0000" channel="82436">
+    <title>La parcela</title>
+    <desc>Tres familias se asientan en un territorio que pretende arrebatarles una multinacional.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p26339677_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2023</date>
+    <category>Drama</category>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
   </programme>
   <programme start="20260118000000 +0000" stop="20260118010000 +0000" channel="104904">
     <title>Noticias Caracol: Edición central [En vivo] [Nuevo]</title>
@@ -101948,7 +101973,7 @@
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
   </programme>
-  <programme start="20260117215500 +0000" stop="20260118040000 +0000" channel="17725">
+  <programme start="20260117215800 +0000" stop="20260118040000 +0000" channel="17725">
     <title>SportsCenter [En vivo] [Nuevo]</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102019,7 +102044,16 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118102000 +0000" stop="20260118112000 +0000" channel="17725">
+  <programme start="20260118102000 +0000" stop="20260118110000 +0000" channel="17725">
+    <title>SportsCenter</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
+    <date>1979</date>
+    <category>News</category>
+    <category>Sports talk</category>
+    <rating system="Australian Classification Board">G</rating>
+  </programme>
+  <programme start="20260118110000 +0000" stop="20260118112000 +0000" channel="17725">
     <title>SportsCenter</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102223,14 +102257,14 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118000000 +0000" stop="20260118060000 +0000" channel="63385">
+  <programme start="20260118000000 +0000" stop="20260118075800 +0000" channel="63385">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Primera Ronda</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118060000 +0000" stop="20260118070000 +0000" channel="63385">
+  <programme start="20260118075800 +0000" stop="20260118083800 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -102239,16 +102273,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260118070000 +0000" stop="20260118075800 +0000" channel="63385">
-    <title>SportsCenter Andina Noche</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
-    <date>2013</date>
-    <category>Special</category>
-    <category>Sports talk</category>
-    <category>News</category>
-  </programme>
-  <programme start="20260118075800 +0000" stop="20260118085500 +0000" channel="63385">
+  <programme start="20260118083800 +0000" stop="20260118085500 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -102265,7 +102290,7 @@
     <category>Sports talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118092500 +0000" stop="20260118102300 +0000" channel="63385">
+  <programme start="20260118092500 +0000" stop="20260118093200 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -102274,7 +102299,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260118102300 +0000" stop="20260118112000 +0000" channel="63385">
+  <programme start="20260118093200 +0000" stop="20260118102300 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -102282,6 +102307,21 @@
     <category>Special</category>
     <category>Sports talk</category>
     <category>News</category>
+  </programme>
+  <programme start="20260118102300 +0000" stop="20260118110000 +0000" channel="63385">
+    <title>SportsCenter Andina Noche</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
+    <date>2013</date>
+    <category>Special</category>
+    <category>Sports talk</category>
+    <category>News</category>
+  </programme>
+  <programme start="20260118110000 +0000" stop="20260118112000 +0000" channel="63385">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
   </programme>
   <programme start="20260118112000 +0000" stop="20260118132500 +0000" channel="63385">
     <title>Fútbol Serie A [En vivo] [Nuevo]</title>
@@ -102574,7 +102614,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118085900 +0000" stop="20260118100000 +0000" channel="10179">
+  <programme start="20260118085900 +0000" stop="20260118095900 +0000" channel="10179">
     <title>SportsCenter [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102583,7 +102623,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118100000 +0000" stop="20260118110000 +0000" channel="10179">
+  <programme start="20260118095900 +0000" stop="20260118105900 +0000" channel="10179">
     <title>SportsCenter [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102592,7 +102632,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118110000 +0000" stop="20260118120000 +0000" channel="10179">
+  <programme start="20260118105900 +0000" stop="20260118120000 +0000" channel="10179">
     <title>SportsCenter [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102637,7 +102677,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="10179">
+  <programme start="20260118160000 +0000" stop="20260118165900 +0000" channel="10179">
     <title>SportsCenter [En vivo] [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -102646,7 +102686,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118170000 +0000" stop="20260118194500 +0000" channel="10179">
+  <programme start="20260118165900 +0000" stop="20260118194500 +0000" channel="10179">
     <title>Postseason NFL Countdown [En vivo] [Nuevo]</title>
     <desc>A preview of the NFL Playoffs, and a look ahead to the Super Bowl.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p29172236_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -102871,19 +102911,43 @@
     <category>Football</category>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260118010000 +0000" stop="20260118080000 +0000" channel="159550">
+  <programme start="20260118010000 +0000" stop="20260118011800 +0000" channel="159550">
+    <title>SIGN OFF</title>
+    <desc>Fin de emisión.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p480440_b_v12_bw.jpg?w=240&amp;h=360"/>
+    <date>2005</date>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <rating system="Canadian Parental Rating">G</rating>
+    <rating system="USA Parental Rating">TVG</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
+  </programme>
+  <programme start="20260118011800 +0000" stop="20260118081400 +0000" channel="159550">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Primera Ronda</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118080000 +0000" stop="20260118162500 +0000" channel="159550">
+  <programme start="20260118081400 +0000" stop="20260118161400 +0000" channel="159550">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Primera Ronda</sub-title>
     <category>Tennis</category>
+  </programme>
+  <programme start="20260118161400 +0000" stop="20260118162500 +0000" channel="159550">
+    <title>Será anunciado</title>
+    <desc>Programación que se anunciará.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p514472_b_v12_dr.jpg?w=240&amp;h=360"/>
+    <date>2014</date>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">S</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">7</rating>
   </programme>
   <programme start="20260118162500 +0000" stop="20260118183000 +0000" channel="159550">
     <title>Fútbol Bundesliga [En vivo] [Nuevo]</title>
@@ -103016,14 +103080,14 @@
     <sub-title>Men's and Women's First Round</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118080100 +0000" stop="20260118120000 +0000" channel="12444">
+  <programme start="20260118080100 +0000" stop="20260118121000 +0000" channel="12444">
     <title>2026 Australian Open Tennis [En vivo] [Nuevo]</title>
     <desc>From Melbourne Park in Melbourne, Victoria, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Men's and Women's First Round</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118120000 +0000" stop="20260118150000 +0000" channel="12444">
+  <programme start="20260118121000 +0000" stop="20260118150000 +0000" channel="12444">
     <title>2026 Australian Open Tennis [Nuevo]</title>
     <desc>From Melbourne Park in Melbourne, Victoria, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -103209,7 +103273,14 @@
     <sub-title>Primera Ronda</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118080000 +0000" stop="20260118130000 +0000" channel="37747">
+  <programme start="20260118080000 +0000" stop="20260118081400 +0000" channel="37747">
+    <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
+    <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Primera Ronda</sub-title>
+    <category>Tennis</category>
+  </programme>
+  <programme start="20260118081400 +0000" stop="20260118130000 +0000" channel="37747">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
@@ -103373,38 +103444,29 @@
     <category>Tennis</category>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260118000000 +0000" stop="20260118060000 +0000" channel="73833">
+  <programme start="20260118000000 +0000" stop="20260118080000 +0000" channel="73833">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Primera Ronda</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260118060000 +0000" stop="20260118070000 +0000" channel="73833">
-    <title>Dakar: El resumen</title>
-    <desc>Recuento de toda la acción del día 15 del Rally Dakar 2026 en el duro desierto de Arabia Saudita.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32039155_st_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Día 15</sub-title>
-    <date>2026</date>
-    <category>Auto racing</category>
+  <programme start="20260118080000 +0000" stop="20260118083800 +0000" channel="73833">
+    <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
+    <desc>Primera ronda del Australian Open 2026. Desde el Melbourne Park, Australia.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p31639028_st_v8_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Primera Ronda</sub-title>
+    <category>Tennis</category>
   </programme>
-  <programme start="20260118070000 +0000" stop="20260118080000 +0000" channel="73833">
-    <title>ESPN Compact</title>
-    <desc>Los momentos más destacados del Derbi de Mánchester en la jornada 22 de la Premier League 2025-26.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <sub-title>Premier League: Manchester United vs. Manchester City</sub-title>
-    <category>Classic Sport Event</category>
-    <category>Soccer</category>
+  <programme start="20260118083800 +0000" stop="20260118085800 +0000" channel="73833">
+    <title>ESPN Tenis</title>
+    <desc>El tenista Rafael Nadal es conocido por su gran dominio de la superficie de arcilla.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p15597645_b_v12_ad.jpg?w=240&amp;h=360"/>
+    <sub-title>Rafael Nadal: El rey de la arcilla</sub-title>
+    <date>2024</date>
+    <category>Tennis</category>
   </programme>
-  <programme start="20260118080000 +0000" stop="20260118090000 +0000" channel="73833">
-    <title>ESPN Compact</title>
-    <desc>Los momentos más destacados del partido de la jornada 21 de la Serie A 2025-26.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <sub-title>Serie A: Udinese Calcio vs. Internazionale</sub-title>
-    <category>Classic Sport Event</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260118090000 +0000" stop="20260118095800 +0000" channel="73833">
+  <programme start="20260118085800 +0000" stop="20260118095800 +0000" channel="73833">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados del partido de la jornada 22 de la Premier League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -103420,7 +103482,14 @@
     <date>2026</date>
     <category>Auto racing</category>
   </programme>
-  <programme start="20260118105500 +0000" stop="20260118125000 +0000" channel="73833">
+  <programme start="20260118105500 +0000" stop="20260118110000 +0000" channel="73833">
+    <title>Fútbol Bundesliga</title>
+    <desc>Desde Red Bull Arena, en Leipzig, Alemania.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S6EVT.jpg?w=240&amp;h=360"/>
+    <sub-title>RB Leipzig vs. Bayern Munich</sub-title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260118110000 +0000" stop="20260118125000 +0000" channel="73833">
     <title>Fútbol Bundesliga</title>
     <desc>Desde Red Bull Arena, en Leipzig, Alemania.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S6EVT.jpg?w=240&amp;h=360"/>
@@ -103838,18 +103907,13 @@
     <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   <programme start="20260119190000 +0000" stop="20260119193000 +0000" channel="79042">
-    <title>College Football Live [En vivo] [Nuevo]</title>
-    <desc>Últimas noticias, análisis, crónicas y entrevistas.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p221266_b_v8_ah.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
-    <category>Football</category>
+    <title>SportsCenter [En vivo] [Nuevo]</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
+    <date>1979</date>
     <category>News</category>
-    <credits>
-      <actor>Kelsey Riggs</actor>
-      <actor>Jen Lada</actor>
-      <actor>Desmond Howard</actor>
-    </credits>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
+    <category>Sports talk</category>
+    <rating system="Australian Classification Board">G</rating>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119214500 +0000" channel="79042">
     <title>Fútbol Serie A [En vivo] [Nuevo]</title>
@@ -103943,13 +104007,19 @@
     <sub-title>Real Betis vs. Villarreal CF</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118105400 +0000" stop="20260118115200 +0000" channel="125748">
+  <programme start="20260118105400 +0000" stop="20260118110000 +0000" channel="125748">
     <title>Dakar: El resumen</title>
     <desc>Recuento de toda la acción del día 15 del Rally Dakar 2026 en el duro desierto de Arabia Saudita.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32039155_st_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Día 15</sub-title>
     <date>2026</date>
     <category>Auto racing</category>
+  </programme>
+  <programme start="20260118110000 +0000" stop="20260118115200 +0000" channel="125748">
+    <title>ESPN 4 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28512849_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Special</category>
+    <category>Sports talk</category>
   </programme>
   <programme start="20260118115200 +0000" stop="20260118135000 +0000" channel="125748">
     <title>ESPN KnockOut</title>
@@ -104079,28 +104149,28 @@
     <date>2026</date>
     <category>Tennis</category>
   </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="125748">
-    <title>ESPN Compact</title>
-    <desc>Los momentos más destacados del partido de la jornada 22 de la Premier League 2025-26.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <sub-title>Premier League: Nottingham Forest vs. Arsenal</sub-title>
-    <category>Classic Sport Event</category>
+  <programme start="20260119180000 +0000" stop="20260119192500 +0000" channel="125748">
+    <title>Kings World Cup Nations 2026</title>
+    <desc>Final de la Kings World Cup Nations 2026. Desde el Allianz Parque.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p31943621_i_v7_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Brasil vs. Chile</sub-title>
+    <category>Soccer</category>
+    <rating system="Consejo Nacional de Televisión">I12</rating>
+  </programme>
+  <programme start="20260119192500 +0000" stop="20260119193000 +0000" channel="125748">
+    <title>Fútbol internacional</title>
+    <desc>El camino del Chelsea hacia la final de la UEFA Conference League 2024-2025 donde obtuvo el título.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p25245869_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Chelsea: Campeón de la UECL 2024-2025</sub-title>
+    <date>2025</date>
     <category>Soccer</category>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119193000 +0000" channel="125748">
+  <programme start="20260119193000 +0000" stop="20260119200000 +0000" channel="125748">
     <title>Latin America Amateur Championship</title>
     <desc>Los momentos más destacados del Latin America Amateur Championship 2026 en Lima Golf Club, Perú.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12519862_b_v12_ab.jpg?w=240&amp;h=360"/>
     <category>Golf</category>
     <category>Classic Sport Event</category>
-  </programme>
-  <programme start="20260119193000 +0000" stop="20260119200000 +0000" channel="125748">
-    <title>UEFA Europa &amp; Conference League Magazine</title>
-    <desc>Noticias, entrevistas y análisis de los equipos de la Europa League y la Conference League.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p20628666_b_v12_ab.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Soccer</category>
-    <category>Sports talk</category>
   </programme>
   <programme start="20260119200000 +0000" stop="20260119220000 +0000" channel="125748">
     <title>Best of Australian Open [Nuevo]</title>
@@ -104308,7 +104378,7 @@
       <actor>Roberto Gómez Junco</actor>
     </credits>
   </programme>
-  <programme start="20260118000000 +0000" stop="20260118030000 +0000" channel="122027">
+  <programme start="20260118000000 +0000" stop="20260118034200 +0000" channel="122027">
     <title>Béisbol Colombiano Liga Profesional [En vivo] [Nuevo]</title>
     <desc>Cobertura del cuarto juego de la final de la LBPC 2025-26. Desde el estadio Once de Noviembre.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19163025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -104316,7 +104386,7 @@
     <category>Playoff sports</category>
     <category>Baseball</category>
   </programme>
-  <programme start="20260118030000 +0000" stop="20260118050000 +0000" channel="122027">
+  <programme start="20260118034200 +0000" stop="20260118050000 +0000" channel="122027">
     <title>Fútbol Bundesliga</title>
     <desc>Desde Red Bull Arena, en Leipzig, Alemania.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S6EVT.jpg?w=240&amp;h=360"/>
@@ -104331,7 +104401,13 @@
     <date>2026</date>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118060000 +0000" stop="20260118070000 +0000" channel="122027">
+  <programme start="20260118060000 +0000" stop="20260118060400 +0000" channel="122027">
+    <title>ESPN 5 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28512747_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Special</category>
+    <category>Sports talk</category>
+  </programme>
+  <programme start="20260118060400 +0000" stop="20260118070000 +0000" channel="122027">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados del Derbi de Mánchester en la jornada 22 de la Premier League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -104570,7 +104646,7 @@
     <sub-title>Ajax vs. Go Ahead Eagles</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118060000 +0000" stop="20260118063000 +0000" channel="79923">
+  <programme start="20260118060000 +0000" stop="20260118063100 +0000" channel="79923">
     <title>Aguas arriba</title>
     <desc>La experiencia de la pesca con mosca en Latinoamérica.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16225204_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -104580,7 +104656,7 @@
       <actor>Pablo Rodrigo Pérez</actor>
     </credits>
   </programme>
-  <programme start="20260118063000 +0000" stop="20260118070000 +0000" channel="79923">
+  <programme start="20260118063100 +0000" stop="20260118070100 +0000" channel="79923">
     <title>UEFA Champions League Weekly</title>
     <desc>Toda la información y entrevistas de la jornada semanal de la Champions League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p519458_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -104588,7 +104664,7 @@
     <category>Sports talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118070000 +0000" stop="20260118080000 +0000" channel="79923">
+  <programme start="20260118070100 +0000" stop="20260118080000 +0000" channel="79923">
     <title>UEFA Champions League Highlights</title>
     <desc>Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p969764_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -104719,7 +104795,7 @@
   <programme start="20260119150000 +0000" stop="20260119180000 +0000" channel="79923">
     <title>Fútbol Americano NFL</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -104753,7 +104829,7 @@
     <sub-title>Coventry City vs. Leicester City</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118010000 +0000" stop="20260118043000 +0000" channel="91513">
+  <programme start="20260118010000 +0000" stop="20260118041600 +0000" channel="91513">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-2026. Desde el Lumen Field, en Seattle.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLTV8.jpg?w=240&amp;h=360"/>
@@ -104762,13 +104838,18 @@
     <category>Football</category>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260118043000 +0000" stop="20260118050000 +0000" channel="91513">
+  <programme start="20260118041600 +0000" stop="20260118044500 +0000" channel="91513">
     <title>UEFA Champions League Weekly</title>
     <desc>Toda la información y entrevistas de la jornada semanal de la Champions League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p519458_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2004</date>
     <category>Sports talk</category>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260118044500 +0000" stop="20260118050000 +0000" channel="91513">
+    <title>ESPN 7 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28247678_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
   </programme>
   <programme start="20260118050000 +0000" stop="20260118070000 +0000" channel="91513">
     <title>Fútbol Bundesliga</title>
@@ -104877,19 +104958,19 @@
   <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="91513">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119040000 +0000" channel="91513">
-    <title>Kings World Cup Nations 2026</title>
-    <desc>Final de la Kings World Cup Nations 2026. Desde el Allianz Parque.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31943621_i_v7_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Brasil vs. Chile</sub-title>
-    <category>Soccer</category>
-    <rating system="Consejo Nacional de Televisión">I12</rating>
+    <title>Dakar: El resumen</title>
+    <desc>Recuento de toda la acción del día 15 del Rally Dakar 2026 en el duro desierto de Arabia Saudita.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32039155_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Día 15</sub-title>
+    <date>2026</date>
+    <category>Auto racing</category>
   </programme>
   <programme start="20260119040000 +0000" stop="20260119060000 +0000" channel="91513">
     <title>Fútbol Eredivisie</title>
@@ -104924,13 +105005,22 @@
     <date>2026</date>
     <category>Auto racing</category>
   </programme>
-  <programme start="20260119080000 +0000" stop="20260119090000 +0000" channel="91513">
-    <title>Kings World Cup Nations 2026</title>
-    <desc>Final de la Kings World Cup Nations 2026. Desde el Allianz Parque.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31943621_i_v7_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Brasil vs. Chile</sub-title>
-    <category>Soccer</category>
-    <rating system="Consejo Nacional de Televisión">I12</rating>
+  <programme start="20260119080000 +0000" stop="20260119083000 +0000" channel="91513">
+    <title>ATP World Tour Weekly</title>
+    <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p7912685_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <date>2009</date>
+    <category>Tennis</category>
+  </programme>
+  <programme start="20260119083000 +0000" stop="20260119090000 +0000" channel="91513">
+    <title>Aguas arriba</title>
+    <desc>La experiencia de la pesca con mosca en Latinoamérica.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p16225204_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2018</date>
+    <category>Fishing</category>
+    <credits>
+      <actor>Pablo Rodrigo Pérez</actor>
+    </credits>
   </programme>
   <programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="91513">
     <title>Golf</title>
@@ -105247,12 +105337,20 @@
     <category>Classic Sport Event</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260118100000 +0000" stop="20260118120000 +0000" channel="106781">
+  <programme start="20260118100000 +0000" stop="20260118110000 +0000" channel="106781">
     <title>Serie Río de la Plata</title>
     <desc>Acción de la Serie Río de la Plata 2026. Desde el Estadio Luis Franzini, en Montevideo, Uruguay.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23831296_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Unión (SF) vs. Defensor Sporting</sub-title>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260118110000 +0000" stop="20260118120000 +0000" channel="106781">
+    <title>ESPN 2 Argentina</title>
+    <desc>Programación por anunciarse.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p28660104_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Special</category>
+    <category>Sports talk</category>
   </programme>
   <programme start="20260118120000 +0000" stop="20260118140000 +0000" channel="106781">
     <title>Serie Río de la Plata</title>
@@ -105474,7 +105572,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260118050000 +0000" stop="20260118060000 +0000" channel="19158">
+  <programme start="20260118050000 +0000" stop="20260118060900 +0000" channel="19158">
     <title>Fútbol picante [En vivo] [Nuevo]</title>
     <desc>Análisis, entrevistas y comentarios sobre el fútbol mexicano.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p390567_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -105490,7 +105588,7 @@
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
   </programme>
-  <programme start="20260118060000 +0000" stop="20260118070000 +0000" channel="19158">
+  <programme start="20260118060900 +0000" stop="20260118070000 +0000" channel="19158">
     <title>SportsCenter [En vivo] [Nuevo]</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -111833,7 +111931,7 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119055900 +0000" stop="20260119063900 +0000" channel="194841">
+  <programme start="20260119055900 +0000" stop="20260119071100 +0000" channel="194841">
     <title>FACTS</title>
     <desc>Argentina supera a Holanda en un emocionante enfrentamiento en Buenos Aires.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -111842,7 +111940,25 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119063900 +0000" stop="20260119082600 +0000" channel="194841">
+  <programme start="20260119071100 +0000" stop="20260119075100 +0000" channel="194841">
+    <title>FACTS</title>
+    <desc>Argentina y Francia en el partido del siglo, analizado.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Argentina vs. Francia</sub-title>
+    <date>2024</date>
+    <category>Soccer</category>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
+  </programme>
+  <programme start="20260119075100 +0000" stop="20260119083000 +0000" channel="194841">
+    <title>FACTS</title>
+    <desc>Argentina supera a Holanda en un emocionante enfrentamiento en Buenos Aires.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Argentina vs. Netherlands- Argentina 1978</sub-title>
+    <date>2025</date>
+    <category>Soccer</category>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
+  </programme>
+  <programme start="20260119083000 +0000" stop="20260119101700 +0000" channel="194841">
     <title>Fútbol</title>
     <desc>Países Bajos enfrenta a la República Federal de Alemania en el Mundial de 1974.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p490189_b_v12_bg.jpg?w=240&amp;h=360"/>
@@ -111850,14 +111966,14 @@
     <category>Classic Sport Event</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260119082600 +0000" stop="20260119101800 +0000" channel="194841">
+  <programme start="20260119101700 +0000" stop="20260119120900 +0000" channel="194841">
     <title>Copa del Mundo 2010</title>
     <icon src="https://cltv.tmsimg.com/assets/p18305548_b_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Sudáfrica vs. México</sub-title>
     <category>Classic Sport Event</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260119101800 +0000" stop="20260119105500 +0000" channel="194841">
+  <programme start="20260119120900 +0000" stop="20260119124600 +0000" channel="194841">
     <title>FACTS</title>
     <desc>El histórico triunfo de los Azzurri ante Alemania RF explicado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -111866,7 +111982,7 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119105500 +0000" stop="20260119111200 +0000" channel="194841">
+  <programme start="20260119124600 +0000" stop="20260119130400 +0000" channel="194841">
     <title>Ojos del mundo</title>
     <desc>Explorando las historias de los momentos icónicos del fútbol, mostrando la alegría y la tristeza.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24676858_b_v7_aa.jpg?w=240&amp;h=360"/>
@@ -111874,14 +111990,14 @@
     <date>1990</date>
     <category>Soccer</category>
   </programme>
-  <programme start="20260119111200 +0000" stop="20260119133500 +0000" channel="194841">
+  <programme start="20260119130400 +0000" stop="20260119152700 +0000" channel="194841">
     <title>Copa Mundial Femenina de la FIFA 2023</title>
     <desc>Octavos de final de la Copa Mundial Femenina de la FIFA 2023. Australia enfrenta a Dinamarca.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24157827_tb2_v12_at.jpg?w=240&amp;h=360"/>
     <sub-title>Octavos de final: Australia vs. Dinamarca</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260119133500 +0000" stop="20260119143300 +0000" channel="194841">
+  <programme start="20260119152700 +0000" stop="20260119162400 +0000" channel="194841">
     <title>Keane &amp; Vieira: enemigos íntimos</title>
     <desc>Roy Keane y Patrick Vieira hablan con franqueza de sus mejores enfrentamientos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10370710_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -111894,7 +112010,7 @@
       <director>Tim Mackenzie-Smith</director>
     </credits>
   </programme>
-  <programme start="20260119143300 +0000" stop="20260119162100 +0000" channel="194841">
+  <programme start="20260119162400 +0000" stop="20260119181200 +0000" channel="194841">
     <title>Copa Mundial de la FIFA México 1970</title>
     <desc>Partido completo entre Brasil e Italia, disputado en el Estadio Azteca el 21 de junio de 1970.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24806498_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -111903,7 +112019,7 @@
     <category>Classic Sport Event</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119162100 +0000" stop="20260119170100 +0000" channel="194841">
+  <programme start="20260119181200 +0000" stop="20260119185200 +0000" channel="194841">
     <title>FACTS</title>
     <desc>La victoria de la Argentina de Diego Maradona sobre Alemania FR en el Azteca explicada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -111912,7 +112028,7 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119170100 +0000" stop="20260119185600 +0000" channel="194841">
+  <programme start="20260119185200 +0000" stop="20260119204700 +0000" channel="194841">
     <title>Copa Mundial de la FIFA Catar 2022</title>
     <desc>Octavos de final de la Copa Mundial. Países Bajos enfrenta a Estados Unidos en Doha.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22429111_b_v12_af.jpg?w=240&amp;h=360"/>
@@ -111922,16 +112038,14 @@
     <rating system="방송통신심의위원회">All</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260119185600 +0000" stop="20260119204700 +0000" channel="194841">
+  <programme start="20260119204700 +0000" stop="20260119224100 +0000" channel="194841">
     <title>FIFA Copa Mundial</title>
-    <desc>Cuartos de final de la Copa Mundial de la FIFA 2002. Alemania se enfrenta a Estados Unidos.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p999590_b_v11_ah.jpg?w=240&amp;h=360"/>
-    <sub-title>Copa Mundial de la FIFA 2002: Alemania vs. Estados Unidos</sub-title>
-    <category>Classic Sport Event</category>
+    <desc>Desde Durban, Sudáfrica.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8002357_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Fase de Grupos: España vs. Suiza</sub-title>
     <category>Soccer</category>
-    <rating system="Consejo Nacional de Televisión">F</rating>
   </programme>
-  <programme start="20260119204700 +0000" stop="20260119212700 +0000" channel="194841">
+  <programme start="20260119224100 +0000" stop="20260119232000 +0000" channel="194841">
     <title>FACTS</title>
     <desc>Argentina y Francia en el partido del siglo, analizado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -111940,7 +112054,7 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260119212700 +0000" stop="20260119220600 +0000" channel="194841">
+  <programme start="20260119232000 +0000" stop="20260120000000 +0000" channel="194841">
     <title>FACTS</title>
     <desc>Argentina supera a Holanda en un emocionante enfrentamiento en Buenos Aires.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27896513_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -111948,21 +112062,6 @@
     <date>2025</date>
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
-  </programme>
-  <programme start="20260119220600 +0000" stop="20260119235300 +0000" channel="194841">
-    <title>Fútbol</title>
-    <desc>Países Bajos enfrenta a la República Federal de Alemania en el Mundial de 1974.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p490189_b_v12_bg.jpg?w=240&amp;h=360"/>
-    <sub-title>Final de la Copa Mundial de la FIFA 1974: Países Bajos vs República Federal de Alemania</sub-title>
-    <category>Classic Sport Event</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260119235300 +0000" stop="20260120014500 +0000" channel="194841">
-    <title>Copa del Mundo 2010</title>
-    <icon src="https://cltv.tmsimg.com/assets/p18305548_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Sudáfrica vs. México</sub-title>
-    <category>Classic Sport Event</category>
-    <category>Soccer</category>
   </programme>
   <programme start="20260117230000 +0000" stop="20260118031000 +0000" channel="78763">
     <title>Fox Sports Africa Boxing</title>
@@ -118933,7 +119032,7 @@
   <programme start="20260118172000 +0000" stop="20260118193000 +0000" channel="173771">
     <title>Fútbol Saudi League [En vivo] [Nuevo]</title>
     <desc>Desde el King Khalid Sport City Stadium, en Tabuk, Arabia Saudita</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S71XQ.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SEKTW.jpg?w=240&amp;h=360"/>
     <sub-title>Neom SC vs. Al Hilal</sub-title>
     <category>Soccer</category>
   </programme>
@@ -119663,7 +119762,7 @@
   <programme start="20260118171500 +0000" stop="20260118193000 +0000" channel="66879">
     <title>Saudi League Soccer [En vivo] [Nuevo]</title>
     <desc>From King Khalid Sports City Stadium in Tabuk, Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S71XQ.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SEKTW.jpg?w=240&amp;h=360"/>
     <sub-title>Neom SC vs. Al Hilal</sub-title>
     <category>Soccer</category>
   </programme>
@@ -119698,7 +119797,7 @@
   <programme start="20260119033000 +0000" stop="20260119053000 +0000" channel="66879">
     <title>Saudi League Soccer</title>
     <desc>From King Khalid Sports City Stadium in Tabuk, Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S71XQ.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SEKTW.jpg?w=240&amp;h=360"/>
     <sub-title>Neom SC vs. Al Hilal</sub-title>
     <category>Soccer</category>
   </programme>
@@ -119825,7 +119924,7 @@
   </programme>
   <programme start="20260118123000 +0000" stop="20260118143000 +0000" channel="30191">
     <title>Fútbol 2. Bundesliga [En vivo] [Nuevo]</title>
-    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserlautern busca ganar tras perder.</desc>
+    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserslautern busca ganar tras perder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002STWFL.jpg?w=240&amp;h=360"/>
     <sub-title>1. FC Kaiserslautern vs. Hannover 96</sub-title>
     <category>Soccer</category>
@@ -119871,7 +119970,7 @@
   </programme>
   <programme start="20260118220000 +0000" stop="20260119000000 +0000" channel="30191">
     <title>Fútbol 2. Bundesliga</title>
-    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserlautern busca ganar tras perder.</desc>
+    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserslautern busca ganar tras perder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002STWFL.jpg?w=240&amp;h=360"/>
     <sub-title>1. FC Kaiserslautern vs. Hannover 96</sub-title>
     <category>Soccer</category>
@@ -119936,7 +120035,7 @@
   </programme>
   <programme start="20260119143000 +0000" stop="20260119163000 +0000" channel="30191">
     <title>Fútbol 2. Bundesliga</title>
-    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserlautern busca ganar tras perder.</desc>
+    <desc>Acción de la jornada 18 de la Bundesliga 2, 2025-26. Kaiserslautern busca ganar tras perder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002STWFL.jpg?w=240&amp;h=360"/>
     <sub-title>1. FC Kaiserslautern vs. Hannover 96</sub-title>
     <category>Soccer</category>
@@ -120166,7 +120265,7 @@
   <programme start="20260119060000 +0000" stop="20260119090000 +0000" channel="71328">
     <title>Fútbol Americano NFL</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -120752,7 +120851,7 @@
   <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="123582">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -121164,7 +121263,7 @@
   <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="41677">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -121376,7 +121475,7 @@
   <programme start="20260119190000 +0000" stop="20260119220000 +0000" channel="41677">
     <title>Fútbol Americano NFL</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Ronda Divisional: Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -124957,7 +125056,7 @@
   <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="33178">
     <title>Saudi League Soccer</title>
     <desc>From King Khalid Sports City Stadium in Tabuk, Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002S71XQ.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SEKTW.jpg?w=240&amp;h=360"/>
     <sub-title>Neom SC vs. Al Hilal</sub-title>
     <category>Soccer</category>
   </programme>
@@ -167751,7 +167850,7 @@
   <programme start="20260119213000 +0000" stop="20260120000000 +0000" channel="34710">
     <title>NFL Football</title>
     <desc>The No. 5 Rams (12-5) visit the No. 2 Bears (11-6) in a NFC Divisional Round matchup in Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Los Angeles Rams at Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
@@ -227982,7 +228081,7 @@
   <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="91588">
     <title>Fútbol Americano NFL [En vivo] [Nuevo]</title>
     <desc>Ronda divisional de la Conferencia NFC de los playoffs 2025-26. Desde el Soldier Field, en Chicago.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SLMGT.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T08PZ.jpg?w=240&amp;h=360"/>
     <sub-title>Los Angeles Rams vs. Chicago Bears</sub-title>
     <category>Playoff sports</category>
     <category>Football</category>
