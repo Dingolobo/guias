@@ -1199,374 +1199,368 @@
     <icon src="https://cltv.tmsimg.com/assets/s89920_ll_h15_ab.png?w=360&amp;h=270"/>
     <display-name>ZooMoo</display-name>
   </channel>
-  <programme start="20260125033000 +0000" channel="sky_sports_24" stop="20260125053000 +0000">
-    <title>Eintracht Frankfurt vs. TSG Hof</title>
-  </programme>
-  <programme start="20260125040000 +0000" channel="sky_sports_16" stop="20260125060000 +0000">
-    <title>Valencia vs. Espanyol</title>
-  </programme>
-  <programme start="20260125050000 +0000" channel="sky_sports_1_mexico" stop="20260125060000 +0000">
+  <programme start="20260125050000 +0000" channel="sky_sports_1_mexico" stop="20260125070000 +0000">
     <title>Montréal Canadiens vs. Boston B</title>
   </programme>
-  <programme start="20260125053000 +0000" channel="sky_sports_24" stop="20260125060000 +0000">
-    <title>Bundesliga special show #11 -</title>
-  </programme>
-  <programme start="20260125060000 +0000" channel="sky_sports_1_mexico" stop="20260125080000 +0000">
-    <title>Montréal Canadiens vs. Boston B</title>
-  </programme>
-  <programme start="20260125060000 +0000" channel="sky_sports_16" stop="20260125080000 +0000">
+  <programme start="20260125050000 +0000" channel="sky_sports_16" stop="20260125070000 +0000">
     <title>Rayo Vallecano vs. CA Osasuna</title>
   </programme>
-  <programme start="20260125060000 +0000" channel="sky_sports_24" stop="20260125063000 +0000">
+  <programme start="20260125050000 +0000" channel="sky_sports_24" stop="20260125053000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260125063000 +0000" channel="sky_sports_24" stop="20260125083000 +0000">
+  <programme start="20260125053000 +0000" channel="sky_sports_24" stop="20260125073000 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260125080000 +0000" channel="sky_sports_1_mexico" stop="20260125083000 +0000">
+  <programme start="20260125070000 +0000" channel="sky_sports_1_mexico" stop="20260125073000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260125080000 +0000" channel="sky_sports_16" stop="20260125100000 +0000">
+  <programme start="20260125070000 +0000" channel="sky_sports_16" stop="20260125090000 +0000">
     <title>Sevilla vs. Athletic Club de</title>
   </programme>
-  <programme start="20260125083000 +0000" channel="sky_sports_1_mexico" stop="20260125100000 +0000">
+  <programme start="20260125073000 +0000" channel="sky_sports_1_mexico" stop="20260125090000 +0000">
     <title>ISU Pairs - Free Skating Helsi</title>
   </programme>
-  <programme start="20260125083000 +0000" channel="sky_sports_24" stop="20260125103000 +0000">
+  <programme start="20260125073000 +0000" channel="sky_sports_24" stop="20260125093000 +0000">
     <title>Werder Bremen vs. Frankfurt</title>
   </programme>
-  <programme start="20260125100000 +0000" channel="sky_sports_1_mexico" stop="20260125130000 +0000">
+  <programme start="20260125090000 +0000" channel="sky_sports_1_mexico" stop="20260125120000 +0000">
     <title>Montréal Canadiens vs. Boston B</title>
   </programme>
-  <programme start="20260125100000 +0000" channel="sky_sports_16" stop="20260125104500 +0000">
+  <programme start="20260125090000 +0000" channel="sky_sports_16" stop="20260125094500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260125103000 +0000" channel="sky_sports_24" stop="20260125123000 +0000">
+  <programme start="20260125093000 +0000" channel="sky_sports_24" stop="20260125113000 +0000">
     <title>Borussia Dortmund vs. St. Pauli</title>
   </programme>
-  <programme start="20260125104500 +0000" channel="sky_sports_16" stop="20260125124500 +0000">
+  <programme start="20260125094500 +0000" channel="sky_sports_16" stop="20260125114500 +0000">
     <title>Valencia vs. Espanyol</title>
   </programme>
-  <programme start="20260125123000 +0000" channel="sky_sports_24" stop="20260125143000 +0000">
+  <programme start="20260125113000 +0000" channel="sky_sports_24" stop="20260125133000 +0000">
     <title>FSV Mainz vs. Wolfsburg</title>
   </programme>
-  <programme start="20260125124500 +0000" channel="sky_sports_16" stop="20260125130000 +0000">
+  <programme start="20260125114500 +0000" channel="sky_sports_16" stop="20260125120000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260125130000 +0000" channel="sky_sports_1_mexico" stop="20260125150000 +0000">
+  <programme start="20260125120000 +0000" channel="sky_sports_1_mexico" stop="20260125140000 +0000">
     <title>Andorra F.C. vs. Huesca</title>
   </programme>
-  <programme start="20260125130000 +0000" channel="sky_sports_16" stop="20260125150000 +0000">
+  <programme start="20260125120000 +0000" channel="sky_sports_16" stop="20260125140000 +0000">
     <title>Atlético de Madrid vs. RCD Mall</title>
   </programme>
-  <programme start="20260125143000 +0000" channel="sky_sports_24" stop="20260125163000 +0000">
+  <programme start="20260125133000 +0000" channel="sky_sports_24" stop="20260125153000 +0000">
     <title>B. M'gladbach vs. Stuttgart</title>
   </programme>
-  <programme start="20260125150000 +0000" channel="sky_sports_1_mexico" stop="20260125151500 +0000">
+  <programme start="20260125140000 +0000" channel="sky_sports_1_mexico" stop="20260125141500 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260125150000 +0000" channel="sky_sports_16" stop="20260125151500 +0000">
+  <programme start="20260125140000 +0000" channel="sky_sports_16" stop="20260125141500 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260125151500 +0000" channel="sky_sports_1_mexico" stop="20260125171500 +0000">
+  <programme start="20260125141500 +0000" channel="sky_sports_1_mexico" stop="20260125161500 +0000">
     <title>Éibar vs. Almería</title>
   </programme>
-  <programme start="20260125151500 +0000" channel="sky_sports_16" stop="20260125171500 +0000">
+  <programme start="20260125141500 +0000" channel="sky_sports_16" stop="20260125161500 +0000">
     <title>Barcelona vs. Real Oviedo</title>
   </programme>
-  <programme start="20260125163000 +0000" channel="sky_sports_24" stop="20260125183000 +0000">
+  <programme start="20260125153000 +0000" channel="sky_sports_24" stop="20260125173000 +0000">
     <title>SC Freiburg vs. 1. FC Köln</title>
   </programme>
-  <programme start="20260125171500 +0000" channel="sky_sports_1_mexico" stop="20260125173000 +0000">
+  <programme start="20260125161500 +0000" channel="sky_sports_1_mexico" stop="20260125163000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260125171500 +0000" channel="sky_sports_16" stop="20260125173000 +0000">
+  <programme start="20260125161500 +0000" channel="sky_sports_16" stop="20260125163000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260125173000 +0000" channel="sky_sports_1_mexico" stop="20260125193000 +0000">
+  <programme start="20260125163000 +0000" channel="sky_sports_1_mexico" stop="20260125183000 +0000">
     <title>Real Zaragoza vs. Castellón</title>
   </programme>
-  <programme start="20260125173000 +0000" channel="sky_sports_16" stop="20260125193000 +0000">
+  <programme start="20260125163000 +0000" channel="sky_sports_16" stop="20260125183000 +0000">
     <title>Real Sociedad vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260125183000 +0000" channel="sky_sports_24" stop="20260125203000 +0000">
+  <programme start="20260125173000 +0000" channel="sky_sports_24" stop="20260125193000 +0000">
     <title>Schalke 04 vs. 1. FC Kaisers</title>
   </programme>
-  <programme start="20260125193000 +0000" channel="sky_sports_1_mexico" stop="20260125200000 +0000">
+  <programme start="20260125183000 +0000" channel="sky_sports_1_mexico" stop="20260125190000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260125193000 +0000" channel="sky_sports_16" stop="20260125194500 +0000">
+  <programme start="20260125183000 +0000" channel="sky_sports_16" stop="20260125184500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260125194500 +0000" channel="sky_sports_16" stop="20260125200000 +0000">
+  <programme start="20260125184500 +0000" channel="sky_sports_16" stop="20260125190000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260125200000 +0000" channel="sky_sports_1_mexico" stop="20260125220000 +0000">
+  <programme start="20260125190000 +0000" channel="sky_sports_1_mexico" stop="20260125210000 +0000">
     <title>Deportivo de la Coruña vs. R Ra</title>
   </programme>
-  <programme start="20260125200000 +0000" channel="sky_sports_16" stop="20260125220000 +0000">
+  <programme start="20260125190000 +0000" channel="sky_sports_16" stop="20260125210000 +0000">
     <title>Deportivo Alavés vs. Real Betis</title>
   </programme>
-  <programme start="20260125203000 +0000" channel="sky_sports_24" stop="20260125223000 +0000">
+  <programme start="20260125193000 +0000" channel="sky_sports_24" stop="20260125213000 +0000">
     <title>SC Freiburg vs. 1. FC Köln</title>
   </programme>
-  <programme start="20260125220000 +0000" channel="sky_sports_1_mexico" stop="20260126000000 +0000">
+  <programme start="20260125210000 +0000" channel="sky_sports_1_mexico" stop="20260125230000 +0000">
     <title>Andorra F.C. vs. Huesca</title>
   </programme>
-  <programme start="20260125220000 +0000" channel="sky_sports_16" stop="20260126000000 +0000">
+  <programme start="20260125210000 +0000" channel="sky_sports_16" stop="20260125230000 +0000">
     <title>Barcelona vs. Real Oviedo</title>
   </programme>
-  <programme start="20260125223000 +0000" channel="sky_sports_24" stop="20260126003000 +0000">
+  <programme start="20260125213000 +0000" channel="sky_sports_24" stop="20260125233000 +0000">
     <title>Bayern Múnich vs. FC Augsbu</title>
   </programme>
-  <programme start="20260126000000 +0000" channel="sky_sports_1_mexico" stop="20260126030000 +0000">
+  <programme start="20260125230000 +0000" channel="sky_sports_1_mexico" stop="20260126020000 +0000">
     <title>Florida Panthers vs. Chicago Bl</title>
   </programme>
-  <programme start="20260126000000 +0000" channel="sky_sports_16" stop="20260126020000 +0000">
+  <programme start="20260125230000 +0000" channel="sky_sports_16" stop="20260126010000 +0000">
     <title>Villarreal vs. Real Madrid C</title>
   </programme>
-  <programme start="20260126003000 +0000" channel="sky_sports_24" stop="20260126023000 +0000">
+  <programme start="20260125233000 +0000" channel="sky_sports_24" stop="20260126013000 +0000">
     <title>Unión Berlín vs. Borussia Dortm</title>
   </programme>
-  <programme start="20260126020000 +0000" channel="sky_sports_16" stop="20260126040000 +0000">
+  <programme start="20260126010000 +0000" channel="sky_sports_16" stop="20260126030000 +0000">
     <title>Atlético de Madrid vs. RCD Mall</title>
   </programme>
-  <programme start="20260126023000 +0000" channel="sky_sports_24" stop="20260126043000 +0000">
+  <programme start="20260126013000 +0000" channel="sky_sports_24" stop="20260126033000 +0000">
     <title>FC St. Pauli vs. Hamburger SV</title>
   </programme>
-  <programme start="20260126030000 +0000" channel="sky_sports_1_mexico" stop="20260126050000 +0000">
+  <programme start="20260126020000 +0000" channel="sky_sports_1_mexico" stop="20260126040000 +0000">
     <title>Éibar vs. Almería</title>
   </programme>
-  <programme start="20260126040000 +0000" channel="sky_sports_16" stop="20260126060000 +0000">
+  <programme start="20260126030000 +0000" channel="sky_sports_16" stop="20260126050000 +0000">
     <title>Deportivo Alavés vs. Real Betis</title>
   </programme>
-  <programme start="20260126043000 +0000" channel="sky_sports_24" stop="20260126053000 +0000">
+  <programme start="20260126033000 +0000" channel="sky_sports_24" stop="20260126043000 +0000">
     <title>Bundesliga Highlights Show</title>
   </programme>
-  <programme start="20260126050000 +0000" channel="sky_sports_1_mexico" stop="20260126060000 +0000">
+  <programme start="20260126040000 +0000" channel="sky_sports_1_mexico" stop="20260126050000 +0000">
     <title>Florida Panthers vs. Chicago Bl</title>
   </programme>
-  <programme start="20260126053000 +0000" channel="sky_sports_24" stop="20260126060000 +0000">
+  <programme start="20260126043000 +0000" channel="sky_sports_24" stop="20260126050000 +0000">
     <title>Bundesliga talk</title>
   </programme>
-  <programme start="20260126060000 +0000" channel="sky_sports_1_mexico" stop="20260126080000 +0000">
+  <programme start="20260126050000 +0000" channel="sky_sports_1_mexico" stop="20260126070000 +0000">
     <title>Florida Panthers vs. Chicago Bl</title>
   </programme>
-  <programme start="20260126060000 +0000" channel="sky_sports_16" stop="20260126080000 +0000">
+  <programme start="20260126050000 +0000" channel="sky_sports_16" stop="20260126070000 +0000">
     <title>Valencia vs. Espanyol</title>
   </programme>
-  <programme start="20260126060000 +0000" channel="sky_sports_24" stop="20260126063000 +0000">
+  <programme start="20260126050000 +0000" channel="sky_sports_24" stop="20260126053000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260126063000 +0000" channel="sky_sports_24" stop="20260126091500 +0000">
+  <programme start="20260126053000 +0000" channel="sky_sports_24" stop="20260126081500 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260126080000 +0000" channel="sky_sports_1_mexico" stop="20260126100000 +0000">
+  <programme start="20260126070000 +0000" channel="sky_sports_1_mexico" stop="20260126090000 +0000">
     <title>Real Sporting de Gijón vs. CD M</title>
   </programme>
-  <programme start="20260126080000 +0000" channel="sky_sports_16" stop="20260126100000 +0000">
+  <programme start="20260126070000 +0000" channel="sky_sports_16" stop="20260126090000 +0000">
     <title>Levante vs. Elche</title>
   </programme>
-  <programme start="20260126091500 +0000" channel="sky_sports_24" stop="20260126111500 +0000">
+  <programme start="20260126081500 +0000" channel="sky_sports_24" stop="20260126101500 +0000">
     <title>Unión Berlín vs. Borussia Dortm</title>
   </programme>
-  <programme start="20260126100000 +0000" channel="sky_sports_1_mexico" stop="20260126123000 +0000">
+  <programme start="20260126090000 +0000" channel="sky_sports_1_mexico" stop="20260126113000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260126100000 +0000" channel="sky_sports_16" stop="20260126114500 +0000">
+  <programme start="20260126090000 +0000" channel="sky_sports_16" stop="20260126104500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260126111500 +0000" channel="sky_sports_24" stop="20260126131500 +0000">
+  <programme start="20260126101500 +0000" channel="sky_sports_24" stop="20260126121500 +0000">
     <title>Schalke 04 vs. 1. FC Kaisers</title>
   </programme>
-  <programme start="20260126114500 +0000" channel="sky_sports_16" stop="20260126134500 +0000">
+  <programme start="20260126104500 +0000" channel="sky_sports_16" stop="20260126124500 +0000">
     <title>Deportivo Alavés vs. Real Betis</title>
   </programme>
-  <programme start="20260126123000 +0000" channel="sky_sports_1_mexico" stop="20260126143000 +0000">
+  <programme start="20260126113000 +0000" channel="sky_sports_1_mexico" stop="20260126133000 +0000">
     <title>Cádiz CF vs. Granada</title>
   </programme>
-  <programme start="20260126131500 +0000" channel="sky_sports_24" stop="20260126151500 +0000">
+  <programme start="20260126121500 +0000" channel="sky_sports_24" stop="20260126141500 +0000">
     <title>Eintracht Frankfurt vs. TSG Hof</title>
   </programme>
-  <programme start="20260126134500 +0000" channel="sky_sports_16" stop="20260126154500 +0000">
+  <programme start="20260126124500 +0000" channel="sky_sports_16" stop="20260126144500 +0000">
     <title>Sevilla vs. Athletic Club de</title>
   </programme>
-  <programme start="20260126143000 +0000" channel="sky_sports_1_mexico" stop="20260126163000 +0000">
+  <programme start="20260126133000 +0000" channel="sky_sports_1_mexico" stop="20260126153000 +0000">
     <title>Málaga vs. Burgos CF</title>
   </programme>
-  <programme start="20260126151500 +0000" channel="sky_sports_24" stop="20260126171500 +0000">
+  <programme start="20260126141500 +0000" channel="sky_sports_24" stop="20260126161500 +0000">
     <title>Unión Berlín vs. Borussia Dortm</title>
   </programme>
-  <programme start="20260126154500 +0000" channel="sky_sports_16" stop="20260126174500 +0000">
+  <programme start="20260126144500 +0000" channel="sky_sports_16" stop="20260126164500 +0000">
     <title>Rayo Vallecano vs. CA Osasuna</title>
   </programme>
-  <programme start="20260126163000 +0000" channel="sky_sports_1_mexico" stop="20260126193000 +0000">
+  <programme start="20260126153000 +0000" channel="sky_sports_1_mexico" stop="20260126183000 +0000">
     <title>Florida Panthers vs. Chicago Bl</title>
   </programme>
-  <programme start="20260126171500 +0000" channel="sky_sports_24" stop="20260126191500 +0000">
+  <programme start="20260126161500 +0000" channel="sky_sports_24" stop="20260126181500 +0000">
     <title>Bayer 04 Leverkusen vs. SV Werd</title>
   </programme>
-  <programme start="20260126174500 +0000" channel="sky_sports_16" stop="20260126194500 +0000">
+  <programme start="20260126164500 +0000" channel="sky_sports_16" stop="20260126184500 +0000">
     <title>Atlético de Madrid vs. RCD Mall</title>
   </programme>
-  <programme start="20260126191500 +0000" channel="sky_sports_24" stop="20260126211500 +0000">
+  <programme start="20260126181500 +0000" channel="sky_sports_24" stop="20260126201500 +0000">
     <title>Bayern Múnich vs. FC Augsbu</title>
   </programme>
-  <programme start="20260126193000 +0000" channel="sky_sports_1_mexico" stop="20260126213000 +0000">
+  <programme start="20260126183000 +0000" channel="sky_sports_1_mexico" stop="20260126203000 +0000">
     <title>AD Ceuta vs. Cultural Leonesa</title>
   </programme>
-  <programme start="20260126194500 +0000" channel="sky_sports_16" stop="20260126200000 +0000">
+  <programme start="20260126184500 +0000" channel="sky_sports_16" stop="20260126190000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260126200000 +0000" channel="sky_sports_16" stop="20260126220000 +0000">
+  <programme start="20260126190000 +0000" channel="sky_sports_16" stop="20260126210000 +0000">
     <title>Girona FC vs. Getafe</title>
   </programme>
-  <programme start="20260126211500 +0000" channel="sky_sports_24" stop="20260126231500 +0000">
+  <programme start="20260126201500 +0000" channel="sky_sports_24" stop="20260126221500 +0000">
     <title>Bayer 04 Leverkusen vs. SV Werd</title>
   </programme>
-  <programme start="20260126213000 +0000" channel="sky_sports_1_mexico" stop="20260127000000 +0000">
+  <programme start="20260126203000 +0000" channel="sky_sports_1_mexico" stop="20260126230000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260126220000 +0000" channel="sky_sports_16" stop="20260127000000 +0000">
+  <programme start="20260126210000 +0000" channel="sky_sports_16" stop="20260126230000 +0000">
     <title>Sevilla vs. Athletic Club de</title>
   </programme>
-  <programme start="20260126231500 +0000" channel="sky_sports_24" stop="20260127011500 +0000">
+  <programme start="20260126221500 +0000" channel="sky_sports_24" stop="20260127001500 +0000">
     <title>1. FC Heidenheim 1846 vs. RB Le</title>
   </programme>
-  <programme start="20260127000000 +0000" channel="sky_sports_1_mexico" stop="20260127030000 +0000">
+  <programme start="20260126230000 +0000" channel="sky_sports_1_mexico" stop="20260127020000 +0000">
     <title>Boston Bruins vs. New York Rang</title>
   </programme>
-  <programme start="20260127000000 +0000" channel="sky_sports_16" stop="20260127020000 +0000">
+  <programme start="20260126230000 +0000" channel="sky_sports_16" stop="20260127010000 +0000">
     <title>Barcelona vs. Real Oviedo</title>
   </programme>
-  <programme start="20260127011500 +0000" channel="sky_sports_24" stop="20260127031500 +0000">
+  <programme start="20260127001500 +0000" channel="sky_sports_24" stop="20260127021500 +0000">
     <title>Eintracht Frankfurt vs. TSG Hof</title>
   </programme>
-  <programme start="20260127020000 +0000" channel="sky_sports_16" stop="20260127040000 +0000">
+  <programme start="20260127010000 +0000" channel="sky_sports_16" stop="20260127030000 +0000">
     <title>Girona FC vs. Getafe</title>
   </programme>
-  <programme start="20260127030000 +0000" channel="sky_sports_1_mexico" stop="20260127050000 +0000">
+  <programme start="20260127020000 +0000" channel="sky_sports_1_mexico" stop="20260127040000 +0000">
     <title>AD Ceuta vs. Cultural Leonesa</title>
   </programme>
-  <programme start="20260127031500 +0000" channel="sky_sports_24" stop="20260127051500 +0000">
+  <programme start="20260127021500 +0000" channel="sky_sports_24" stop="20260127041500 +0000">
     <title>FSV Mainz vs. Wolfsburg</title>
   </programme>
-  <programme start="20260127040000 +0000" channel="sky_sports_16" stop="20260127060000 +0000">
+  <programme start="20260127030000 +0000" channel="sky_sports_16" stop="20260127050000 +0000">
     <title>Real Sociedad vs. RC Celta de V</title>
   </programme>
-  <programme start="20260127050000 +0000" channel="sky_sports_1_mexico" stop="20260127060000 +0000">
+  <programme start="20260127040000 +0000" channel="sky_sports_1_mexico" stop="20260127050000 +0000">
     <title>Boston Bruins vs. New York Rang</title>
   </programme>
-  <programme start="20260127051500 +0000" channel="sky_sports_24" stop="20260127060000 +0000">
+  <programme start="20260127041500 +0000" channel="sky_sports_24" stop="20260127050000 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260127060000 +0000" channel="sky_sports_1_mexico" stop="20260127080000 +0000">
+  <programme start="20260127050000 +0000" channel="sky_sports_1_mexico" stop="20260127070000 +0000">
     <title>Boston Bruins vs. New York Rang</title>
   </programme>
-  <programme start="20260127060000 +0000" channel="sky_sports_16" stop="20260127080000 +0000">
+  <programme start="20260127050000 +0000" channel="sky_sports_16" stop="20260127070000 +0000">
     <title>Rayo Vallecano vs. CA Osasuna</title>
   </programme>
-  <programme start="20260127060000 +0000" channel="sky_sports_24" stop="20260127063000 +0000">
+  <programme start="20260127050000 +0000" channel="sky_sports_24" stop="20260127053000 +0000">
     <title>Bundesliga special show #07</title>
   </programme>
-  <programme start="20260127063000 +0000" channel="sky_sports_24" stop="20260127071500 +0000">
+  <programme start="20260127053000 +0000" channel="sky_sports_24" stop="20260127061500 +0000">
     <title>Flamengo vs. Palmeiras</title>
   </programme>
-  <programme start="20260127071500 +0000" channel="sky_sports_24" stop="20260127091500 +0000">
+  <programme start="20260127061500 +0000" channel="sky_sports_24" stop="20260127081500 +0000">
     <title>SC Freiburg vs. 1. FC Köln</title>
   </programme>
-  <programme start="20260127080000 +0000" channel="sky_sports_1_mexico" stop="20260127100000 +0000">
+  <programme start="20260127070000 +0000" channel="sky_sports_1_mexico" stop="20260127090000 +0000">
     <title>Andorra F.C. vs. Huesca</title>
   </programme>
-  <programme start="20260127080000 +0000" channel="sky_sports_16" stop="20260127100000 +0000">
+  <programme start="20260127070000 +0000" channel="sky_sports_16" stop="20260127090000 +0000">
     <title>Valencia vs. Espanyol</title>
   </programme>
-  <programme start="20260127091500 +0000" channel="sky_sports_24" stop="20260127111500 +0000">
+  <programme start="20260127081500 +0000" channel="sky_sports_24" stop="20260127101500 +0000">
     <title>E Frankfurt vs. TSG Hoffenheim</title>
   </programme>
-  <programme start="20260127100000 +0000" channel="sky_sports_1_mexico" stop="20260127123000 +0000">
+  <programme start="20260127090000 +0000" channel="sky_sports_1_mexico" stop="20260127113000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260127100000 +0000" channel="sky_sports_16" stop="20260127120000 +0000">
+  <programme start="20260127090000 +0000" channel="sky_sports_16" stop="20260127110000 +0000">
     <title>Sevilla vs. Athletic Club de</title>
   </programme>
-  <programme start="20260127111500 +0000" channel="sky_sports_24" stop="20260127131500 +0000">
+  <programme start="20260127101500 +0000" channel="sky_sports_24" stop="20260127121500 +0000">
     <title>Schalke 04 vs. 1. FC Kaisers</title>
   </programme>
-  <programme start="20260127120000 +0000" channel="sky_sports_16" stop="20260127140000 +0000">
+  <programme start="20260127110000 +0000" channel="sky_sports_16" stop="20260127130000 +0000">
     <title>Levante vs. Elche</title>
   </programme>
-  <programme start="20260127123000 +0000" channel="sky_sports_1_mexico" stop="20260127143000 +0000">
+  <programme start="20260127113000 +0000" channel="sky_sports_1_mexico" stop="20260127133000 +0000">
     <title>Real Sporting de Gijón vs. CD M</title>
   </programme>
-  <programme start="20260127131500 +0000" channel="sky_sports_24" stop="20260127151500 +0000">
+  <programme start="20260127121500 +0000" channel="sky_sports_24" stop="20260127141500 +0000">
     <title>Unión Berlín vs. Borussia Dortm</title>
   </programme>
-  <programme start="20260127140000 +0000" channel="sky_sports_16" stop="20260127160000 +0000">
+  <programme start="20260127130000 +0000" channel="sky_sports_16" stop="20260127150000 +0000">
     <title>Real Sociedad vs. RC Celta de V</title>
   </programme>
-  <programme start="20260127143000 +0000" channel="sky_sports_1_mexico" stop="20260127163000 +0000">
+  <programme start="20260127133000 +0000" channel="sky_sports_1_mexico" stop="20260127153000 +0000">
     <title>Real Zaragoza vs. Castellón</title>
   </programme>
-  <programme start="20260127151500 +0000" channel="sky_sports_24" stop="20260127171500 +0000">
+  <programme start="20260127141500 +0000" channel="sky_sports_24" stop="20260127161500 +0000">
     <title>Bayern Múnich vs. FC Augsbu</title>
   </programme>
-  <programme start="20260127160000 +0000" channel="sky_sports_16" stop="20260127180000 +0000">
+  <programme start="20260127150000 +0000" channel="sky_sports_16" stop="20260127170000 +0000">
     <title>Deportivo Alavés vs. Real Betis</title>
   </programme>
-  <programme start="20260127163000 +0000" channel="sky_sports_1_mexico" stop="20260127193000 +0000">
+  <programme start="20260127153000 +0000" channel="sky_sports_1_mexico" stop="20260127183000 +0000">
     <title>Boston Bruins vs. New York Rang</title>
   </programme>
-  <programme start="20260127171500 +0000" channel="sky_sports_24" stop="20260127191500 +0000">
+  <programme start="20260127161500 +0000" channel="sky_sports_24" stop="20260127181500 +0000">
     <title>Bayer 04 Leverkusen vs. SV Werd</title>
   </programme>
-  <programme start="20260127180000 +0000" channel="sky_sports_16" stop="20260127200000 +0000">
+  <programme start="20260127170000 +0000" channel="sky_sports_16" stop="20260127190000 +0000">
     <title>Atlético de Madrid vs. RCD Mall</title>
   </programme>
-  <programme start="20260127191500 +0000" channel="sky_sports_24" stop="20260127193000 +0000">
+  <programme start="20260127181500 +0000" channel="sky_sports_24" stop="20260127183000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260127193000 +0000" channel="sky_sports_1_mexico" stop="20260127213000 +0000">
+  <programme start="20260127183000 +0000" channel="sky_sports_1_mexico" stop="20260127203000 +0000">
     <title>Éibar vs. Almería</title>
   </programme>
-  <programme start="20260127193000 +0000" channel="sky_sports_24" stop="20260127213000 +0000">
+  <programme start="20260127183000 +0000" channel="sky_sports_24" stop="20260127203000 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260127200000 +0000" channel="sky_sports_16" stop="20260127220000 +0000">
+  <programme start="20260127190000 +0000" channel="sky_sports_16" stop="20260127210000 +0000">
     <title>Barcelona vs. Real Oviedo</title>
   </programme>
-  <programme start="20260127213000 +0000" channel="sky_sports_1_mexico" stop="20260128000000 +0000">
+  <programme start="20260127203000 +0000" channel="sky_sports_1_mexico" stop="20260127230000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260127213000 +0000" channel="sky_sports_24" stop="20260127233000 +0000">
+  <programme start="20260127203000 +0000" channel="sky_sports_24" stop="20260127223000 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260127220000 +0000" channel="sky_sports_16" stop="20260128000000 +0000">
+  <programme start="20260127210000 +0000" channel="sky_sports_16" stop="20260127230000 +0000">
     <title>Girona FC vs. Getafe</title>
   </programme>
-  <programme start="20260127233000 +0000" channel="sky_sports_24" stop="20260128013000 +0000">
+  <programme start="20260127223000 +0000" channel="sky_sports_24" stop="20260128003000 +0000">
     <title>Bayern Múnich vs. RB Leipzi</title>
   </programme>
-  <programme start="20260128000000 +0000" channel="sky_sports_1_mexico" stop="20260128030000 +0000">
+  <programme start="20260127230000 +0000" channel="sky_sports_1_mexico" stop="20260128020000 +0000">
     <title>Los Angeles Kings vs. Detroit R</title>
   </programme>
-  <programme start="20260128000000 +0000" channel="sky_sports_16" stop="20260128020000 +0000">
+  <programme start="20260127230000 +0000" channel="sky_sports_16" stop="20260128010000 +0000">
     <title>Villarreal vs. Real Madrid C</title>
   </programme>
-  <programme start="20260128013000 +0000" channel="sky_sports_24" stop="20260128033000 +0000">
+  <programme start="20260128003000 +0000" channel="sky_sports_24" stop="20260128023000 +0000">
     <title>FC St. Pauli vs. Hamburger SV</title>
   </programme>
-  <programme start="20260128020000 +0000" channel="sky_sports_16" stop="20260128040000 +0000">
+  <programme start="20260128010000 +0000" channel="sky_sports_16" stop="20260128030000 +0000">
     <title>Rayo Vallecano vs. CA Osasuna</title>
   </programme>
-  <programme start="20260128030000 +0000" channel="sky_sports_1_mexico" stop="20260128050000 +0000">
+  <programme start="20260128020000 +0000" channel="sky_sports_1_mexico" stop="20260128040000 +0000">
     <title>CD Leganés vs. Real Sociedad B</title>
   </programme>
-  <programme start="20260128033000 +0000" channel="sky_sports_24" stop="20260128053000 +0000">
+  <programme start="20260128023000 +0000" channel="sky_sports_24" stop="20260128043000 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260128040000 +0000" channel="sky_sports_16" stop="20260128060000 +0000">
+  <programme start="20260128030000 +0000" channel="sky_sports_16" stop="20260128050000 +0000">
     <title>Valencia vs. Espanyol</title>
+  </programme>
+  <programme start="20260128040000 +0000" channel="sky_sports_1_mexico" stop="20260128050000 +0000">
+    <title>Los Angeles Kings vs. Detroit R</title>
+  </programme>
+  <programme start="20260128043000 +0000" channel="sky_sports_24" stop="20260128050000 +0000">
+    <title>Bundesliga special show #07</title>
   </programme>
   <programme channel="1" start="20260124060000 +0000" stop="20260124080000 +0000">
     <liveEvent>false</liveEvent>
@@ -51125,18 +51119,22 @@
     <category>Classic Sport Event</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260126130000 +0000" stop="20260126150000 +0000" channel="133691">
-    <title>Morning Footy [Nuevo]</title>
-    <desc>Kick off the day with our daily morning soccer show, bringing the latest news from across the globe.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p24370982_b_v11_ad.jpg?w=240&amp;h=360"/>
+  <programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="133691">
+    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>The biggest news impacting global football, and match highlights.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p25657559_b_v11_af.jpg?w=240&amp;h=360"/>
     <date>2023</date>
     <category>Soccer</category>
-    <credits>
-      <actor>Susannah Collins</actor>
-    </credits>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="133691">
+    <title>Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>The biggest news impacting global football, and match highlights.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p25657559_b_v11_af.jpg?w=240&amp;h=360"/>
+    <date>2023</date>
+    <category>Soccer</category>
   </programme>
   <programme start="20260126150000 +0000" stop="20260126170000 +0000" channel="133691">
-    <title>Morning Footy</title>
+    <title>Morning Footy [En vivo] [Nuevo]</title>
     <desc>Kick off the day with our daily morning soccer show, bringing the latest news from across the globe.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24370982_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2023</date>
@@ -62075,7 +62073,6 @@
   </programme>
   <programme start="20260125140000 +0000" stop="20260125150000 +0000" channel="58646">
     <title>State of the Union With Jake Tapper and Dana Bash [Nuevo]</title>
-    <desc>Newsmakers, analysts and experts tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19358336_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -62089,7 +62086,6 @@
   </programme>
   <programme start="20260125150000 +0000" stop="20260125160000 +0000" channel="58646">
     <title>Fareed Zakaria GPS [Nuevo]</title>
-    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders and more.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p234245_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -62115,7 +62111,6 @@
   </programme>
   <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="58646">
     <title>State of the Union With Jake Tapper and Dana Bash [Nuevo]</title>
-    <desc>Newsmakers, analysts and experts tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19358336_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -105148,7 +105143,16 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260125105000 +0000" stop="20260125115000 +0000" channel="17725">
+  <programme start="20260125105000 +0000" stop="20260125110000 +0000" channel="17725">
+    <title>SportsCenter</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
+    <date>1979</date>
+    <category>News</category>
+    <category>Sports talk</category>
+    <rating system="Australian Classification Board">G</rating>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125115000 +0000" channel="17725">
     <title>SportsCenter</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -105359,14 +105363,14 @@
     <sub-title>Día 8</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260125003000 +0000" stop="20260125080000 +0000" channel="122501">
+  <programme start="20260125003000 +0000" stop="20260125080800 +0000" channel="122501">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Cobertura de los octavos de final ramas masculina y femenina. Desde el Melbourne Park, en Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Octavos de final</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260125080000 +0000" stop="20260125130000 +0000" channel="122501">
+  <programme start="20260125080800 +0000" stop="20260125130000 +0000" channel="122501">
     <title>Tenis Australian Open 2026 [En vivo] [Nuevo]</title>
     <desc>Cobertura de los octavos de final ramas masculina y femenina. Desde el Melbourne Park, en Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_ah.jpg?w=240&amp;h=360"/>
@@ -105542,11 +105546,23 @@
     <sub-title>Premier League: Bournemouth vs. Liverpool</sub-title>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260125070000 +0000" stop="20260125130000 +0000" channel="73834">
+  <programme start="20260125070000 +0000" stop="20260125071400 +0000" channel="73834">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
+  </programme>
+  <programme start="20260125071400 +0000" stop="20260125110000 +0000" channel="73834">
     <title>Golf DP World Tour [En vivo] [Nuevo]</title>
     <desc>Acción de la ronda final del Hero Dubai Desert Classic. Desde el Emirates Golf Club, en Dubai, EAU.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20993758_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Golf</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125130000 +0000" channel="73834">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
   </programme>
   <programme start="20260125130000 +0000" stop="20260125150000 +0000" channel="73834">
     <title>Ciclismo UCI World Tour masculino [Nuevo]</title>
@@ -105733,14 +105749,14 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260125013000 +0000" stop="20260125040000 +0000" channel="121544">
+  <programme start="20260125013000 +0000" stop="20260125040500 +0000" channel="121544">
     <title>Baloncesto NBA [En vivo] [Nuevo]</title>
     <desc>Semana de Rivales de la NBA 2026. Desde el American Airlines Center, en Dallas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SD2GZ.jpg?w=240&amp;h=360"/>
     <sub-title>Los Angeles Lakers vs. Dallas Mavericks</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="121544">
+  <programme start="20260125040500 +0000" stop="20260125050000 +0000" channel="121544">
     <title>ESPN Compact</title>
     <desc>Compacto de la jornada 23 de la Premier League 2025-26. Disputado el 24 de enero de 2026.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -105761,7 +105777,7 @@
     <sub-title>Olympique de Marsella vs. RC Lens</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260125075500 +0000" stop="20260125095000 +0000" channel="121544">
+  <programme start="20260125075500 +0000" stop="20260125095100 +0000" channel="121544">
     <title>Rugby Premiership</title>
     <desc>Acción de la semana 10 de la PREM Rugby 2025-26. Desde el CorpAcq Stadium, en Eccles, Inglaterra.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SFLWQ.jpg?w=240&amp;h=360"/>
@@ -105769,20 +105785,26 @@
     <category>Rugby union</category>
     <category>Rugby</category>
   </programme>
-  <programme start="20260125095000 +0000" stop="20260125105000 +0000" channel="121544">
+  <programme start="20260125095100 +0000" stop="20260125105100 +0000" channel="121544">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados de la jornada 21 de LaLiga 2025-26. Villareal se enfrenta a Real Madrid.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>LaLiga: Villareal vs. Real Madrid</sub-title>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260125105000 +0000" stop="20260125112000 +0000" channel="121544">
+  <programme start="20260125105100 +0000" stop="20260125110000 +0000" channel="121544">
     <title>UEFA Champions League Weekly</title>
     <desc>Toda la información y entrevistas de la jornada semanal de la Champions League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p519458_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2004</date>
     <category>Sports talk</category>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125112000 +0000" channel="121544">
+    <title>ESPN 4 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28512849_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Special</category>
+    <category>Sports talk</category>
   </programme>
   <programme start="20260125112000 +0000" stop="20260125133000 +0000" channel="121544">
     <title>Fútbol Serie A [En vivo] [Nuevo]</title>
@@ -106143,7 +106165,7 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260125010000 +0000" stop="20260125050000 +0000" channel="63385">
+  <programme start="20260125010000 +0000" stop="20260125054000 +0000" channel="63385">
     <title>ESPN KnockOut [En vivo] [Nuevo]</title>
     <desc>Raymond Muratalla (23-0, 17 KOs) defiende su título FIB peso ligero ante Andy Cruz (6-0, 3 KOs).</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16919782_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -106154,7 +106176,7 @@
       <actor>Renato Bermúdez</actor>
     </credits>
   </programme>
-  <programme start="20260125050000 +0000" stop="20260125060000 +0000" channel="63385">
+  <programme start="20260125054000 +0000" stop="20260125063700 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106163,7 +106185,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260125060000 +0000" stop="20260125065800 +0000" channel="63385">
+  <programme start="20260125063700 +0000" stop="20260125073500 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106172,7 +106194,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260125065800 +0000" stop="20260125075500 +0000" channel="63385">
+  <programme start="20260125073500 +0000" stop="20260125083200 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106181,7 +106203,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260125075500 +0000" stop="20260125085300 +0000" channel="63385">
+  <programme start="20260125083200 +0000" stop="20260125093000 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106190,7 +106212,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260125085300 +0000" stop="20260125095000 +0000" channel="63385">
+  <programme start="20260125093000 +0000" stop="20260125095000 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106208,7 +106230,7 @@
     <category>Sports talk</category>
     <category>News</category>
   </programme>
-  <programme start="20260125105000 +0000" stop="20260125115000 +0000" channel="63385">
+  <programme start="20260125105000 +0000" stop="20260125110000 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9742249_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -106216,6 +106238,12 @@
     <category>Special</category>
     <category>Sports talk</category>
     <category>News</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125115000 +0000" channel="63385">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
   </programme>
   <programme start="20260125115000 +0000" stop="20260125125000 +0000" channel="63385">
     <title>SportsCenter Andina Noche</title>
@@ -106456,21 +106484,21 @@
     <sub-title>TCU at Baylor</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="10179">
+  <programme start="20260125010000 +0000" stop="20260125014700 +0000" channel="10179">
     <title>College Basketball Live [En vivo] [Nuevo]</title>
     <desc>A discussion on the latest headlines, top players and upcoming matchups.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14865624_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2011</date>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125013000 +0000" stop="20260125033000 +0000" channel="10179">
+  <programme start="20260125014700 +0000" stop="20260125034600 +0000" channel="10179">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>From Coleman Coliseum in Tuscaloosa, Ala.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002TLVEY.jpg?w=240&amp;h=360"/>
     <sub-title>Tennessee at Alabama</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125033000 +0000" stop="20260125053000 +0000" channel="10179">
+  <programme start="20260125034600 +0000" stop="20260125053000 +0000" channel="10179">
     <title>X Games Aspen 2026 [En vivo] [Nuevo]</title>
     <desc>From Buttermilk Mountain in Aspen, Colo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31728402_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -106622,15 +106650,13 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126050000 +0000" channel="10179">
-    <title>SportsCenter With Scott Van Pelt [En vivo] [Nuevo]</title>
-    <desc>Scott Van Pelt presents the day in sports through his unique perspective.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p13816005_b_v11_ag.jpg?w=240&amp;h=360"/>
-    <date>2017</date>
+    <title>SportsCenter [En vivo] [Nuevo]</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
+    <date>1979</date>
     <category>News</category>
     <category>Sports talk</category>
-    <credits>
-      <actor>Scott Van Pelt</actor>
-    </credits>
+    <rating system="Australian Classification Board">G</rating>
   </programme>
   <programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="10179">
     <title>SportsCenter [En vivo] [Nuevo]</title>
@@ -106911,21 +106937,26 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Australian Classification Board">M 15+</rating>
   </programme>
-  <programme start="20260125003000 +0000" stop="20260125080000 +0000" channel="12444">
+  <programme start="20260125003000 +0000" stop="20260125114700 +0000" channel="12444">
     <title>2026 Australian Open Tennis [En vivo] [Nuevo]</title>
     <desc>From Melbourne Park in Melbourne, Victoria, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Men's and Women's Round of 16</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260125080000 +0000" stop="20260125120000 +0000" channel="12444">
-    <title>2026 Australian Open Tennis [En vivo] [Nuevo]</title>
-    <desc>From Melbourne Park in Melbourne, Victoria, Australia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Men's and Women's Round of 16</sub-title>
-    <category>Tennis</category>
+  <programme start="20260125114700 +0000" stop="20260125115900 +0000" channel="12444">
+    <title>NFL's Greatest Games</title>
+    <desc>From Jan. 24, 2015.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p817028_b_v8_af.jpg?w=240&amp;h=360"/>
+    <sub-title>2015 AFC Championship: Denver Broncos at New England Patriots</sub-title>
+    <category>Football</category>
+    <category>Classic Sport Event</category>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
+    <rating system="Régie du cinéma">G</rating>
+    <rating system="USA Parental Rating">TVG</rating>
+    <rating system="Canadian Parental Rating">G</rating>
   </programme>
-  <programme start="20260125120000 +0000" stop="20260125123000 +0000" channel="12444">
+  <programme start="20260125115900 +0000" stop="20260125122900 +0000" channel="12444">
     <title>NFL Matchup</title>
     <desc>A preview of key weekend matchups.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16625934_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -106937,7 +106968,7 @@
       <actor>Darius Butler</actor>
     </credits>
   </programme>
-  <programme start="20260125123000 +0000" stop="20260125130000 +0000" channel="12444">
+  <programme start="20260125122900 +0000" stop="20260125125900 +0000" channel="12444">
     <title>NFL's Greatest Games</title>
     <desc>From Jan. 23, 2022.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p817028_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -106949,7 +106980,7 @@
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
   </programme>
-  <programme start="20260125130000 +0000" stop="20260125133000 +0000" channel="12444">
+  <programme start="20260125125900 +0000" stop="20260125132900 +0000" channel="12444">
     <title>NFL's Greatest Games</title>
     <icon src="https://cltv.tmsimg.com/assets/p817028_b_v8_af.jpg?w=240&amp;h=360"/>
     <sub-title>2014 NFC Championship: Green Bay Packers at Seattle Seahawks</sub-title>
@@ -106960,7 +106991,7 @@
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
   </programme>
-  <programme start="20260125133000 +0000" stop="20260125140000 +0000" channel="12444">
+  <programme start="20260125132900 +0000" stop="20260125140000 +0000" channel="12444">
     <title>NFL's Greatest Games</title>
     <desc>From Jan. 24, 2015.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p817028_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -107002,14 +107033,14 @@
     <sub-title>Men's and Women's Round of 16</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260125180000 +0000" stop="20260125200000 +0000" channel="12444">
+  <programme start="20260125180000 +0000" stop="20260125201400 +0000" channel="12444">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>From Yuengling Center in Tampa, Fla.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002TQF61.jpg?w=240&amp;h=360"/>
     <sub-title>Florida Atlantic at South Florida</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125200000 +0000" stop="20260125213000 +0000" channel="12444">
+  <programme start="20260125201400 +0000" stop="20260125213000 +0000" channel="12444">
     <title>30 for 30</title>
     <desc>A tribute to the late ESPN anchor Stuart Scott, chronicling his life, career and cultural impact.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p7817579_b_v12_ap.jpg?w=240&amp;h=360"/>
@@ -107036,14 +107067,21 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260125230000 +0000" stop="20260126010000 +0000" channel="12444">
-    <title>League One Volleyball [En vivo] [Nuevo]</title>
-    <desc>From Gateway Center Arena at College Park in College Park, Ga.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p28928624_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>LOVB Nebraska at LOVB Atlanta</sub-title>
-    <category>Volleyball</category>
+  <programme start="20260125230000 +0000" stop="20260126003000 +0000" channel="12444">
+    <title>30 for 30</title>
+    <desc>Director Rory Karpf explores why this former Duke star was, and still is, so disliked.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p7817579_b_v12_ap.jpg?w=240&amp;h=360"/>
+    <sub-title>I Hate Christian Laettner</sub-title>
+    <date>2015</date>
+    <category>Documentary</category>
+    <credits>
+      <director>Rory Karpf</director>
+    </credits>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
+    <rating system="Australian Classification Board">PG</rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260126010000 +0000" stop="20260126080000 +0000" channel="12444">
+  <programme start="20260126003000 +0000" stop="20260126080000 +0000" channel="12444">
     <title>2026 Australian Open Tennis [En vivo] [Nuevo]</title>
     <desc>From Melbourne Park in Melbourne, Victoria, Australia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -107374,11 +107412,23 @@
     <sub-title>Premier League: Bournemouth vs. Liverpool</sub-title>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260125070000 +0000" stop="20260125130000 +0000" channel="73833">
+  <programme start="20260125070000 +0000" stop="20260125071400 +0000" channel="73833">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
+  </programme>
+  <programme start="20260125071400 +0000" stop="20260125110000 +0000" channel="73833">
     <title>Golf DP World Tour [En vivo] [Nuevo]</title>
     <desc>Acción de la ronda final del Hero Dubai Desert Classic. Desde el Emirates Golf Club, en Dubai, EAU.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20993758_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Golf</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125130000 +0000" channel="73833">
+    <title>ESPN Compact</title>
+    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
   </programme>
   <programme start="20260125130000 +0000" stop="20260125150000 +0000" channel="73833">
     <title>Ciclismo UCI World Tour masculino [Nuevo]</title>
@@ -107767,14 +107817,14 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260125013000 +0000" stop="20260125040000 +0000" channel="125748">
+  <programme start="20260125013000 +0000" stop="20260125040500 +0000" channel="125748">
     <title>Baloncesto NBA [En vivo] [Nuevo]</title>
     <desc>Semana de Rivales de la NBA 2026. Desde el American Airlines Center, en Dallas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SD2GZ.jpg?w=240&amp;h=360"/>
     <sub-title>Los Angeles Lakers vs. Dallas Mavericks</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="125748">
+  <programme start="20260125040500 +0000" stop="20260125050000 +0000" channel="125748">
     <title>ESPN Compact</title>
     <desc>Compacto de la jornada 23 de la Premier League 2025-26. Disputado el 24 de enero de 2026.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -107795,7 +107845,7 @@
     <sub-title>Olympique de Marsella vs. RC Lens</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260125075500 +0000" stop="20260125095000 +0000" channel="125748">
+  <programme start="20260125075500 +0000" stop="20260125095100 +0000" channel="125748">
     <title>Rugby Premiership</title>
     <desc>Acción de la semana 10 de la PREM Rugby 2025-26. Desde el CorpAcq Stadium, en Eccles, Inglaterra.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SFLWQ.jpg?w=240&amp;h=360"/>
@@ -107803,20 +107853,26 @@
     <category>Rugby union</category>
     <category>Rugby</category>
   </programme>
-  <programme start="20260125095000 +0000" stop="20260125105000 +0000" channel="125748">
+  <programme start="20260125095100 +0000" stop="20260125105100 +0000" channel="125748">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados de la jornada 21 de LaLiga 2025-26. Villareal se enfrenta a Real Madrid.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>LaLiga: Villareal vs. Real Madrid</sub-title>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260125105000 +0000" stop="20260125112000 +0000" channel="125748">
+  <programme start="20260125105100 +0000" stop="20260125110000 +0000" channel="125748">
     <title>UEFA Champions League Weekly</title>
     <desc>Toda la información y entrevistas de la jornada semanal de la Champions League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p519458_b_v8_ac.jpg?w=240&amp;h=360"/>
     <date>2004</date>
     <category>Sports talk</category>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125112000 +0000" channel="125748">
+    <title>ESPN 4 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28512849_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Special</category>
+    <category>Sports talk</category>
   </programme>
   <programme start="20260125112000 +0000" stop="20260125133000 +0000" channel="125748">
     <title>Fútbol Serie A [En vivo] [Nuevo]</title>
@@ -108129,19 +108185,11 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260126040000 +0000" stop="20260126050000 +0000" channel="121144">
+  <programme start="20260126040000 +0000" stop="20260126060000 +0000" channel="121144">
     <title>Golf DP World Tour [Nuevo]</title>
     <desc>Acción de la ronda final del Hero Dubai Desert Classic. Desde el Emirates Golf Club, en Dubai, EAU.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20993758_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Golf</category>
-  </programme>
-  <programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="121144">
-    <title>Inside Serie A</title>
-    <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p20478140_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2018</date>
-    <category>Soccer</category>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260126060000 +0000" stop="20260126080000 +0000" channel="121144">
     <title>Fútbol Americano NFL [Nuevo]</title>
@@ -108301,7 +108349,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Ministero della Cultura">T</rating>
   </programme>
-  <programme start="20260125003000 +0000" stop="20260125053000 +0000" channel="122027">
+  <programme start="20260125003000 +0000" stop="20260125051600 +0000" channel="122027">
     <title>Ciclismo UCI World Tour masculino [En vivo] [Nuevo]</title>
     <desc>Etapa 5 del Tour Down Under 2026. Los ciclistas se enfrentan a 169.8 kilómetros de recorrido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_aw.jpg?w=240&amp;h=360"/>
@@ -108309,7 +108357,7 @@
     <category>Cycling</category>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260125053000 +0000" stop="20260125060000 +0000" channel="122027">
+  <programme start="20260125051600 +0000" stop="20260125055400 +0000" channel="122027">
     <title>UEFA Champions League Weekly</title>
     <desc>Toda la información y entrevistas de la jornada semanal de la Champions League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p519458_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -108317,7 +108365,7 @@
     <category>Sports talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260125060000 +0000" stop="20260125070000 +0000" channel="122027">
+  <programme start="20260125055400 +0000" stop="20260125070000 +0000" channel="122027">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados de la jornada 21 de LaLiga 2025-26. Villareal se enfrenta a Real Madrid.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -108337,12 +108385,18 @@
     <sub-title>West Ham United vs. Sunderland</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260125105800 +0000" stop="20260125125600 +0000" channel="122027">
+  <programme start="20260125105800 +0000" stop="20260125110000 +0000" channel="122027">
     <title>Fútbol LaLiga</title>
     <desc>Jornada 21 de la temporada 2025-2026 de LaLiga. Desde el Estadio de Vallecas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002T3R7E.jpg?w=240&amp;h=360"/>
     <sub-title>Rayo Vallecano vs. Osasuna</sub-title>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260125110000 +0000" stop="20260125125600 +0000" channel="122027">
+    <title>ESPN 5 Sur</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28512747_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Special</category>
+    <category>Sports talk</category>
   </programme>
   <programme start="20260125125600 +0000" stop="20260125145400 +0000" channel="122027">
     <title>Ciclismo UCI World Tour masculino</title>
@@ -108696,17 +108750,10 @@
     <sub-title>Boca Juniors vs. Deportivo Riestra</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260124230000 +0000" stop="20260125010000 +0000" channel="91513">
+  <programme start="20260124230000 +0000" stop="20260125030000 +0000" channel="91513">
     <title>Fútbol Argentino Primera División</title>
     <desc>Encuentros de la Asociación de Fútbol Argentino de la Primera División.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9208940_b_v12_ac.jpg?w=240&amp;h=360"/>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260125010000 +0000" stop="20260125030000 +0000" channel="91513">
-    <title>Fútbol Bundesliga</title>
-    <desc>Acción de la jornada 19 de la Bundesliga 2025-26. Union Berlin busca romper su racha de 3 empates.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SVS96.jpg?w=240&amp;h=360"/>
-    <sub-title>1. FC Union Berlin vs. Borussia Dortmund</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260125030000 +0000" stop="20260125050000 +0000" channel="91513">
@@ -109146,9 +109193,8 @@
   </programme>
   <programme start="20260124223000 +0000" stop="20260125003000 +0000" channel="19158">
     <title>Best of Australian Open</title>
-    <desc>Un vistazo a los mejores momentos de la primera ronda de actividades del Australian Open 2026.</desc>
+    <desc>Un repaso a los mejores momentos del primer torneo de Grand Slam de la temporada. Desde Melbourne.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19418691_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>2026</sub-title>
     <category>Tennis</category>
     <category>Classic Sport Event</category>
   </programme>
@@ -115594,7 +115640,7 @@
     <category>Soccer</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260126223300 +0000" stop="20260127000000 +0000" channel="194841">
+  <programme start="20260126223300 +0000" stop="20260127002000 +0000" channel="194841">
     <title>Fútbol</title>
     <desc>Países Bajos enfrenta a la República Federal de Alemania en el Mundial de 1974.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p490189_b_v12_bg.jpg?w=240&amp;h=360"/>
@@ -121759,13 +121805,15 @@
     </credits>
   </programme>
   <programme start="20260125010000 +0000" stop="20260125020000 +0000" channel="60179">
-    <title>Life, Liberty &amp; Levin [En vivo] [Nuevo]</title>
-    <desc>Explore the fundamental values and principles undergirding American society, culture and politics.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p15194974_b_v7_ad.jpg?w=240&amp;h=360"/>
+    <title>The Big Weekend Show [En vivo] [Nuevo]</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p24887889_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
     <credits>
-      <actor>Mark Levin</actor>
+      <actor>Johnny Joey Jones</actor>
+      <actor>Alicia Acuna</actor>
+      <actor>Nicole Saphier</actor>
     </credits>
   </programme>
   <programme start="20260125020000 +0000" stop="20260125030000 +0000" channel="60179">
@@ -121781,7 +121829,14 @@
     </credits>
   </programme>
   <programme start="20260125030000 +0000" stop="20260125040000 +0000" channel="60179">
-    <title>FOX News Saturday Night With Jimmy Failla [En vivo] [Nuevo]</title>
+    <title>Fox News Live [En vivo] [Nuevo]</title>
+    <desc>The latest headlines and interviews with politicians and other national newsmakers.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p236745_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <date>2026</date>
+    <category>News</category>
+  </programme>
+  <programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="60179">
+    <title>FOX News Saturday Night With Jimmy Failla</title>
     <desc>Host Jimmy Failla gives a humorous perspective on the stories America is talking about.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26515293_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
@@ -121789,18 +121844,6 @@
     <category>Political News Satire &amp; Talk</category>
     <credits>
       <actor>Jimmy Failla</actor>
-    </credits>
-  </programme>
-  <programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="60179">
-    <title>Gutfeld!</title>
-    <desc>Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19706862_b_v12_ac.jpg?w=240&amp;h=360"/>
-    <date>2026</date>
-    <category>News</category>
-    <category>Entertainment</category>
-    <category>Comedy</category>
-    <credits>
-      <actor>Greg Gutfeld</actor>
     </credits>
   </programme>
   <programme start="20260125050000 +0000" stop="20260125060000 +0000" channel="60179">
@@ -129002,20 +129045,13 @@
     <date>2026</date>
     <category>Snowmobile</category>
   </programme>
-  <programme start="20260125220000 +0000" stop="20260125225000 +0000" channel="33178">
+  <programme start="20260125220000 +0000" stop="20260126005000 +0000" channel="33178">
     <title>AMSOIL Championship Snocross</title>
     <desc>Action from the Championship Snocross Series.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23749341_b_v12_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Shakopee, MN II</sub-title>
     <date>2026</date>
     <category>Snowmobile</category>
-  </programme>
-  <programme start="20260125225000 +0000" stop="20260126005000 +0000" channel="33178">
-    <title>2026 Concacaf U-17 Women's Qualifiers [En vivo] [Nuevo]</title>
-    <desc>From Stadion Rignaal 'Jean' Francisca in Curaçao.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32154600_b_v12_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Haiti U17 vs. Antigua and Barbuda U17</sub-title>
-    <category>Soccer</category>
   </programme>
   <programme start="20260126005000 +0000" stop="20260126030000 +0000" channel="33178">
     <title>2026 Concacaf U-17 Women's Qualifiers [En vivo] [Nuevo]</title>
@@ -169754,19 +169790,10 @@
     <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260125113000 +0000" stop="20260125120000 +0000" channel="11109">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
+    <title>Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc>Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients for prostate health.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p12448618_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260125120000 +0000" stop="20260125130000 +0000" channel="11109">
     <title>World Poker Tour</title>
@@ -169792,19 +169819,10 @@
     <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260125133000 +0000" stop="20260125140000 +0000" channel="11109">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
+    <title>Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc>Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients for prostate health.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p12448618_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260125140000 +0000" stop="20260125143000 +0000" channel="11109">
     <title>Paid Programming</title>
@@ -170157,19 +170175,10 @@
     <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="11109">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
+    <title>Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc>Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients for prostate health.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p12448618_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="11109">
     <title>World Poker Tour</title>
@@ -170195,19 +170204,10 @@
     <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260126133000 +0000" stop="20260126140000 +0000" channel="11109">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
+    <title>Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc>Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients for prostate health.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p12448618_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="11109">
     <title>Dubs Talk</title>
@@ -170507,19 +170507,9 @@
     </credits>
   </programme>
   <programme start="20260125070000 +0000" stop="20260125073000 +0000" channel="11104">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p459763_b_v12_ba.jpg?w=240&amp;h=360"/>
-    <category>Shopping</category>
+    <title>Transform your home today, fast &amp; easy!</title>
+    <icon src="https://cltv.tmsimg.com/assets/p28532963_st_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Consumer</category>
-    <category>Variety</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">G</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260125073000 +0000" stop="20260125080000 +0000" channel="11104">
     <title>Paid Programming</title>
