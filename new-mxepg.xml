@@ -1259,353 +1259,359 @@
     <icon src="https://cltv.tmsimg.com/assets/s89920_ll_h15_ab.png?w=360&amp;h=270"/>
     <display-name>ZooMoo</display-name>
   </channel>
-  <programme start="20260201050000 +0000" channel="sky_sports_1_mexico" stop="20260201073000 +0000">
+  <programme start="20260201040000 +0000" channel="sky_sports_1_mexico" stop="20260201063000 +0000">
     <title>Montréal Canadiens vs. Buffalo</title>
   </programme>
-  <programme start="20260201050000 +0000" channel="sky_sports_16" stop="20260201070000 +0000">
+  <programme start="20260201040000 +0000" channel="sky_sports_16" stop="20260201060000 +0000">
     <title>RCD Real Oviedo vs. Girona FC</title>
   </programme>
-  <programme start="20260201050000 +0000" channel="sky_sports_24" stop="20260201051500 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260201051500 +0000" channel="sky_sports_24" stop="20260201071500 +0000">
+  <programme start="20260201041500 +0000" channel="sky_sports_24" stop="20260201061500 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260201070000 +0000" channel="sky_sports_16" stop="20260201090000 +0000">
+  <programme start="20260201060000 +0000" channel="sky_sports_16" stop="20260201080000 +0000">
     <title>CA Osasuna vs. Villarreal</title>
   </programme>
-  <programme start="20260201071500 +0000" channel="sky_sports_24" stop="20260201091500 +0000">
+  <programme start="20260201061500 +0000" channel="sky_sports_24" stop="20260201081500 +0000">
     <title>FC St. Pauli vs. Hamburger SV</title>
   </programme>
-  <programme start="20260201073000 +0000" channel="sky_sports_1_mexico" stop="20260201090000 +0000">
+  <programme start="20260201063000 +0000" channel="sky_sports_1_mexico" stop="20260201080000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260201090000 +0000" channel="sky_sports_1_mexico" stop="20260201120000 +0000">
+  <programme start="20260201080000 +0000" channel="sky_sports_1_mexico" stop="20260201110000 +0000">
     <title>Montréal Canadiens vs. Buffalo</title>
   </programme>
-  <programme start="20260201090000 +0000" channel="sky_sports_16" stop="20260201094500 +0000">
+  <programme start="20260201080000 +0000" channel="sky_sports_16" stop="20260201084500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260201091500 +0000" channel="sky_sports_24" stop="20260201111500 +0000">
+  <programme start="20260201081500 +0000" channel="sky_sports_24" stop="20260201101500 +0000">
     <title>Bayern Múnich vs. RB Leipzi</title>
   </programme>
-  <programme start="20260201094500 +0000" channel="sky_sports_16" stop="20260201114500 +0000">
+  <programme start="20260201084500 +0000" channel="sky_sports_16" stop="20260201104500 +0000">
     <title>Levante vs. Atlético de Madridadr</title>
   </programme>
-  <programme start="20260201111500 +0000" channel="sky_sports_24" stop="20260201131500 +0000">
+  <programme start="20260201101500 +0000" channel="sky_sports_24" stop="20260201121500 +0000">
     <title>Borussia M'gladbach vs. VfB Stu</title>
   </programme>
-  <programme start="20260201114500 +0000" channel="sky_sports_16" stop="20260201120000 +0000">
+  <programme start="20260201104500 +0000" channel="sky_sports_16" stop="20260201110000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260201120000 +0000" channel="sky_sports_1_mexico" stop="20260201140000 +0000">
+  <programme start="20260201110000 +0000" channel="sky_sports_1_mexico" stop="20260201130000 +0000">
     <title>ud almería. Vs ad ceuta fc</title>
   </programme>
-  <programme start="20260201120000 +0000" channel="sky_sports_16" stop="20260201140000 +0000">
+  <programme start="20260201110000 +0000" channel="sky_sports_16" stop="20260201130000 +0000">
     <title>Real Madrid Vs. Rayo Vallecano</title>
   </programme>
-  <programme start="20260201131500 +0000" channel="sky_sports_24" stop="20260201133000 +0000">
+  <programme start="20260201121500 +0000" channel="sky_sports_24" stop="20260201123000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260201133000 +0000" channel="sky_sports_24" stop="20260201153000 +0000">
+  <programme start="20260201123000 +0000" channel="sky_sports_24" stop="20260201143000 +0000">
     <title>Stuttgart vs. Freiburg</title>
   </programme>
-  <programme start="20260201140000 +0000" channel="sky_sports_1_mexico" stop="20260201141500 +0000">
+  <programme start="20260201130000 +0000" channel="sky_sports_1_mexico" stop="20260201131500 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260201140000 +0000" channel="sky_sports_16" stop="20260201141500 +0000">
+  <programme start="20260201130000 +0000" channel="sky_sports_16" stop="20260201131500 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260201141500 +0000" channel="sky_sports_1_mexico" stop="20260201161500 +0000">
+  <programme start="20260201131500 +0000" channel="sky_sports_1_mexico" stop="20260201151500 +0000">
     <title>Eibar vs. Real Sporting de G</title>
   </programme>
-  <programme start="20260201141500 +0000" channel="sky_sports_16" stop="20260201161500 +0000">
+  <programme start="20260201131500 +0000" channel="sky_sports_16" stop="20260201151500 +0000">
     <title>Real Betis vs. Valencia</title>
   </programme>
-  <programme start="20260201153000 +0000" channel="sky_sports_24" stop="20260201173000 +0000">
+  <programme start="20260201143000 +0000" channel="sky_sports_24" stop="20260201163000 +0000">
     <title>Borussia Dortmund vs. FC Heiden</title>
   </programme>
-  <programme start="20260201161500 +0000" channel="sky_sports_1_mexico" stop="20260201163000 +0000">
+  <programme start="20260201151500 +0000" channel="sky_sports_1_mexico" stop="20260201153000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260201161500 +0000" channel="sky_sports_16" stop="20260201163000 +0000">
+  <programme start="20260201151500 +0000" channel="sky_sports_16" stop="20260201153000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260201163000 +0000" channel="sky_sports_1_mexico" stop="20260201183000 +0000">
+  <programme start="20260201153000 +0000" channel="sky_sports_1_mexico" stop="20260201173000 +0000">
     <title>CD Castellón vs. FC Andorra</title>
   </programme>
-  <programme start="20260201163000 +0000" channel="sky_sports_16" stop="20260201183000 +0000">
+  <programme start="20260201153000 +0000" channel="sky_sports_16" stop="20260201173000 +0000">
     <title>Getafe vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260201173000 +0000" channel="sky_sports_24" stop="20260201193000 +0000">
+  <programme start="20260201163000 +0000" channel="sky_sports_24" stop="20260201183000 +0000">
     <title>VfB Stuttgart vs. Freiburg</title>
   </programme>
-  <programme start="20260201183000 +0000" channel="sky_sports_1_mexico" stop="20260201200000 +0000">
+  <programme start="20260201173000 +0000" channel="sky_sports_1_mexico" stop="20260201190000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260201183000 +0000" channel="sky_sports_16" stop="20260201184500 +0000">
+  <programme start="20260201173000 +0000" channel="sky_sports_16" stop="20260201174500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260201184500 +0000" channel="sky_sports_16" stop="20260201190000 +0000">
+  <programme start="20260201174500 +0000" channel="sky_sports_16" stop="20260201180000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260201190000 +0000" channel="sky_sports_16" stop="20260201210000 +0000">
+  <programme start="20260201180000 +0000" channel="sky_sports_16" stop="20260201200000 +0000">
     <title>Athletic Club de Bilbao vs. Re</title>
   </programme>
-  <programme start="20260201193000 +0000" channel="sky_sports_24" stop="20260201213000 +0000">
+  <programme start="20260201183000 +0000" channel="sky_sports_24" stop="20260201203000 +0000">
     <title>Borussia Dortmund vs. FC Heiden</title>
   </programme>
-  <programme start="20260201200000 +0000" channel="sky_sports_1_mexico" stop="20260201220000 +0000">
+  <programme start="20260201190000 +0000" channel="sky_sports_1_mexico" stop="20260201210000 +0000">
     <title>World athletic indoor tour 202</title>
   </programme>
-  <programme start="20260201210000 +0000" channel="sky_sports_16" stop="20260201230000 +0000">
+  <programme start="20260201200000 +0000" channel="sky_sports_16" stop="20260201220000 +0000">
     <title>Real Madrid Vs. Rayo Vallecano</title>
   </programme>
-  <programme start="20260201213000 +0000" channel="sky_sports_24" stop="20260201233000 +0000">
+  <programme start="20260201203000 +0000" channel="sky_sports_24" stop="20260201223000 +0000">
     <title>1. FC Kaiserslautern vs. Elvers</title>
   </programme>
-  <programme start="20260201220000 +0000" channel="sky_sports_1_mexico" stop="20260201223000 +0000">
+  <programme start="20260201210000 +0000" channel="sky_sports_1_mexico" stop="20260201213000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260201223000 +0000" channel="sky_sports_1_mexico" stop="20260202013000 +0000">
+  <programme start="20260201213000 +0000" channel="sky_sports_1_mexico" stop="20260202003000 +0000">
     <title>Boston Bruins vs. Tampa Bay Lig</title>
   </programme>
-  <programme start="20260201230000 +0000" channel="sky_sports_16" stop="20260202010000 +0000">
+  <programme start="20260201220000 +0000" channel="sky_sports_16" stop="20260202000000 +0000">
     <title>Elche vs. Barcelona</title>
   </programme>
-  <programme start="20260201233000 +0000" channel="sky_sports_24" stop="20260202013000 +0000">
+  <programme start="20260201223000 +0000" channel="sky_sports_24" stop="20260202003000 +0000">
     <title>Hamburger SV vs. Bayern Múnich</title>
   </programme>
-  <programme start="20260202010000 +0000" channel="sky_sports_16" stop="20260202030000 +0000">
+  <programme start="20260202000000 +0000" channel="sky_sports_16" stop="20260202020000 +0000">
     <title>Real Betis vs. Valencia</title>
   </programme>
-  <programme start="20260202013000 +0000" channel="sky_sports_1_mexico" stop="20260202033000 +0000">
+  <programme start="20260202003000 +0000" channel="sky_sports_1_mexico" stop="20260202023000 +0000">
     <title>Almería vs. AD Ceuta FC</title>
   </programme>
-  <programme start="20260202013000 +0000" channel="sky_sports_24" stop="20260202033000 +0000">
+  <programme start="20260202003000 +0000" channel="sky_sports_24" stop="20260202023000 +0000">
     <title>1. FC Köln vs. Wolfsburg</title>
   </programme>
-  <programme start="20260202030000 +0000" channel="sky_sports_16" stop="20260202050000 +0000">
+  <programme start="20260202020000 +0000" channel="sky_sports_16" stop="20260202040000 +0000">
     <title>Athletic Club de Bilbao vs. Rea</title>
   </programme>
-  <programme start="20260202033000 +0000" channel="sky_sports_1_mexico" stop="20260202050000 +0000">
+  <programme start="20260202023000 +0000" channel="sky_sports_1_mexico" stop="20260202040000 +0000">
     <title>Boston Bruins vs. Tampa Bay Lig</title>
   </programme>
-  <programme start="20260202033000 +0000" channel="sky_sports_24" stop="20260202050000 +0000">
+  <programme start="20260202023000 +0000" channel="sky_sports_24" stop="20260202040000 +0000">
     <title>Bayern Múnich vs. RB Leipzi</title>
   </programme>
-  <programme start="20260202050000 +0000" channel="sky_sports_1_mexico" stop="20260202070000 +0000">
+  <programme start="20260202040000 +0000" channel="sky_sports_1_mexico" stop="20260202060000 +0000">
     <title>Boston Bruins vs. Tampa Bay Lig</title>
   </programme>
-  <programme start="20260202050000 +0000" channel="sky_sports_16" stop="20260202070000 +0000">
+  <programme start="20260202040000 +0000" channel="sky_sports_16" stop="20260202060000 +0000">
     <title>Getafe vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260202050000 +0000" channel="sky_sports_24" stop="20260202053000 +0000">
+  <programme start="20260202040000 +0000" channel="sky_sports_24" stop="20260202043000 +0000">
     <title>Bayern Múnich vs. RB Leipzi</title>
   </programme>
-  <programme start="20260202053000 +0000" channel="sky_sports_24" stop="20260202073000 +0000">
+  <programme start="20260202043000 +0000" channel="sky_sports_24" stop="20260202063000 +0000">
     <title>Bochum vs. Schalke 04</title>
   </programme>
-  <programme start="20260202070000 +0000" channel="sky_sports_1_mexico" stop="20260202090000 +0000">
+  <programme start="20260202060000 +0000" channel="sky_sports_1_mexico" stop="20260202080000 +0000">
     <title>Albacete BP vs. Real Zaragoza</title>
   </programme>
-  <programme start="20260202070000 +0000" channel="sky_sports_16" stop="20260202090000 +0000">
+  <programme start="20260202060000 +0000" channel="sky_sports_16" stop="20260202080000 +0000">
     <title>CA Osasuna vs. Villarreal</title>
   </programme>
-  <programme start="20260202073000 +0000" channel="sky_sports_24" stop="20260202093000 +0000">
+  <programme start="20260202063000 +0000" channel="sky_sports_24" stop="20260202083000 +0000">
     <title>1. FC Kaiserslautern vs. Elvers</title>
   </programme>
-  <programme start="20260202090000 +0000" channel="sky_sports_1_mexico" stop="20260202113000 +0000">
+  <programme start="20260202080000 +0000" channel="sky_sports_1_mexico" stop="20260202103000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260202090000 +0000" channel="sky_sports_16" stop="20260202104500 +0000">
+  <programme start="20260202080000 +0000" channel="sky_sports_16" stop="20260202094500 +0000">
     <title>Flamengo vs. Palmeiras</title>
   </programme>
-  <programme start="20260202093000 +0000" channel="sky_sports_24" stop="20260202113000 +0000">
+  <programme start="20260202083000 +0000" channel="sky_sports_24" stop="20260202103000 +0000">
     <title>Werder Bremen vs. Hoffenheim</title>
   </programme>
-  <programme start="20260202104500 +0000" channel="sky_sports_16" stop="20260202124500 +0000">
+  <programme start="20260202094500 +0000" channel="sky_sports_16" stop="20260202114500 +0000">
     <title>Espanyol vs. Deportivo Alav</title>
   </programme>
-  <programme start="20260202113000 +0000" channel="sky_sports_1_mexico" stop="20260202133000 +0000">
+  <programme start="20260202103000 +0000" channel="sky_sports_1_mexico" stop="20260202123000 +0000">
     <title>Real Sociedad B vs. UD las Palm</title>
   </programme>
-  <programme start="20260202113000 +0000" channel="sky_sports_24" stop="20260202133000 +0000">
+  <programme start="20260202103000 +0000" channel="sky_sports_24" stop="20260202123000 +0000">
     <title>1. FC Köln vs. Wolfsburg</title>
   </programme>
-  <programme start="20260202124500 +0000" channel="sky_sports_16" stop="20260202144500 +0000">
+  <programme start="20260202114500 +0000" channel="sky_sports_16" stop="20260202134500 +0000">
     <title>RCD Real Oviedo vs. Girona FC</title>
   </programme>
-  <programme start="20260202133000 +0000" channel="sky_sports_1_mexico" stop="20260202163000 +0000">
+  <programme start="20260202123000 +0000" channel="sky_sports_1_mexico" stop="20260202153000 +0000">
     <title>Boston Bruins vs. Tampa Bay Lig</title>
   </programme>
-  <programme start="20260202133000 +0000" channel="sky_sports_24" stop="20260202153000 +0000">
+  <programme start="20260202123000 +0000" channel="sky_sports_24" stop="20260202143000 +0000">
     <title>Augsburg vs. St. Pauli</title>
   </programme>
-  <programme start="20260202144500 +0000" channel="sky_sports_16" stop="20260202164500 +0000">
+  <programme start="20260202134500 +0000" channel="sky_sports_16" stop="20260202154500 +0000">
     <title>Athletic Club de Bilbao vs. Rea</title>
   </programme>
-  <programme start="20260202153000 +0000" channel="sky_sports_24" stop="20260202173000 +0000">
+  <programme start="20260202143000 +0000" channel="sky_sports_24" stop="20260202163000 +0000">
     <title>RB Leipzig vs. Mainz 05</title>
   </programme>
-  <programme start="20260202163000 +0000" channel="sky_sports_1_mexico" stop="20260202183000 +0000">
+  <programme start="20260202153000 +0000" channel="sky_sports_1_mexico" stop="20260202173000 +0000">
     <title>Cultural Leonesa vs. Deportivo</title>
   </programme>
-  <programme start="20260202164500 +0000" channel="sky_sports_16" stop="20260202184500 +0000">
+  <programme start="20260202154500 +0000" channel="sky_sports_16" stop="20260202174500 +0000">
     <title>Levante vs. Atlético de Madridadr</title>
   </programme>
-  <programme start="20260202173000 +0000" channel="sky_sports_24" stop="20260202193000 +0000">
+  <programme start="20260202163000 +0000" channel="sky_sports_24" stop="20260202183000 +0000">
     <title>Frankfurt vs. Leverkusen</title>
   </programme>
-  <programme start="20260202183000 +0000" channel="sky_sports_1_mexico" stop="20260202203000 +0000">
+  <programme start="20260202173000 +0000" channel="sky_sports_1_mexico" stop="20260202193000 +0000">
     <title>CD Mirandés vs. Málaga</title>
   </programme>
-  <programme start="20260202184500 +0000" channel="sky_sports_16" stop="20260202190000 +0000">
+  <programme start="20260202174500 +0000" channel="sky_sports_16" stop="20260202180000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260202190000 +0000" channel="sky_sports_16" stop="20260202210000 +0000">
+  <programme start="20260202180000 +0000" channel="sky_sports_16" stop="20260202200000 +0000">
     <title>RCD Mallorca vs. Sevilla</title>
   </programme>
-  <programme start="20260202193000 +0000" channel="sky_sports_24" stop="20260202213000 +0000">
+  <programme start="20260202183000 +0000" channel="sky_sports_24" stop="20260202203000 +0000">
     <title>Werder Bremen vs. Mönchengladba</title>
   </programme>
-  <programme start="20260202203000 +0000" channel="sky_sports_1_mexico" stop="20260202233000 +0000">
+  <programme start="20260202193000 +0000" channel="sky_sports_1_mexico" stop="20260202223000 +0000">
     <title>Boston Bruins vs. Tampa Bay Lig</title>
   </programme>
-  <programme start="20260202210000 +0000" channel="sky_sports_16" stop="20260202230000 +0000">
+  <programme start="20260202200000 +0000" channel="sky_sports_16" stop="20260202220000 +0000">
     <title>Getafe vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260202213000 +0000" channel="sky_sports_24" stop="20260202233000 +0000">
+  <programme start="20260202203000 +0000" channel="sky_sports_24" stop="20260202223000 +0000">
     <title>VfB Stuttgart vs. Freiburg</title>
   </programme>
-  <programme start="20260202230000 +0000" channel="sky_sports_16" stop="20260203010000 +0000">
+  <programme start="20260202220000 +0000" channel="sky_sports_16" stop="20260203000000 +0000">
     <title>Real Madrid Vs. Rayo Vallecano</title>
   </programme>
-  <programme start="20260202233000 +0000" channel="sky_sports_1_mexico" stop="20260203023000 +0000">
+  <programme start="20260202223000 +0000" channel="sky_sports_1_mexico" stop="20260203013000 +0000">
     <title>Montréal Canadiens vs. Minnesot</title>
   </programme>
-  <programme start="20260202233000 +0000" channel="sky_sports_24" stop="20260203013000 +0000">
+  <programme start="20260202223000 +0000" channel="sky_sports_24" stop="20260203003000 +0000">
     <title>Borussia Dortmund vs. FC Heiden</title>
   </programme>
-  <programme start="20260203010000 +0000" channel="sky_sports_16" stop="20260203030000 +0000">
+  <programme start="20260203000000 +0000" channel="sky_sports_16" stop="20260203020000 +0000">
     <title>CA Osasuna vs. Villarreal</title>
   </programme>
-  <programme start="20260203013000 +0000" channel="sky_sports_24" stop="20260203033000 +0000">
+  <programme start="20260203003000 +0000" channel="sky_sports_24" stop="20260203023000 +0000">
     <title>Bayern Múnich vs. RB Leipzi</title>
   </programme>
-  <programme start="20260203023000 +0000" channel="sky_sports_1_mexico" stop="20260203050000 +0000">
+  <programme start="20260203013000 +0000" channel="sky_sports_1_mexico" stop="20260203040000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260203030000 +0000" channel="sky_sports_16" stop="20260203050000 +0000">
+  <programme start="20260203020000 +0000" channel="sky_sports_16" stop="20260203040000 +0000">
     <title>RCD Mallorca vs. Sevilla</title>
   </programme>
-  <programme start="20260203033000 +0000" channel="sky_sports_24" stop="20260203050000 +0000">
+  <programme start="20260203023000 +0000" channel="sky_sports_24" stop="20260203040000 +0000">
     <title>Flamengo vs. Palmeiras</title>
   </programme>
-  <programme start="20260203050000 +0000" channel="sky_sports_1_mexico" stop="20260203080000 +0000">
+  <programme start="20260203040000 +0000" channel="sky_sports_1_mexico" stop="20260203070000 +0000">
     <title>Montréal Canadiens vs. Minnesot</title>
   </programme>
-  <programme start="20260203050000 +0000" channel="sky_sports_16" stop="20260203070000 +0000">
+  <programme start="20260203040000 +0000" channel="sky_sports_16" stop="20260203060000 +0000">
     <title>Espanyol vs. Deportivo Alav</title>
   </programme>
-  <programme start="20260203050000 +0000" channel="sky_sports_24" stop="20260203070000 +0000">
+  <programme start="20260203040000 +0000" channel="sky_sports_24" stop="20260203060000 +0000">
     <title>Bochum vs. Schalke 04</title>
   </programme>
-  <programme start="20260203070000 +0000" channel="sky_sports_16" stop="20260203090000 +0000">
+  <programme start="20260203060000 +0000" channel="sky_sports_16" stop="20260203080000 +0000">
     <title>RCD Real Oviedo vs. Girona FC</title>
   </programme>
-  <programme start="20260203070000 +0000" channel="sky_sports_24" stop="20260203090000 +0000">
+  <programme start="20260203060000 +0000" channel="sky_sports_24" stop="20260203080000 +0000">
     <title>1. FC Kaiserslautern vs. Elvers</title>
   </programme>
-  <programme start="20260203080000 +0000" channel="sky_sports_1_mexico" stop="20260203100000 +0000">
+  <programme start="20260203070000 +0000" channel="sky_sports_1_mexico" stop="20260203090000 +0000">
     <title>Almería vs. AD Ceuta FC</title>
   </programme>
-  <programme start="20260203090000 +0000" channel="sky_sports_16" stop="20260203110000 +0000">
+  <programme start="20260203080000 +0000" channel="sky_sports_16" stop="20260203100000 +0000">
     <title>CA Osasuna vs. Villareal CF</title>
   </programme>
-  <programme start="20260203090000 +0000" channel="sky_sports_24" stop="20260203110000 +0000">
+  <programme start="20260203080000 +0000" channel="sky_sports_24" stop="20260203100000 +0000">
     <title>TSG 1899 Hoffenheim vs. Werder</title>
   </programme>
-  <programme start="20260203100000 +0000" channel="sky_sports_1_mexico" stop="20260203120000 +0000">
+  <programme start="20260203090000 +0000" channel="sky_sports_1_mexico" stop="20260203110000 +0000">
     <title>Cultural Leonesa vs. Deportivo</title>
   </programme>
-  <programme start="20260203110000 +0000" channel="sky_sports_16" stop="20260203130000 +0000">
+  <programme start="20260203100000 +0000" channel="sky_sports_16" stop="20260203120000 +0000">
     <title>Levante vs. Atlétoco de Madr</title>
   </programme>
-  <programme start="20260203110000 +0000" channel="sky_sports_24" stop="20260203130000 +0000">
+  <programme start="20260203100000 +0000" channel="sky_sports_24" stop="20260203120000 +0000">
     <title>1. FC Köln vs. Wolfsburg</title>
   </programme>
-  <programme start="20260203120000 +0000" channel="sky_sports_1_mexico" stop="20260203133000 +0000">
+  <programme start="20260203110000 +0000" channel="sky_sports_1_mexico" stop="20260203123000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260203130000 +0000" channel="sky_sports_16" stop="20260203150000 +0000">
+  <programme start="20260203120000 +0000" channel="sky_sports_16" stop="20260203140000 +0000">
     <title>Real Betis vs. Valencia</title>
   </programme>
-  <programme start="20260203130000 +0000" channel="sky_sports_24" stop="20260203150000 +0000">
+  <programme start="20260203120000 +0000" channel="sky_sports_24" stop="20260203140000 +0000">
     <title>Frankfurt vs. Leverkusen</title>
   </programme>
-  <programme start="20260203133000 +0000" channel="sky_sports_1_mexico" stop="20260203153000 +0000">
+  <programme start="20260203123000 +0000" channel="sky_sports_1_mexico" stop="20260203143000 +0000">
     <title>CD Castellón vs. FC Andorra</title>
   </programme>
-  <programme start="20260203150000 +0000" channel="sky_sports_16" stop="20260203170000 +0000">
+  <programme start="20260203140000 +0000" channel="sky_sports_16" stop="20260203160000 +0000">
     <title>Athletic Club de Bilbao vs. Rea</title>
   </programme>
-  <programme start="20260203150000 +0000" channel="sky_sports_24" stop="20260203170000 +0000">
+  <programme start="20260203140000 +0000" channel="sky_sports_24" stop="20260203160000 +0000">
     <title>Werder Bremen vs. Mönchengladba</title>
   </programme>
-  <programme start="20260203153000 +0000" channel="sky_sports_1_mexico" stop="20260203183000 +0000">
+  <programme start="20260203143000 +0000" channel="sky_sports_1_mexico" stop="20260203173000 +0000">
     <title>Montréal Canadiens vs. Minnesot</title>
   </programme>
-  <programme start="20260203170000 +0000" channel="sky_sports_16" stop="20260203190000 +0000">
+  <programme start="20260203160000 +0000" channel="sky_sports_16" stop="20260203180000 +0000">
     <title>Levante vs. Atlétoco de Madr</title>
   </programme>
-  <programme start="20260203170000 +0000" channel="sky_sports_24" stop="20260203190000 +0000">
+  <programme start="20260203160000 +0000" channel="sky_sports_24" stop="20260203180000 +0000">
     <title>Augsburg vs. St. Pauli</title>
   </programme>
-  <programme start="20260203183000 +0000" channel="sky_sports_1_mexico" stop="20260203203000 +0000">
+  <programme start="20260203173000 +0000" channel="sky_sports_1_mexico" stop="20260203193000 +0000">
     <title>Córdoba vs. Real Valladolid</title>
   </programme>
-  <programme start="20260203190000 +0000" channel="sky_sports_16" stop="20260203210000 +0000">
+  <programme start="20260203180000 +0000" channel="sky_sports_16" stop="20260203200000 +0000">
     <title>Albacete BP vs. Barcelona</title>
   </programme>
-  <programme start="20260203190000 +0000" channel="sky_sports_24" stop="20260203210000 +0000">
+  <programme start="20260203180000 +0000" channel="sky_sports_24" stop="20260203200000 +0000">
     <title>RB Leipzig vs. Mainz 05</title>
   </programme>
-  <programme start="20260203203000 +0000" channel="sky_sports_1_mexico" stop="20260203230000 +0000">
+  <programme start="20260203193000 +0000" channel="sky_sports_1_mexico" stop="20260203220000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260203210000 +0000" channel="sky_sports_16" stop="20260203230000 +0000">
+  <programme start="20260203200000 +0000" channel="sky_sports_16" stop="20260203220000 +0000">
     <title>Getafe vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260203210000 +0000" channel="sky_sports_24" stop="20260203230000 +0000">
+  <programme start="20260203200000 +0000" channel="sky_sports_24" stop="20260203220000 +0000">
     <title>Hoffenheim vs. 1. FC Union Berl</title>
   </programme>
-  <programme start="20260203230000 +0000" channel="sky_sports_1_mexico" stop="20260204020000 +0000">
+  <programme start="20260203220000 +0000" channel="sky_sports_1_mexico" stop="20260204010000 +0000">
     <title>Ottawa Senators vs. Carolina Hu</title>
   </programme>
-  <programme start="20260203230000 +0000" channel="sky_sports_16" stop="20260204010000 +0000">
+  <programme start="20260203220000 +0000" channel="sky_sports_16" stop="20260204000000 +0000">
     <title>Elche vs. Barcelona</title>
   </programme>
-  <programme start="20260203230000 +0000" channel="sky_sports_24" stop="20260204010000 +0000">
+  <programme start="20260203220000 +0000" channel="sky_sports_24" stop="20260204000000 +0000">
     <title>Hamburger SV vs. Bayern Múnich</title>
   </programme>
-  <programme start="20260204010000 +0000" channel="sky_sports_16" stop="20260204030000 +0000">
+  <programme start="20260204000000 +0000" channel="sky_sports_16" stop="20260204020000 +0000">
     <title>Albacete BP vs. Barcelona</title>
   </programme>
-  <programme start="20260204010000 +0000" channel="sky_sports_24" stop="20260204030000 +0000">
+  <programme start="20260204000000 +0000" channel="sky_sports_24" stop="20260204020000 +0000">
     <title>VfB Stuttgart vs. Freiburg</title>
   </programme>
-  <programme start="20260204020000 +0000" channel="sky_sports_1_mexico" stop="20260204040000 +0000">
+  <programme start="20260204010000 +0000" channel="sky_sports_1_mexico" stop="20260204030000 +0000">
     <title>CD Mirandés vs. Málaga</title>
   </programme>
-  <programme start="20260204030000 +0000" channel="sky_sports_16" stop="20260204050000 +0000">
+  <programme start="20260204020000 +0000" channel="sky_sports_16" stop="20260204040000 +0000">
     <title>Espanyol vs. Deportivo Alav</title>
   </programme>
-  <programme start="20260204030000 +0000" channel="sky_sports_24" stop="20260204050000 +0000">
+  <programme start="20260204020000 +0000" channel="sky_sports_24" stop="20260204040000 +0000">
     <title>Borussia Dortmund vs. FC Heiden</title>
   </programme>
-  <programme start="20260204040000 +0000" channel="sky_sports_1_mexico" stop="20260204050000 +0000">
+  <programme start="20260204030000 +0000" channel="sky_sports_1_mexico" stop="20260204040000 +0000">
     <title>Ottawa Senators vs. Carolina Hu</title>
+  </programme>
+  <programme start="20260204040000 +0000" channel="sky_sports_1_mexico" stop="20260204060000 +0000">
+    <title>Ottawa Senators vs. Carolina Hu</title>
+  </programme>
+  <programme start="20260204040000 +0000" channel="sky_sports_16" stop="20260204060000 +0000">
+    <title>Real Betis vs. Valencia</title>
+  </programme>
+  <programme start="20260204040000 +0000" channel="sky_sports_24" stop="20260204060000 +0000">
+    <title>Bayer 04 Leverkusen vs. FC Baye</title>
   </programme>
   <programme channel="1" start="20260131060000 +0000" stop="20260131080000 +0000">
     <liveEvent>false</liveEvent>
@@ -10246,7 +10252,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260202122400 +0000" stop="20260202124700 +0000" channel="148503">
+  <programme start="20260202122400 +0000" stop="20260202124800 +0000" channel="148503">
     <title>Teen Titans</title>
     <desc>Terra regresa para unirse a los Titanes. Un viejo enemigo desata sus últimas armas bajo tierra.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -10266,7 +10272,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202124700 +0000" stop="20260202131100 +0000" channel="148503">
+  <programme start="20260202124800 +0000" stop="20260202131300 +0000" channel="148503">
     <title>Justice League</title>
     <desc>La Mujer Maravilla y la Chica Halcón trabajan juntas para detener a una amazona.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171915_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10284,7 +10290,7 @@
     <rating system="Kijkwijzer">6</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202131100 +0000" stop="20260202133700 +0000" channel="148503">
+  <programme start="20260202131300 +0000" stop="20260202133900 +0000" channel="148503">
     <title>Young Justice: Outsiders</title>
     <desc>La banda de Happy Harbor decide qué hacer con Brion Markov y Halo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -10304,7 +10310,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202133700 +0000" stop="20260202140100 +0000" channel="148503">
+  <programme start="20260202133900 +0000" stop="20260202140300 +0000" channel="148503">
     <title>Dragon Ball Daima</title>
     <desc>Tras reencontrarse con el grupo de Vegeta, Goku y sus amigos llegan a un planeta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28168376_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10325,7 +10331,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
-  <programme start="20260202140100 +0000" stop="20260202142800 +0000" channel="148503">
+  <programme start="20260202140300 +0000" stop="20260202143000 +0000" channel="148503">
     <title>Dragon Ball Z</title>
     <desc>Aparece Piccolo ofreciéndole a Goku una alianza temporal para acabar con su hermano mayor.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -10346,7 +10352,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202142800 +0000" stop="20260202145500 +0000" channel="148503">
+  <programme start="20260202143000 +0000" stop="20260202145800 +0000" channel="148503">
     <title>Dragon Ball Z</title>
     <desc>Piccolo y Goku comienzan la pelea contra Raditz. Piccolo tiene una nueva arma preparada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -10367,7 +10373,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202145500 +0000" stop="20260202152100 +0000" channel="148503">
+  <programme start="20260202145800 +0000" stop="20260202152400 +0000" channel="148503">
     <title>Naruto</title>
     <desc>Kankuro se enfrenta a Misumi, y usará todos sus trucos, incluyendo amenazar a Karasu.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9161972_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -10392,7 +10398,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202152100 +0000" stop="20260202154700 +0000" channel="148503">
+  <programme start="20260202152400 +0000" stop="20260202155200 +0000" channel="148503">
     <title>Los caballeros del Zodiaco</title>
     <desc>Ares ordena a Geist, el caballero fantasma, que él y sus hombres capturen un petrolero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13950498_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -10411,7 +10417,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260202154700 +0000" stop="20260202161200 +0000" channel="148503">
+  <programme start="20260202155200 +0000" stop="20260202161900 +0000" channel="148503">
     <title>Los caballeros del Zodiaco</title>
     <desc>La mayor parte de los caballeros retoman los entrenamientos para prepararse para la batalla.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13950498_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -10430,7 +10436,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260202161200 +0000" stop="20260202163800 +0000" channel="148503">
+  <programme start="20260202161900 +0000" stop="20260202164500 +0000" channel="148503">
     <title>El laboratorio de Dexter</title>
     <desc>El papá de Dexter no le deja ver una película. Dexter y Cerebro se percatan de que son iguales.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p184363_b_v12_be.jpg?w=240&amp;h=360"/>
@@ -10451,7 +10457,7 @@
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202163800 +0000" stop="20260202170200 +0000" channel="148503">
+  <programme start="20260202164500 +0000" stop="20260202170800 +0000" channel="148503">
     <title>Johnny Bravo</title>
     <desc>Johnny debe asistir a la escuela de tráfico cuando es arrestado por cruzar la calle imprudentemente.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p413071_b_v12_ac.jpg?w=240&amp;h=360"/>
@@ -10472,7 +10478,7 @@
     <rating system="Canadian Parental Rating">C8</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202170200 +0000" stop="20260202172800 +0000" channel="148503">
+  <programme start="20260202170800 +0000" stop="20260202173400 +0000" channel="148503">
     <title>Coraje, el perro cobarde</title>
     <desc>Una cortina luminosa infunde comportamiento cruel en ciudadanos de Nowhere.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186142_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -10492,7 +10498,7 @@
     <rating system="Canadian Parental Rating">C8</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202172800 +0000" stop="20260202175400 +0000" channel="148503">
+  <programme start="20260202173400 +0000" stop="20260202180200 +0000" channel="148503">
     <title>Dragon Ball Daima</title>
     <desc>Tras reencontrarse con el grupo de Vegeta, Goku y sus amigos llegan a un planeta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28168376_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10513,7 +10519,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
-  <programme start="20260202175400 +0000" stop="20260202182200 +0000" channel="148503">
+  <programme start="20260202180200 +0000" stop="20260202183000 +0000" channel="148503">
     <title>Dragon Ball Z</title>
     <desc>Con la Tierra y su población restauradas, Vegeta le dice a Goku que cree una Bomba Espiritual.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -10534,7 +10540,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202182200 +0000" stop="20260202184900 +0000" channel="148503">
+  <programme start="20260202183000 +0000" stop="20260202185700 +0000" channel="148503">
     <title>Dragon Ball Z</title>
     <desc>Los terrícolas ignoran a Goku, pero cuando Mr. Satán pide ayuda, los humanos cambian de opinión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -10555,7 +10561,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202184900 +0000" stop="20260202191400 +0000" channel="148503">
+  <programme start="20260202185700 +0000" stop="20260202192300 +0000" channel="148503">
     <title>DAN DA DAN</title>
     <desc>Derrotan a la cosa invisible, su camuflaje óptico se desvanece y aparece un kaiju espacial.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28447911_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10574,7 +10580,7 @@
     <rating system="Arcom">-12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
-  <programme start="20260202191400 +0000" stop="20260202194100 +0000" channel="148503">
+  <programme start="20260202192300 +0000" stop="20260202195000 +0000" channel="148503">
     <title>Jujutsu Kaisen</title>
     <desc>Sukuna mantiene el cuerpo de Yuji como rehén. Fushiguro lucha contra la maldición de Sukuna.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18968211_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10595,7 +10601,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">16</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
-  <programme start="20260202194100 +0000" stop="20260202200800 +0000" channel="148503">
+  <programme start="20260202195000 +0000" stop="20260202201500 +0000" channel="148503">
     <title>Spy x Family</title>
     <desc>Anya ve su premonición: Loid tirado entre los escombros de un edificio destruido por una bomba.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p21972365_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -10614,7 +10620,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
   </programme>
-  <programme start="20260202200800 +0000" stop="20260202203500 +0000" channel="148503">
+  <programme start="20260202201500 +0000" stop="20260202204200 +0000" channel="148503">
     <title>Haikyu!! To the Top</title>
     <desc>Los jugadores de cada equipo procesan los resultados. Fukurodani avanza a la siguiente ronda.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19378964_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -10633,7 +10639,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202203500 +0000" stop="20260202210200 +0000" channel="148503">
+  <programme start="20260202204200 +0000" stop="20260202210800 +0000" channel="148503">
     <title>My Hero Academia</title>
     <desc>Izuku contiene los ataques de Bakugo durante el combate de entrenamiento.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p12793542_b_v12_ak.jpg?w=240&amp;h=360"/>
@@ -10657,7 +10663,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202210200 +0000" stop="20260202212900 +0000" channel="148503">
+  <programme start="20260202210800 +0000" stop="20260202213500 +0000" channel="148503">
     <title>Blue Lock</title>
     <desc>La falta táctica de Kuon le da un nuevo aire al Equipo Z. Isagi descubre la clave de su evolución.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -10672,7 +10678,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260202212900 +0000" stop="20260202215400 +0000" channel="148503">
+  <programme start="20260202213500 +0000" stop="20260202220000 +0000" channel="148503">
     <title>Justice League</title>
     <desc>El némesis de Superman, Darkseid, le pide ayuda de mala gana a la Liga de la Justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171917_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10689,7 +10695,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202215400 +0000" stop="20260202222100 +0000" channel="148503">
+  <programme start="20260202220000 +0000" stop="20260202222300 +0000" channel="148503">
     <title>Young Justice: Outsiders</title>
     <desc>Dick reúne un nuevo escuadrón y sale a la carretera, pero puede que no sobreviva al viaje.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -10709,7 +10715,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202222100 +0000" stop="20260202224600 +0000" channel="148503">
+  <programme start="20260202222300 +0000" stop="20260202225000 +0000" channel="148503">
     <title>Creature Commandos</title>
     <desc>El Dr. Phosphorus emerge de su investigación y los Comandos de Criaturas enfrentan un peligro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27792636_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -10729,7 +10735,7 @@
     <rating system="Kijkwijzer">16</rating>
     <rating system="UK Content Provider">15</rating>
   </programme>
-  <programme start="20260202224600 +0000" stop="20260202230800 +0000" channel="148503">
+  <programme start="20260202225000 +0000" stop="20260202231000 +0000" channel="148503">
     <title>Teen Titans</title>
     <desc>Los Titanes luchan contra villanos. La hermana de Starfire llega. Cíborg abandona a los Titanes.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9106715_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -10749,7 +10755,7 @@
     <rating system="Canadian Parental Rating">C8</rating>
     <rating system="Australian Classification Board">PG</rating>
   </programme>
-  <programme start="20260202230800 +0000" stop="20260202233300 +0000" channel="148503">
+  <programme start="20260202231000 +0000" stop="20260202233500 +0000" channel="148503">
     <title>Harley Quinn</title>
     <icon src="https://cltv.tmsimg.com/assets/p17472277_b_v12_ag.jpg?w=240&amp;h=360"/>
     <sub-title>New Gotham</sub-title>
@@ -10768,7 +10774,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">16</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
-  <programme start="20260202233300 +0000" stop="20260203000100 +0000" channel="148503">
+  <programme start="20260202233500 +0000" stop="20260203000200 +0000" channel="148503">
     <title>Dragon Ball Z</title>
     <desc>Aparece Piccolo ofreciéndole a Goku una alianza temporal para acabar con su hermano mayor.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11250,7 +11256,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201092400 +0000" stop="20260201095300 +0000" channel="68223">
+  <programme start="20260201092400 +0000" stop="20260201095200 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Las rosas negras de Afrodita arruinan las cadenas y la armadura de Shun.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11270,7 +11276,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201095300 +0000" stop="20260201101600 +0000" channel="68223">
+  <programme start="20260201095200 +0000" stop="20260201101600 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Marin debe salvar a Seiya del veneno de las Rosas Diabólicas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11308,7 +11314,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201104400 +0000" stop="20260201110800 +0000" channel="68223">
+  <programme start="20260201104400 +0000" stop="20260201111200 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>El equipo se enfrenta a una situación desesperada, pero Yoichi Isagi da un paso al frente.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11326,7 +11332,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260201110800 +0000" stop="20260201113300 +0000" channel="68223">
+  <programme start="20260201111200 +0000" stop="20260201114000 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>El equipo Z se prepara para enfrentarse al equipo W, quien acumula una derrota.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11344,7 +11350,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260201113300 +0000" stop="20260201120300 +0000" channel="68223">
+  <programme start="20260201114000 +0000" stop="20260201120800 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>A pesar de que se ha restablecido la paz, Krillin enfrenta el desafío más difícil de su vida.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11365,7 +11371,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201120300 +0000" stop="20260201122700 +0000" channel="68223">
+  <programme start="20260201120800 +0000" stop="20260201123300 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Un Freezer reconstruido y su padre, King Cold, se acercan a la Tierra deseosos de venganza.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11386,7 +11392,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201122700 +0000" stop="20260201125600 +0000" channel="68223">
+  <programme start="20260201123300 +0000" stop="20260201130100 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>La nave espacial de Freezer llega a la Tierra y todos perciben la presencia del tirano espacial.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11407,7 +11413,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201125600 +0000" stop="20260201131900 +0000" channel="68223">
+  <programme start="20260201130100 +0000" stop="20260201132700 +0000" channel="68223">
     <title>Justice League</title>
     <desc>Rex, ahora Metamorfo, logra defenderse de la Liga de la Justicia, pero descubre que fue manipulado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171915_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11425,7 +11431,7 @@
     <rating system="Kijkwijzer">6</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260201131900 +0000" stop="20260201134600 +0000" channel="68223">
+  <programme start="20260201132700 +0000" stop="20260201135300 +0000" channel="68223">
     <title>Justice League</title>
     <desc>Los superhéroes deben viajar en el tiempo para evitar que un dictador bárbaro se apodera del mundo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171915_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11443,7 +11449,7 @@
     <rating system="Kijkwijzer">6</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260201134600 +0000" stop="20260201141200 +0000" channel="68223">
+  <programme start="20260201135300 +0000" stop="20260201141600 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>En un mundo sin Titans, Slade toma el control de todo: las calles y la ciudad.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -11463,7 +11469,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260201141200 +0000" stop="20260201143000 +0000" channel="68223">
+  <programme start="20260201141600 +0000" stop="20260201143700 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Los Titans mandan a Cyborg en una misión en la Academia Hive.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -11483,7 +11489,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260201143000 +0000" stop="20260201145600 +0000" channel="68223">
+  <programme start="20260201143700 +0000" stop="20260201150200 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>El equipo da seguimiento a un ladrón, sólo para descubrir que se trata de Red X.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -11503,7 +11509,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260201145600 +0000" stop="20260201152000 +0000" channel="68223">
+  <programme start="20260201150200 +0000" stop="20260201152500 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>The Light y Lex Luthor planean destruir la popularidad de los Outsiders y crear fricciones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11524,7 +11530,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260201152000 +0000" stop="20260201154500 +0000" channel="68223">
+  <programme start="20260201152500 +0000" stop="20260201155300 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>La biotecnología de Victor se desbarata y sólo la Silla de Mobius puede asistirlo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11544,7 +11550,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260201154500 +0000" stop="20260201161400 +0000" channel="68223">
+  <programme start="20260201155300 +0000" stop="20260201162100 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Shiryu recuerda la leyenda de Perseo y Medusa e intenta usar su escudo como si fuera un espejo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11563,7 +11569,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201161400 +0000" stop="20260201163700 +0000" channel="68223">
+  <programme start="20260201162100 +0000" stop="20260201164500 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Saori y el resto de caballeros llegan para despedirse de Shiryu.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11582,7 +11588,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201163700 +0000" stop="20260201170500 +0000" channel="68223">
+  <programme start="20260201164500 +0000" stop="20260201171200 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Jamian de Corvus captura a Saori. Entretanto, Pegaso está herido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11601,7 +11607,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201170500 +0000" stop="20260201172900 +0000" channel="68223">
+  <programme start="20260201171200 +0000" stop="20260201174000 +0000" channel="68223">
     <title>Haikyu!!</title>
     <desc>Las preliminares interescolares llegan, y el primer partido es contra la Preparatoria Tokonami.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10987334_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -11622,7 +11628,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260201172900 +0000" stop="20260201175800 +0000" channel="68223">
+  <programme start="20260201174000 +0000" stop="20260201180800 +0000" channel="68223">
     <title>Haikyu!!</title>
     <desc>Karasuno gana la primera ronda del Interhigh a Tokonami, pero el equipo se niega a rendirse.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10987334_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -11643,7 +11649,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260201175800 +0000" stop="20260201182100 +0000" channel="68223">
+  <programme start="20260201180800 +0000" stop="20260201183100 +0000" channel="68223">
     <title>Naruto</title>
     <desc>Para Naruto los ninjas siempre deben cumplir sus promesas. Naruto es seriamente herido por Kabuto.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p194893_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -11669,7 +11675,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260201182100 +0000" stop="20260201184900 +0000" channel="68223">
+  <programme start="20260201183100 +0000" stop="20260201185800 +0000" channel="68223">
     <title>Naruto</title>
     <desc>Jiraiya, Tsunade y Orochimaru lanzan su convocatoria jutsu y comienza una batalla.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p194893_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -11695,7 +11701,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260201184900 +0000" stop="20260201191300 +0000" channel="68223">
+  <programme start="20260201185800 +0000" stop="20260201192500 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>El equipo se enfrenta a una situación desesperada, pero Yoichi Isagi da un paso al frente.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11713,7 +11719,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260201191300 +0000" stop="20260201194200 +0000" channel="68223">
+  <programme start="20260201192500 +0000" stop="20260201195200 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>El equipo Z se prepara para enfrentarse al equipo W, quien acumula una derrota.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11731,7 +11737,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260201194200 +0000" stop="20260201200600 +0000" channel="68223">
+  <programme start="20260201195200 +0000" stop="20260201201700 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>¡Restaurado a su forma definitiva, Cell regresa a la Tierra más poderoso que nunca!</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11752,7 +11758,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201200600 +0000" stop="20260201203000 +0000" channel="68223">
+  <programme start="20260201201700 +0000" stop="20260201204100 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Cell ha regresado aún más fuerte y todo parece estar perdido ahora que todos están debilitados.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11773,7 +11779,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201203000 +0000" stop="20260201210000 +0000" channel="68223">
+  <programme start="20260201204100 +0000" stop="20260201210900 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Mientras Goku habla con Gohan desde el Otro Mundo, ¡los guerreros Z lanzan un ataque de cinco lados!</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11794,7 +11800,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201210000 +0000" stop="20260201212400 +0000" channel="68223">
+  <programme start="20260201210900 +0000" stop="20260201213400 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>La lucha por el destino de la Tierra finalmente termina y el mundo puede volver a la paz.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -11815,7 +11821,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260201212400 +0000" stop="20260201215300 +0000" channel="68223">
+  <programme start="20260201213400 +0000" stop="20260201220100 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Los caballeros de bronce reciben una ayuda inesperada: la de los caballeros de acero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11834,7 +11840,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201215300 +0000" stop="20260201221600 +0000" channel="68223">
+  <programme start="20260201220100 +0000" stop="20260201222600 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Shaina y dos caballeros más atacan a los caballeros de bronce.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11853,7 +11859,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201221600 +0000" stop="20260201224500 +0000" channel="68223">
+  <programme start="20260201222600 +0000" stop="20260201225300 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Shiryu recuerda la leyenda de Perseo y Medusa e intenta usar su escudo como si fuera un espejo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11872,7 +11878,7 @@
     <rating system="Consejo Nacional de Televisión">R</rating>
     <rating system="Arcom">-10</rating>
   </programme>
-  <programme start="20260201224500 +0000" stop="20260201230800 +0000" channel="68223">
+  <programme start="20260201225300 +0000" stop="20260201231700 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>The Light y Lex Luthor planean destruir la popularidad de los Outsiders y crear fricciones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11893,7 +11899,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260201230800 +0000" stop="20260201233300 +0000" channel="68223">
+  <programme start="20260201231700 +0000" stop="20260201234400 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>La biotecnología de Victor se desbarata y sólo la Silla de Mobius puede asistirlo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -11913,7 +11919,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260201233300 +0000" stop="20260202000100 +0000" channel="68223">
+  <programme start="20260201234400 +0000" stop="20260202001100 +0000" channel="68223">
     <title>Justice League</title>
     <desc>El Justice League regresa a la Tierra para la Noche Buena.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171917_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11931,7 +11937,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202000100 +0000" stop="20260202002300 +0000" channel="68223">
+  <programme start="20260202001100 +0000" stop="20260202003400 +0000" channel="68223">
     <title>Justice League</title>
     <desc>La Tierra debe enfrentar una amenaza extraterrestre sin precedentes del planeta Thanagar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171917_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11948,7 +11954,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202002300 +0000" stop="20260202004900 +0000" channel="68223">
+  <programme start="20260202003400 +0000" stop="20260202005800 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Los Titanes descubren el temperamento de Raven.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9106715_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11968,7 +11974,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202004900 +0000" stop="20260202011100 +0000" channel="68223">
+  <programme start="20260202005800 +0000" stop="20260202012300 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Starfire y Raven superan sus diferencias para salvar a otros.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9106715_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -11988,7 +11994,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202011100 +0000" stop="20260202013600 +0000" channel="68223">
+  <programme start="20260202012300 +0000" stop="20260202015100 +0000" channel="68223">
     <title>DAN DA DAN</title>
     <desc>Momo obtiene información sobre una bola dorada. Momo y Okarun van al edificio de apartamentos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28447911_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12007,7 +12013,7 @@
     <rating system="Arcom">-12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
-  <programme start="20260202013600 +0000" stop="20260202020200 +0000" channel="68223">
+  <programme start="20260202015100 +0000" stop="20260202021700 +0000" channel="68223">
     <title>Rick and Morty</title>
     <desc>Rick muestra a la familia un receptor de televisión que emite desde diferentes dimensiones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10376284_b_v12_ac.jpg?w=240&amp;h=360"/>
@@ -12033,7 +12039,7 @@
     <rating system="Kijkwijzer">16</rating>
     <rating system="Arcom">-12</rating>
   </programme>
-  <programme start="20260202020200 +0000" stop="20260202022800 +0000" channel="68223">
+  <programme start="20260202021700 +0000" stop="20260202024400 +0000" channel="68223">
     <title>Rick and Morty</title>
     <desc>Cuando Rick lucha contra el diablo, Summer se molesta; Jerry y Morty pasan el rato.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10376284_b_v12_ac.jpg?w=240&amp;h=360"/>
@@ -12058,7 +12064,7 @@
     <rating system="방송통신심의위원회">19</rating>
     <rating system="Kijkwijzer">16</rating>
   </programme>
-  <programme start="20260202022800 +0000" stop="20260202024300 +0000" channel="68223">
+  <programme start="20260202024400 +0000" stop="20260202025800 +0000" channel="68223">
     <title>Smiling Friends</title>
     <desc>Pim y Charlie tienen la tarea de ayudar al científico loco como consecuencia de sus actos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18165411_b_v12_ad.jpg?w=240&amp;h=360"/>
@@ -12080,7 +12086,7 @@
     <rating system="Kijkwijzer">16</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">16</rating>
   </programme>
-  <programme start="20260202024300 +0000" stop="20260202030800 +0000" channel="68223">
+  <programme start="20260202025800 +0000" stop="20260202032400 +0000" channel="68223">
     <title>Genndy Tartakovsky's Primal</title>
     <desc>Un hombre de las cavernas y un dinosaurio se convierten en la única esperanza de supervivencia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p17367436_b_v12_af.jpg?w=240&amp;h=360"/>
@@ -12098,7 +12104,7 @@
     <rating system="Régie du cinéma">13+</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202030800 +0000" stop="20260202033800 +0000" channel="68223">
+  <programme start="20260202032400 +0000" stop="20260202035100 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Piccolo no puede ver más de una forma de salvar al mundo porque los androides son muy poderosos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12119,7 +12125,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202033800 +0000" stop="20260202040200 +0000" channel="68223">
+  <programme start="20260202035100 +0000" stop="20260202041500 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Piccolo toma una decisión importante ante un poder terrible, por lo que va a hablar con Kami-sama.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12140,7 +12146,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202040200 +0000" stop="20260202041500 +0000" channel="68223">
+  <programme start="20260202041500 +0000" stop="20260202043000 +0000" channel="68223">
     <title>Women Wearing Shoulder Pads</title>
     <desc>Marioneta se enfrenta a su mayor rival en los negocios, doña Quispe.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30793457_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -12158,7 +12164,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202041500 +0000" stop="20260202042700 +0000" channel="68223">
+  <programme start="20260202043000 +0000" stop="20260202044300 +0000" channel="68223">
     <title>Smiling Friends</title>
     <desc>Se aprende sobre Glep, el personaje verde que se sienta en la bolsa de frijoles y escupe.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31259622_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -12178,7 +12184,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">16</rating>
     <rating system="Kijkwijzer">16</rating>
   </programme>
-  <programme start="20260202042700 +0000" stop="20260202061800 +0000" channel="68223">
+  <programme start="20260202044300 +0000" stop="20260202063200 +0000" channel="68223">
     <title>Injustice</title>
     <desc>El Guasón engaña a Superman para que elimine a Lois Lane y así enviarlo a la destrucción.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20402128_v_v12_aa.jpg?w=240&amp;h=360"/>
@@ -12202,7 +12208,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">16</rating>
     <rating system="Medietilsynet">15 år</rating>
   </programme>
-  <programme start="20260202061800 +0000" stop="20260202064100 +0000" channel="68223">
+  <programme start="20260202063200 +0000" stop="20260202065400 +0000" channel="68223">
     <title>Justice League</title>
     <desc>Gorilla Grodd reúne a un grupo de villanos para derrotar a la Liga de la Justicia para siempre.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171917_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12219,7 +12225,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202064100 +0000" stop="20260202065400 +0000" channel="68223">
+  <programme start="20260202065400 +0000" stop="20260202070800 +0000" channel="68223">
     <title>Sociedade da Virtude</title>
     <desc>Un huérfano abandonado en Alaska descubre que cayó del planeta que explotó.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p29920406_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12232,7 +12238,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260202065400 +0000" stop="20260202071600 +0000" channel="68223">
+  <programme start="20260202070800 +0000" stop="20260202073000 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Los Titans mandan a Cyborg en una misión en la Academia Hive.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -12252,7 +12258,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202071600 +0000" stop="20260202073700 +0000" channel="68223">
+  <programme start="20260202073000 +0000" stop="20260202075100 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>El equipo da seguimiento a un ladrón, sólo para descubrir que se trata de Red X.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -12272,7 +12278,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202073700 +0000" stop="20260202075800 +0000" channel="68223">
+  <programme start="20260202075100 +0000" stop="20260202081200 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Starfire se convierte contra su voluntad en la novia de un feo extraterrestre.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -12292,7 +12298,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202075800 +0000" stop="20260202082200 +0000" channel="68223">
+  <programme start="20260202081200 +0000" stop="20260202083600 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>The Light y Lex Luthor planean destruir la popularidad de los Outsiders y crear fricciones.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12313,7 +12319,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202082200 +0000" stop="20260202090000 +0000" channel="68223">
+  <programme start="20260202083600 +0000" stop="20260202090000 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>La biotecnología de Victor se desbarata y sólo la Silla de Mobius puede asistirlo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12333,7 +12339,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202090000 +0000" stop="20260202092300 +0000" channel="68223">
+  <programme start="20260202090000 +0000" stop="20260202092700 +0000" channel="68223">
     <title>Justice League</title>
     <desc>La Chica Halcón descubre el sombrío destino de la verdadera Sociedad de la Justicia de América.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171915_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12351,7 +12357,7 @@
     <rating system="Kijkwijzer">6</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202092300 +0000" stop="20260202095000 +0000" channel="68223">
+  <programme start="20260202092700 +0000" stop="20260202095300 +0000" channel="68223">
     <title>Justice League</title>
     <desc>Jason Blood impide que la hechicera Morgana Le Fay encuentre la legendaria Piedra Filosofal.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171915_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12368,7 +12374,7 @@
     <rating system="Kijkwijzer">6</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202095000 +0000" stop="20260202101400 +0000" channel="68223">
+  <programme start="20260202095300 +0000" stop="20260202101700 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>Los miembros de la Liga de la Justicia se enfrenta contra una entidad poderosa en el espacio.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12389,7 +12395,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202101400 +0000" stop="20260202104300 +0000" channel="68223">
+  <programme start="20260202101700 +0000" stop="20260202104400 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>Un nuevo equipo del Escuadrón Gamma es enviado en su primera misión para investigar el metatráfico.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12410,7 +12416,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202104300 +0000" stop="20260202110800 +0000" channel="68223">
+  <programme start="20260202104400 +0000" stop="20260202111100 +0000" channel="68223">
     <title>Young Justice: Outsiders</title>
     <desc>En todo el país, los miembros del equipo dan gracias por lo que tienen y por lo que podrían perder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16361397_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12431,7 +12437,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
     <rating system="Kijkwijzer">12</rating>
   </programme>
-  <programme start="20260202110800 +0000" stop="20260202113300 +0000" channel="68223">
+  <programme start="20260202111100 +0000" stop="20260202113600 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Gohan es atacado, y Yamu y Spopovitch le roban sus poderes. Todo es un plan del mago Babidi.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12452,7 +12458,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202113300 +0000" stop="20260202120200 +0000" channel="68223">
+  <programme start="20260202113600 +0000" stop="20260202120400 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Piccolo y Krillin son convertidos en piedra por el terrible Dabura.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12473,7 +12479,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202120200 +0000" stop="20260202122700 +0000" channel="68223">
+  <programme start="20260202120400 +0000" stop="20260202122900 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>En cada etapa de la nave de Babidi, Goku, Gohan y Vegeta deben enfrentarse a un temible guerrero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12494,7 +12500,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202122700 +0000" stop="20260202125500 +0000" channel="68223">
+  <programme start="20260202122900 +0000" stop="20260202125700 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Shun se enfrenta a los dos caballeros y se concentra en su cosmoenergía para derrotar a sus rivales.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12514,7 +12520,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Consejo Nacional de Televisión">R</rating>
   </programme>
-  <programme start="20260202125500 +0000" stop="20260202132000 +0000" channel="68223">
+  <programme start="20260202125700 +0000" stop="20260202132100 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Los caballeros se alejan de Atenea y comienzan su aventura. Cada minuto es importante.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12534,7 +12540,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Consejo Nacional de Televisión">R</rating>
   </programme>
-  <programme start="20260202132000 +0000" stop="20260202134700 +0000" channel="68223">
+  <programme start="20260202132100 +0000" stop="20260202135000 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Shun se reúne con sus compañeros y todos juntos entran en la casa de Tauro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12555,7 +12561,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Consejo Nacional de Televisión">R</rating>
   </programme>
-  <programme start="20260202134700 +0000" stop="20260202141200 +0000" channel="68223">
+  <programme start="20260202135000 +0000" stop="20260202141700 +0000" channel="68223">
     <title>Bravest Warriors</title>
     <desc>Plum se decepciona de su &quot;curvaversario&quot;. Los Guerreros acuden al llamado de un planeta humanoide.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15846919_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -12573,7 +12579,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260202141200 +0000" stop="20260202143600 +0000" channel="68223">
+  <programme start="20260202141700 +0000" stop="20260202144000 +0000" channel="68223">
     <title>Naruto</title>
     <desc>Neji comienza a pensar que el Guerrero Maldito es parte de una táctica.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9169069_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12598,7 +12604,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202143600 +0000" stop="20260202150400 +0000" channel="68223">
+  <programme start="20260202144000 +0000" stop="20260202150800 +0000" channel="68223">
     <title>Naruto</title>
     <desc>Komei es sospechoso de controlar al Guerrero Maldito.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9169069_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12623,7 +12629,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202150400 +0000" stop="20260202152800 +0000" channel="68223">
+  <programme start="20260202150800 +0000" stop="20260202153100 +0000" channel="68223">
     <title>Naruto</title>
     <desc>Komei es declarado culpable y deberá ser ejecutado, pero el Guerrero Maldito aparece y lo salva.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9169069_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12648,7 +12654,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202152800 +0000" stop="20260202155600 +0000" channel="68223">
+  <programme start="20260202153100 +0000" stop="20260202155800 +0000" channel="68223">
     <title>Haikyu!! To the Top</title>
     <desc>Los jugadores de cada equipo procesan los resultados. Fukurodani avanza a la siguiente ronda.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19378964_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -12667,7 +12673,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202155600 +0000" stop="20260202162100 +0000" channel="68223">
+  <programme start="20260202155800 +0000" stop="20260202162300 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Gohan es atacado, y Yamu y Spopovitch le roban sus poderes. Todo es un plan del mago Babidi.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12688,7 +12694,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202162100 +0000" stop="20260202164600 +0000" channel="68223">
+  <programme start="20260202162300 +0000" stop="20260202164700 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Piccolo y Krillin son convertidos en piedra por el terrible Dabura.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12709,7 +12715,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202164600 +0000" stop="20260202171500 +0000" channel="68223">
+  <programme start="20260202164700 +0000" stop="20260202171600 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>En cada etapa de la nave de Babidi, Goku, Gohan y Vegeta deben enfrentarse a un temible guerrero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12730,7 +12736,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202171500 +0000" stop="20260202174000 +0000" channel="68223">
+  <programme start="20260202171600 +0000" stop="20260202174300 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>Isagi y Nagi generan oportunidades de gol. Al mismo tiempo, Kunigami y Reo hacen equipo con Chigiri.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12746,7 +12752,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260202174000 +0000" stop="20260202180900 +0000" channel="68223">
+  <programme start="20260202174300 +0000" stop="20260202181200 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>El equipo de Isagi asegura la victoria mientras Barou se convierte en una gran fuerza en el campo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -12763,7 +12769,7 @@
     </credits>
     <rating system="방송통신심의위원회">15</rating>
   </programme>
-  <programme start="20260202180900 +0000" stop="20260202183300 +0000" channel="68223">
+  <programme start="20260202181200 +0000" stop="20260202183600 +0000" channel="68223">
     <title>Dragon Ball Daima</title>
     <desc>Tras reencontrarse con el grupo de Vegeta, Goku y sus amigos llegan a un planeta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28168376_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12784,7 +12790,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">14+</rating>
   </programme>
-  <programme start="20260202183300 +0000" stop="20260202190100 +0000" channel="68223">
+  <programme start="20260202183600 +0000" stop="20260202190400 +0000" channel="68223">
     <title>Knights of the Zodiac</title>
     <desc>Los caballeros se ven obligados a separarse de nuevo para continuar su viaje.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p417025_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12804,7 +12810,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Consejo Nacional de Televisión">R</rating>
   </programme>
-  <programme start="20260202190100 +0000" stop="20260202193000 +0000" channel="68223">
+  <programme start="20260202190400 +0000" stop="20260202193000 +0000" channel="68223">
     <title>Bravest Warriors</title>
     <desc>Plum se decepciona de su &quot;curvaversario&quot;. Los Guerreros acuden al llamado de un planeta humanoide.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15846919_b_v8_af.jpg?w=240&amp;h=360"/>
@@ -12822,7 +12828,7 @@
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A12</rating>
   </programme>
-  <programme start="20260202193000 +0000" stop="20260202195400 +0000" channel="68223">
+  <programme start="20260202193000 +0000" stop="20260202195500 +0000" channel="68223">
     <title>Young Justice: Phantoms</title>
     <desc>Acompañado por Miss Martian y Gar, SuperBoy investiga el asesinato del rey.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20830133_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -12841,7 +12847,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260202195400 +0000" stop="20260202201900 +0000" channel="68223">
+  <programme start="20260202195500 +0000" stop="20260202202200 +0000" channel="68223">
     <title>Young Justice: Phantoms</title>
     <desc>La vida de Artemis Crock se ve interrumpida por una noticia devastadora.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20830133_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -12861,7 +12867,7 @@
     <rating system="USA Parental Rating">TV14</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260202201900 +0000" stop="20260202204600 +0000" channel="68223">
+  <programme start="20260202202200 +0000" stop="20260202204800 +0000" channel="68223">
     <title>Justice League</title>
     <desc>Lex Luthor manipula a un poderoso androide para pelear contra la Liga de la Justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p13171917_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -12878,7 +12884,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">K12</rating>
   </programme>
-  <programme start="20260202204600 +0000" stop="20260202210800 +0000" channel="68223">
+  <programme start="20260202204800 +0000" stop="20260202210900 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Mientras se encontraba perdido en una tormenta de nieve, Starfire se hace amigo de un joven soldado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -12898,7 +12904,7 @@
     <rating system="Australian Classification Board">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
   </programme>
-  <programme start="20260202210800 +0000" stop="20260202213400 +0000" channel="68223">
+  <programme start="20260202210900 +0000" stop="20260202213400 +0000" channel="68223">
     <title>Teen Titans</title>
     <desc>Los Jóvenes Titanes descubren un mundo subterráneo después de ser enviados a través del hielo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186031_b_v8_am.jpg?w=240&amp;h=360"/>
@@ -12957,7 +12963,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202222400 +0000" stop="20260202224900 +0000" channel="68223">
+  <programme start="20260202222400 +0000" stop="20260202224800 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Gohan es atacado, y Yamu y Spopovitch le roban sus poderes. Todo es un plan del mago Babidi.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12978,7 +12984,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202224900 +0000" stop="20260202231400 +0000" channel="68223">
+  <programme start="20260202224800 +0000" stop="20260202231300 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>Piccolo y Krillin son convertidos en piedra por el terrible Dabura.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -12999,7 +13005,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202231400 +0000" stop="20260202234300 +0000" channel="68223">
+  <programme start="20260202231300 +0000" stop="20260202234100 +0000" channel="68223">
     <title>Dragon Ball Z</title>
     <desc>En cada etapa de la nave de Babidi, Goku, Gohan y Vegeta deben enfrentarse a un temible guerrero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14343421_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -13020,7 +13026,7 @@
     <rating system="Arcom">-10</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
   </programme>
-  <programme start="20260202234300 +0000" stop="20260203000800 +0000" channel="68223">
+  <programme start="20260202234100 +0000" stop="20260203000900 +0000" channel="68223">
     <title>Blue Lock</title>
     <desc>Blue Lock avanza a su segunda fase mientras numerosos candidatos abandonan.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27171527_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -65423,7 +65429,6 @@
   </programme>
   <programme start="20260201130000 +0000" stop="20260201140000 +0000" channel="58646">
     <title>Inside Politics With Manu Raju [Nuevo]</title>
-    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25612453_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -65435,7 +65440,6 @@
   </programme>
   <programme start="20260201140000 +0000" stop="20260201150000 +0000" channel="58646">
     <title>State of the Union With Jake Tapper and Dana Bash [Nuevo]</title>
-    <desc>Newsmakers, analysts and experts tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19358336_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -65449,7 +65453,6 @@
   </programme>
   <programme start="20260201150000 +0000" stop="20260201160000 +0000" channel="58646">
     <title>Fareed Zakaria GPS [Nuevo]</title>
-    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders and more.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p234245_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -65463,7 +65466,6 @@
   </programme>
   <programme start="20260201160000 +0000" stop="20260201170000 +0000" channel="58646">
     <title>Inside Politics With Manu Raju</title>
-    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25612453_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -65475,7 +65477,6 @@
   </programme>
   <programme start="20260201170000 +0000" stop="20260201180000 +0000" channel="58646">
     <title>State of the Union With Jake Tapper and Dana Bash</title>
-    <desc>Newsmakers, analysts and experts tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19358336_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -65489,7 +65490,6 @@
   </programme>
   <programme start="20260201180000 +0000" stop="20260201190000 +0000" channel="58646">
     <title>Fareed Zakaria GPS</title>
-    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders and more.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p234245_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -79776,7 +79776,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
   </programme>
-  <programme start="20260202121400 +0000" stop="20260202122600 +0000" channel="89909">
+  <programme start="20260202121400 +0000" stop="20260202122500 +0000" channel="89909">
     <title>Hello Kitty: Super Style!</title>
     <desc>Kitty y Haroshee se enteran de que la gorra de pensar de PI ha desaparecido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25239286_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -79794,7 +79794,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
   </programme>
-  <programme start="20260202122600 +0000" stop="20260202124000 +0000" channel="89909">
+  <programme start="20260202122500 +0000" stop="20260202124000 +0000" channel="89909">
     <title>Polly Pocket</title>
     <desc>Polly y sus amigos se enteran de que muchos de los libros de la biblioteca han desaparecido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24690430_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -79896,7 +79896,7 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">7</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202133500 +0000" stop="20260202134700 +0000" channel="89909">
+  <programme start="20260202133500 +0000" stop="20260202134600 +0000" channel="89909">
     <title>Bada Bean</title>
     <desc>Bean inventa una técnica que permite hacer retratos rápidos, pero, entonces, llega Flash.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20868881_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -79913,7 +79913,7 @@
     <rating system="USA Parental Rating">TVG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202134700 +0000" stop="20260202135200 +0000" channel="89909">
+  <programme start="20260202134600 +0000" stop="20260202135100 +0000" channel="89909">
     <title>Peppa</title>
     <desc>George se divierte haciendo burbujas y Peppa las revienta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -79937,7 +79937,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202135200 +0000" stop="20260202135700 +0000" channel="89909">
+  <programme start="20260202135100 +0000" stop="20260202135600 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Doña Gazelle presenta una nueva estudiante al grupo de juegos, Emilia Elefanta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -79962,7 +79962,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202135700 +0000" stop="20260202140200 +0000" channel="89909">
+  <programme start="20260202135600 +0000" stop="20260202140200 +0000" channel="89909">
     <title>Peppa</title>
     <desc>La mascota del abuelo y abuela llega de visita, Peppa y George aman a la cotorra.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -80155,7 +80155,7 @@
     <rating system="Canadian Parental Rating">C8</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202163000 +0000" stop="20260202164500 +0000" channel="89909">
+  <programme start="20260202163000 +0000" stop="20260202164700 +0000" channel="89909">
     <title>Franjito y Milena en busca de la ciencia</title>
     <desc>Franjito no ha podido dormir, pero cuando logra dormirse sueña con el Franjito del futuro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26439743_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -80171,7 +80171,7 @@
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202164500 +0000" stop="20260202165700 +0000" channel="89909">
+  <programme start="20260202164700 +0000" stop="20260202165800 +0000" channel="89909">
     <title>Hello Kitty: Super Style!</title>
     <desc>Frido y Pinky se molestan cuando no pueden jugar en el mismo equipo de fútbol que sus amigos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26067494_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -80189,7 +80189,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
   </programme>
-  <programme start="20260202165700 +0000" stop="20260202165900 +0000" channel="89909">
+  <programme start="20260202165800 +0000" stop="20260202165900 +0000" channel="89909">
     <title>Ba Da Bean - Shorts Collection</title>
     <desc>Las aventuras de Bean, un explorador con una mente inquieta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p21702761_b_v11_aa.jpg?w=240&amp;h=360"/>
@@ -80254,7 +80254,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202170900 +0000" stop="20260202171600 +0000" channel="89909">
+  <programme start="20260202170900 +0000" stop="20260202171400 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Mamá, papá, Peppa y George deciden ir a la playa en un día soleado.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p274928_b_v12_bb.jpg?w=240&amp;h=360"/>
@@ -80281,7 +80281,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202171600 +0000" stop="20260202172100 +0000" channel="89909">
+  <programme start="20260202171400 +0000" stop="20260202171900 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Peppa y su familia visitan un nuevo parque en el que hay un montón de diversión con vegetales.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8672656_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -80309,7 +80309,7 @@
     <rating system="방송통신심의위원회">All</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202172100 +0000" stop="20260202172600 +0000" channel="89909">
+  <programme start="20260202171900 +0000" stop="20260202172600 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Peppa y George son llevados a visitar la casa que el Sr. Toro está construyendo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8672656_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -80518,7 +80518,7 @@
     <rating system="USA Parental Rating">TVG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202192600 +0000" stop="20260202193100 +0000" channel="89909">
+  <programme start="20260202192600 +0000" stop="20260202193000 +0000" channel="89909">
     <title>Mini Beat Power Rockers</title>
     <desc>Fuz recibe una invitación para asistir a la mejor academia musical, pero Fuz decide rebelarse.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14326292_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -80537,7 +80537,7 @@
     <rating system="USA Parental Rating">TVG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202193100 +0000" stop="20260202195600 +0000" channel="89909">
+  <programme start="20260202193000 +0000" stop="20260202195600 +0000" channel="89909">
     <title>Mermicorno: Lluvia de estrellas</title>
     <desc>La obsesión de Astra por la perfección pone a los mermicornos en peligro durante un entrenamiento.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28900489_b_v12_ah.jpg?w=240&amp;h=360"/>
@@ -80573,7 +80573,7 @@
     <rating system="Kijkwijzer">9</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">6</rating>
   </programme>
-  <programme start="20260202202100 +0000" stop="20260202202600 +0000" channel="89909">
+  <programme start="20260202202100 +0000" stop="20260202202500 +0000" channel="89909">
     <title>Aprendamos juntos</title>
     <desc>A través de su peculiar visión, Energía explica lo importante que es ser uno mismo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23965035_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -80584,7 +80584,7 @@
     <rating system="Régie du cinéma">G</rating>
     <rating system="Canadian Parental Rating">G</rating>
   </programme>
-  <programme start="20260202202600 +0000" stop="20260202205000 +0000" channel="89909">
+  <programme start="20260202202500 +0000" stop="20260202205000 +0000" channel="89909">
     <title>Shasha y Milo</title>
     <desc>Una convención de guardianes se arruina cuando Sundae pone en marcha su nuevo invento.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25756153_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -80606,7 +80606,7 @@
     <rating system="방송통신심의위원회">7</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202211400 +0000" stop="20260202211800 +0000" channel="89909">
+  <programme start="20260202211400 +0000" stop="20260202211700 +0000" channel="89909">
     <title>Academia Unicornio</title>
     <desc>Isabel muestra su rutina diaria, pero al final, es River quien sabe lo que es mejor para su jinete.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25717459_b_v8_an.jpg?w=240&amp;h=360"/>
@@ -80626,7 +80626,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A10</rating>
     <rating system="방송통신심의위원회">All</rating>
   </programme>
-  <programme start="20260202211800 +0000" stop="20260202212300 +0000" channel="89909">
+  <programme start="20260202211700 +0000" stop="20260202212200 +0000" channel="89909">
     <title>Peppa</title>
     <desc>George se divierte haciendo burbujas y Peppa las revienta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -80650,7 +80650,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202212300 +0000" stop="20260202212800 +0000" channel="89909">
+  <programme start="20260202212200 +0000" stop="20260202212800 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Doña Gazelle presenta una nueva estudiante al grupo de juegos, Emilia Elefanta.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -80675,7 +80675,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202212800 +0000" stop="20260202213500 +0000" channel="89909">
+  <programme start="20260202212800 +0000" stop="20260202213300 +0000" channel="89909">
     <title>Peppa</title>
     <desc>La mascota del abuelo y abuela llega de visita, Peppa y George aman a la cotorra.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8612541_b_v8_ag.jpg?w=240&amp;h=360"/>
@@ -80699,7 +80699,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202213500 +0000" stop="20260202214000 +0000" channel="89909">
+  <programme start="20260202213300 +0000" stop="20260202213900 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Peppa y su familia visitan un nuevo parque en el que hay un montón de diversión con vegetales.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8672656_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -80727,7 +80727,7 @@
     <rating system="방송통신심의위원회">All</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202214000 +0000" stop="20260202214500 +0000" channel="89909">
+  <programme start="20260202213900 +0000" stop="20260202214500 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Peppa y George son llevados a visitar la casa que el Sr. Toro está construyendo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8672656_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -80755,7 +80755,7 @@
     <rating system="방송통신심의위원회">All</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202214500 +0000" stop="20260202220800 +0000" channel="89909">
+  <programme start="20260202214500 +0000" stop="20260202220700 +0000" channel="89909">
     <title>Peppa</title>
     <desc>La cerdita Peppa Pig, su familia y amigos encarnan valores que sirven de ejemplo a los más pequeños.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p274928_b_v12_bb.jpg?w=240&amp;h=360"/>
@@ -80781,7 +80781,7 @@
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202220800 +0000" stop="20260202223400 +0000" channel="89909">
+  <programme start="20260202220700 +0000" stop="20260202223300 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Como es su cumpleaños, Mandy Ratona va a un parque temático de queso con Peppa y sus amigos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16519394_b_v12_ab.jpg?w=240&amp;h=360"/>
@@ -80806,7 +80806,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202223400 +0000" stop="20260202230000 +0000" channel="89909">
+  <programme start="20260202223300 +0000" stop="20260202230000 +0000" channel="89909">
     <title>Peppa</title>
     <desc>Llueve y Peppa se siente triste por no poder jugar afuera.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19631108_b_v8_ae.jpg?w=240&amp;h=360"/>
@@ -80873,7 +80873,7 @@
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202235200 +0000" stop="20260203001400 +0000" channel="89909">
+  <programme start="20260202235200 +0000" stop="20260203001500 +0000" channel="89909">
     <title>Academia Unicornio</title>
     <desc>La magia sombría contamina el suministro de agua de la academia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p25717459_b_v8_an.jpg?w=240&amp;h=360"/>
@@ -82799,7 +82799,7 @@
     <rating system="방송통신심의위원회">15</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202172400 +0000" stop="20260202181200 +0000" channel="65940">
+  <programme start="20260202172400 +0000" stop="20260202181300 +0000" channel="65940">
     <title>El Club de los Exploradores</title>
     <desc>Los viajes más atrevidos. La balsa Kon-Tiki cruzando el Pacífico y el vehículo lunar de la NASA.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22729480_b_v12_ae.jpg?w=240&amp;h=360"/>
@@ -82818,7 +82818,7 @@
     <rating system="Kijkwijzer">12</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
-  <programme start="20260202181200 +0000" stop="20260202190000 +0000" channel="65940">
+  <programme start="20260202181300 +0000" stop="20260202190000 +0000" channel="65940">
     <title>El museo embrujado</title>
     <desc>Una investigadora paranormal intenta resolver el misterio de una muñeca embrujada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20690109_b_v8_aj.jpg?w=240&amp;h=360"/>
@@ -96461,7 +96461,7 @@
   <programme start="20260201013000 +0000" stop="20260201020000 +0000" channel="79318">
     <title>Euromaxx - Lifestyle Europe</title>
     <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2003</date>
     <category>Entertainment</category>
     <credits>
@@ -96622,7 +96622,7 @@
   <programme start="20260201063000 +0000" stop="20260201070000 +0000" channel="79318">
     <title>Euromaxx - Lifestyle Europe</title>
     <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2003</date>
     <category>Entertainment</category>
     <credits>
@@ -96957,7 +96957,7 @@
   <programme start="20260201173000 +0000" stop="20260201180000 +0000" channel="79318">
     <title>Euromaxx - Lifestyle Europe</title>
     <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2003</date>
     <category>Entertainment</category>
     <credits>
@@ -97167,7 +97167,7 @@
   <programme start="20260202000200 +0000" stop="20260202003000 +0000" channel="79318">
     <title>Euromaxx - Lifestyle Europe</title>
     <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2003</date>
     <category>Entertainment</category>
     <credits>
@@ -97281,7 +97281,7 @@
   <programme start="20260202033000 +0000" stop="20260202040000 +0000" channel="79318">
     <title>Euromaxx - Lifestyle Europe</title>
     <desc>Á magazine that offers international viewers absorbing insights into European culture and lifestyle.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p381294_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2003</date>
     <category>Entertainment</category>
     <credits>
@@ -110072,7 +110072,7 @@
   <programme start="20260202195000 +0000" stop="20260202215500 +0000" channel="55836">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 22 de la temporada 2025-2026 de LaLiga. Desde el estadio de Son Moix.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XJ8LV.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJH6.jpg?w=240&amp;h=360"/>
     <sub-title>RCD Mallorca vs. Sevilla</sub-title>
     <category>Soccer</category>
   </programme>
@@ -110849,28 +110849,28 @@
       <actor>Luciana Rubinska</actor>
     </credits>
   </programme>
-  <programme start="20260131233000 +0000" stop="20260201013000 +0000" channel="10179">
+  <programme start="20260131234100 +0000" stop="20260201015900 +0000" channel="10179">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>The WIldcats and the No.18 Arkansas Razorbacks meet at the Bud Walton Arena for a Key SEC matchup.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002V17QB.jpg?w=240&amp;h=360"/>
     <sub-title>Kentucky at Arkansas</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201013000 +0000" stop="20260201033000 +0000" channel="10179">
+  <programme start="20260201015900 +0000" stop="20260201035100 +0000" channel="10179">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>Tennessee Volunteers hosts Auburn Tigers in a pivotal SEC battle at the Food City Center.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SR5C9.jpg?w=240&amp;h=360"/>
     <sub-title>Auburn at Tennessee</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201033000 +0000" stop="20260201053000 +0000" channel="10179">
+  <programme start="20260201035100 +0000" stop="20260201055200 +0000" channel="10179">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>The Saint Mary's Gaels and the No. 8 Gonzaga Bulldogs meet at the McCarthey Athletic Center.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002V0NM6.jpg?w=240&amp;h=360"/>
     <sub-title>Saint Mary's (Calif.) at Gonzaga</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201053000 +0000" stop="20260201063000 +0000" channel="10179">
+  <programme start="20260201055200 +0000" stop="20260201065200 +0000" channel="10179">
     <title>SportsCenter [En vivo] [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -110879,8 +110879,8 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260201063000 +0000" stop="20260201073000 +0000" channel="10179">
-    <title>SportsCenter [En vivo] [Nuevo]</title>
+  <programme start="20260201065200 +0000" stop="20260201075500 +0000" channel="10179">
+    <title>SportsCenter [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
     <date>1979</date>
@@ -110888,29 +110888,20 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260201073000 +0000" stop="20260201080000 +0000" channel="10179">
-    <title>SportsCenter [En vivo] [Nuevo]</title>
-    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
-    <date>1979</date>
-    <category>News</category>
-    <category>Sports talk</category>
-    <rating system="Australian Classification Board">G</rating>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="10179">
+  <programme start="20260201075500 +0000" stop="20260201082300 +0000" channel="10179">
     <title>Australian Open Men's Championship Pre-Show [En vivo] [Nuevo]</title>
     <icon src="https://cltv.tmsimg.com/assets/p29121104_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Special</category>
     <category>Tennis</category>
   </programme>
-  <programme start="20260201083000 +0000" stop="20260201113000 +0000" channel="10179">
+  <programme start="20260201082300 +0000" stop="20260201115000 +0000" channel="10179">
     <title>2026 Australian Open Tennis [En vivo] [Nuevo]</title>
     <icon src="https://cltv.tmsimg.com/assets/p31639028_b_v11_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Men's Championship</sub-title>
     <category>Tennis</category>
   </programme>
-  <programme start="20260201113000 +0000" stop="20260201130000 +0000" channel="10179">
+  <programme start="20260201115000 +0000" stop="20260201130000 +0000" channel="10179">
     <title>SportsCenter [En vivo] [Nuevo]</title>
     <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p186674_b_v11_ab.jpg?w=240&amp;h=360"/>
@@ -111399,7 +111390,7 @@
   <programme start="20260202195000 +0000" stop="20260202215500 +0000" channel="99984">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 22 de la temporada 2025-2026 de LaLiga. Desde el estadio de Son Moix.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XJ8LV.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJH6.jpg?w=240&amp;h=360"/>
     <sub-title>RCD Mallorca vs. Sevilla</sub-title>
     <category>Soccer</category>
   </programme>
@@ -111420,35 +111411,35 @@
     <category>Sports talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260131230000 +0000" stop="20260201010000 +0000" channel="12444">
+  <programme start="20260131231300 +0000" stop="20260201010500 +0000" channel="12444">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>The Oklahoma State Cowboys meet the Utah Utes at the Jon M. Huntsman Center in Salt Lake City.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SR999.jpg?w=240&amp;h=360"/>
     <sub-title>Oklahoma State at Utah</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201010000 +0000" stop="20260201030000 +0000" channel="12444">
+  <programme start="20260201010500 +0000" stop="20260201033400 +0000" channel="12444">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>The Bulls ride a three-game win streak into their American Conference meeting with the Owls.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002V1330.jpg?w=240&amp;h=360"/>
     <sub-title>South Florida at Temple</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201030000 +0000" stop="20260201050000 +0000" channel="12444">
+  <programme start="20260201033400 +0000" stop="20260201051400 +0000" channel="12444">
     <title>College Basketball [En vivo] [Nuevo]</title>
     <desc>The Louisiana Tech Bulldogs visit the Sam Houston Bearkats at Bernard G. Johnson Coliseum.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002V0PDD.jpg?w=240&amp;h=360"/>
     <sub-title>Louisiana Tech at Sam Houston State</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201050000 +0000" stop="20260201053000 +0000" channel="12444">
+  <programme start="20260201051400 +0000" stop="20260201054500 +0000" channel="12444">
     <title>College Basketball Live [En vivo] [Nuevo]</title>
     <desc>A discussion on the latest headlines, top players and upcoming matchups.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14865624_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2011</date>
     <category>Basketball</category>
   </programme>
-  <programme start="20260201053000 +0000" stop="20260201070000 +0000" channel="12444">
+  <programme start="20260201054500 +0000" stop="20260201071500 +0000" channel="12444">
     <title>30 for 30</title>
     <desc>The University of Houston's high-flying basketball team transformed the game forever.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p7817579_b_v12_ap.jpg?w=240&amp;h=360"/>
@@ -111459,7 +111450,7 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
   </programme>
-  <programme start="20260201070000 +0000" stop="20260201080000 +0000" channel="12444">
+  <programme start="20260201071500 +0000" stop="20260201080000 +0000" channel="12444">
     <title>SEC Storied</title>
     <desc>Shaquille O'Neal returns to LSU to visit Dale Brown, the coach who helped make it all possible.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p8766233_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -126903,7 +126894,7 @@
   <programme start="20260202173000 +0000" stop="20260202193000 +0000" channel="72189">
     <title>Fútbol Saudi League [En vivo] [Nuevo]</title>
     <desc>Desde el Kingdom Arena, en Riad, Arabia Saudita.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002WDP3N.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJJN.jpg?w=240&amp;h=360"/>
     <sub-title>Al Hilal vs. Al Ahli</sub-title>
     <category>Soccer</category>
   </programme>
@@ -128250,7 +128241,7 @@
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260202073000 +0000" stop="20260202113000 +0000" channel="173807">
+  <programme start="20260202073000 +0000" stop="20260202120000 +0000" channel="173807">
     <title>Programación Caliente TV</title>
     <desc>Emisión con noticias, debate y análisis de las ligas de fútbol más populares alrededor del mundo.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
@@ -128258,7 +128249,7 @@
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260202113000 +0000" stop="20260202153000 +0000" channel="173807">
+  <programme start="20260202120000 +0000" stop="20260202160000 +0000" channel="173807">
     <title>Programación Caliente TV</title>
     <desc>Emisión con noticias, debate y análisis de las ligas de fútbol más populares alrededor del mundo.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
@@ -128266,7 +128257,7 @@
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260202153000 +0000" stop="20260202193000 +0000" channel="173807">
+  <programme start="20260202160000 +0000" stop="20260202200000 +0000" channel="173807">
     <title>Programación Caliente TV</title>
     <desc>Emisión con noticias, debate y análisis de las ligas de fútbol más populares alrededor del mundo.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
@@ -128274,7 +128265,7 @@
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260202193000 +0000" stop="20260202233000 +0000" channel="173807">
+  <programme start="20260202200000 +0000" stop="20260202230000 +0000" channel="173807">
     <title>Programación Caliente TV</title>
     <desc>Emisión con noticias, debate y análisis de las ligas de fútbol más populares alrededor del mundo.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
@@ -128282,13 +128273,12 @@
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260202233000 +0000" stop="20260203033000 +0000" channel="173807">
-    <title>Programación Caliente TV</title>
-    <desc>Emisión con noticias, debate y análisis de las ligas de fútbol más populares alrededor del mundo.</desc>
-    <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
-    <date>2024</date>
-    <category>Special</category>
-    <category>Soccer</category>
+  <programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="173807">
+    <title>Automovilismo NASCAR Cup Series [En vivo] [Nuevo]</title>
+    <desc>Carrera del Cook Out Clash at Bowman Gray de la NASCAR Cup Series. Desde el Bowman Gray Stadium.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p17799520_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Cook Out Clash at Bowman Gray: Carrera</sub-title>
+    <category>Auto racing</category>
   </programme>
   <programme start="20260131223000 +0000" stop="20260201003000 +0000" channel="173704">
     <title>Programación Caliente TV</title>
@@ -128417,7 +128407,7 @@
   <programme start="20260202173000 +0000" stop="20260202195000 +0000" channel="173704">
     <title>Fútbol Saudi League [En vivo] [Nuevo]</title>
     <desc>Desde el Kingdom Arena, en Riad, Arabia Saudita.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002WDP3N.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJJN.jpg?w=240&amp;h=360"/>
     <sub-title>Al Hilal vs. Al Ahli</sub-title>
     <category>Soccer</category>
   </programme>
@@ -128667,7 +128657,7 @@
   <programme start="20260202171500 +0000" stop="20260202193000 +0000" channel="66879">
     <title>Saudi League Soccer [En vivo] [Nuevo]</title>
     <desc>From Kingdom Arena in Ar Riyad, Saudi Arabia.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002WDP3N.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJJN.jpg?w=240&amp;h=360"/>
     <sub-title>Al Hilal vs. Al Ahli</sub-title>
     <category>Soccer</category>
   </programme>
@@ -131226,7 +131216,7 @@
   <programme start="20260202173000 +0000" stop="20260202195000 +0000" channel="155368">
     <title>Fútbol Saudi League [En vivo] [Nuevo]</title>
     <desc>Desde el Kingdom Arena, en Riad, Arabia Saudita.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002WDP3N.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002XRJJN.jpg?w=240&amp;h=360"/>
     <sub-title>Al Hilal vs. Al Ahli</sub-title>
     <category>Soccer</category>
   </programme>
@@ -131251,11 +131241,11 @@
     </credits>
   </programme>
   <programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="155368">
-    <title>Fútbol Mexicano Primera División</title>
-    <desc>Fecha 4 del Torneo Clausura. Juárez enfrenta a Cruz Azul. Desde el Olímpico Benito Juárez.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002SNMVL.jpg?w=240&amp;h=360"/>
-    <sub-title>Juárez vs. Cruz Azul</sub-title>
-    <category>Soccer</category>
+    <title>Automovilismo NASCAR Cup Series [En vivo] [Nuevo]</title>
+    <desc>Carrera del Cook Out Clash at Bowman Gray de la NASCAR Cup Series. Desde el Bowman Gray Stadium.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p17799520_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Cook Out Clash at Bowman Gray: Carrera</sub-title>
+    <category>Auto racing</category>
   </programme>
   <programme start="20260201000000 +0000" stop="20260201001000 +0000" channel="105781">
     <title>Noticias</title>
@@ -167556,128 +167546,80 @@
     <category>Community</category>
   </programme>
   <programme start="20260202121000 +0000" stop="20260202121500 +0000" channel="91860">
-    <title>Cápsulas Edomex</title>
-    <desc>Cápsulas informativas del Edomex.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p23850369_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2023</date>
-    <category>Newsmagazine</category>
+    <title>Revista del Consumidor</title>
+    <desc>Consejos prácticos que brindan información veras y de calidad a todos los consumidores.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p881113_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2007</date>
+    <category>Consumer</category>
+    <category>Public affairs</category>
   </programme>
   <programme start="20260202121500 +0000" stop="20260202123000 +0000" channel="91860">
-    <title>Noticiero DW</title>
-    <desc>Presentando las noticias y el análisis en español desde la perspectiva europea.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p453966_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>1999</date>
+    <title>Noticiero Internacional Deutsche Welle</title>
+    <desc>Siempre actual, informativo y dinámico el noticiero de la Deutsche Welle.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p833119_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2007</date>
     <category>News</category>
-    <credits>
-      <actor>Jenny Perez</actor>
-      <actor>Silvia Cabrera</actor>
-      <actor>Carol Guerrero</actor>
-    </credits>
-  </programme>
-  <programme start="20260202123000 +0000" stop="20260202133000 +0000" channel="91860">
-    <title>AMX metropolitano</title>
-    <icon src="https://cltv.tmsimg.com/assets/p20462636_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>News</category>
-    <credits>
-      <actor>Raúl García</actor>
-    </credits>
-  </programme>
-  <programme start="20260202133000 +0000" stop="20260202140000 +0000" channel="91860">
-    <title>Lo que nos une</title>
-    <desc>La importancia de educar desde la igualdad y el rol de la mujer en diversos ámbitos.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p20206845_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <category>Community</category>
-    <credits>
-      <actor>Vivian Silberstein</actor>
-    </credits>
-  </programme>
-  <programme start="20260202140000 +0000" stop="20260202143000 +0000" channel="91860">
-    <title>Atrévete x ti</title>
-    <desc>Los mejores consejos para mejorar el bienestar físico y emocional. Además, bellísimos escenarios.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18674023_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
-    <category>Self improvement</category>
-    <category>Aerobics</category>
-    <credits>
-      <actor>Ligia Reyes</actor>
-    </credits>
-  </programme>
-  <programme start="20260202143000 +0000" stop="20260202163000 +0000" channel="91860">
-    <title>Emociónate</title>
-    <desc>Magazín con toda la información sobre tecnología, salud, moda, cocina y cultura. Además, invitados.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18674036_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
-    <category>Entertainment</category>
-    <category>News</category>
-    <credits>
-      <actor>Natali Girón</actor>
-      <actor>Irsa Sánchez</actor>
-      <actor>Christian Zamacona</actor>
-    </credits>
-  </programme>
-  <programme start="20260202163000 +0000" stop="20260202170000 +0000" channel="91860">
-    <title>Bionatura</title>
-    <desc>Programa de salud conducido por el prestigioso Dr. Abel Cruz que trata temas médicos y prevención.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p212470_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2006</date>
-    <category>Self improvement</category>
-    <category>Health</category>
-    <credits>
-      <actor>Abel Cruz</actor>
-    </credits>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
   </programme>
-  <programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="91860">
-    <title>#EnHoraBuena con Gina Serrano</title>
-    <desc>Un espacio informativo fresco, dónde las buenas noticias le dan un respiro a la agenda noticiosa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18674056_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2020</date>
+  <programme start="20260202123000 +0000" stop="20260202160000 +0000" channel="91860">
+    <title>AMX con Raúl García y Acela Contreras</title>
+    <icon src="https://cltv.tmsimg.com/assets/p32171236_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <date>2026</date>
+  </programme>
+  <programme start="20260202160000 +0000" stop="20260202183000 +0000" channel="91860">
+    <title>Corte informativo</title>
+    <desc>Programa en el que se brinda información de actualidad.</desc>
+    <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
+    <date>2013</date>
     <category>News</category>
     <credits>
-      <actor>Gina Serrano</actor>
+      <actor>Vianey Esquinca</actor>
+      <actor>Martín Espinosa</actor>
     </credits>
   </programme>
-  <programme start="20260202180000 +0000" stop="20260202183000 +0000" channel="91860">
-    <title>Porque soy mujer</title>
-    <desc>Un recorrido interesante por las diferentes etapas de cada mujer.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8044254_b_v8_af.jpg?w=240&amp;h=360"/>
-    <date>2010</date>
-    <category>Community</category>
-    <credits>
-      <actor>Anayanssi Moreno</actor>
-    </credits>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-  </programme>
-  <programme start="20260202183000 +0000" stop="20260202190000 +0000" channel="91860">
+  <programme start="20260202183000 +0000" stop="20260202184500 +0000" channel="91860">
     <title>Enjambre universitario</title>
     <desc>Un punto de vista de la Universidad Autónoma del Estado de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p670977_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2005</date>
     <category>Community</category>
   </programme>
-  <programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="91860">
-    <title>Película</title>
-    <desc>Arte cinematográfico mundial.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p809737_b_v12_ac.jpg?w=240&amp;h=360"/>
-    <category>Entertainment</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">B</rating>
-    <rating system="Ley de Responsabilidad Social en Radio y Televisión">A</rating>
-    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
-    <rating system="Consejo Nacional de Televisión">F</rating>
-    <rating system="Kijkwijzer">16</rating>
-  </programme>
-  <programme start="20260202210000 +0000" stop="20260202220000 +0000" channel="91860">
-    <title>Amx Con Marisol Ordoñez</title>
-    <desc>Todo lo que es necesario saber acerca del acontecer diario del Estado de México, el país y el mundo.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19487786_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
+  <programme start="20260202184500 +0000" stop="20260202200000 +0000" channel="91860">
+    <title>Mexiquense noticias</title>
+    <desc>Noticias con información actualizada al minuto sobre los acontecimientos en México y en el mundo.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p9936338_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2013</date>
     <category>News</category>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260202200000 +0000" stop="20260202203000 +0000" channel="91860">
+    <title>La historia que sigue</title>
+    <desc>Historias que salen de los libros y se convierten en narraciones con diferentes actores.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p11581253_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>La bella Griselda</sub-title>
+    <category>Entertainment</category>
+    <category>Fantasy</category>
     <credits>
-      <actor>Marisol Ordoñez</actor>
+      <actor>Daniel Martinez</actor>
     </credits>
   </programme>
-  <programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="91860">
+  <programme start="20260202203000 +0000" stop="20260202210000 +0000" channel="91860">
+    <title>Los cuentos de Chaski</title>
+    <desc>Un espacio educativo que invita a recorrer el Perú a través de historias fantásticas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p18553199_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2020</date>
+    <category>Educational</category>
+    <credits>
+      <actor>Manuel Vasquez Vasquez</actor>
+    </credits>
+  </programme>
+  <programme start="20260202210000 +0000" stop="20260202220000 +0000" channel="91860">
+    <title>Noticiero vespertino</title>
+    <icon src="https://cltv.tmsimg.com/assets/p20642434_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2021</date>
+    <category>News</category>
+  </programme>
+  <programme start="20260202220000 +0000" stop="20260202223000 +0000" channel="91860">
     <title>Cultura AMX</title>
     <desc>Un programa de noticias culturales de México, con el propósito de difundir la identidad y el arte.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19071394_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -167687,18 +167629,24 @@
       <actor>Citlalli Hinojosa</actor>
     </credits>
   </programme>
-  <programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="91860">
-    <title>Bim Bam Bum</title>
-    <desc>Laura Lucero, una joven aspirante a estrella que alcanza la cima de la fama demasiado rápido.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p10021918_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2013</date>
-    <category>Romance</category>
-    <category>Crime drama</category>
+  <programme start="20260202223000 +0000" stop="20260202230000 +0000" channel="91860">
+    <title>¿Y tú, tú qué vas a hacer?</title>
+    <desc>Arap Bethke intenta descifrar cuánto tiempo le llevaría subir a pie el Cerro del Cubilete.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p22603518_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Silao</sub-title>
+    <date>2022</date>
+    <category>Travel</category>
+    <category>Community</category>
+    <category>Public affairs</category>
     <credits>
-      <actor>Juanita Ringeling</actor>
-      <actor>Pablo Cerda</actor>
-      <actor>Celine Reymond</actor>
+      <actor>Arap Bethke</actor>
     </credits>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="91860">
+    <title>Guiños</title>
+    <icon src="https://cltv.tmsimg.com/assets/p32015268_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2025</date>
   </programme>
   <programme start="20260201000000 +0000" stop="20260201004500 +0000" channel="61719">
     <title>Milenio noticias con Daniel Saldívar</title>
@@ -173981,7 +173929,7 @@
   <programme start="20260202035800 +0000" stop="20260202045800 +0000" channel="88533">
     <title>Pole to Pole With Will Smith</title>
     <desc>Will viaja a una isla remota en el Pacífico Sur y ayuda a documentar un idioma perdido.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31980119_b_v11_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p31980123_b_v11_aa.jpg?w=240&amp;h=360"/>
     <sub-title>The Pacific Islands</sub-title>
     <date>2026</date>
     <category>Nature</category>
@@ -215386,7 +215334,7 @@
   </programme>
   <programme start="20260202043100 +0000" stop="20260202063800 +0000" channel="19384">
     <title>World War Z</title>
-    <desc>Un exinvestigador de la ONU es obligado a descubrir la fuente de una pandemia de zombis.</desc>
+    <desc>Un ex investigador de la ONU es obligado a descubrir la fuente de una pandemia de zombis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9087912_v_v12_ag.jpg?w=240&amp;h=360"/>
     <date>2013</date>
     <category>Horror</category>
@@ -215754,7 +215702,7 @@
   </programme>
   <programme start="20260202214000 +0000" stop="20260202234100 +0000" channel="19384">
     <title>World War Z</title>
-    <desc>Un exinvestigador de la ONU es obligado a descubrir la fuente de una pandemia de zombis.</desc>
+    <desc>Un ex investigador de la ONU es obligado a descubrir la fuente de una pandemia de zombis.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9087912_v_v12_ag.jpg?w=240&amp;h=360"/>
     <date>2013</date>
     <category>Horror</category>
