@@ -2362,38 +2362,25 @@
     <segmentation-upid>TFPG062602280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260228193000 +0000" stop="20260228200000 +0000">
+  <programme channel="1" start="20260228193000 +0000" stop="20260228194500 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">UEFA CHAMPIONS LEAGUE  |  SORTEO CHAMPIONS LEAGUE  |  02/27/2026</title>
-    <episode-num system="assetID">TFPG172602270201</episode-num>
-    <desc lang="es">SORTEO UEFA CHAMPIONS LEAGUE 2026: Octavos de Final, Cuartos de Final y Semifinales 02/27/2026</desc>
-    <length units="seconds">1800</length>
+    <title lang="es">Resumen de 15 min Liga MX  |  Tigres UANL vs CF Pachuca  |  02/20/2026</title>
+    <episode-num system="assetID">TFPG012602200103</episode-num>
+    <desc lang="es">Resumen de 15 min Partido de Liga MX Clausura 2026 - Jornada 7: Tigres UANL vs CF Pachuca 02/20/2026</desc>
+    <length units="seconds">900</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172602270201</segmentation-upid>
+    <segmentation-upid>TFPG012602200103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260228200000 +0000" stop="20260228210000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Formula E  |  Jeddah Highlights Rd5  | 02/16/2026</title>
-    <episode-num system="assetID">TFPG062600001401</episode-num>
-    <desc lang="es">Formula E 2026: Jeddah Highlights Rd5 02/16/2026</desc>
-    <length units="seconds">3600</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG062600001401</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260228210000 +0000" stop="20260228224500 +0000">
+  <programme channel="1" start="20260228194500 +0000" stop="20260228230000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">NASCAR CRAFTSMAN O´REILLY AUTO PARTS SERIES  |  Focused Health 250  |  02/28/2026</title>
     <episode-num system="assetID">TFPG062602280201</episode-num>
     <desc lang="es">NASCAR CRAFTSMAN O´REILLY AUTO PARTS SERIES 2026: Focused Health 250 02/28/2026</desc>
-    <length units="seconds">6300</length>
+    <length units="seconds">11700</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2401,25 +2388,12 @@
     <segmentation-upid>TFPG062602280201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260228224500 +0000" stop="20260228230000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Qarabag FK vs Newcastle United FC  |  02/18/2026</title>
-    <episode-num system="assetID">TFPG142602180303</episode-num>
-    <desc lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE 2025-26: Qarabag FK vs Newcastle United FC 02/18/2026</desc>
-    <length units="seconds">900</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG142602180303</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260228230000 +0000" stop="20260301004205 +0000">
+  <programme channel="1" start="20260228230000 +0000" stop="20260301004206 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Paris Saint-Germain FC vs AS Mónaco FC  |  02/25/2026</title>
     <episode-num system="assetID">TFPG142602250101</episode-num>
     <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Postemporada: Paris Saint-Germain FC vs AS Mónaco FC 02/25/2026</desc>
-    <length units="seconds">6125</length>
+    <length units="seconds">6126</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2427,7 +2401,7 @@
     <segmentation-upid>TFPG142602250101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260301004205 +0000" stop="20260301010001 +0000">
+  <programme channel="1" start="20260301004206 +0000" stop="20260301010002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Bodo Glimt vs Inter Milán  |  02/18/2026</title>
     <episode-num system="assetID">TFPG142602180103</episode-num>
@@ -2440,7 +2414,7 @@
     <segmentation-upid>TFPG142602180103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260301010001 +0000" stop="20260301024345 +0000">
+  <programme channel="1" start="20260301010002 +0000" stop="20260301024346 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Real Madrid CF vs Benfica  |  02/25/2026</title>
     <episode-num system="assetID">TFPG142602250201</episode-num>
@@ -2453,7 +2427,7 @@
     <segmentation-upid>TFPG142602250201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260301024345 +0000" stop="20260301030001 +0000">
+  <programme channel="1" start="20260301024346 +0000" stop="20260301030002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Club Brugge vs Atlético Madrid  |  02/18/2026</title>
     <episode-num system="assetID">TFPG142602180203</episode-num>
@@ -2466,7 +2440,7 @@
     <segmentation-upid>TFPG142602180203</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260301030001 +0000" stop="20260301040002 +0000">
+  <programme channel="1" start="20260301030002 +0000" stop="20260301040003 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">DESENCAJADOS  |  02/20/2026</title>
     <episode-num system="assetID">TFPG172602200201</episode-num>
@@ -2479,12 +2453,12 @@
     <segmentation-upid>TFPG172602200201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260301040002 +0000" stop="20260301050001 +0000">
+  <programme channel="1" start="20260301040003 +0000" stop="20260301050001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Lucha Libre AAA  |  Episodio 7  |   02/28/2026</title>
     <episode-num system="assetID">TFPG252602280101</episode-num>
     <desc lang="es">Lucha Libre AAA 2026 Episodio 7: Monterrey 02/28/2026</desc>
-    <length units="seconds">3599</length>
+    <length units="seconds">3598</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3233,17 +3207,30 @@
     <segmentation-upid>TFPG042603010201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260304160000 +0000" stop="20260304180000 +0000">
+  <programme channel="1" start="20260304160000 +0000" stop="20260304174130 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Paris Saint-Germain FC vs AS Mónaco FC  |  02/25/2026</title>
     <episode-num system="assetID">TFPG142602250101</episode-num>
     <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Postemporada: Paris Saint-Germain FC vs AS Mónaco FC 02/25/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6090</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
     <segmentation-upid>TFPG142602250101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260304174130 +0000" stop="20260304180000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Real Madrid CF vs Benfica  |  02/25/2026</title>
+    <episode-num system="assetID">TFPG142602250203</episode-num>
+    <desc lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE 2025-26 Postemporada: Real Madrid CF vs Benfica 02/25/2026</desc>
+    <length units="seconds">1110</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG142602250203</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260304180000 +0000" stop="20260304195000 +0000">
@@ -3623,12 +3610,12 @@
     <segmentation-upid>TFPG162603030101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260306180000 +0000" stop="20260306182800 +0000">
+  <programme channel="1" start="20260306180000 +0000" stop="20260306182900 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  SORTEO CHAMPIONS LEAGUE  |  02/27/2026</title>
     <episode-num system="assetID">TFPG172602270201</episode-num>
     <desc lang="es">SORTEO UEFA CHAMPIONS LEAGUE 2026: Octavos de Final, Cuartos de Final y Semifinales 02/27/2026</desc>
-    <length units="seconds">1680</length>
+    <length units="seconds">1740</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3636,12 +3623,12 @@
     <segmentation-upid>TFPG172602270201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260306182800 +0000" stop="20260306185000 +0000">
+  <programme channel="1" start="20260306182900 +0000" stop="20260306185000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min Saudi Pro League  |  Al-Qadisiyah vs AL Ettifaq  |  02/23/2026</title>
     <episode-num system="assetID">TFPG192602230103</episode-num>
     <desc lang="es">Resumen de 15 min Saudi Pro League 2025-26: Al-Qadisiyah vs AL Ettifaq  |  02/23/2026</desc>
-    <length units="seconds">1320</length>
+    <length units="seconds">1260</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3946,6 +3933,188 @@
     </rating>
     <LiveEvent>True</LiveEvent>
     <segmentation-upid>TFPG172603070301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308060000 +0000" stop="20260308070000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Lucha Libre AAA  |  Episodio 8  |   03/07/2026</title>
+    <episode-num system="assetID">TFPG252603070101</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 8: Monterrey 03/07/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG252603070101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308070000 +0000" stop="20260308090000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Everton FC vs Burnley  |  03/03/2026</title>
+    <episode-num system="assetID">TFPG042603030201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 29: Everton FC vs Burnley 03/03/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603030201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308090000 +0000" stop="20260308110002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Saudi Pro League  |  Al-Ahli vs Al-Ittihad Jeddah  |  03/06/2026</title>
+    <episode-num system="assetID">TFPG192603060101</episode-num>
+    <desc lang="es">Saudi Pro League 2025-26: Al-Ahli vs Al-Ittihad Jeddah 03/06/2026</desc>
+    <length units="seconds">7202</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG192603060101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308110002 +0000" stop="20260308120001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Formula E  |  Jeddah Highlights Rd4  | 02/16/2026</title>
+    <episode-num system="assetID">TFPG062600001301</episode-num>
+    <desc lang="es">Formula E 2026: Jeddah Highlights Rd4 02/16/2026</desc>
+    <length units="seconds">3599</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG062600001301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308120001 +0000" stop="20260308140001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Saudi Pro League  |  Al-Nassr vs Neom SC  |  03/07/2026</title>
+    <episode-num system="assetID">TFPG192603070101</episode-num>
+    <desc lang="es">Saudi Pro League 2025-26: Al-Nassr vs Neom SC 03/07/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG192603070101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308140001 +0000" stop="20260308150000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Formula E  |  Jeddah Highlights Rd5  | 02/16/2026</title>
+    <episode-num system="assetID">TFPG062600001401</episode-num>
+    <desc lang="es">Formula E 2026: Jeddah Highlights Rd5 02/16/2026</desc>
+    <length units="seconds">3599</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG062600001401</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308150000 +0000" stop="20260308170000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">MXGP  |  Carrera 1 MX2 &amp; MXGP Argentina  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG082603080101</episode-num>
+    <desc lang="es">MXGP: Carrera 1 MX2 &amp; MXGP Argentina 03/08/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG082603080101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308170000 +0000" stop="20260308190000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Tigres UANL vs CF Monterrey  |  03/07/2026</title>
+    <episode-num system="assetID">TFPG012603070301</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 10: Tigres UANL vs CF Monterrey 03/07/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603070301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308190000 +0000" stop="20260308210000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Querétaro FC vs CF América  |  03/07/2026</title>
+    <episode-num system="assetID">TFPG012603070101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 10: Querétaro FC vs CF América 03/07/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603070101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308210000 +0000" stop="20260308230000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP Argentina  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG082603080201</episode-num>
+    <desc lang="es">MXGP: Carrera 2 MX2 &amp; MXGP Argentina 03/08/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG082603080201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260308230000 +0000" stop="20260309010000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Arsenal  |  03/04/2026</title>
+    <episode-num system="assetID">TFPG042603040201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 29: Brighton &amp; Hove Albion FC vs Arsenal 03/04/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603040201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260309010000 +0000" stop="20260309030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Manchester City FC vs Nottingham Forest  |  03/04/2026</title>
+    <episode-num system="assetID">TFPG042603040301</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 29: Manchester City FC vs Nottingham Forest 03/04/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603040301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260309030000 +0000" stop="20260309050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Aston Villa vs Chelsea FC  |  03/04/2026</title>
+    <episode-num system="assetID">TFPG042603040101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 29: Aston Villa vs Chelsea FC 03/04/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603040101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260309050000 +0000" stop="20260309060000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG172603080101</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/08/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603080101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="20742">
