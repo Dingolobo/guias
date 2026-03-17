@@ -1396,7 +1396,7 @@
     <display-name>Unicable</display-name>
   </channel>
   <channel id="29058">
-    <icon src="https://cltv.tmsimg.com/assets/s29058_h3_aa.png?w=360&amp;h=270"/>
+    <icon src="https://cltv.tmsimg.com/assets/s29058_ll_h15_ab.png?w=360&amp;h=270"/>
     <display-name>Unimas (USA)</display-name>
   </channel>
   <channel id="77534">
@@ -1488,28 +1488,28 @@
     <display-name>ZooMoo</display-name>
   </channel>
   <programme start="20260317040000 +0000" channel="sky_sports_1_mexico" stop="20260317060000 +0000">
-    <title>World athletics indoor tour 20</title>
-  </programme>
-  <programme start="20260317040000 +0000" channel="sky_sports_16" stop="20260317060000 +0000">
-    <title>Rayo Vallecano vs. Levante</title>
-  </programme>
-  <programme start="20260317043000 +0000" channel="a_mas" stop="20260317060000 +0000">
-    <title>Raza de Víboras</title>
-  </programme>
-  <programme start="20260317050000 +0000" channel="sky_sports_24" stop="20260317053000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
-  <programme start="20260317053000 +0000" channel="sky_sports_24" stop="20260317060000 +0000">
-    <title>Sky Sports 24</title>
-  </programme>
-  <programme start="20260317060000 +0000" channel="sky_sports_1_mexico" stop="20260317080000 +0000">
     <title>Real Valladolid CF vs. CD Legan</title>
   </programme>
-  <programme start="20260317060000 +0000" channel="sky_sports_16" stop="20260317080000 +0000">
+  <programme start="20260317040000 +0000" channel="sky_sports_16" stop="20260317060000 +0000">
     <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
-  <programme start="20260317060000 +0000" channel="sky_sports_24" stop="20260317080000 +0000">
+  <programme start="20260317040000 +0000" channel="sky_sports_24" stop="20260317060000 +0000">
     <title>Schalke 04 vs. Arminia</title>
+  </programme>
+  <programme start="20260317050000 +0000" channel="a_mas" stop="20260317053000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260317053000 +0000" channel="a_mas" stop="20260317060000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260317060000 +0000" channel="sky_sports_1_mexico" stop="20260317080000 +0000">
+    <title>World athletics indoor tour 20</title>
+  </programme>
+  <programme start="20260317060000 +0000" channel="sky_sports_16" stop="20260317080000 +0000">
+    <title>Girona FC vs. Athletic Club de</title>
+  </programme>
+  <programme start="20260317060000 +0000" channel="sky_sports_24" stop="20260317080000 +0000">
+    <title>SV Darmstadt 98 vs. Holstein Ki</title>
   </programme>
   <programme start="20260317060000 +0000" channel="a_mas" stop="20260317063000 +0000">
     <title>Paid Programing</title>
@@ -1517,161 +1517,161 @@
   <programme start="20260317063000 +0000" channel="a_mas" stop="20260317070000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260317070000 +0000" channel="a_mas" stop="20260317073000 +0000">
+  <programme start="20260317070000 +0000" channel="a_mas" stop="20260317080000 +0000">
     <title>Paid Programing</title>
-  </programme>
-  <programme start="20260317073000 +0000" channel="a_mas" stop="20260317080000 +0000">
-    <title>Sognare</title>
   </programme>
   <programme start="20260317080000 +0000" channel="sky_sports_1_mexico" stop="20260317100000 +0000">
-    <title>World athletics indoor tour 20</title>
+    <title>Málaga vs. Huesca</title>
   </programme>
   <programme start="20260317080000 +0000" channel="sky_sports_16" stop="20260317100000 +0000">
-    <title>Girona FC vs. Athletic Club de</title>
+    <title>Real Oviedo vs. Valencia</title>
   </programme>
   <programme start="20260317080000 +0000" channel="sky_sports_24" stop="20260317100000 +0000">
-    <title>SV Darmstadt 98 vs. Holstein Ki</title>
+    <title>Borussia M'gladbach vs. FC St</title>
   </programme>
   <programme start="20260317080000 +0000" channel="a_mas" stop="20260317083000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260317083000 +0000" channel="a_mas" stop="20260317090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260317090000 +0000" channel="a_mas" stop="20260317100000 +0000">
+  <programme start="20260317083000 +0000" channel="a_mas" stop="20260317123000 +0000">
     <title>Paid Programing</title>
   </programme>
   <programme start="20260317100000 +0000" channel="sky_sports_1_mexico" stop="20260317120000 +0000">
-    <title>Málaga vs. Huesca</title>
+    <title>World athletics indoor tour 20</title>
   </programme>
   <programme start="20260317100000 +0000" channel="sky_sports_16" stop="20260317120000 +0000">
-    <title>Real Oviedo vs. Valencia</title>
+    <title>Real Sociedad vs. CA Osasuna</title>
   </programme>
   <programme start="20260317100000 +0000" channel="sky_sports_24" stop="20260317120000 +0000">
-    <title>Borussia M'gladbach vs. FC St</title>
+    <title>Leverkusen vs. Bayern Múnich</title>
   </programme>
-  <programme start="20260317100000 +0000" channel="a_mas" stop="20260317103000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260317103000 +0000" channel="a_mas" stop="20260317143000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260317120000 +0000" channel="sky_sports_1_mexico" stop="20260317140000 +0000">
+  <programme start="20260317120000 +0000" channel="sky_sports_1_mexico" stop="20260317143000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
   <programme start="20260317120000 +0000" channel="sky_sports_16" stop="20260317140000 +0000">
-    <title>Real Sociedad vs. CA Osasuna</title>
-  </programme>
-  <programme start="20260317120000 +0000" channel="sky_sports_24" stop="20260317140000 +0000">
-    <title>Leverkusen vs. Bayern Múnich</title>
-  </programme>
-  <programme start="20260317140000 +0000" channel="sky_sports_1_mexico" stop="20260317163000 +0000">
-    <title>World athletics indoor tour 20</title>
-  </programme>
-  <programme start="20260317140000 +0000" channel="sky_sports_16" stop="20260317160000 +0000">
     <title>Real Betis vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260317140000 +0000" channel="sky_sports_24" stop="20260317160000 +0000">
+  <programme start="20260317120000 +0000" channel="sky_sports_24" stop="20260317140000 +0000">
     <title>Hamburger SV vs. 1. FC Köln</title>
   </programme>
-  <programme start="20260317143000 +0000" channel="a_mas" stop="20260317150000 +0000">
+  <programme start="20260317123000 +0000" channel="a_mas" stop="20260317130000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260317150000 +0000" channel="a_mas" stop="20260317160000 +0000">
+  <programme start="20260317130000 +0000" channel="a_mas" stop="20260317140000 +0000">
     <title>Naturista Naturalmente</title>
   </programme>
-  <programme start="20260317160000 +0000" channel="sky_sports_16" stop="20260317180000 +0000">
+  <programme start="20260317140000 +0000" channel="sky_sports_16" stop="20260317160000 +0000">
     <title>RCD Mallorca vs. Espanyol</title>
   </programme>
-  <programme start="20260317160000 +0000" channel="sky_sports_24" stop="20260317180000 +0000">
+  <programme start="20260317140000 +0000" channel="sky_sports_24" stop="20260317160000 +0000">
     <title>SV Werder Bremen vs. FSV Mainz</title>
   </programme>
-  <programme start="20260317160000 +0000" channel="a_mas" stop="20260317180000 +0000">
+  <programme start="20260317140000 +0000" channel="a_mas" stop="20260317160000 +0000">
     <title>Las tandas del principal</title>
   </programme>
-  <programme start="20260317163000 +0000" channel="sky_sports_1_mexico" stop="20260317190000 +0000">
+  <programme start="20260317143000 +0000" channel="sky_sports_1_mexico" stop="20260317170000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260317180000 +0000" channel="sky_sports_16" stop="20260317200000 +0000">
+  <programme start="20260317160000 +0000" channel="sky_sports_16" stop="20260317180000 +0000">
     <title>Rayo Vallecano vs. Levante</title>
   </programme>
-  <programme start="20260317180000 +0000" channel="sky_sports_24" stop="20260317200000 +0000">
+  <programme start="20260317160000 +0000" channel="sky_sports_24" stop="20260317180000 +0000">
     <title>SC Freiburg vs. Unión Berlín</title>
   </programme>
-  <programme start="20260317180000 +0000" channel="a_mas" stop="20260317200000 +0000">
+  <programme start="20260317160000 +0000" channel="a_mas" stop="20260317180000 +0000">
     <title>Los Rey</title>
   </programme>
-  <programme start="20260317190000 +0000" channel="sky_sports_1_mexico" stop="20260317210000 +0000">
+  <programme start="20260317170000 +0000" channel="sky_sports_1_mexico" stop="20260317190000 +0000">
     <title>Cultural Leonesa vs. R. Racing</title>
   </programme>
-  <programme start="20260317200000 +0000" channel="sky_sports_16" stop="20260317220000 +0000">
+  <programme start="20260317180000 +0000" channel="sky_sports_16" stop="20260317200000 +0000">
     <title>Barcelona vs. Sevilla</title>
   </programme>
-  <programme start="20260317200000 +0000" channel="sky_sports_24" stop="20260317220000 +0000">
+  <programme start="20260317180000 +0000" channel="sky_sports_24" stop="20260317200000 +0000">
     <title>Borussia Dortmund vs. FC Augsbu</title>
   </programme>
-  <programme start="20260317200000 +0000" channel="a_mas" stop="20260317220000 +0000">
+  <programme start="20260317180000 +0000" channel="a_mas" stop="20260317200000 +0000">
     <title>Retorno a la juventud</title>
   </programme>
-  <programme start="20260317210000 +0000" channel="sky_sports_1_mexico" stop="20260317230000 +0000">
+  <programme start="20260317190000 +0000" channel="sky_sports_1_mexico" stop="20260317210000 +0000">
     <title>CD Mirandés vs. Cádiz CF</title>
   </programme>
-  <programme start="20260317220000 +0000" channel="sky_sports_16" stop="20260318000000 +0000">
+  <programme start="20260317200000 +0000" channel="sky_sports_16" stop="20260317220000 +0000">
     <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
-  <programme start="20260317220000 +0000" channel="sky_sports_24" stop="20260318000000 +0000">
+  <programme start="20260317200000 +0000" channel="sky_sports_24" stop="20260317220000 +0000">
     <title>TSG Hoffenheim vs. VfL Wolfsbu</title>
   </programme>
-  <programme start="20260317220000 +0000" channel="a_mas" stop="20260317234500 +0000">
+  <programme start="20260317200000 +0000" channel="a_mas" stop="20260317214500 +0000">
     <title>Una gringuita en México</title>
   </programme>
-  <programme start="20260317230000 +0000" channel="sky_sports_1_mexico" stop="20260318020000 +0000">
+  <programme start="20260317210000 +0000" channel="sky_sports_1_mexico" stop="20260318000000 +0000">
     <title>Calgary Flames vs. Detroit Red</title>
   </programme>
-  <programme start="20260317234500 +0000" channel="a_mas" stop="20260318014500 +0000">
+  <programme start="20260317214500 +0000" channel="a_mas" stop="20260317234500 +0000">
     <title>El despertar del lobo</title>
   </programme>
-  <programme start="20260318000000 +0000" channel="sky_sports_16" stop="20260318020000 +0000">
+  <programme start="20260317220000 +0000" channel="sky_sports_16" stop="20260318000000 +0000">
     <title>Real Madrid vs. Elche</title>
   </programme>
-  <programme start="20260318000000 +0000" channel="sky_sports_24" stop="20260318020000 +0000">
+  <programme start="20260317220000 +0000" channel="sky_sports_24" stop="20260318000000 +0000">
     <title>Eintracht Frankfurt vs. 1. FC H</title>
   </programme>
-  <programme start="20260318014500 +0000" channel="a_mas" stop="20260318033000 +0000">
+  <programme start="20260317234500 +0000" channel="a_mas" stop="20260318013000 +0000">
     <title>La rielera</title>
   </programme>
-  <programme start="20260318020000 +0000" channel="sky_sports_1_mexico" stop="20260318050000 +0000">
+  <programme start="20260318000000 +0000" channel="sky_sports_1_mexico" stop="20260318030000 +0000">
     <title>Tampa Bay Lightning vs. Seattle</title>
   </programme>
-  <programme start="20260318020000 +0000" channel="sky_sports_16" stop="20260318040000 +0000">
+  <programme start="20260318000000 +0000" channel="sky_sports_16" stop="20260318020000 +0000">
     <title>Atlético de Madrid vs. Getafe C</title>
   </programme>
-  <programme start="20260318020000 +0000" channel="sky_sports_24" stop="20260318040000 +0000">
+  <programme start="20260318000000 +0000" channel="sky_sports_24" stop="20260318020000 +0000">
     <title>VfB Stuttgart vs. RB Leipzig</title>
   </programme>
-  <programme start="20260318033000 +0000" channel="a_mas" stop="20260318043000 +0000">
+  <programme start="20260318013000 +0000" channel="a_mas" stop="20260318023000 +0000">
     <title>Ahora Más Noticias</title>
   </programme>
-  <programme start="20260318040000 +0000" channel="sky_sports_16" stop="20260318060000 +0000">
+  <programme start="20260318020000 +0000" channel="sky_sports_16" stop="20260318040000 +0000">
     <title>Girona FC vs. Athletic Club de</title>
   </programme>
-  <programme start="20260318040000 +0000" channel="sky_sports_24" stop="20260318060000 +0000">
+  <programme start="20260318020000 +0000" channel="sky_sports_24" stop="20260318040000 +0000">
     <title>Bayern Munich vs. M'gladbach</title>
   </programme>
-  <programme start="20260318043000 +0000" channel="a_mas" stop="20260318060000 +0000">
+  <programme start="20260318023000 +0000" channel="a_mas" stop="20260318040000 +0000">
     <title>El Cuarto Chino</title>
   </programme>
-  <programme start="20260318050000 +0000" channel="sky_sports_1_mexico" stop="20260318060000 +0000">
+  <programme start="20260318030000 +0000" channel="sky_sports_1_mexico" stop="20260318040000 +0000">
     <title>Real Sporting de Gijón vs. CD C</title>
   </programme>
-  <programme start="20260318060000 +0000" channel="sky_sports_1_mexico" stop="20260318070000 +0000">
+  <programme start="20260318040000 +0000" channel="sky_sports_1_mexico" stop="20260318050000 +0000">
     <title>Real Sporting de Gijón vs. CD C</title>
   </programme>
-  <programme start="20260318060000 +0000" channel="sky_sports_16" stop="20260318080000 +0000">
+  <programme start="20260318040000 +0000" channel="sky_sports_16" stop="20260318060000 +0000">
     <title>Rayo Vallecano vs. Levante</title>
   </programme>
-  <programme start="20260318060000 +0000" channel="sky_sports_24" stop="20260318080000 +0000">
+  <programme start="20260318040000 +0000" channel="sky_sports_24" stop="20260318060000 +0000">
     <title>SV Darmstadt 98 vs. 1. FC Magde</title>
+  </programme>
+  <programme start="20260318040000 +0000" channel="a_mas" stop="20260318043000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260318043000 +0000" channel="a_mas" stop="20260318050000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260318050000 +0000" channel="sky_sports_1_mexico" stop="20260318080000 +0000">
+    <title>Tampa Bay Lightning vs. Seattle</title>
+  </programme>
+  <programme start="20260318050000 +0000" channel="a_mas" stop="20260318053000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260318053000 +0000" channel="a_mas" stop="20260318060000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260318060000 +0000" channel="sky_sports_16" stop="20260318080000 +0000">
+    <title>RCD Mallorca vs. Espanyol</title>
+  </programme>
+  <programme start="20260318060000 +0000" channel="sky_sports_24" stop="20260318080000 +0000">
+    <title>Schalke 04 vs. Hannover 96</title>
   </programme>
   <programme start="20260318060000 +0000" channel="a_mas" stop="20260318063000 +0000">
     <title>Paid Programing</title>
@@ -1679,161 +1679,161 @@
   <programme start="20260318063000 +0000" channel="a_mas" stop="20260318070000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260318070000 +0000" channel="sky_sports_1_mexico" stop="20260318100000 +0000">
-    <title>Tampa Bay Lightning vs. Seattle</title>
-  </programme>
-  <programme start="20260318070000 +0000" channel="a_mas" stop="20260318073000 +0000">
+  <programme start="20260318070000 +0000" channel="a_mas" stop="20260318080000 +0000">
     <title>Paid Programing</title>
   </programme>
-  <programme start="20260318073000 +0000" channel="a_mas" stop="20260318080000 +0000">
-    <title>Sognare</title>
+  <programme start="20260318080000 +0000" channel="sky_sports_1_mexico" stop="20260318100000 +0000">
+    <title>AD Ceuta FC vs. RC Deportivo</title>
   </programme>
   <programme start="20260318080000 +0000" channel="sky_sports_16" stop="20260318100000 +0000">
-    <title>RCD Mallorca vs. Espanyol</title>
+    <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
   <programme start="20260318080000 +0000" channel="sky_sports_24" stop="20260318100000 +0000">
-    <title>Schalke 04 vs. Hannover 96</title>
+    <title>FC Heidenheim 1846 vs. Hoffenhe</title>
   </programme>
   <programme start="20260318080000 +0000" channel="a_mas" stop="20260318083000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260318083000 +0000" channel="a_mas" stop="20260318090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260318090000 +0000" channel="a_mas" stop="20260318100000 +0000">
+  <programme start="20260318083000 +0000" channel="a_mas" stop="20260318123000 +0000">
     <title>Paid Programing</title>
   </programme>
   <programme start="20260318100000 +0000" channel="sky_sports_1_mexico" stop="20260318120000 +0000">
-    <title>AD Ceuta FC vs. RC Deportivo</title>
-  </programme>
-  <programme start="20260318100000 +0000" channel="sky_sports_16" stop="20260318120000 +0000">
-    <title>Deportivo Alavés vs. Villarreal</title>
-  </programme>
-  <programme start="20260318100000 +0000" channel="sky_sports_24" stop="20260318120000 +0000">
-    <title>FC Heidenheim 1846 vs. Hoffenhe</title>
-  </programme>
-  <programme start="20260318100000 +0000" channel="a_mas" stop="20260318103000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260318103000 +0000" channel="a_mas" stop="20260318143000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260318120000 +0000" channel="sky_sports_1_mexico" stop="20260318140000 +0000">
     <title>Real Valladolid CF vs. CD Legan</title>
   </programme>
-  <programme start="20260318120000 +0000" channel="sky_sports_16" stop="20260318140000 +0000">
+  <programme start="20260318100000 +0000" channel="sky_sports_16" stop="20260318120000 +0000">
     <title>Real Betis vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260318120000 +0000" channel="sky_sports_24" stop="20260318140000 +0000">
+  <programme start="20260318100000 +0000" channel="sky_sports_24" stop="20260318120000 +0000">
     <title>1. FC Köln vs. Borussia Dortmun</title>
   </programme>
-  <programme start="20260318140000 +0000" channel="sky_sports_1_mexico" stop="20260318163000 +0000">
+  <programme start="20260318120000 +0000" channel="sky_sports_1_mexico" stop="20260318143000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260318140000 +0000" channel="sky_sports_16" stop="20260318160000 +0000">
+  <programme start="20260318120000 +0000" channel="sky_sports_16" stop="20260318140000 +0000">
     <title>Girona FC vs. Athletic Club de</title>
   </programme>
-  <programme start="20260318140000 +0000" channel="sky_sports_24" stop="20260318160000 +0000">
+  <programme start="20260318120000 +0000" channel="sky_sports_24" stop="20260318140000 +0000">
     <title>RB Leipzig vs. FC Augsburg</title>
   </programme>
-  <programme start="20260318143000 +0000" channel="a_mas" stop="20260318150000 +0000">
+  <programme start="20260318123000 +0000" channel="a_mas" stop="20260318130000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260318150000 +0000" channel="a_mas" stop="20260318160000 +0000">
+  <programme start="20260318130000 +0000" channel="a_mas" stop="20260318140000 +0000">
     <title>Naturista Naturalmente</title>
   </programme>
-  <programme start="20260318160000 +0000" channel="sky_sports_16" stop="20260318180000 +0000">
+  <programme start="20260318140000 +0000" channel="sky_sports_16" stop="20260318160000 +0000">
     <title>Real Sociedad vs. CA Osasuna</title>
   </programme>
-  <programme start="20260318160000 +0000" channel="sky_sports_24" stop="20260318180000 +0000">
+  <programme start="20260318140000 +0000" channel="sky_sports_24" stop="20260318160000 +0000">
     <title>1. FsV Mainz vs. Stuttgart</title>
   </programme>
-  <programme start="20260318160000 +0000" channel="a_mas" stop="20260318180000 +0000">
+  <programme start="20260318140000 +0000" channel="a_mas" stop="20260318160000 +0000">
     <title>Rumba caliente</title>
   </programme>
-  <programme start="20260318163000 +0000" channel="sky_sports_1_mexico" stop="20260318183000 +0000">
+  <programme start="20260318143000 +0000" channel="sky_sports_1_mexico" stop="20260318163000 +0000">
     <title>CD Mirandés vs. Cádiz CF</title>
   </programme>
-  <programme start="20260318180000 +0000" channel="sky_sports_16" stop="20260318200000 +0000">
+  <programme start="20260318160000 +0000" channel="sky_sports_16" stop="20260318180000 +0000">
     <title>Real Oviedo vs. Valencia</title>
   </programme>
-  <programme start="20260318180000 +0000" channel="sky_sports_24" stop="20260318200000 +0000">
+  <programme start="20260318160000 +0000" channel="sky_sports_24" stop="20260318180000 +0000">
     <title>Freiburg vs. Leverkusen</title>
   </programme>
-  <programme start="20260318180000 +0000" channel="a_mas" stop="20260318200000 +0000">
+  <programme start="20260318160000 +0000" channel="a_mas" stop="20260318180000 +0000">
     <title>Los Rey</title>
   </programme>
-  <programme start="20260318183000 +0000" channel="sky_sports_1_mexico" stop="20260318203000 +0000">
+  <programme start="20260318163000 +0000" channel="sky_sports_1_mexico" stop="20260318183000 +0000">
     <title>Albacete BP vs. UD las Palmas</title>
   </programme>
-  <programme start="20260318200000 +0000" channel="sky_sports_16" stop="20260318220000 +0000">
+  <programme start="20260318180000 +0000" channel="sky_sports_16" stop="20260318200000 +0000">
     <title>Real Madrid vs. Elche</title>
   </programme>
-  <programme start="20260318200000 +0000" channel="sky_sports_24" stop="20260318220000 +0000">
+  <programme start="20260318180000 +0000" channel="sky_sports_24" stop="20260318200000 +0000">
     <title>Wolfsburg vs. Hamburger Sv</title>
   </programme>
-  <programme start="20260318200000 +0000" channel="a_mas" stop="20260318220000 +0000">
+  <programme start="20260318180000 +0000" channel="a_mas" stop="20260318200000 +0000">
     <title>No me olvides nunca</title>
   </programme>
-  <programme start="20260318203000 +0000" channel="sky_sports_1_mexico" stop="20260318223000 +0000">
+  <programme start="20260318183000 +0000" channel="sky_sports_1_mexico" stop="20260318203000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260318220000 +0000" channel="sky_sports_16" stop="20260319000000 +0000">
+  <programme start="20260318200000 +0000" channel="sky_sports_16" stop="20260318220000 +0000">
     <title>Rayo Vallecano vs. Levante</title>
   </programme>
-  <programme start="20260318220000 +0000" channel="sky_sports_24" stop="20260319000000 +0000">
+  <programme start="20260318200000 +0000" channel="sky_sports_24" stop="20260318220000 +0000">
     <title>St. Pauli vs. Frankfurt</title>
   </programme>
-  <programme start="20260318220000 +0000" channel="a_mas" stop="20260318234500 +0000">
+  <programme start="20260318200000 +0000" channel="a_mas" stop="20260318214500 +0000">
     <title>Cómicos de la legua</title>
   </programme>
-  <programme start="20260318223000 +0000" channel="sky_sports_1_mexico" stop="20260319013000 +0000">
+  <programme start="20260318203000 +0000" channel="sky_sports_1_mexico" stop="20260318233000 +0000">
     <title>Tampa Bay Lightning vs. Seattle</title>
   </programme>
-  <programme start="20260318234500 +0000" channel="a_mas" stop="20260319014500 +0000">
+  <programme start="20260318214500 +0000" channel="a_mas" stop="20260318234500 +0000">
     <title>Los tres vivales</title>
   </programme>
-  <programme start="20260319000000 +0000" channel="sky_sports_16" stop="20260319020000 +0000">
+  <programme start="20260318220000 +0000" channel="sky_sports_16" stop="20260319000000 +0000">
     <title>Barcelona vs. Sevilla</title>
   </programme>
-  <programme start="20260319000000 +0000" channel="sky_sports_24" stop="20260319020000 +0000">
+  <programme start="20260318220000 +0000" channel="sky_sports_24" stop="20260319000000 +0000">
     <title>1. FC Union Berlin vs. Werder B</title>
   </programme>
-  <programme start="20260319013000 +0000" channel="sky_sports_1_mexico" stop="20260319043000 +0000">
+  <programme start="20260318233000 +0000" channel="sky_sports_1_mexico" stop="20260319023000 +0000">
     <title>Stars vs. Avalanche</title>
   </programme>
-  <programme start="20260319014500 +0000" channel="a_mas" stop="20260319033000 +0000">
+  <programme start="20260318234500 +0000" channel="a_mas" stop="20260319013000 +0000">
     <title>Contrabando de esmeraldas</title>
   </programme>
-  <programme start="20260319020000 +0000" channel="sky_sports_16" stop="20260319040000 +0000">
+  <programme start="20260319000000 +0000" channel="sky_sports_16" stop="20260319020000 +0000">
     <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
-  <programme start="20260319020000 +0000" channel="sky_sports_24" stop="20260319040000 +0000">
+  <programme start="20260319000000 +0000" channel="sky_sports_24" stop="20260319020000 +0000">
     <title>Eintracht Frankfurt vs. 1. FC H</title>
   </programme>
-  <programme start="20260319033000 +0000" channel="a_mas" stop="20260319043000 +0000">
+  <programme start="20260319013000 +0000" channel="a_mas" stop="20260319023000 +0000">
     <title>Ahora Más Noticias</title>
   </programme>
-  <programme start="20260319040000 +0000" channel="sky_sports_16" stop="20260319060000 +0000">
+  <programme start="20260319020000 +0000" channel="sky_sports_16" stop="20260319040000 +0000">
     <title>Atlético de Madrid vs. Getafe C</title>
   </programme>
-  <programme start="20260319040000 +0000" channel="sky_sports_24" stop="20260319060000 +0000">
+  <programme start="20260319020000 +0000" channel="sky_sports_24" stop="20260319040000 +0000">
     <title>VfB Stuttgart vs. RB Leipzig</title>
   </programme>
-  <programme start="20260319043000 +0000" channel="sky_sports_1_mexico" stop="20260319060000 +0000">
+  <programme start="20260319023000 +0000" channel="sky_sports_1_mexico" stop="20260319040000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260319043000 +0000" channel="a_mas" stop="20260319060000 +0000">
+  <programme start="20260319023000 +0000" channel="a_mas" stop="20260319040000 +0000">
     <title>El mil abusos</title>
   </programme>
-  <programme start="20260319060000 +0000" channel="sky_sports_1_mexico" stop="20260319080000 +0000">
+  <programme start="20260319040000 +0000" channel="sky_sports_1_mexico" stop="20260319060000 +0000">
     <title>Córdoba vs. Real Sociedad B</title>
   </programme>
-  <programme start="20260319060000 +0000" channel="sky_sports_16" stop="20260319080000 +0000">
+  <programme start="20260319040000 +0000" channel="sky_sports_16" stop="20260319060000 +0000">
     <title>Real Sociedad vs. CA Osasuna</title>
   </programme>
-  <programme start="20260319060000 +0000" channel="sky_sports_24" stop="20260319080000 +0000">
+  <programme start="20260319040000 +0000" channel="sky_sports_24" stop="20260319060000 +0000">
     <title>Schalke 04 vs. Arminia</title>
+  </programme>
+  <programme start="20260319040000 +0000" channel="a_mas" stop="20260319043000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260319043000 +0000" channel="a_mas" stop="20260319050000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260319050000 +0000" channel="a_mas" stop="20260319053000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260319053000 +0000" channel="a_mas" stop="20260319060000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260319060000 +0000" channel="sky_sports_1_mexico" stop="20260319083000 +0000">
+    <title>World athletics indoor tour 20</title>
+  </programme>
+  <programme start="20260319060000 +0000" channel="sky_sports_16" stop="20260319080000 +0000">
+    <title>Girona FC vs. Athletic Club de</title>
+  </programme>
+  <programme start="20260319060000 +0000" channel="sky_sports_24" stop="20260319080000 +0000">
+    <title>SV Darmstadt 98 vs. Holstein Ki</title>
   </programme>
   <programme start="20260319060000 +0000" channel="a_mas" stop="20260319063000 +0000">
     <title>Paid Programing</title>
@@ -1841,149 +1841,143 @@
   <programme start="20260319063000 +0000" channel="a_mas" stop="20260319070000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260319070000 +0000" channel="a_mas" stop="20260319073000 +0000">
+  <programme start="20260319070000 +0000" channel="a_mas" stop="20260319080000 +0000">
     <title>Paid Programing</title>
-  </programme>
-  <programme start="20260319073000 +0000" channel="a_mas" stop="20260319080000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260319080000 +0000" channel="sky_sports_1_mexico" stop="20260319103000 +0000">
-    <title>World athletics indoor tour 20</title>
   </programme>
   <programme start="20260319080000 +0000" channel="sky_sports_16" stop="20260319100000 +0000">
-    <title>Girona FC vs. Athletic Club de</title>
+    <title>Rayo Vallecano vs. Levante</title>
   </programme>
   <programme start="20260319080000 +0000" channel="sky_sports_24" stop="20260319100000 +0000">
-    <title>SV Darmstadt 98 vs. Holstein Ki</title>
+    <title>Borussia M'gladbach vs. FC St</title>
   </programme>
   <programme start="20260319080000 +0000" channel="a_mas" stop="20260319083000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260319083000 +0000" channel="a_mas" stop="20260319090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260319090000 +0000" channel="a_mas" stop="20260319100000 +0000">
+  <programme start="20260319083000 +0000" channel="sky_sports_1_mexico" stop="20260319110000 +0000">
+    <title>World athletics indoor tour 20</title>
+  </programme>
+  <programme start="20260319083000 +0000" channel="a_mas" stop="20260319123000 +0000">
     <title>Paid Programing</title>
   </programme>
   <programme start="20260319100000 +0000" channel="sky_sports_16" stop="20260319120000 +0000">
-    <title>Rayo Vallecano vs. Levante</title>
+    <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
   <programme start="20260319100000 +0000" channel="sky_sports_24" stop="20260319120000 +0000">
-    <title>Borussia M'gladbach vs. FC St</title>
-  </programme>
-  <programme start="20260319100000 +0000" channel="a_mas" stop="20260319103000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260319103000 +0000" channel="sky_sports_1_mexico" stop="20260319130000 +0000">
-    <title>World athletics indoor tour 20</title>
-  </programme>
-  <programme start="20260319103000 +0000" channel="a_mas" stop="20260319143000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260319120000 +0000" channel="sky_sports_16" stop="20260319140000 +0000">
-    <title>Deportivo Alavés vs. Villarreal</title>
-  </programme>
-  <programme start="20260319120000 +0000" channel="sky_sports_24" stop="20260319140000 +0000">
     <title>Leverkusen vs. Bayern Múnich</title>
   </programme>
-  <programme start="20260319130000 +0000" channel="sky_sports_1_mexico" stop="20260319160000 +0000">
+  <programme start="20260319110000 +0000" channel="sky_sports_1_mexico" stop="20260319140000 +0000">
     <title>Stars vs. Avalanche</title>
   </programme>
-  <programme start="20260319140000 +0000" channel="sky_sports_16" stop="20260319160000 +0000">
+  <programme start="20260319120000 +0000" channel="sky_sports_16" stop="20260319140000 +0000">
     <title>Real Betis vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260319140000 +0000" channel="sky_sports_24" stop="20260319160000 +0000">
+  <programme start="20260319120000 +0000" channel="sky_sports_24" stop="20260319140000 +0000">
     <title>Hamburger SV vs. 1. FC Köln</title>
   </programme>
-  <programme start="20260319143000 +0000" channel="a_mas" stop="20260319150000 +0000">
+  <programme start="20260319123000 +0000" channel="a_mas" stop="20260319130000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260319150000 +0000" channel="a_mas" stop="20260319160000 +0000">
+  <programme start="20260319130000 +0000" channel="a_mas" stop="20260319140000 +0000">
     <title>Naturista Naturalmente</title>
   </programme>
-  <programme start="20260319160000 +0000" channel="sky_sports_1_mexico" stop="20260319180000 +0000">
+  <programme start="20260319140000 +0000" channel="sky_sports_1_mexico" stop="20260319160000 +0000">
     <title>Cultural Leonesa vs. R. Racing</title>
   </programme>
-  <programme start="20260319160000 +0000" channel="sky_sports_16" stop="20260319180000 +0000">
+  <programme start="20260319140000 +0000" channel="sky_sports_16" stop="20260319160000 +0000">
     <title>RCD Mallorca vs. Espanyol</title>
   </programme>
-  <programme start="20260319160000 +0000" channel="sky_sports_24" stop="20260319180000 +0000">
+  <programme start="20260319140000 +0000" channel="sky_sports_24" stop="20260319160000 +0000">
     <title>SV Werder Bremen vs. FSV Mainz</title>
   </programme>
-  <programme start="20260319160000 +0000" channel="a_mas" stop="20260319180000 +0000">
+  <programme start="20260319140000 +0000" channel="a_mas" stop="20260319160000 +0000">
     <title>El secreto de Tomy</title>
   </programme>
-  <programme start="20260319180000 +0000" channel="sky_sports_1_mexico" stop="20260319200000 +0000">
+  <programme start="20260319160000 +0000" channel="sky_sports_1_mexico" stop="20260319180000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260319180000 +0000" channel="sky_sports_16" stop="20260319200000 +0000">
+  <programme start="20260319160000 +0000" channel="sky_sports_16" stop="20260319180000 +0000">
     <title>Real Oviedo vs. Valencia</title>
   </programme>
-  <programme start="20260319180000 +0000" channel="sky_sports_24" stop="20260319200000 +0000">
+  <programme start="20260319160000 +0000" channel="sky_sports_24" stop="20260319180000 +0000">
     <title>SC Freiburg vs. Unión Berlín</title>
   </programme>
-  <programme start="20260319180000 +0000" channel="a_mas" stop="20260319200000 +0000">
+  <programme start="20260319160000 +0000" channel="a_mas" stop="20260319180000 +0000">
     <title>Los Rey</title>
   </programme>
-  <programme start="20260319200000 +0000" channel="sky_sports_1_mexico" stop="20260319230000 +0000">
+  <programme start="20260319180000 +0000" channel="sky_sports_1_mexico" stop="20260319210000 +0000">
     <title>Stars vs. Avalanche</title>
   </programme>
-  <programme start="20260319200000 +0000" channel="sky_sports_16" stop="20260319220000 +0000">
+  <programme start="20260319180000 +0000" channel="sky_sports_16" stop="20260319200000 +0000">
     <title>Atlético de Madrid vs. Getafe C</title>
   </programme>
-  <programme start="20260319200000 +0000" channel="sky_sports_24" stop="20260319220000 +0000">
+  <programme start="20260319180000 +0000" channel="sky_sports_24" stop="20260319200000 +0000">
     <title>Borussia Dortmund vs. FC Augsbu</title>
   </programme>
-  <programme start="20260319200000 +0000" channel="a_mas" stop="20260319220000 +0000">
+  <programme start="20260319180000 +0000" channel="a_mas" stop="20260319200000 +0000">
     <title>El Ojo de Cristal</title>
   </programme>
-  <programme start="20260319220000 +0000" channel="sky_sports_16" stop="20260320000000 +0000">
+  <programme start="20260319200000 +0000" channel="sky_sports_16" stop="20260319220000 +0000">
     <title>Girona FC vs. Athletic Club de</title>
   </programme>
-  <programme start="20260319220000 +0000" channel="sky_sports_24" stop="20260320000000 +0000">
+  <programme start="20260319200000 +0000" channel="sky_sports_24" stop="20260319220000 +0000">
     <title>TSG Hoffenheim vs. VfL Wolfsbu</title>
   </programme>
-  <programme start="20260319220000 +0000" channel="a_mas" stop="20260319234500 +0000">
+  <programme start="20260319200000 +0000" channel="a_mas" stop="20260319214500 +0000">
     <title>Santo el enmascarado de plata</title>
   </programme>
-  <programme start="20260319230000 +0000" channel="sky_sports_1_mexico" stop="20260320020000 +0000">
+  <programme start="20260319210000 +0000" channel="sky_sports_1_mexico" stop="20260320000000 +0000">
     <title>Montréal Canadiens vs. Detroit</title>
   </programme>
-  <programme start="20260319234500 +0000" channel="a_mas" stop="20260320014500 +0000">
+  <programme start="20260319214500 +0000" channel="a_mas" stop="20260319234500 +0000">
     <title>Las visitaciones del Diablo</title>
   </programme>
-  <programme start="20260320000000 +0000" channel="sky_sports_16" stop="20260320020000 +0000">
+  <programme start="20260319220000 +0000" channel="sky_sports_16" stop="20260320000000 +0000">
     <title>Real Madrid vs. Elche</title>
   </programme>
-  <programme start="20260320000000 +0000" channel="sky_sports_24" stop="20260320020000 +0000">
+  <programme start="20260319220000 +0000" channel="sky_sports_24" stop="20260320000000 +0000">
     <title>Wolfsburg vs. Hamburger Sv</title>
   </programme>
-  <programme start="20260320014500 +0000" channel="a_mas" stop="20260320033000 +0000">
+  <programme start="20260319234500 +0000" channel="a_mas" stop="20260320013000 +0000">
     <title>Chacales de la Frontera</title>
   </programme>
-  <programme start="20260320020000 +0000" channel="sky_sports_1_mexico" stop="20260320040000 +0000">
+  <programme start="20260320000000 +0000" channel="sky_sports_1_mexico" stop="20260320020000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260320020000 +0000" channel="sky_sports_16" stop="20260320040000 +0000">
+  <programme start="20260320000000 +0000" channel="sky_sports_16" stop="20260320020000 +0000">
     <title>Real Betis vs. Celta de Vigo</title>
   </programme>
-  <programme start="20260320020000 +0000" channel="sky_sports_24" stop="20260320040000 +0000">
+  <programme start="20260320000000 +0000" channel="sky_sports_24" stop="20260320020000 +0000">
     <title>St. Pauli vs. Frankfurt</title>
   </programme>
-  <programme start="20260320033000 +0000" channel="a_mas" stop="20260320043000 +0000">
+  <programme start="20260320013000 +0000" channel="a_mas" stop="20260320023000 +0000">
     <title>Ahora Más Noticias</title>
   </programme>
-  <programme start="20260320040000 +0000" channel="sky_sports_1_mexico" stop="20260320060000 +0000">
+  <programme start="20260320020000 +0000" channel="sky_sports_1_mexico" stop="20260320040000 +0000">
     <title>Albacete BP vs. UD las Palmas</title>
   </programme>
-  <programme start="20260320040000 +0000" channel="sky_sports_16" stop="20260320060000 +0000">
+  <programme start="20260320020000 +0000" channel="sky_sports_16" stop="20260320040000 +0000">
     <title>Deportivo Alavés vs. Villarreal</title>
   </programme>
-  <programme start="20260320040000 +0000" channel="sky_sports_24" stop="20260320060000 +0000">
+  <programme start="20260320020000 +0000" channel="sky_sports_24" stop="20260320040000 +0000">
     <title>1. FC Union Berlin vs. Werder B</title>
   </programme>
-  <programme start="20260320043000 +0000" channel="a_mas" stop="20260320060000 +0000">
+  <programme start="20260320023000 +0000" channel="a_mas" stop="20260320040000 +0000">
     <title>Cañon Recortado</title>
+  </programme>
+  <programme start="20260320040000 +0000" channel="sky_sports_1_mexico" stop="20260320060000 +0000">
+    <title>Real Valladolid CF vs. CD Legan</title>
+  </programme>
+  <programme start="20260320040000 +0000" channel="sky_sports_16" stop="20260320060000 +0000">
+    <title>Real Oviedo vs. Valencia</title>
+  </programme>
+  <programme start="20260320040000 +0000" channel="sky_sports_24" stop="20260320050000 +0000">
+    <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260320040000 +0000" channel="a_mas" stop="20260320043000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260320043000 +0000" channel="a_mas" stop="20260320050000 +0000">
+    <title>Sognare</title>
   </programme>
   <programme channel="1" start="20260316060000 +0000" stop="20260316080000 +0000">
     <liveEvent>false</liveEvent>
@@ -2427,17 +2421,30 @@
     <segmentation-upid>TFPG042603140101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318120000 +0000" stop="20260318140000 +0000">
+  <programme channel="1" start="20260318120000 +0000" stop="20260318134320 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Nottingham Forest vs FC Fulham  |  03/15/2026</title>
     <episode-num system="assetID">TFPG042603150201</episode-num>
     <desc lang="es">Premier League 2025-26 Semana 30: Nottingham Forest vs FC Fulham 03/15/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6200</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
     <segmentation-upid>TFPG042603150201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260318134320 +0000" stop="20260318140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Premier League  |  FC Fulham vs Tottenham  |  03/01/2026</title>
+    <episode-num system="assetID">TFPG042603010303</episode-num>
+    <desc lang="es">Resumen de 15 min Premier League 2025-26 Semana 28: FC Fulham vs Tottenham 03/01/2026</desc>
+    <length units="seconds">1000</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603010303</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260318140000 +0000" stop="20260318160000 +0000">
@@ -2479,38 +2486,38 @@
     <segmentation-upid>TFPG032603170201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318183000 +0000" stop="20260318185000 +0000">
+  <programme channel="1" start="20260318183000 +0000" stop="20260318185001 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">Resumen de 15 min Women´s Super League  |  Chelsea FC vs Liverpool FC  |  02/15/2026</title>
-    <episode-num system="assetID">TFPG202602150103</episode-num>
-    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 16: Chelsea FC vs Liverpool FC 02/15/2026</desc>
-    <length units="seconds">1200</length>
+    <title lang="es">Resumen de 15 min Saudi Pro League  |  AL Khlood vs Al-Qadisiyah  |  03/07/2026</title>
+    <episode-num system="assetID">TFPG192603070203</episode-num>
+    <desc lang="es">Resumen de 15 min Saudi Pro League 2025-26: AL Khlood vs Al-Qadisiyah 03/07/2026</desc>
+    <length units="seconds">1201</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG202602150103</segmentation-upid>
+    <segmentation-upid>TFPG192603070203</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318185000 +0000" stop="20260318210000 +0000">
+  <programme channel="1" start="20260318185001 +0000" stop="20260318210001 +0000">
     <liveEvent>true</liveEvent>
-    <title lang="es">Women´s Super League  |  Chelsea vs Brighton &amp; Hove Albion FC  |  03/18/2026</title>
-    <episode-num system="assetID">TFPG202603180101</episode-num>
-    <desc lang="es">Women´s Super League 2025-26 Semana 17: Chelsea vs Brighton &amp; Hove Albion FC 03/18/2026</desc>
+    <title lang="es">Saudi King´s Cup  |  Al-Ahli vs Al-Hilal  |  03/18/2026</title>
+    <episode-num system="assetID">TFPG192603180101</episode-num>
+    <desc lang="es">Saudi King´s Cup 2025-26-Semifinales: Al-Ahli vs Al-Hilal 03/18/2026</desc>
     <length units="seconds">7800</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG202603180101</segmentation-upid>
+    <segmentation-upid>TFPG192603180101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318210000 +0000" stop="20260318213001 +0000">
+  <programme channel="1" start="20260318210001 +0000" stop="20260318213001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
     <episode-num system="assetID">TFPG172603080101</episode-num>
     <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1801</length>
+    <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2518,12 +2525,12 @@
     <segmentation-upid>TFPG172603080101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318213001 +0000" stop="20260318220000 +0000">
+  <programme channel="1" start="20260318213001 +0000" stop="20260318220001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1799</length>
+    <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2531,7 +2538,7 @@
     <segmentation-upid>TFPG172603150101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318220000 +0000" stop="20260318230000 +0000">
+  <programme channel="1" start="20260318220001 +0000" stop="20260318230001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">POST UCL  |  03/18/2026</title>
     <episode-num system="assetID">TFPG172603180101</episode-num>
@@ -2544,7 +2551,7 @@
     <segmentation-upid>TFPG172603180101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260318230000 +0000" stop="20260319000000 +0000">
+  <programme channel="1" start="20260318230001 +0000" stop="20260319000001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CUADRO TITULAR  |  03/17/2026</title>
     <episode-num system="assetID">TFPG172603170401</episode-num>
@@ -2557,7 +2564,7 @@
     <segmentation-upid>TFPG172603170401</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260319000000 +0000" stop="20260319010000 +0000">
+  <programme channel="1" start="20260319000001 +0000" stop="20260319010001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  Previa   |  03/18/2026</title>
     <episode-num system="assetID">TFPG172603180301</episode-num>
@@ -2570,17 +2577,30 @@
     <segmentation-upid>TFPG172603180301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260319010000 +0000" stop="20260319030000 +0000">
+  <programme channel="1" start="20260319010001 +0000" stop="20260319024300 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Liverpool FC vs Tottenham  |  03/15/2026</title>
     <episode-num system="assetID">TFPG042603150301</episode-num>
     <desc lang="es">Premier League 2025-26 Semana 30: Liverpool FC vs Tottenham 03/15/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6179</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
     <segmentation-upid>TFPG042603150301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260319024300 +0000" stop="20260319030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP  |  Los Angeles FC vs Liga Deportiva Alajuelense  |  03/10/2026</title>
+    <episode-num system="assetID">TFPG032603100303</episode-num>
+    <desc lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP 2026 Octavos de Final: Los Angeles FC vs Liga Deportiva Alajuelense 03/10/2026</desc>
+    <length units="seconds">1020</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG032603100303</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260319030000 +0000" stop="20260319050000 +0000">
@@ -3270,6 +3290,201 @@
     </rating>
     <LiveEvent>True</LiveEvent>
     <segmentation-upid>TFPG172603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322060000 +0000" stop="20260322080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Brighton &amp; Hove Albion FC vs Liverpool FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322080000 +0000" stop="20260322100000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  FC Fulham vs Burnley  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: FC Fulham vs Burnley 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322100000 +0000" stop="20260322110000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Lucha Libre AAA  |  Episodio 10  |   03/21/2026</title>
+    <episode-num system="assetID">TFPG252603210101</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 10: Rey de Reyes Segundo Episodio Auditorio GNP Seguros Puebla 03/21/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG252603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322110000 +0000" stop="20260322113001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG172603080101</episode-num>
+    <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1801</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603080101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322113001 +0000" stop="20260322120002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1801</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322120002 +0000" stop="20260322140002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">UEFA CHAMPIONS LEAGUE  |  FC Barcelona vs Newcastle United FC  |  03/18/2026</title>
+    <episode-num system="assetID">TFPG142603180101</episode-num>
+    <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: FC Barcelona vs Newcastle United FC 03/18/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG142603180101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322140002 +0000" stop="20260322160002 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP España  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG082603220201</episode-num>
+    <desc lang="es">MXGP: Carrera 2 MX2 &amp; MXGP España 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG082603220201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322160002 +0000" stop="20260322181502 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">Ligue 1  |  Paris FC vs Le Havre AC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG152603220101</episode-num>
+    <desc lang="es">Ligue 1 2025-26 Semana 27: Paris FC vs Le Havre AC 03/22/2026</desc>
+    <length units="seconds">8100</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG152603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322181502 +0000" stop="20260322183002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Ligue 1  |  Paris Saint-Germain FC vs AS Mónaco FC  |  03/06/2026</title>
+    <episode-num system="assetID">TFPG152603060103</episode-num>
+    <desc lang="es">Resumen de 15 min Ligue 1 2025-26 Semana 25: Paris Saint-Germain FC vs AS Mónaco FC 03/06/2026</desc>
+    <length units="seconds">900</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG152603060103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322183002 +0000" stop="20260322203000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">UEFA CHAMPIONS LEAGUE  |  Arsenal FC vs Bayer Leverkusen  |  03/17/2026</title>
+    <episode-num system="assetID">TFPG142603170101</episode-num>
+    <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Arsenal FC vs Bayer Leverkusen 03/17/2026</desc>
+    <length units="seconds">7198</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG142603170101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322203000 +0000" stop="20260322222959 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Leeds United vs Brentford  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210301</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Leeds United vs Brentford 03/21/2026</desc>
+    <length units="seconds">7199</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322222959 +0000" stop="20260323005959 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: CF Pachuca vs Deportivo Toluca FC 03/22/2026</desc>
+    <length units="seconds">9000</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG012603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260323005959 +0000" stop="20260323030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
+    <episode-num system="assetID">TFPG012603200101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: Mazatlán FC vs Cruz Azul 03/20/2026</desc>
+    <length units="seconds">7201</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603200101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260323030000 +0000" stop="20260323040000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG172603220201</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/22/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603220201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260323040000 +0000" stop="20260323060000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260317000000 +0000" stop="20260317003000 +0000" channel="20742">
@@ -7034,7 +7249,7 @@
   </programme>
   <programme start="20260317175000 +0000" stop="20260317193500 +0000" channel="82808">
     <title>Tata mía</title>
-    <desc>Una mujer deja su vida tranquila y lleva a su ex-niñera en una excurción a la capital de España.</desc>
+    <desc>Una mujer deja su vida tranquila y lleva a su ex-niñera en una excursión a la capital de España.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16820_v_v12_aa.jpg?w=240&amp;h=360"/>
     <date>1986</date>
     <category>Comedy</category>
@@ -27359,7 +27574,7 @@
   <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="141773">
     <title>Fútbol Brasileirao [En vivo] [Nuevo]</title>
     <desc>Fecha 7 de la temporada 2026 de la Brasileirao Serie A. Desde el Allianz Parque, en Sao Paulo.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002YL6VY.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4C2.jpg?w=240&amp;h=360"/>
     <sub-title>Palmeiras vs. Botafogo</sub-title>
     <category>Soccer</category>
   </programme>
@@ -30950,6 +31165,11 @@
     <date>2013</date>
     <category>Children</category>
     <category>Educational</category>
+    <credits>
+      <actor>Nitzan Sitzer</actor>
+      <actor>Simon Shocket</actor>
+      <actor>Dahlia Lynn</actor>
+    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
     <rating system="Régie du cinéma">G</rating>
     <rating system="USA Parental Rating">TVG</rating>
@@ -56642,7 +56862,7 @@
   <programme start="20260317063000 +0000" stop="20260317083000 +0000" channel="72012">
     <title>Superliga de Dinamarca</title>
     <desc>Jornada 23 de la temporada regular 2025-26 de la Superliga. Desde el MCH Arena, en Herning.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p10889241_b_v12_ar.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L2SD.jpg?w=240&amp;h=360"/>
     <sub-title>FC Midtjylland vs. FC Nordsjælland</sub-title>
     <category>Playoff sports</category>
     <category>Soccer</category>
@@ -56904,7 +57124,7 @@
   <programme start="20260316223000 +0000" stop="20260317003000 +0000" channel="72754">
     <title>Superliga de Dinamarca [Nuevo]</title>
     <desc>Jornada 23 de la temporada regular 2025-26 de la Superliga. Desde el MCH Arena, en Herning.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p10889241_b_v12_ar.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L2SD.jpg?w=240&amp;h=360"/>
     <sub-title>FC Midtjylland vs. FC Nordsjælland</sub-title>
     <category>Playoff sports</category>
     <category>Soccer</category>
@@ -56978,7 +57198,7 @@
   <programme start="20260317133000 +0000" stop="20260317153000 +0000" channel="72754">
     <title>Superliga de Dinamarca [Nuevo]</title>
     <desc>Jornada 23 de la temporada regular 2025-26 de la Superliga. Desde el MCH Arena, en Herning.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p10889241_b_v12_ar.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L2SD.jpg?w=240&amp;h=360"/>
     <sub-title>FC Midtjylland vs. FC Nordsjælland</sub-title>
     <category>Playoff sports</category>
     <category>Soccer</category>
@@ -71915,8 +72135,8 @@
   <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="115713">
     <title>TGL Golf [En vivo] [Nuevo]</title>
     <desc>Desde el SoFi Center, en Palm Beach Gardens, Florida.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X5TL.jpg?w=240&amp;h=360"/>
-    <sub-title>Boston Common Golf vs. Jupiter Links GC</sub-title>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L4F6.jpg?w=240&amp;h=360"/>
+    <sub-title>Jupiter Links GC vs. Boston Common Golf</sub-title>
     <category>Playoff sports</category>
     <category>Golf</category>
   </programme>
@@ -71955,8 +72175,8 @@
   <programme start="20260318060000 +0000" stop="20260318080000 +0000" channel="115713">
     <title>TGL Golf</title>
     <desc>Desde el SoFi Center, en Palm Beach Gardens, Florida.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X5TL.jpg?w=240&amp;h=360"/>
-    <sub-title>Boston Common Golf vs. Jupiter Links GC</sub-title>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L4F6.jpg?w=240&amp;h=360"/>
+    <sub-title>Jupiter Links GC vs. Boston Common Golf</sub-title>
     <category>Playoff sports</category>
     <category>Golf</category>
   </programme>
@@ -72040,8 +72260,8 @@
   <programme start="20260318180000 +0000" stop="20260318200000 +0000" channel="115713">
     <title>TGL Golf</title>
     <desc>Desde el SoFi Center, en Palm Beach Gardens, Florida.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X5TL.jpg?w=240&amp;h=360"/>
-    <sub-title>Boston Common Golf vs. Jupiter Links GC</sub-title>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L4F6.jpg?w=240&amp;h=360"/>
+    <sub-title>Jupiter Links GC vs. Boston Common Golf</sub-title>
     <category>Playoff sports</category>
     <category>Golf</category>
   </programme>
@@ -80430,7 +80650,7 @@
   </programme>
   <programme start="20260318100500 +0000" stop="20260318120000 +0000" channel="85714">
     <title>Blowing Wild</title>
-    <desc>Oilman's (Anthony Quinn) wife (Barbara Stanwyck) covets wildcatter (Gary Cooper) in 1930s Mexico.</desc>
+    <desc>Oilman's wife covets wildcatter in the 1930s Mexico.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p41333_v_v11_af.jpg?w=240&amp;h=360"/>
     <date>1953</date>
     <category>Adventure</category>
@@ -83150,7 +83370,7 @@
   <programme start="20260317164700 +0000" stop="20260317173600 +0000" channel="97928">
     <title>Un chef de otro nivel, con Gordon Ramsay</title>
     <desc>Los chefs deben preparan ramen desde una plataforma en constante movimiento.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p28788637_b_v12_af.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p20001189_b_v12_ax.jpg?w=240&amp;h=360"/>
     <sub-title>El mejor ramen</sub-title>
     <date>2025</date>
     <category>Reality</category>
@@ -108770,7 +108990,7 @@
   </programme>
   <programme start="20260317045500 +0000" stop="20260317055500 +0000" channel="101734">
     <title>Love Island</title>
-    <desc>Un grupo de solteros se junta en una isla tropical ideal en busca de amor.</desc>
+    <desc>Las nuevas chicas hacen invitaciones para citas. La tensión en la villa llega a un nuevo nivel.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15822730_b_v12_be.jpg?w=240&amp;h=360"/>
     <sub-title>Episode 7</sub-title>
     <date>2024</date>
@@ -109221,7 +109441,7 @@
   </programme>
   <programme start="20260318003000 +0000" stop="20260318013000 +0000" channel="101734">
     <title>Love Island</title>
-    <desc>Un grupo de solteros se junta en una isla tropical ideal en busca de amor.</desc>
+    <desc>Las nuevas chicas hacen invitaciones para citas. La tensión en la villa llega a un nuevo nivel.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15822730_b_v12_be.jpg?w=240&amp;h=360"/>
     <sub-title>Episode 7</sub-title>
     <date>2024</date>
@@ -115168,7 +115388,7 @@
   </programme>
   <programme start="20260317060000 +0000" stop="20260317063000 +0000" channel="100602">
     <title>La ruta de los insectos</title>
-    <desc>Una aventura gastronómica por México para conocer más sobre los insectos comestibles.</desc>
+    <desc>Quique visita a Francisco Hernández y Alejandro de la Breña en su granja de grillos en Querétaro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31017677_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Cooking</category>
@@ -115439,7 +115659,7 @@
   </programme>
   <programme start="20260317183000 +0000" stop="20260317190000 +0000" channel="100602">
     <title>La ruta de los insectos</title>
-    <desc>Una aventura gastronómica por México para conocer más sobre los insectos comestibles.</desc>
+    <desc>Quique visita a Francisco Hernández y Alejandro de la Breña en su granja de grillos en Querétaro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31017677_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Cooking</category>
@@ -115594,7 +115814,7 @@
   </programme>
   <programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="100602">
     <title>La ruta de los insectos</title>
-    <desc>Una aventura gastronómica por México para conocer más sobre los insectos comestibles.</desc>
+    <desc>Quique visita a Francisco Hernández y Alejandro de la Breña en su granja de grillos en Querétaro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31017677_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Cooking</category>
@@ -117638,7 +117858,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="96723">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -117802,7 +118022,7 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="96723">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Tottenham enfrenta a Atlético de Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VR6B.jpg?w=240&amp;h=360"/>
     <sub-title>Tottenham Hotspur vs. Atlético Madrid</sub-title>
     <category>Soccer</category>
@@ -118012,7 +118232,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="159550">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -118035,7 +118255,7 @@
   </programme>
   <programme start="20260318003000 +0000" stop="20260318023000 +0000" channel="159550">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -118050,7 +118270,7 @@
   </programme>
   <programme start="20260318030000 +0000" stop="20260318040000 +0000" channel="159550">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -118128,14 +118348,14 @@
   </programme>
   <programme start="20260318100000 +0000" stop="20260318120000 +0000" channel="159550">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318120000 +0000" stop="20260318140000 +0000" channel="159550">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -118158,8 +118378,8 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="159550">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -118302,7 +118522,7 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318020000 +0000" channel="125923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -118332,14 +118552,14 @@
   </programme>
   <programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="125923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="125923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -118375,7 +118595,7 @@
   </programme>
   <programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="125923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -118728,14 +118948,14 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318183000 +0000" channel="121544">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318183000 +0000" stop="20260318193000 +0000" channel="121544">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -118890,7 +119110,7 @@
   </programme>
   <programme start="20260317230000 +0000" stop="20260318010000 +0000" channel="109698">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -118904,7 +119124,7 @@
   </programme>
   <programme start="20260318030000 +0000" stop="20260318050000 +0000" channel="109698">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -118943,14 +119163,14 @@
   </programme>
   <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="109698">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="109698">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -119111,14 +119331,14 @@
   </programme>
   <programme start="20260317172500 +0000" stop="20260317194000 +0000" channel="42180">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="42180">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -119236,14 +119456,14 @@
   </programme>
   <programme start="20260318172500 +0000" stop="20260318194000 +0000" channel="42180">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="42180">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, juego de vuelta. Bayern de Munich enfrenta a Atalanta.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X8R6.jpg?w=240&amp;h=360"/>
     <sub-title>FC Bayern München vs. Atalanta</sub-title>
     <category>Soccer</category>
@@ -119391,7 +119611,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="17725">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -119551,7 +119771,7 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="17725">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Tottenham enfrenta a Atlético de Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VR6B.jpg?w=240&amp;h=360"/>
     <sub-title>Tottenham Hotspur vs. Atlético Madrid</sub-title>
     <category>Soccer</category>
@@ -119763,7 +119983,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="88735">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -119786,7 +120006,7 @@
   </programme>
   <programme start="20260318003000 +0000" stop="20260318023000 +0000" channel="88735">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -119801,7 +120021,7 @@
   </programme>
   <programme start="20260318030000 +0000" stop="20260318040000 +0000" channel="88735">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -119879,14 +120099,14 @@
   </programme>
   <programme start="20260318100000 +0000" stop="20260318120000 +0000" channel="88735">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318120000 +0000" stop="20260318140000 +0000" channel="88735">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -119909,8 +120129,8 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="88735">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -120078,8 +120298,8 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="73834">
     <title>2026 World Baseball Classic [En vivo] [Nuevo]</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -120101,14 +120321,14 @@
   </programme>
   <programme start="20260318043000 +0000" stop="20260318053000 +0000" channel="73834">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318053000 +0000" stop="20260318063000 +0000" channel="73834">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -120508,14 +120728,14 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318183000 +0000" channel="146665">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318183000 +0000" stop="20260318193000 +0000" channel="146665">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -120897,14 +121117,14 @@
   </programme>
   <programme start="20260317172500 +0000" stop="20260317194000 +0000" channel="63385">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="63385">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -121073,14 +121293,14 @@
   </programme>
   <programme start="20260318172500 +0000" stop="20260318194000 +0000" channel="63385">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="63385">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, juego de vuelta. Bayern de Munich enfrenta a Atalanta.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X8R6.jpg?w=240&amp;h=360"/>
     <sub-title>FC Bayern München vs. Atalanta</sub-title>
     <category>Soccer</category>
@@ -121301,8 +121521,8 @@
   <programme start="20260317223000 +0000" stop="20260318003000 +0000" channel="10179">
     <title>TGL Golf [En vivo] [Nuevo]</title>
     <desc>Semifinal.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X5XC.jpg?w=240&amp;h=360"/>
-    <sub-title>Los Angeles Golf Club vs. Atlanta Drive GC</sub-title>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L9XJ.jpg?w=240&amp;h=360"/>
+    <sub-title>Atlanta Drive GC vs. Los Angeles Golf Club</sub-title>
     <category>Playoff sports</category>
     <category>Golf</category>
   </programme>
@@ -121316,8 +121536,8 @@
   <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="10179">
     <title>TGL Golf [En vivo] [Nuevo]</title>
     <desc>Semifinal.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X5TL.jpg?w=240&amp;h=360"/>
-    <sub-title>Boston Common Golf vs. Jupiter Links GC</sub-title>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L4F6.jpg?w=240&amp;h=360"/>
+    <sub-title>Jupiter Links GC vs. Boston Common Golf</sub-title>
     <category>Playoff sports</category>
     <category>Golf</category>
   </programme>
@@ -121636,7 +121856,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="99984">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -121660,22 +121880,22 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="99984">
     <title>2026 World Baseball Classic [En vivo] [Nuevo]</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
   </programme>
   <programme start="20260318030000 +0000" stop="20260318040000 +0000" channel="99984">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="99984">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -121712,7 +121932,7 @@
   </programme>
   <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="99984">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -121726,14 +121946,14 @@
   </programme>
   <programme start="20260318130000 +0000" stop="20260318140000 +0000" channel="99984">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318140000 +0000" stop="20260318150000 +0000" channel="99984">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -121747,8 +121967,8 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="99984">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -121898,7 +122118,7 @@
   <programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="12444">
     <title>NFL Draft Daily [En vivo] [Nuevo]</title>
     <desc>A daily dose of NFL Draft rankings, gossip, trade rumors and more.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32210360_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p31990688_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Football</category>
   </programme>
@@ -121969,7 +122189,7 @@
   <programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="12444">
     <title>NFL Draft Daily</title>
     <desc>A daily dose of NFL Draft rankings, gossip, trade rumors and more.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32210360_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p31990688_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Football</category>
   </programme>
@@ -122080,7 +122300,7 @@
   <programme start="20260318190000 +0000" stop="20260318193000 +0000" channel="12444">
     <title>NFL Draft Daily [En vivo] [Nuevo]</title>
     <desc>A daily dose of NFL Draft rankings, gossip, trade rumors and more.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31990688_b_v11_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32210360_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Football</category>
   </programme>
@@ -122536,7 +122756,7 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318020000 +0000" channel="119152">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -122566,14 +122786,14 @@
   </programme>
   <programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="119152">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="119152">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -122609,7 +122829,7 @@
   </programme>
   <programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="119152">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -122775,6 +122995,7 @@
   </programme>
   <programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="79042">
     <title>NFL Draft Daily [En vivo] [Nuevo]</title>
+    <desc>Clasificaciones diarias del Draft de la NFL y rumores de traspasos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32210360_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Football</category>
@@ -122843,8 +123064,8 @@
   </programme>
   <programme start="20260318050000 +0000" stop="20260318080000 +0000" channel="79042">
     <title>2026 World Baseball Classic</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -123245,14 +123466,14 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318183000 +0000" channel="125748">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318183000 +0000" stop="20260318193000 +0000" channel="125748">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -123583,8 +123804,8 @@
   </programme>
   <programme start="20260318140000 +0000" stop="20260318160000 +0000" channel="121144">
     <title>2026 World Baseball Classic</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -123745,7 +123966,7 @@
   </programme>
   <programme start="20260317194000 +0000" stop="20260317215500 +0000" channel="122027">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -123759,28 +123980,28 @@
   </programme>
   <programme start="20260317230000 +0000" stop="20260318010000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318030000 +0000" stop="20260318050000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318050000 +0000" stop="20260318070000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -123794,14 +124015,14 @@
   </programme>
   <programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318100000 +0000" stop="20260318110000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -123873,7 +124094,7 @@
   </programme>
   <programme start="20260318194000 +0000" stop="20260318215500 +0000" channel="122027">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Tottenham enfrenta a Atlético de Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VR6B.jpg?w=240&amp;h=360"/>
     <sub-title>Tottenham Hotspur vs. Atlético Madrid</sub-title>
     <category>Soccer</category>
@@ -123895,8 +124116,8 @@
   </programme>
   <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="122027">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
@@ -124036,7 +124257,7 @@
   </programme>
   <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="79923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -124057,7 +124278,7 @@
   </programme>
   <programme start="20260318070000 +0000" stop="20260318090000 +0000" channel="79923">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -124271,14 +124492,14 @@
   </programme>
   <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="91513">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318030000 +0000" stop="20260318050000 +0000" channel="91513">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -124292,7 +124513,7 @@
   </programme>
   <programme start="20260318070000 +0000" stop="20260318090000 +0000" channel="91513">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -124353,7 +124574,7 @@
   </programme>
   <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="91513">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Octavos de final, juego de vuelta. Bayern de Munich enfrenta a Atalanta.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X8R6.jpg?w=240&amp;h=360"/>
     <sub-title>FC Bayern München vs. Atalanta</sub-title>
     <category>Soccer</category>
@@ -125134,8 +125355,8 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="19158">
     <title>Clásico Mundial de Béisbol 2026 [En vivo] [Nuevo]</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -131684,6 +131905,7 @@
   </programme>
   <programme start="20260318033800 +0000" stop="20260318040900 +0000" channel="194841">
     <title>El debut</title>
+    <desc>Un país que juega su primera Copa Mundial vive una experiencia difícil de olvidar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24704490_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Islandia</sub-title>
     <date>2022</date>
@@ -131794,6 +132016,7 @@
   </programme>
   <programme start="20260318205700 +0000" stop="20260318212800 +0000" channel="194841">
     <title>El debut</title>
+    <desc>Un país que juega su primera Copa Mundial vive una experiencia difícil de olvidar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24704490_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Islandia</sub-title>
     <date>2022</date>
@@ -137617,7 +137840,7 @@
   <programme start="20260317203000 +0000" stop="20260317210000 +0000" channel="72189">
     <title>Gol x gol América Xpress [Nuevo]</title>
     <desc>Lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p388812_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p388812_b_v12_ae.jpg?w=240&amp;h=360"/>
     <category>Soccer</category>
     <rating system="USA Parental Rating">TVPG</rating>
     <rating system="Canadian Parental Rating">PG</rating>
@@ -137654,8 +137877,8 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="72189">
     <title>Clásico Mundial de Béisbol 2026 [En vivo] [Nuevo]</title>
-    <desc>Desde loanDepot Park en Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <desc>Final del Clásico Mundial de Béisbol 2026. Desde el LoanDepot Park, en Miami, Florida.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. Estados Unidos</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -138806,8 +139029,8 @@
   </programme>
   <programme start="20260318170000 +0000" stop="20260318194500 +0000" channel="173804">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
@@ -138912,7 +139135,7 @@
   </programme>
   <programme start="20260318194500 +0000" stop="20260318230000 +0000" channel="173805">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Tottenham enfrenta a Atlético de Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VR6B.jpg?w=240&amp;h=360"/>
     <sub-title>Tottenham Hotspur vs. Atlético Madrid</sub-title>
     <category>Soccer</category>
@@ -139133,7 +139356,7 @@
   </programme>
   <programme start="20260317190000 +0000" stop="20260317230000 +0000" channel="173704">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -139177,8 +139400,8 @@
   </programme>
   <programme start="20260318194500 +0000" stop="20260318230000 +0000" channel="173704">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -139601,7 +139824,7 @@
   </programme>
   <programme start="20260317193000 +0000" stop="20260317220000 +0000" channel="30191">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -139640,7 +139863,7 @@
   </programme>
   <programme start="20260318023000 +0000" stop="20260318043000 +0000" channel="30191">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -139695,14 +139918,14 @@
   </programme>
   <programme start="20260318120000 +0000" stop="20260318140000 +0000" channel="30191">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318140000 +0000" stop="20260318160000 +0000" channel="30191">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -139723,8 +139946,8 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318193000 +0000" channel="30191">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
@@ -139849,7 +140072,7 @@
   </programme>
   <programme start="20260317173000 +0000" stop="20260317193000 +0000" channel="105404">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -139907,7 +140130,7 @@
   </programme>
   <programme start="20260318030000 +0000" stop="20260318050000 +0000" channel="105404">
     <title>Fútbol UEFA Champions League</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -140003,7 +140226,7 @@
   </programme>
   <programme start="20260318193000 +0000" stop="20260318220000 +0000" channel="105404">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, juego de vuelta. Bayern de Munich enfrenta a Atalanta.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030X8R6.jpg?w=240&amp;h=360"/>
     <sub-title>FC Bayern München vs. Atalanta</sub-title>
     <category>Soccer</category>
@@ -141882,7 +142105,7 @@
   </programme>
   <programme start="20260317190000 +0000" stop="20260317220000 +0000" channel="155368">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -142071,7 +142294,7 @@
   </programme>
   <programme start="20260318194500 +0000" stop="20260318220000 +0000" channel="155368">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Tottenham enfrenta a Atlético de Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VR6B.jpg?w=240&amp;h=360"/>
     <sub-title>Tottenham Hotspur vs. Atlético Madrid</sub-title>
     <category>Soccer</category>
@@ -142135,7 +142358,7 @@
   </programme>
   <programme start="20260317190000 +0000" stop="20260317230000 +0000" channel="173704">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Octavos de final, partido de vuelta de la UEFA Champions League 2025-26. Desde el Emirates Stadium.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRND.jpg?w=240&amp;h=360"/>
     <sub-title>Arsenal vs. Bayer 04 Leverkusen</sub-title>
     <category>Soccer</category>
@@ -142179,8 +142402,8 @@
   </programme>
   <programme start="20260318194500 +0000" stop="20260318230000 +0000" channel="173704">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -144886,7 +145109,7 @@
   <programme start="20260318050000 +0000" stop="20260318080000 +0000" channel="82541">
     <title>2026 World Baseball Classic</title>
     <desc>From loanDepot Park in Miami.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XQFB.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4DC.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela vs. United States</sub-title>
     <category>Playoff sports</category>
     <category>Baseball</category>
@@ -145026,7 +145249,7 @@
   <programme start="20260317030000 +0000" stop="20260317050000 +0000" channel="33178">
     <title>College Basketball</title>
     <desc>The St. John's Red Storm face the UConn Huskies in the Big East Men's Basketball Championship game.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VJ4F.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030KBFZ.jpg?w=240&amp;h=360"/>
     <sub-title>Big East Tournament: UConn vs. St. John's</sub-title>
     <category>Playoff sports</category>
     <category>Basketball</category>
@@ -145113,7 +145336,7 @@
   <programme start="20260317140000 +0000" stop="20260317155000 +0000" channel="33178">
     <title>College Basketball</title>
     <desc>The St. John's Red Storm face the UConn Huskies in the Big East Men's Basketball Championship game.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VJ4F.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030KBFZ.jpg?w=240&amp;h=360"/>
     <sub-title>Big East Tournament: UConn vs. St. John's</sub-title>
     <category>Playoff sports</category>
     <category>Basketball</category>
@@ -147316,7 +147539,7 @@
       <actor>Eduardo Manzano</actor>
       <actor>Zully Keith</actor>
     </credits>
-    <rating system="USA Parental Rating">TVPG</rating>
+    <rating system="USA Parental Rating">TV14</rating>
     <rating system="Canadian Parental Rating">PG</rating>
   </programme>
   <programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="10222">
@@ -148082,6 +148305,10 @@
     <date>2023</date>
     <category>Sitcom</category>
     <category>Soap</category>
+    <category>Comedy</category>
+    <category>Comedy drama</category>
+    <category>Dark comedy</category>
+    <category>Romantic comedy</category>
     <credits>
       <actor>Mayrín Villanueva</actor>
       <actor>Pablo Valentín</actor>
@@ -155220,7 +155447,7 @@
   </programme>
   <programme start="20260318085000 +0000" stop="20260318092500 +0000" channel="68140">
     <title>Rooster</title>
-    <icon src="https://cltv.tmsimg.com/assets/p32380281_b_v12_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32380294_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Comedy</category>
     <credits>
@@ -162411,7 +162638,7 @@
   </programme>
   <programme start="20260317014400 +0000" stop="20260317022100 +0000" channel="16795">
     <title>Rooster</title>
-    <icon src="https://cltv.tmsimg.com/assets/p32380281_b_v12_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32380294_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Comedy</category>
     <credits>
@@ -163236,7 +163463,7 @@
   </programme>
   <programme start="20260318195300 +0000" stop="20260318202300 +0000" channel="16795">
     <title>Rooster</title>
-    <icon src="https://cltv.tmsimg.com/assets/p32380281_b_v12_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32380294_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Comedy</category>
     <credits>
@@ -172785,6 +173012,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Celos y obsesión</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -173517,6 +173745,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Celos y obsesión</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -174222,6 +174451,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Celos y obsesión</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -180001,6 +180231,9 @@
   <programme start="20260317010000 +0000" stop="20260317013000 +0000" channel="184497">
     <title>La belleza de México</title>
     <icon src="https://cltv.tmsimg.com/assets/p30386290_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Documentary</category>
+    <category>Community</category>
+    <category>Travel</category>
   </programme>
   <programme start="20260317013000 +0000" stop="20260317020000 +0000" channel="184497">
     <title>Pesca en Directo</title>
@@ -180319,6 +180552,7 @@
   </programme>
   <programme start="20260318050000 +0000" stop="20260318053000 +0000" channel="184497">
     <title>Bacalar al extremo</title>
+    <desc>Turismo, aventura y cultura, mostrando la riqueza natural y patrimonial de Bacalar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30386333_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Travel</category>
   </programme>
@@ -180368,6 +180602,7 @@
   </programme>
   <programme start="20260318090000 +0000" stop="20260318093000 +0000" channel="184497">
     <title>Hecho en CDMX</title>
+    <desc>La riqueza cultural, gastronómica, artesanal y artística de la Ciudad de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30386265_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Entertainment</category>
     <category>Community</category>
@@ -180398,6 +180633,7 @@
   </programme>
   <programme start="20260318110000 +0000" stop="20260318113000 +0000" channel="184497">
     <title>Hecho en CDMX</title>
+    <desc>La riqueza cultural, gastronómica, artesanal y artística de la Ciudad de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30386265_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Entertainment</category>
     <category>Community</category>
@@ -180428,6 +180664,7 @@
   </programme>
   <programme start="20260318130000 +0000" stop="20260318133000 +0000" channel="184497">
     <title>Hecho en CDMX</title>
+    <desc>La riqueza cultural, gastronómica, artesanal y artística de la Ciudad de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30386265_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Entertainment</category>
     <category>Community</category>
@@ -180501,6 +180738,7 @@
   </programme>
   <programme start="20260318190000 +0000" stop="20260318193000 +0000" channel="184497">
     <title>Hecho en CDMX</title>
+    <desc>La riqueza cultural, gastronómica, artesanal y artística de la Ciudad de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30386265_b_v8_aa.jpg?w=240&amp;h=360"/>
     <category>Entertainment</category>
     <category>Community</category>
@@ -183773,7 +184011,7 @@
   </programme>
   <programme start="20260318040000 +0000" stop="20260318044500 +0000" channel="12712">
     <title>Teen Mom UK: Next Generation [Nuevo]</title>
-    <desc>Siguiendo a un grupo de jóvenes madres mientras se adaptan a la maternidad.</desc>
+    <desc>El cumpleaños de Valentino termina con Amelia llorando. Jack planea una sorpresa para Chloe.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p30673525_b_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Birthdays &amp; Breakdowns</sub-title>
     <date>2025</date>
@@ -195030,7 +195268,6 @@
       <actor>Katarina Sky</actor>
     </credits>
     <rating system="USA Parental Rating">TVY</rating>
-    <rating system="Canadian Parental Rating">C</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
     <rating system="Kijkwijzer">AL</rating>
@@ -195669,7 +195906,7 @@
   </programme>
   <programme start="20260317232500 +0000" stop="20260317233500 +0000" channel="84412">
     <title>Rubble &amp; Crew</title>
-    <desc>Rubble se embarca en aventuras con toda una nueva pandilla de cachorros.</desc>
+    <desc>Motor y Lily hacen un descubrimiento brillante que vale la pena celebrar.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26776440_b_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>¡El Equipo construye un espectáculo de cristales!</sub-title>
     <date>2024</date>
@@ -195684,7 +195921,7 @@
     </credits>
     <rating system="Canadian Parental Rating">G</rating>
     <rating system="Régie du cinéma">G</rating>
-    <rating system="USA Parental Rating">TVY</rating>
+    <rating system="USA Parental Rating">TVG</rating>
     <rating system="Australian Classification Board">G</rating>
     <rating system="Kijkwijzer">AL</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
@@ -199836,7 +200073,7 @@
   </programme>
   <programme start="20260318150000 +0000" stop="20260318151500 +0000" channel="16707">
     <title>El show de Patricio Estrella</title>
-    <desc>Patricio Estrella presenta su propio programa de entrevistas con el apoyo de su familia.</desc>
+    <desc>Para el Día de Leif Erikson, Patricio y Bob Esponja viajan en el tiempo a la época de los vikingos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20157577_b_v12_be.jpg?w=240&amp;h=360"/>
     <sub-title>Visita vikinga</sub-title>
     <date>2025</date>
@@ -200180,7 +200417,7 @@
   </programme>
   <programme start="20260318203000 +0000" stop="20260318204000 +0000" channel="16707">
     <title>El show de Patricio Estrella</title>
-    <desc>Patricio Estrella presenta su propio programa de entrevistas con el apoyo de su familia.</desc>
+    <desc>Para el Día de Leif Erikson, Patricio y Bob Esponja viajan en el tiempo a la época de los vikingos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20157577_b_v12_be.jpg?w=240&amp;h=360"/>
     <sub-title>Visita vikinga</sub-title>
     <date>2025</date>
@@ -200360,7 +200597,7 @@
   </programme>
   <programme start="20260318230000 +0000" stop="20260318231500 +0000" channel="16707">
     <title>El show de Patricio Estrella</title>
-    <desc>Patricio Estrella presenta su propio programa de entrevistas con el apoyo de su familia.</desc>
+    <desc>Para el Día de Leif Erikson, Patricio y Bob Esponja viajan en el tiempo a la época de los vikingos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20157577_b_v12_be.jpg?w=240&amp;h=360"/>
     <sub-title>Visita vikinga</sub-title>
     <date>2025</date>
@@ -210272,14 +210509,14 @@
   <programme start="20260318210000 +0000" stop="20260318220000 +0000" channel="124693">
     <title>Campeonato Brasileiro [En vivo] [Nuevo]</title>
     <desc>Do Allianz Parque, em São Paulo, SP.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002YL6VY.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4C2.jpg?w=240&amp;h=360"/>
     <sub-title>Palmeiras x Botafogo</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="124693">
     <title>Campeonato Brasileiro [En vivo] [Nuevo]</title>
     <desc>Do Allianz Parque, em São Paulo, SP.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002YL6VY.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4C2.jpg?w=240&amp;h=360"/>
     <sub-title>Palmeiras x Botafogo</sub-title>
     <category>Soccer</category>
   </programme>
@@ -213074,9 +213311,16 @@
   </programme>
   <programme start="20260317085500 +0000" stop="20260317102500 +0000" channel="72143">
     <title>Hombres trans safados</title>
+    <desc>Hombres musculosos clavan sus varas duras como piedras en los agujeros estrechos de chicos guapos.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
+    <date>2026</date>
     <category>Adults only</category>
     <category>Erotic</category>
+    <credits>
+      <actor>Michael Jackman</actor>
+      <actor>Chuck Conrad</actor>
+      <actor>Jake Preston</actor>
+    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A18</rating>
   </programme>
   <programme start="20260317102500 +0000" stop="20260317115200 +0000" channel="72143">
@@ -213122,9 +213366,16 @@
   </programme>
   <programme start="20260317144700 +0000" stop="20260317161700 +0000" channel="72143">
     <title>Hombres trans safados</title>
+    <desc>Hombres musculosos clavan sus varas duras como piedras en los agujeros estrechos de chicos guapos.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
+    <date>2026</date>
     <category>Adults only</category>
     <category>Erotic</category>
+    <credits>
+      <actor>Michael Jackman</actor>
+      <actor>Chuck Conrad</actor>
+      <actor>Jake Preston</actor>
+    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A18</rating>
   </programme>
   <programme start="20260317161700 +0000" stop="20260317164700 +0000" channel="72143">
@@ -213426,9 +213677,16 @@
   </programme>
   <programme start="20260318203100 +0000" stop="20260318220100 +0000" channel="72143">
     <title>Hombres trans safados</title>
+    <desc>Hombres musculosos clavan sus varas duras como piedras en los agujeros estrechos de chicos guapos.</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
+    <date>2026</date>
     <category>Adults only</category>
     <category>Erotic</category>
+    <credits>
+      <actor>Michael Jackman</actor>
+      <actor>Chuck Conrad</actor>
+      <actor>Jake Preston</actor>
+    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A18</rating>
   </programme>
   <programme start="20260318220100 +0000" stop="20260318233300 +0000" channel="72143">
@@ -222348,6 +222606,7 @@
       <actor>Antonio Montero</actor>
       <actor>Tirma Perez</actor>
       <director>Carmen Domínguez</director>
+      <director>Ricardo Sánchez</director>
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
   </programme>
@@ -222647,6 +222906,7 @@
       <actor>Antonio Montero</actor>
       <actor>Tirma Perez</actor>
       <director>Carmen Domínguez</director>
+      <director>Ricardo Sánchez</director>
     </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">10</rating>
   </programme>
@@ -228702,7 +228962,7 @@
   </programme>
   <programme start="20260317163000 +0000" stop="20260317170000 +0000" channel="24521">
     <title>Noticias Telemundo mediodía [Nuevo]</title>
-    <desc>Un informativo con un estilo único de narrar noticias de una manera atractiva.</desc>
+    <desc>Al sexto día del apagón, un terremoto sacude el oriente de Cuba. EE. UU. sigue bajo tiempo severo.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14971948_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -228717,8 +228977,9 @@
   </programme>
   <programme start="20260317170000 +0000" stop="20260317180000 +0000" channel="24521">
     <title>En casa con Telemundo [Nuevo]</title>
-    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <desc>Debate por la reaparición de la hermana de Karol G con un nuevo mensaje en redes.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18150635_b_v12_ae.jpg?w=240&amp;h=360"/>
+    <sub-title>Hermana de Karol G enciende polémica</sub-title>
     <date>2026</date>
     <category>Talk</category>
     <category>Interview</category>
@@ -228734,8 +228995,9 @@
   </programme>
   <programme start="20260317180000 +0000" stop="20260317190000 +0000" channel="24521">
     <title>En casa con Telemundo [Nuevo]</title>
-    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <desc>Debate por la reaparición de la hermana de Karol G con un nuevo mensaje en redes.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18150635_b_v12_ae.jpg?w=240&amp;h=360"/>
+    <sub-title>Hermana de Karol G enciende polémica</sub-title>
     <date>2026</date>
     <category>Talk</category>
     <category>Interview</category>
@@ -228751,8 +229013,9 @@
   </programme>
   <programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="24521">
     <title>La mesa caliente [Nuevo]</title>
-    <desc>Un equipo de mujeres audaces y empoderadas debate sobre los temas más controversiales.</desc>
+    <desc>Arap Bethke y Fátima Molina hablan de sus personajes en las grabaciones de &quot;Lobo, Morir Matando&quot;.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p21604468_b_v12_af.jpg?w=240&amp;h=360"/>
+    <sub-title>El lobo tras cámaras</sub-title>
     <date>2026</date>
     <category>Anthology</category>
     <category>Newsmagazine</category>
@@ -228770,7 +229033,7 @@
   </programme>
   <programme start="20260317200000 +0000" stop="20260317210000 +0000" channel="24521">
     <title>Al rojo vivo [Nuevo]</title>
-    <desc>Revista noticiosa que define la agenda de la televisión en español en Estados Unidos.</desc>
+    <desc>Irán ataca la embajada de EE. UU. en Bagdad. Israel afirma haber eliminado a altos mandos iraníes.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p326736_b_v12_an.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -228846,7 +229109,7 @@
   </programme>
   <programme start="20260318020000 +0000" stop="20260318030000 +0000" channel="24521">
     <title>Lobo, morir matando [Nuevo]</title>
-    <desc>Un ardiente beso entre Antonia y Lobo hace reaccionar al padre de Fernando, su decisión es radical.</desc>
+    <desc>Un ardiente beso entre Antonia y Lobo hace reaccionar al padre de Fernando y su decisión es radical.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32233956_b_v12_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Confío en ti</sub-title>
     <date>2026</date>
@@ -229046,7 +229309,7 @@
   </programme>
   <programme start="20260318100000 +0000" stop="20260318110000 +0000" channel="24521">
     <title>Al rojo vivo</title>
-    <desc>Revista noticiosa que define la agenda de la televisión en español en Estados Unidos.</desc>
+    <desc>Irán ataca la embajada de EE. UU. en Bagdad. Israel afirma haber eliminado a altos mandos iraníes.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p326736_b_v12_an.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -233584,7 +233847,7 @@
   <programme start="20260317204500 +0000" stop="20260317230000 +0000" channel="11164">
     <title>2026 FIBA Women's World Cup Qualifying Tournaments [En vivo] [Nuevo]</title>
     <desc>From Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030JYSV.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030L4C3.jpg?w=240&amp;h=360"/>
     <sub-title>Spain vs. United States</sub-title>
     <category>Basketball</category>
   </programme>
@@ -234466,7 +234729,7 @@
   </programme>
   <programme start="20260318025200 +0000" stop="20260318034300 +0000" channel="140026">
     <title>El chico de oro</title>
-    <desc>Ferit Korhan debe aceptar un matrimonio arreglado con una joven escogida por su abuelo.</desc>
+    <desc>Suna se entera de la enfermedad de Seyran. Gülgün teme que Halis Agha le haga daño a Orha.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p27983450_st_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Drama</category>
@@ -237601,7 +237864,7 @@
   </programme>
   <programme start="20260317174500 +0000" stop="20260317194500 +0000" channel="19384">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
@@ -237613,7 +237876,7 @@
   </programme>
   <programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="19384">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -237991,7 +238254,7 @@
   </programme>
   <programme start="20260318164400 +0000" stop="20260318184400 +0000" channel="19384">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Manchester City enfrenta a Real Madrid.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XD6R.jpg?w=240&amp;h=360"/>
     <sub-title>Manchester City vs. Real Madrid</sub-title>
     <category>Soccer</category>
@@ -238255,7 +238518,7 @@
   <programme start="20260318000000 +0000" stop="20260318033000 +0000" channel="120950">
     <title>Live: World Baseball Classic [En vivo] [Nuevo]</title>
     <desc>Action from the World Baseball Classic tournament.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9751251_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGL7.jpg?w=240&amp;h=360"/>
     <sub-title>Final: Venezuela v United States</sub-title>
     <category>Baseball</category>
   </programme>
@@ -238286,7 +238549,7 @@
     <title>Live: World Open Snooker [En vivo] [Nuevo]</title>
     <desc>Snooker action from the World Open.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9085229_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Round 2</sub-title>
+    <sub-title>Round 2: Matthew Selt v Ronnie O'Sullivan</sub-title>
     <category>Snooker</category>
   </programme>
   <programme start="20260318090000 +0000" stop="20260318091500 +0000" channel="120950">
@@ -238323,7 +238586,7 @@
     <title>Live: World Open Snooker [En vivo] [Nuevo]</title>
     <desc>Snooker action from the World Open.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9085229_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Round 2</sub-title>
+    <sub-title>Round 2: Judd Trump v Jackson Page</sub-title>
     <category>Snooker</category>
   </programme>
   <programme start="20260318143000 +0000" stop="20260318153000 +0000" channel="120950">
@@ -247355,14 +247618,14 @@
   </programme>
   <programme start="20260317173000 +0000" stop="20260317195000 +0000" channel="75176">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Sporting CP enfrenta a FK Bodø/Glimt.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030VRTF.jpg?w=240&amp;h=360"/>
     <sub-title>Sporting CP vs. FK Bodø/Glimt</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="75176">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -247585,15 +247848,15 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318195000 +0000" channel="75176">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318195000 +0000" stop="20260318220000 +0000" channel="75176">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -248497,7 +248760,7 @@
   </programme>
   <programme start="20260317012500 +0000" stop="20260317021000 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Tadeu Schmidt faz os participantes revelarem seus pensamentos no Sincerão.</desc>
+    <desc>No Sincerão, brothers têm de eleger o &quot;mais bobo&quot; e quem está sendo feito de bobo na temporada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -248668,7 +248931,7 @@
   </programme>
   <programme start="20260317105500 +0000" stop="20260317114000 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Tadeu Schmidt faz os participantes revelarem seus pensamentos no Sincerão.</desc>
+    <desc>No Sincerão, brothers têm de eleger o &quot;mais bobo&quot; e quem está sendo feito de bobo na temporada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -248917,7 +249180,7 @@
   </programme>
   <programme start="20260318012500 +0000" stop="20260318023500 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Um grupo de pessoas topa ficar confinado em uma casa cenográfica para disputar um prêmio milionário.</desc>
+    <desc>Paredão entre Ana Paula Renault, Breno e Boneco.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -249092,7 +249355,7 @@
   </programme>
   <programme start="20260318105500 +0000" stop="20260318120000 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Um grupo de pessoas topa ficar confinado em uma casa cenográfica para disputar um prêmio milionário.</desc>
+    <desc>Paredão entre Ana Paula Renault, Breno e Boneco.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -252610,9 +252873,18 @@
     </credits>
   </programme>
   <programme start="20260318024500 +0000" stop="20260318034500 +0000" channel="16217">
-    <title>Bocas de Cielo</title>
+    <title>Bocas de cielo</title>
     <icon src="https://cltv.tmsimg.com/assets/p32485635_b_v11_aa.jpg?w=240&amp;h=360"/>
     <date>2025</date>
+    <category>Miniseries</category>
+    <category>Crime</category>
+    <category>Mystery</category>
+    <credits>
+      <actor>Nagore Aranburu</actor>
+      <actor>Josean Bengoetxea</actor>
+      <actor>Sara Cozar</actor>
+      <director>Koldo Almandoz</director>
+    </credits>
   </programme>
   <programme start="20260318034500 +0000" stop="20260318043400 +0000" channel="16217">
     <title>Víctimas del misterio</title>
@@ -256737,7 +257009,7 @@
   </programme>
   <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="29058">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Chelsea enfrenta a Paris-Saint-Germain.</desc>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030TM8W.jpg?w=240&amp;h=360"/>
     <sub-title>Chelsea vs. Paris Saint-Germain</sub-title>
     <category>Soccer</category>
@@ -257155,15 +257427,15 @@
   </programme>
   <programme start="20260318173000 +0000" stop="20260318195000 +0000" channel="29058">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de octavos de final, juego de vuelta. Barcelona enfrenta a Newcastle United.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XF1Q.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030Z974.jpg?w=240&amp;h=360"/>
     <sub-title>FC Barcelona vs. Newcastle United</sub-title>
     <category>Soccer</category>
   </programme>
   <programme start="20260318195000 +0000" stop="20260318220000 +0000" channel="29058">
     <title>Fútbol UEFA Champions League [En vivo] [Nuevo]</title>
-    <desc>Ronda de o octavos de final, juego de vuelta. Liverpool enfrenta a Galatasaray.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030XLXN.jpg?w=240&amp;h=360"/>
+    <desc>Acción de la vuelta de los octavos de final de la UEFA Champions League 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030ZGBL.jpg?w=240&amp;h=360"/>
     <sub-title>Liverpool vs. Galatasaray</sub-title>
     <category>Soccer</category>
   </programme>
@@ -263008,7 +263280,7 @@
   <programme start="20260317193000 +0000" stop="20260317201500 +0000" channel="122765">
     <title>Sectas mortales</title>
     <desc>Tras investigar un ataque de una serpiente venenosa, la policía descubre un culto secreto.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18217438_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p16472034_b_v12_ag.jpg?w=240&amp;h=360"/>
     <sub-title>Synanon</sub-title>
     <date>2020</date>
     <category>Documentary</category>
@@ -263235,7 +263507,7 @@
   <programme start="20260318034500 +0000" stop="20260318043000 +0000" channel="122765">
     <title>Sectas mortales</title>
     <desc>Tras investigar un ataque de una serpiente venenosa, la policía descubre un culto secreto.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p18217438_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p16472034_b_v12_ag.jpg?w=240&amp;h=360"/>
     <sub-title>Synanon</sub-title>
     <date>2020</date>
     <category>Documentary</category>
@@ -265419,13 +265691,15 @@
   </programme>
   <programme start="20260317020500 +0000" stop="20260317025000 +0000" channel="122763">
     <title>Love Island: All Stars</title>
-    <desc>Un grupo de famosos regresa al paraíso con la esperanza de tener otra oportunidad en el amor.</desc>
+    <desc>Con contenido exclusivo y momentos inéditos de una semana inolvidable en la villa.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26460422_b_v8_ag.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Competition Reality</category>
     <credits>
       <actor>Maya Jama</actor>
       <actor>Iain Stirling</actor>
+      <actor>Olivia Hawkins</actor>
+      <director>Marko Gowan</director>
     </credits>
     <rating system="Australian Classification Board">MA 15+</rating>
     <rating system="Kijkwijzer">12</rating>
@@ -265609,13 +265883,15 @@
   </programme>
   <programme start="20260317105000 +0000" stop="20260317113500 +0000" channel="122763">
     <title>Love Island: All Stars</title>
-    <desc>Un grupo de famosos regresa al paraíso con la esperanza de tener otra oportunidad en el amor.</desc>
+    <desc>Con contenido exclusivo y momentos inéditos de una semana inolvidable en la villa.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26460422_b_v8_ag.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Competition Reality</category>
     <credits>
       <actor>Maya Jama</actor>
       <actor>Iain Stirling</actor>
+      <actor>Olivia Hawkins</actor>
+      <director>Marko Gowan</director>
     </credits>
     <rating system="Australian Classification Board">MA 15+</rating>
     <rating system="Kijkwijzer">12</rating>
@@ -266082,13 +266358,14 @@
   </programme>
   <programme start="20260318023000 +0000" stop="20260318032000 +0000" channel="122763">
     <title>Love Island: All Stars</title>
-    <desc>Un grupo de famosos regresa al paraíso con la esperanza de tener otra oportunidad en el amor.</desc>
+    <desc>Una chica es abandonada tras formarse una nueva pareja. Dos nuevas bombas agitan las cosas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26460422_b_v8_ag.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Competition Reality</category>
     <credits>
       <actor>Maya Jama</actor>
       <actor>Iain Stirling</actor>
+      <director>Marko Gowan</director>
     </credits>
     <rating system="Australian Classification Board">MA 15+</rating>
     <rating system="Kijkwijzer">12</rating>
@@ -266233,13 +266510,14 @@
   </programme>
   <programme start="20260318102500 +0000" stop="20260318111500 +0000" channel="122763">
     <title>Love Island: All Stars</title>
-    <desc>Un grupo de famosos regresa al paraíso con la esperanza de tener otra oportunidad en el amor.</desc>
+    <desc>Una chica es abandonada tras formarse una nueva pareja. Dos nuevas bombas agitan las cosas.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p26460422_b_v8_ag.jpg?w=240&amp;h=360"/>
     <date>2025</date>
     <category>Competition Reality</category>
     <credits>
       <actor>Maya Jama</actor>
       <actor>Iain Stirling</actor>
+      <director>Marko Gowan</director>
     </credits>
     <rating system="Australian Classification Board">MA 15+</rating>
     <rating system="Kijkwijzer">12</rating>
@@ -268306,8 +268584,9 @@
   </programme>
   <programme start="20260318020000 +0000" stop="20260318030000 +0000" channel="45375">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Luciano y Bruno hablan sobre lo que hicieron años atrás y recuerdan detalles de la chica afectada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -268315,6 +268594,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260318030000 +0000" stop="20260318040000 +0000" channel="45375">
     <title>Mi rival [Nuevo]</title>
@@ -268393,8 +268673,9 @@
   </programme>
   <programme start="20260318080000 +0000" stop="20260318090000 +0000" channel="45375">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Luciano y Bruno hablan sobre lo que hicieron años atrás y recuerdan detalles de la chica afectada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -268402,6 +268683,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="45375">
     <title>Contacto deportivo [En vivo] [Nuevo]</title>
@@ -269013,8 +269295,9 @@
   </programme>
   <programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="11118">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Luciano y Bruno hablan sobre lo que hicieron años atrás y recuerdan detalles de la chica afectada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -269022,6 +269305,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="11118">
     <title>Mi rival [Nuevo]</title>
@@ -272470,6 +272754,7 @@
   </programme>
   <programme start="20260317022800 +0000" stop="20260317035500 +0000" channel="16498">
     <title>Necesito tu gran p... negra en mi c... apretado</title>
+    <desc>¡Chicas impresionantes ansían grandes varas negras en sus traseros apretados!</desc>
     <icon src="https://cltv.tmsimg.com/tvbanners/generic/generic_tvbanners_v5.png"/>
     <date>2025</date>
     <category>Adults only</category>
@@ -277460,7 +277745,7 @@
   <programme start="20260318220000 +0000" stop="20260319000000 +0000" channel="99247">
     <title>Fútbol Brasileirao</title>
     <desc>Fecha 7 de la temporada 2026 de la Brasileirao Serie A. Desde el Allianz Parque, en Sao Paulo.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG002YL6VY.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030K4C2.jpg?w=240&amp;h=360"/>
     <sub-title>Palmeiras vs. Botafogo</sub-title>
     <category>Soccer</category>
   </programme>
@@ -279329,7 +279614,7 @@
   </programme>
   <programme start="20260317120000 +0000" stop="20260317123000 +0000" channel="89973">
     <title>Amigos salvajes de ZooMoo</title>
-    <desc>Flash, Piglet y sus amigos presentan una experiencia interactiva que explora la naturaleza.</desc>
+    <desc>Flash y sus amigos organizan una experiencia interactiva para explorar el mundo de los primates.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14762224_b_v8_ac.jpg?w=240&amp;h=360"/>
     <sub-title>Partido Primado</sub-title>
     <date>2018</date>
@@ -279399,7 +279684,7 @@
   </programme>
   <programme start="20260317143000 +0000" stop="20260317150000 +0000" channel="89973">
     <title>Amigos salvajes de ZooMoo</title>
-    <desc>Flash, Piglet y sus amigos presentan una experiencia interactiva que explora la naturaleza.</desc>
+    <desc>La pandilla ZooMoo aprende sobre los animales que viven cerca del agua.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14762224_b_v8_ac.jpg?w=240&amp;h=360"/>
     <sub-title>Ocupado al lado del agua</sub-title>
     <date>2018</date>
@@ -279440,7 +279725,7 @@
   </programme>
   <programme start="20260317160000 +0000" stop="20260317163000 +0000" channel="89973">
     <title>Amigos salvajes de ZooMoo</title>
-    <desc>Flash, Piglet y sus amigos presentan una experiencia interactiva que explora la naturaleza.</desc>
+    <desc>Flash y sus amigos organizan una experiencia interactiva para explorar el mundo de los primates.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14762224_b_v8_ac.jpg?w=240&amp;h=360"/>
     <sub-title>Partido Primado</sub-title>
     <date>2018</date>
@@ -279510,7 +279795,7 @@
   </programme>
   <programme start="20260317183000 +0000" stop="20260317190000 +0000" channel="89973">
     <title>Amigos salvajes de ZooMoo</title>
-    <desc>Flash, Piglet y sus amigos presentan una experiencia interactiva que explora la naturaleza.</desc>
+    <desc>La pandilla ZooMoo aprende sobre los animales que viven cerca del agua.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14762224_b_v8_ac.jpg?w=240&amp;h=360"/>
     <sub-title>Ocupado al lado del agua</sub-title>
     <date>2018</date>
