@@ -2414,12 +2414,12 @@
     <segmentation-upid>TFPG172603190101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260319230002 +0000" stop="20260320010002 +0000">
+  <programme channel="1" start="20260319230002 +0000" stop="20260320004332 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  CF America vs Philadelphia Union  |  03/18/2026</title>
     <episode-num system="assetID">TFPG032603180201</episode-num>
     <desc lang="es">CONCACAF CHAMPIONS CUP 2026 Octavos de Final: CF America vs Philadelphia Union 03/18/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6210</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2427,33 +2427,33 @@
     <segmentation-upid>TFPG032603180201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320010002 +0000" stop="20260320013002 +0000">
+  <programme channel="1" start="20260320004332 +0000" stop="20260320010000 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
-    <episode-num system="assetID">TFPG172603080101</episode-num>
-    <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
+    <title lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP  |  Nashville SC vs Inter Miami  |  03/11/2026</title>
+    <episode-num system="assetID">TFPG032603110103</episode-num>
+    <desc lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP 2026 Octavos de Final: Nashville SC vs Inter Miami 03/11/2026</desc>
+    <length units="seconds">988</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603080101</segmentation-upid>
+    <segmentation-upid>TFPG032603110103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320013002 +0000" stop="20260320020002 +0000">
+  <programme channel="1" start="20260320010000 +0000" stop="20260320030001 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
-    <episode-num system="assetID">TFPG172603150101</episode-num>
-    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
+    <title lang="es">UEFA CHAMPIONS LEAGUE  |  Liverpool FC vs Galatasaray SK  |  03/18/2026</title>
+    <episode-num system="assetID">TFPG142603180301</episode-num>
+    <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Liverpool FC vs Galatasaray SK 03/18/2026</desc>
+    <length units="seconds">7201</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <segmentation-upid>TFPG142603180301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320020002 +0000" stop="20260320030002 +0000">
+  <programme channel="1" start="20260320030001 +0000" stop="20260320040001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">FOX REPLAY  |  03/19/2026</title>
     <episode-num system="assetID">TFPG172603190301</episode-num>
@@ -2466,25 +2466,38 @@
     <segmentation-upid>TFPG172603190301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320030002 +0000" stop="20260320050001 +0000">
+  <programme channel="1" start="20260320040001 +0000" stop="20260320043001 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">UEFA CHAMPIONS LEAGUE  |  Liverpool FC vs Galatasaray SK  |  03/18/2026</title>
-    <episode-num system="assetID">TFPG142603180301</episode-num>
-    <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Liverpool FC vs Galatasaray SK 03/18/2026</desc>
-    <length units="seconds">7199</length>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG172603080101</episode-num>
+    <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG142603180301</segmentation-upid>
+    <segmentation-upid>TFPG172603080101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320050001 +0000" stop="20260320060000 +0000">
+  <programme channel="1" start="20260320043001 +0000" stop="20260320050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1799</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260320050000 +0000" stop="20260320060000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  03/19/2026</title>
     <episode-num system="assetID">TFPG172603190401</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/19/2026</desc>
-    <length units="seconds">3599</length>
+    <length units="seconds">3600</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2557,12 +2570,12 @@
     <segmentation-upid>TFPG032603110103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320110000 +0000" stop="20260320130000 +0000">
+  <programme channel="1" start="20260320110000 +0000" stop="20260320124230 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  CF America vs Philadelphia Union  |  03/18/2026</title>
     <episode-num system="assetID">TFPG032603180201</episode-num>
     <desc lang="es">CONCACAF CHAMPIONS CUP 2026 Octavos de Final: CF America vs Philadelphia Union 03/18/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6150</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2570,12 +2583,25 @@
     <segmentation-upid>TFPG032603180201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320130000 +0000" stop="20260320150000 +0000">
+  <programme channel="1" start="20260320124230 +0000" stop="20260320130000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP  |  FC Cincinnati vs Tigres UANL  |  03/12/2026</title>
+    <episode-num system="assetID">TFPG032603120103</episode-num>
+    <desc lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP 2026 Octavos de Final: FC Cincinnati vs Tigres UANL 03/12/2026</desc>
+    <length units="seconds">1050</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG032603120103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260320130000 +0000" stop="20260320144226 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  Deportivo Toluca FC vs San Diego FC  |  03/18/2026</title>
     <episode-num system="assetID">TFPG032603180301</episode-num>
     <desc lang="es">CONCACAF CHAMPIONS CUP 2026 Octavos de Final: Deportivo Toluca FC vs San Diego FC 03/18/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6146</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2583,12 +2609,25 @@
     <segmentation-upid>TFPG032603180301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320150000 +0000" stop="20260320164151 +0000">
+  <programme channel="1" start="20260320144226 +0000" stop="20260320150000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP  |  LA Galaxy FC vs Mount Pleasant FC  |  03/11/2026</title>
+    <episode-num system="assetID">TFPG032603110303</episode-num>
+    <desc lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP 2026 Octavos de Final: LA Galaxy FC vs Mount Pleasant FC 03/11/2026</desc>
+    <length units="seconds">1054</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG032603110303</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260320150000 +0000" stop="20260320164152 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  Inter Miami vs Nashville SC  |  03/18/2026</title>
     <episode-num system="assetID">TFPG032603180101</episode-num>
     <desc lang="es">CONCACAF CHAMPIONS CUP 2026 Octavos de Final: Inter Miami vs Nashville SC 03/18/2026</desc>
-    <length units="seconds">6111</length>
+    <length units="seconds">6112</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2596,7 +2635,7 @@
     <segmentation-upid>TFPG032603180101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320164151 +0000" stop="20260320170001 +0000">
+  <programme channel="1" start="20260320164152 +0000" stop="20260320170002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min CONCACAF CHAMPIONS CUP  |  Liga Deportiva Alajuelense vs Los Angeles FC  |  03/17/2026</title>
     <episode-num system="assetID">TFPG032603170103</episode-num>
@@ -2609,7 +2648,7 @@
     <segmentation-upid>TFPG032603170103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320170001 +0000" stop="20260320190001 +0000">
+  <programme channel="1" start="20260320170002 +0000" stop="20260320190002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  Tigres UANL vs FC Cincinnati  |  03/19/2026</title>
     <episode-num system="assetID">TFPG032603190201</episode-num>
@@ -2622,12 +2661,12 @@
     <segmentation-upid>TFPG032603190201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260320190001 +0000" stop="20260320193002 +0000">
+  <programme channel="1" start="20260320190002 +0000" stop="20260320193002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1801</length>
+    <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2687,12 +2726,12 @@
     <segmentation-upid>TFPG142603110303</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260321010002 +0000" stop="20260321025000 +0000">
+  <programme channel="1" start="20260321010002 +0000" stop="20260321025001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Liverpool FC vs Galatasaray SK  |  03/18/2026</title>
     <episode-num system="assetID">TFPG142603180301</episode-num>
     <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Liverpool FC vs Galatasaray SK 03/18/2026</desc>
-    <length units="seconds">6598</length>
+    <length units="seconds">6599</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2700,7 +2739,7 @@
     <segmentation-upid>TFPG142603180301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260321025000 +0000" stop="20260321050000 +0000">
+  <programme channel="1" start="20260321025001 +0000" stop="20260321050001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
     <episode-num system="assetID">TFPG012603200101</episode-num>
@@ -2713,12 +2752,12 @@
     <segmentation-upid>TFPG012603200101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260321050000 +0000" stop="20260321060000 +0000">
+  <programme channel="1" start="20260321050001 +0000" stop="20260321060000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  03/20/2026</title>
     <episode-num system="assetID">TFPG172603200301</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/20/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">3599</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3064,12 +3103,12 @@
     <segmentation-upid>TFPG172603150101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322120002 +0000" stop="20260322140002 +0000">
+  <programme channel="1" start="20260322120002 +0000" stop="20260322134225 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  FC Barcelona vs Newcastle United FC  |  03/18/2026</title>
     <episode-num system="assetID">TFPG142603180101</episode-num>
     <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: FC Barcelona vs Newcastle United FC 03/18/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6143</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3077,7 +3116,20 @@
     <segmentation-upid>TFPG142603180101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322140002 +0000" stop="20260322160002 +0000">
+  <programme channel="1" start="20260322134225 +0000" stop="20260322140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Paris Saint-Germain FC vs Chelsea  |  03/11/2026</title>
+    <episode-num system="assetID">TFPG142603110303</episode-num>
+    <desc lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Paris Saint-Germain FC vs Chelsea 03/11/2026</desc>
+    <length units="seconds">1055</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG142603110303</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260322140000 +0000" stop="20260322160000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP España  |  03/22/2026</title>
     <episode-num system="assetID">TFPG082603220201</episode-num>
@@ -3090,7 +3142,7 @@
     <segmentation-upid>TFPG082603220201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322160002 +0000" stop="20260322181502 +0000">
+  <programme channel="1" start="20260322160000 +0000" stop="20260322181500 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Ligue 1  |  Paris FC vs Le Havre AC  |  03/22/2026</title>
     <episode-num system="assetID">TFPG152603220101</episode-num>
@@ -3103,7 +3155,7 @@
     <segmentation-upid>TFPG152603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322181502 +0000" stop="20260322183002 +0000">
+  <programme channel="1" start="20260322181500 +0000" stop="20260322183000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Real Madrid CF vs Manchester City FC  |  03/11/2026</title>
     <episode-num system="assetID">TFPG142603110103</episode-num>
@@ -3116,12 +3168,12 @@
     <segmentation-upid>TFPG142603110103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322183002 +0000" stop="20260322200949 +0000">
+  <programme channel="1" start="20260322183000 +0000" stop="20260322201001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Arsenal FC vs Bayer Leverkusen  |  03/17/2026</title>
     <episode-num system="assetID">TFPG142603170101</episode-num>
     <desc lang="es">UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Arsenal FC vs Bayer Leverkusen 03/17/2026</desc>
-    <length units="seconds">5987</length>
+    <length units="seconds">6001</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3129,12 +3181,12 @@
     <segmentation-upid>TFPG142603170101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322200949 +0000" stop="20260322203000 +0000">
+  <programme channel="1" start="20260322201001 +0000" stop="20260322203001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min Premier League  |  Crystal Palace FC vs Leeds United  |  03/15/2026</title>
     <episode-num system="assetID">TFPG042603150103</episode-num>
     <desc lang="es">Resumen de 15 min Premier League 2025-26 Semana 30: Crystal Palace FC vs Leeds United 03/15/2026</desc>
-    <length units="seconds">1211</length>
+    <length units="seconds">1200</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3142,7 +3194,7 @@
     <segmentation-upid>TFPG042603150103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322203000 +0000" stop="20260322223000 +0000">
+  <programme channel="1" start="20260322203001 +0000" stop="20260322223001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Leeds United vs Brentford  |  03/21/2026</title>
     <episode-num system="assetID">TFPG042603210301</episode-num>
@@ -3155,7 +3207,7 @@
     <segmentation-upid>TFPG042603210301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260322223000 +0000" stop="20260323010000 +0000">
+  <programme channel="1" start="20260322223001 +0000" stop="20260323010001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
     <episode-num system="assetID">TFPG012603220101</episode-num>
@@ -3168,7 +3220,7 @@
     <segmentation-upid>TFPG012603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323010000 +0000" stop="20260323030000 +0000">
+  <programme channel="1" start="20260323010001 +0000" stop="20260323030001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
     <episode-num system="assetID">TFPG012603200101</episode-num>
@@ -3181,7 +3233,7 @@
     <segmentation-upid>TFPG012603200101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323030000 +0000" stop="20260323040000 +0000">
+  <programme channel="1" start="20260323030001 +0000" stop="20260323040001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  03/22/2026</title>
     <episode-num system="assetID">TFPG172603220201</episode-num>
@@ -3194,12 +3246,12 @@
     <segmentation-upid>TFPG172603220201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323040000 +0000" stop="20260323060000 +0000">
+  <programme channel="1" start="20260323040001 +0000" stop="20260323060000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
     <episode-num system="assetID">TFPG042603220101</episode-num>
     <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">7199</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3248,15 +3300,15 @@
   </programme>
   <programme channel="1" start="20260323120000 +0000" stop="20260323140000 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX Femenil  |  Club León vs Atlas FC  |  03/23/2026</title>
-    <episode-num system="assetID">TFPG022603230101</episode-num>
-    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Club León vs Atlas FC 03/23/2026</desc>
+    <title lang="es">Liga MX Femenil  |  Club León vs Atlas FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG022603220201</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Club León vs Atlas FC 03/22/2026</desc>
     <length units="seconds">7200</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG022603230101</segmentation-upid>
+    <segmentation-upid>TFPG022603220201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260323140000 +0000" stop="20260323160000 +0000">
@@ -3272,12 +3324,12 @@
     <segmentation-upid>TFPG012603220201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323160000 +0000" stop="20260323180001 +0000">
+  <programme channel="1" start="20260323160000 +0000" stop="20260323180000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
     <episode-num system="assetID">TFPG012603200101</episode-num>
     <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: Mazatlán FC vs Cruz Azul 03/20/2026</desc>
-    <length units="seconds">7201</length>
+    <length units="seconds">7200</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3285,7 +3337,7 @@
     <segmentation-upid>TFPG012603200101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323180001 +0000" stop="20260323200001 +0000">
+  <programme channel="1" start="20260323180000 +0000" stop="20260323200000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
     <episode-num system="assetID">TFPG012603220101</episode-num>
@@ -3298,7 +3350,7 @@
     <segmentation-upid>TFPG012603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323200001 +0000" stop="20260323220001 +0000">
+  <programme channel="1" start="20260323200000 +0000" stop="20260323220000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
     <episode-num system="assetID">TFPG042603210101</episode-num>
@@ -3311,7 +3363,7 @@
     <segmentation-upid>TFPG042603210101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323220001 +0000" stop="20260323230001 +0000">
+  <programme channel="1" start="20260323220000 +0000" stop="20260323230000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">ESPECIALISTAS  |  03/23/2026</title>
     <episode-num system="assetID">TFPG172603230101</episode-num>
@@ -3324,11 +3376,11 @@
     <segmentation-upid>TFPG172603230101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260323230001 +0000" stop="20260324010001 +0000">
+  <programme channel="1" start="20260323230000 +0000" stop="20260324010000 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX Femenil  |  Puebla FC vs CF América  |  03/21/2026</title>
+    <title lang="es">Liga MX Femenil  |  Puebla FC vs CF América  |  03/22/2026</title>
     <episode-num system="assetID">TFPG022603220101</episode-num>
-    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/21/2026</desc>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/22/2026</desc>
     <length units="seconds">7200</length>
     <rating>
       <value>NA</value>
@@ -3337,12 +3389,12 @@
     <segmentation-upid>TFPG022603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260324010001 +0000" stop="20260324013000 +0000">
+  <programme channel="1" start="20260324010000 +0000" stop="20260324013000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1799</length>
+    <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3389,17 +3441,771 @@
     <segmentation-upid>TFPG172603230301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260324050000 +0000" stop="20260324055959 +0000">
+  <programme channel="1" start="20260324050000 +0000" stop="20260324060000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  03/23/2026</title>
     <episode-num system="assetID">TFPG172603230401</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/23/2026</desc>
-    <length units="seconds">3599</length>
+    <length units="seconds">3600</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>True</LiveEvent>
     <segmentation-upid>TFPG172603230401</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324060000 +0000" stop="20260324080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Arkema Première Ligue  |  Montpellier HSC vs Paris Saint-Germain FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG212603220101</episode-num>
+    <desc lang="es">Arkema Première Ligue 2025-26 Semana 18: Montpellier HSC vs Paris Saint-Germain FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG212603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324080000 +0000" stop="20260324100000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Serie A Femminile  |  Lazio Roma vs AS Roma  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG232603210101</episode-num>
+    <desc lang="es">Serie A Femminile 2025-26 Semana 17: Lazio Roma vs AS Roma 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG232603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324100000 +0000" stop="20260324120000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324120000 +0000" stop="20260324140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324140000 +0000" stop="20260324160000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Puebla FC vs CF América  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG022603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324160000 +0000" stop="20260324180000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: CF Pachuca vs Deportivo Toluca FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324180000 +0000" stop="20260324200000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  FC Juárez vs Tigres UANL  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220201</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: FC Juárez vs Tigres UANL 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324200000 +0000" stop="20260324220000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
+    <episode-num system="assetID">TFPG012603200101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: Mazatlán FC vs Cruz Azul 03/20/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603200101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324220000 +0000" stop="20260324230000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">ESPECIALISTAS  |  03/24/2026</title>
+    <episode-num system="assetID">TFPG172603240101</episode-num>
+    <desc lang="es">Mesa de discusión de futbol mexicano. Análisis y debate deportivo, de los temas serios y profundos del fútbol nacional sin tapujos ni filtros. 03/24/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603240101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260324230000 +0000" stop="20260325010000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  FC Fulham vs Burnley  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: FC Fulham vs Burnley 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325010000 +0000" stop="20260325030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325030000 +0000" stop="20260325050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Brighton &amp; Hove Albion FC vs Liverpool FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325050000 +0000" stop="20260325060000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/24/2026</title>
+    <episode-num system="assetID">TFPG172603240201</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/24/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603240201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325060000 +0000" stop="20260325080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">EL CHIRINGUITO  |  03/24/2026</title>
+    <episode-num system="assetID">TFPG172603240301</episode-num>
+    <desc lang="es">Los mejores debates y análisis sobre la principal liga de fútbol de España, LaLiga, además de entrevistas con las figuras más destacadas del fútbol. 03/24/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603240301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325080000 +0000" stop="20260325100000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Arkema Première Ligue  |  Montpellier HSC vs Paris Saint-Germain FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG212603220101</episode-num>
+    <desc lang="es">Arkema Première Ligue 2025-26 Semana 18: Montpellier HSC vs Paris Saint-Germain FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG212603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325100000 +0000" stop="20260325120000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Arkema Première Ligue  |  FC Fleury 91 vs Olympique Lyonnais  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG212603210101</episode-num>
+    <desc lang="es">Arkema Première Ligue 2025-26 Semana 18: FC Fleury 91 vs Olympique Lyonnais 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG212603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325120000 +0000" stop="20260325140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325140000 +0000" stop="20260325160000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325160000 +0000" stop="20260325180000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Puebla FC vs CF América  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG022603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325180000 +0000" stop="20260325200000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
+    <episode-num system="assetID">TFPG012603200101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: Mazatlán FC vs Cruz Azul 03/20/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603200101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325200000 +0000" stop="20260325220000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: CF Pachuca vs Deportivo Toluca FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325220000 +0000" stop="20260325230000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">ESPECIALISTAS  |  03/25/2026</title>
+    <episode-num system="assetID">TFPG172603250101</episode-num>
+    <desc lang="es">Mesa de discusión de futbol mexicano. Análisis y debate deportivo, de los temas serios y profundos del fútbol nacional sin tapujos ni filtros. 03/25/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603250101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260325230000 +0000" stop="20260326010000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326010000 +0000" stop="20260326030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Brighton &amp; Hove Albion FC vs Liverpool FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326030000 +0000" stop="20260326050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  FC Fulham vs Burnley  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: FC Fulham vs Burnley 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326050000 +0000" stop="20260326060000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/25/2026</title>
+    <episode-num system="assetID">TFPG172603250201</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/25/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603250201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326060000 +0000" stop="20260326080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">EL CHIRINGUITO  |  03/25/2026</title>
+    <episode-num system="assetID">TFPG172603250301</episode-num>
+    <desc lang="es">Los mejores debates y análisis sobre la principal liga de fútbol de España, LaLiga, además de entrevistas con las figuras más destacadas del fútbol. 03/25/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603250301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326080000 +0000" stop="20260326100000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326100000 +0000" stop="20260326120000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326120000 +0000" stop="20260326140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326140000 +0000" stop="20260326160000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Brighton &amp; Hove Albion FC vs Liverpool FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326160000 +0000" stop="20260326170000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Lucha Libre AAA  |  Episodio 10  |   03/21/2026</title>
+    <episode-num system="assetID">TFPG252603210101</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 10: Rey de Reyes Segundo Episodio Auditorio GNP Seguros Puebla 03/21/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG252603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326170000 +0000" stop="20260326173000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326173000 +0000" stop="20260326180001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG172603220101</episode-num>
+    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1801</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326180001 +0000" stop="20260326200001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Puebla FC vs CF América  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG022603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326200001 +0000" stop="20260326220000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Tigres UANL vs CF América  |  03/25/2026</title>
+    <episode-num system="assetID">TFPG022603250101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: Tigres UANL vs CF América 03/25/2026</desc>
+    <length units="seconds">7199</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603250101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326220000 +0000" stop="20260326230000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">ESPECIALISTAS  |  03/26/2026</title>
+    <episode-num system="assetID">TFPG172603260101</episode-num>
+    <desc lang="es">Mesa de discusión de futbol mexicano. Análisis y debate deportivo, de los temas serios y profundos del fútbol nacional sin tapujos ni filtros. 03/26/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603260101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260326230000 +0000" stop="20260327010000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  FC Juárez vs Tigres UANL  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220201</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: FC Juárez vs Tigres UANL 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327010000 +0000" stop="20260327030000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: CF Pachuca vs Deportivo Toluca FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327030000 +0000" stop="20260327050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  Mazatlán FC vs Cruz Azul  |  03/20/2026</title>
+    <episode-num system="assetID">TFPG012603200101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: Mazatlán FC vs Cruz Azul 03/20/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603200101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327050000 +0000" stop="20260327060000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/26/2026</title>
+    <episode-num system="assetID">TFPG172603260201</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/26/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603260201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327060000 +0000" stop="20260327080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">EL CHIRINGUITO  |  03/26/2026</title>
+    <episode-num system="assetID">TFPG172603260301</episode-num>
+    <desc lang="es">Los mejores debates y análisis sobre la principal liga de fútbol de España, LaLiga, además de entrevistas con las figuras más destacadas del fútbol. 03/26/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603260301</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327080000 +0000" stop="20260327100000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327100000 +0000" stop="20260327120000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210101</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: Brighton &amp; Hove Albion FC vs Liverpool FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327120000 +0000" stop="20260327140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327140000 +0000" stop="20260327160000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327160000 +0000" stop="20260327180000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Premier League  |  FC Fulham vs Burnley  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG042603210201</episode-num>
+    <desc lang="es">Premier League 2025-26 Semana 31: FC Fulham vs Burnley 03/21/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603210201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327180000 +0000" stop="20260327200000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Tigres UANL vs CF América  |  03/25/2026</title>
+    <episode-num system="assetID">TFPG022603250101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: Tigres UANL vs CF América 03/25/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603250101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327200000 +0000" stop="20260327203000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327203000 +0000" stop="20260327210001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG172603220101</episode-num>
+    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1801</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327210001 +0000" stop="20260327220001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Lucha Libre AAA  |  Episodio 10  |   03/21/2026</title>
+    <episode-num system="assetID">TFPG252603210101</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 10: Rey de Reyes Segundo Episodio Auditorio GNP Seguros Puebla 03/21/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG252603210101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327220001 +0000" stop="20260327230001 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">ESPECIALISTAS  |  03/27/2026</title>
+    <episode-num system="assetID">TFPG172603270101</episode-num>
+    <desc lang="es">Mesa de discusión de futbol mexicano. Análisis y debate deportivo, de los temas serios y profundos del fútbol nacional sin tapujos ni filtros. 03/27/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603270101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327230001 +0000" stop="20260327233000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG172603080101</episode-num>
+    <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1799</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603080101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260327233000 +0000" stop="20260328000000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260328000000 +0000" stop="20260328003000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG172603220101</episode-num>
+    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260328003000 +0000" stop="20260328030000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">Liga MX Femenil  |  Atlas FC vs Necaxa  |  03/27/2026</title>
+    <episode-num system="assetID">TFPG022603270101</episode-num>
+    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: Atlas FC vs Necaxa 03/27/2026</desc>
+    <length units="seconds">9000</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG022603270101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260328030000 +0000" stop="20260328050000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Liga MX  |  CF Pachuca vs Deportivo Toluca FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG012603220101</episode-num>
+    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 12: CF Pachuca vs Deportivo Toluca FC 03/22/2026</desc>
+    <length units="seconds">7200</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG012603220101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260328050000 +0000" stop="20260328060000 +0000">
+    <liveEvent>true</liveEvent>
+    <title lang="es">CUADRO TITULAR  |  03/27/2026</title>
+    <episode-num system="assetID">TFPG172603270201</episode-num>
+    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 03/27/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>True</LiveEvent>
+    <segmentation-upid>TFPG172603270201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260319000000 +0000" stop="20260319003000 +0000" channel="20742">
@@ -13763,6 +14569,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Arcom">-10</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
   <programme start="20260319045000 +0000" stop="20260319054000 +0000" channel="17457">
     <title>Crímenes reales: ¿Sucedió aquí?</title>
@@ -13862,6 +14669,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Arcom">-10</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
   <programme start="20260319090000 +0000" stop="20260319095000 +0000" channel="17457">
     <title>Crímenes reales: ¿Sucedió aquí?</title>
@@ -14554,6 +15362,7 @@
     <rating system="Canadian Parental Rating">14+</rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">12</rating>
     <rating system="Arcom">-10</rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A16</rating>
   </programme>
   <programme start="20260320072000 +0000" stop="20260320081000 +0000" channel="17457">
     <title>Crímenes reales: ¿Sucedió aquí?</title>
@@ -43413,7 +44222,7 @@
   <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="101735">
     <title>El maravillosamente extraño mundo de Gumball</title>
     <desc>Gumball decide hacer lo que sea necesario para conseguir una ración completa de un delicioso plato.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p30689652_b_v8_ai.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p30689652_b_v12_ai.jpg?w=240&amp;h=360"/>
     <sub-title>Lo gourmet</sub-title>
     <date>2025</date>
     <category>Animated</category>
@@ -43640,11 +44449,17 @@
   </programme>
   <programme start="20260319184500 +0000" stop="20260319190000 +0000" channel="101735">
     <title>Maluzinha</title>
-    <icon src="https://cltv.tmsimg.com/assets/p32156187_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <desc>¡Por fin está al aire el episodio! Y hablando de aire, ¡qué falta de aire hay en este ascensor!</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32156191_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Animated</category>
     <category>Fantasy</category>
     <category>Children</category>
+    <credits>
+      <actor>Aline Guioli</actor>
+      <actor>Robson Kumode</actor>
+      <director>Vitor Campos</director>
+    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
   <programme start="20260319190000 +0000" stop="20260319203000 +0000" channel="101735">
@@ -73541,7 +74356,7 @@
   </programme>
   <programme start="20260319104100 +0000" stop="20260319113500 +0000" channel="110951">
     <title>Rescued Chimpanzees of the Congo With Jane Goodall</title>
-    <desc>Jane Goodall gives the world a remarkable window into humankind's closest living relatives.</desc>
+    <desc>Rebeca returns from a rescue mission in Angola with eight chimpanzees.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20335267_b_v12_al.jpg?w=240&amp;h=360"/>
     <sub-title>Ready to Go</sub-title>
     <date>2022</date>
@@ -73627,7 +74442,7 @@
   </programme>
   <programme start="20260319160100 +0000" stop="20260319165600 +0000" channel="110951">
     <title>Rescued Chimpanzees of the Congo With Jane Goodall</title>
-    <desc>Jane Goodall gives the world a remarkable window into humankind's closest living relatives.</desc>
+    <desc>Rebeca returns from a rescue mission in Angola with eight chimpanzees.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20335267_b_v12_al.jpg?w=240&amp;h=360"/>
     <sub-title>Ready to Go</sub-title>
     <date>2022</date>
@@ -73713,7 +74528,7 @@
   </programme>
   <programme start="20260319212200 +0000" stop="20260319221700 +0000" channel="110951">
     <title>Rescued Chimpanzees of the Congo With Jane Goodall</title>
-    <desc>Jane Goodall gives the world a remarkable window into humankind's closest living relatives.</desc>
+    <desc>Rebeca returns from a rescue mission in Angola with eight chimpanzees.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20335267_b_v12_al.jpg?w=240&amp;h=360"/>
     <sub-title>Ready to Go</sub-title>
     <date>2022</date>
@@ -79038,8 +79853,8 @@
   </programme>
   <programme start="20260319182700 +0000" stop="20260319191800 +0000" channel="25788">
     <title>Carrera por Alaska</title>
-    <desc>Ocho equipos de atletas de élite compiten cara a cara en la naturaleza salvaje de Alaska.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p24126503_i_v12_aa.jpg?w=240&amp;h=360"/>
+    <desc>Un equipo está por quedarse sin raciones y se aventura en las frías aguas para pescar.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p23848171_i_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>La trampa del hambre</sub-title>
     <date>2023</date>
     <category>Competition Reality</category>
@@ -111139,10 +111954,14 @@
   </programme>
   <programme start="20260319010000 +0000" stop="20260319013000 +0000" channel="100602">
     <title>La ruta del mar patagónico</title>
+    <desc>Tupac descubre cómo se produce la sal marina, visita Trelew para probar alfajores patagónicos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32474151_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Trelew Mero a la sal</sub-title>
+    <sub-title>Trelew, mero a la sal</sub-title>
     <date>2026</date>
     <category>Travel</category>
+    <credits>
+      <actor>Tupac Guantay</actor>
+    </credits>
   </programme>
   <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="100602">
     <title>Productos de mi tierra, México</title>
@@ -111230,10 +112049,14 @@
   </programme>
   <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="100602">
     <title>La ruta del mar patagónico</title>
+    <desc>Tupac descubre cómo se produce la sal marina, visita Trelew para probar alfajores patagónicos.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32474151_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Trelew Mero a la sal</sub-title>
+    <sub-title>Trelew, mero a la sal</sub-title>
     <date>2026</date>
     <category>Travel</category>
+    <credits>
+      <actor>Tupac Guantay</actor>
+    </credits>
   </programme>
   <programme start="20260319060000 +0000" stop="20260319063000 +0000" channel="100602">
     <title>La ruta de los insectos</title>
@@ -112371,8 +113194,11 @@
   </programme>
   <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="20286">
     <title>Ancient nutrition</title>
+    <desc>Se aborda la relación entre la alimentación ancestral y la salud integral.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32295501_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2020</date>
+    <category>Health</category>
+    <category>Entertainment</category>
   </programme>
   <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="20286">
     <title>Otoniel Font</title>
@@ -112637,8 +113463,11 @@
   </programme>
   <programme start="20260320043000 +0000" stop="20260320050000 +0000" channel="20286">
     <title>Ancient nutrition</title>
+    <desc>Se aborda la relación entre la alimentación ancestral y la salud integral.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32295501_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2020</date>
+    <category>Health</category>
+    <category>Entertainment</category>
   </programme>
   <programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="20286">
     <title>Vida de fe</title>
@@ -127489,10 +128318,16 @@
   </programme>
   <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="88305">
     <title>De Zimmer a Strauss</title>
+    <desc>En Dubái, The Limitless Orchestra, dirección de Aleksey Igudesman, acompañada por Hans Zimmer.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32212395_b_v8_ab.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Special</category>
     <category>Music</category>
+    <category>Concert</category>
+    <credits>
+      <actor>Hans Zimmer</actor>
+      <actor>Aleksey Igudesman</actor>
+    </credits>
     <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
@@ -127591,10 +128426,16 @@
   </programme>
   <programme start="20260319080000 +0000" stop="20260319100500 +0000" channel="88305">
     <title>De Zimmer a Strauss</title>
+    <desc>En Dubái, The Limitless Orchestra, dirección de Aleksey Igudesman, acompañada por Hans Zimmer.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32212395_b_v8_ab.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Special</category>
     <category>Music</category>
+    <category>Concert</category>
+    <credits>
+      <actor>Hans Zimmer</actor>
+      <actor>Aleksey Igudesman</actor>
+    </credits>
     <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
@@ -127700,10 +128541,16 @@
   </programme>
   <programme start="20260319143000 +0000" stop="20260319160000 +0000" channel="88305">
     <title>De Zimmer a Strauss</title>
+    <desc>En Dubái, The Limitless Orchestra, dirección de Aleksey Igudesman, acompañada por Hans Zimmer.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32212395_b_v8_ab.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Special</category>
     <category>Music</category>
+    <category>Concert</category>
+    <credits>
+      <actor>Hans Zimmer</actor>
+      <actor>Aleksey Igudesman</actor>
+    </credits>
     <rating system="Instituto Nacional de Cine y Artes Audiovisuales">ATP</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
@@ -141222,6 +142069,8 @@
     <icon src="https://cltv.tmsimg.com/assets/p32403404_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Special</category>
+    <category>Skiing</category>
+    <category>Action sports</category>
   </programme>
   <programme start="20260320024500 +0000" stop="20260320031000 +0000" channel="116115">
     <title>First Push: The Blossoming Skateboarding Scene in Pakistan</title>
@@ -154117,6 +154966,7 @@
   </programme>
   <programme start="20260319231500 +0000" stop="20260320001000 +0000" channel="68119">
     <title>Women's Hell</title>
+    <desc>Los medios conservadores atacan la clínica de abortos. Helena ayuda a Emil a recuperar su libertad.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32563281_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Drama</category>
@@ -156071,7 +156921,7 @@
   </programme>
   <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="68134">
     <title>Last Week Tonight With John Oliver</title>
-    <desc>Una mirada satírica a las noticias, la política y los eventos actuales.</desc>
+    <desc>John Oliver habla de J.D. Vance: sus creencias, su identidad sin Trump y su apariencia sin barba.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32202276_b_v11_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -169158,6 +170008,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Evidencias</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -169891,6 +170742,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Evidencias</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -170597,6 +171449,7 @@
     <title>Corazón de oro [Nuevo]</title>
     <desc>Una herencia desata conflictos y ambición, y Luz deberá elegir entre su hija y la justicia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32373314_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Evidencias</sub-title>
     <date>2026</date>
     <category>Soap</category>
     <category>Drama</category>
@@ -180240,7 +181093,7 @@
   <programme start="20260320023000 +0000" stop="20260320031500 +0000" channel="12712">
     <title>Caught in the Act: Unfaithful</title>
     <desc>Sunny está decidida a casarse con Woodlief, su novio con quien vive.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p31093353_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p22069197_b_v12_ao.jpg?w=240&amp;h=360"/>
     <sub-title>Capital F Friends</sub-title>
     <date>2026</date>
     <category>Reality</category>
@@ -184643,7 +185496,7 @@
   </programme>
   <programme start="20260320050000 +0000" stop="20260320055900 +0000" channel="88533">
     <title>World's Greatest Train Journeys From Above</title>
-    <desc>Se siguen desde el aire algunos de los viajes en tren más extraordinarios del mundo.</desc>
+    <desc>El tren Bergen en el oeste de Noruega y su extraordinario recorrido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22746449_b_v12_ae.jpg?w=240&amp;h=360"/>
     <sub-title>El Bergen de Noruega</sub-title>
     <date>2022</date>
@@ -184652,6 +185505,7 @@
     <category>Documentary</category>
     <credits>
       <actor>Raj Ghatak</actor>
+      <director>Alan Hayling</director>
     </credits>
     <rating system="Canadian Parental Rating">PG</rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
@@ -189102,6 +189956,8 @@
     <icon src="https://cltv.tmsimg.com/assets/p32587318_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Tohoku</sub-title>
     <date>2026</date>
+    <category>Travel</category>
+    <category>Bicycle</category>
   </programme>
   <programme start="20260320012500 +0000" stop="20260320013000 +0000" channel="59155">
     <title>The Masterpieces of Ukiyo-E Producer Tsutaju [Nuevo]</title>
@@ -189206,9 +190062,12 @@
     <icon src="https://cltv.tmsimg.com/assets/p32587318_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Western Honshu</sub-title>
     <date>2026</date>
+    <category>Travel</category>
+    <category>Bicycle</category>
   </programme>
   <programme start="20260320042500 +0000" stop="20260320043000 +0000" channel="59155">
     <title>Satoyama Kitchen Diary [Nuevo]</title>
+    <desc>Kogawa Nobuko and her husband Makoto take us on a culinary journey through the seasons.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20163706_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Leopard Plant Sharpens the Appetite</sub-title>
     <date>2023</date>
@@ -189533,6 +190392,7 @@
   </programme>
   <programme start="20260320132500 +0000" stop="20260320133000 +0000" channel="59155">
     <title>Satoyama Kitchen Diary [Nuevo]</title>
+    <desc>Makoto went to see the autumn colors, it reminds of a seasonal chestnut sweet called kuri-yose.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20163706_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Chestnuts Bring Sweet Happiness</sub-title>
     <date>2023</date>
@@ -189628,6 +190488,8 @@
     <icon src="https://cltv.tmsimg.com/assets/p32587318_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Tohoku</sub-title>
     <date>2026</date>
+    <category>Travel</category>
+    <category>Bicycle</category>
   </programme>
   <programme start="20260320162500 +0000" stop="20260320163000 +0000" channel="59155">
     <title>Nun's Cookbook</title>
@@ -189670,6 +190532,7 @@
   </programme>
   <programme start="20260320172500 +0000" stop="20260320173000 +0000" channel="59155">
     <title>Satoyama Kitchen Diary [Nuevo]</title>
+    <desc>Kogawa Nobuko and her husband Makoto take us on a culinary journey through the seasons.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20163706_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Fancy and Flavourful Dried Persimmons</sub-title>
     <date>2023</date>
@@ -206199,6 +207062,7 @@
   </programme>
   <programme start="20260320123000 +0000" stop="20260320133000 +0000" channel="172879">
     <title>Compañero de cena</title>
+    <desc>Hae-kyung y Do-hee se encuentran en el mercado de pescado de Haedong, tal como habían prometido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18343260_b_v7_ai.jpg?w=240&amp;h=360"/>
     <date>2020</date>
     <category>Sitcom</category>
@@ -224042,7 +224906,7 @@
   <programme start="20260318235800 +0000" stop="20260319020000 +0000" channel="24521">
     <title>La casa de los famosos [Nuevo]</title>
     <desc>Un grupo de habitantes convive entre alianzas y rivalidades para ganar 200 mil dólares.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32627410_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32627410_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2021</date>
     <category>Reality</category>
     <category>Competition Reality</category>
@@ -224050,7 +224914,7 @@
     <credits>
       <actor>Jimena Gallego</actor>
       <actor>Javier Poza</actor>
-      <actor>Christian Estrada</actor>
+      <actor>Caeli</actor>
     </credits>
   </programme>
   <programme start="20260319020000 +0000" stop="20260319030000 +0000" channel="24521">
@@ -224311,7 +225175,7 @@
   </programme>
   <programme start="20260319163000 +0000" stop="20260319170000 +0000" channel="24521">
     <title>Noticias Telemundo mediodía [Nuevo]</title>
-    <desc>Un informativo con un estilo único de narrar noticias de una manera atractiva.</desc>
+    <desc>Dolores Huerta habla sobre acusaciones contra el ícono de los derechos civiles César Chávez.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14971948_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -224326,8 +225190,9 @@
   </programme>
   <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="24521">
     <title>En casa con Telemundo [Nuevo]</title>
-    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <desc>Arturo Carmona responde al abogado de Alicia Villarreal. Chiky Bombom aclara rumor de despido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18150635_b_v12_ae.jpg?w=240&amp;h=360"/>
+    <sub-title>Arturo Carmona pide pruebas</sub-title>
     <date>2026</date>
     <category>Talk</category>
     <category>Interview</category>
@@ -224343,8 +225208,9 @@
   </programme>
   <programme start="20260319180000 +0000" stop="20260319190000 +0000" channel="24521">
     <title>En casa con Telemundo [Nuevo]</title>
-    <desc>Una mezcla de noticias del entretenimiento, exclusivas, presentaciones en vivo y más.</desc>
+    <desc>Arturo Carmona responde al abogado de Alicia Villarreal. Chiky Bombom aclara rumor de despido.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18150635_b_v12_ae.jpg?w=240&amp;h=360"/>
+    <sub-title>Arturo Carmona pide pruebas</sub-title>
     <date>2026</date>
     <category>Talk</category>
     <category>Interview</category>
@@ -224360,8 +225226,9 @@
   </programme>
   <programme start="20260319190000 +0000" stop="20260319200000 +0000" channel="24521">
     <title>La mesa caliente [Nuevo]</title>
-    <desc>Un equipo de mujeres audaces y empoderadas debate sobre los temas más controversiales.</desc>
+    <desc>El psicólogo Alberto Barradas explica el llamado &quot;efecto divorcio&quot; o &quot;divorce glow up&quot;.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p21604468_b_v12_af.jpg?w=240&amp;h=360"/>
+    <sub-title>Transformación tras el divorcio</sub-title>
     <date>2026</date>
     <category>Anthology</category>
     <category>Newsmagazine</category>
@@ -224379,7 +225246,7 @@
   </programme>
   <programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="24521">
     <title>Al rojo vivo [Nuevo]</title>
-    <desc>Revista noticiosa que define la agenda de la televisión en español en Estados Unidos.</desc>
+    <desc>La revista noticiosa que define la agenda de la televisión en español.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p326736_b_v12_an.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -224428,7 +225295,7 @@
   <programme start="20260319230000 +0000" stop="20260319235800 +0000" channel="24521">
     <title>La casa de los famosos [Nuevo]</title>
     <desc>Un grupo de habitantes convive entre alianzas y rivalidades para ganar 200 mil dólares.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32627410_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32627410_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2021</date>
     <category>Reality</category>
     <category>Competition Reality</category>
@@ -224436,13 +225303,13 @@
     <credits>
       <actor>Jimena Gallego</actor>
       <actor>Javier Poza</actor>
-      <actor>Christian Estrada</actor>
+      <actor>Caeli</actor>
     </credits>
   </programme>
   <programme start="20260319235800 +0000" stop="20260320020000 +0000" channel="24521">
     <title>La casa de los famosos [Nuevo]</title>
     <desc>Un grupo de habitantes convive entre alianzas y rivalidades para ganar 200 mil dólares.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32627410_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32627410_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2021</date>
     <category>Reality</category>
     <category>Competition Reality</category>
@@ -224450,7 +225317,7 @@
     <credits>
       <actor>Jimena Gallego</actor>
       <actor>Javier Poza</actor>
-      <actor>Christian Estrada</actor>
+      <actor>Caeli</actor>
     </credits>
   </programme>
   <programme start="20260320020000 +0000" stop="20260320030000 +0000" channel="24521">
@@ -224654,7 +225521,7 @@
   </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="24521">
     <title>Al rojo vivo</title>
-    <desc>Revista noticiosa que define la agenda de la televisión en español en Estados Unidos.</desc>
+    <desc>La revista noticiosa que define la agenda de la televisión en español.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p326736_b_v12_an.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -224781,7 +225648,7 @@
   </programme>
   <programme start="20260320200000 +0000" stop="20260320210000 +0000" channel="24521">
     <title>Al rojo vivo [Nuevo]</title>
-    <desc>Revista noticiosa que define la agenda de la televisión en español en Estados Unidos.</desc>
+    <desc>La revista noticiosa que define la agenda de la televisión en español.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p326736_b_v12_an.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -224830,7 +225697,7 @@
   <programme start="20260320230000 +0000" stop="20260320235800 +0000" channel="24521">
     <title>La casa de los famosos [Nuevo]</title>
     <desc>Un grupo de habitantes convive entre alianzas y rivalidades para ganar 200 mil dólares.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32627410_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32627410_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2021</date>
     <category>Reality</category>
     <category>Competition Reality</category>
@@ -224838,13 +225705,13 @@
     <credits>
       <actor>Jimena Gallego</actor>
       <actor>Javier Poza</actor>
-      <actor>Christian Estrada</actor>
+      <actor>Caeli</actor>
     </credits>
   </programme>
   <programme start="20260320235800 +0000" stop="20260321020000 +0000" channel="24521">
     <title>La casa de los famosos [Nuevo]</title>
     <desc>Un grupo de habitantes convive entre alianzas y rivalidades para ganar 200 mil dólares.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p32627410_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p32627410_b_v12_ab.jpg?w=240&amp;h=360"/>
     <date>2021</date>
     <category>Reality</category>
     <category>Competition Reality</category>
@@ -224852,7 +225719,7 @@
     <credits>
       <actor>Jimena Gallego</actor>
       <actor>Javier Poza</actor>
-      <actor>Christian Estrada</actor>
+      <actor>Caeli</actor>
     </credits>
   </programme>
   <programme start="20260318234000 +0000" stop="20260319003000 +0000" channel="64835">
@@ -228986,7 +229853,7 @@
   <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="11164">
     <title>NCAA Tip Off [En vivo] [Nuevo]</title>
     <desc>A preview of the NCAA Basketball Tournament.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p15167650_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p15167650_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2018</date>
     <category>Sports talk</category>
     <rating system="USA Parental Rating">TV14</rating>
@@ -229410,7 +230277,7 @@
   <programme start="20260320170000 +0000" stop="20260320173000 +0000" channel="11164">
     <title>NCAA Tip Off [En vivo] [Nuevo]</title>
     <desc>A preview of the NCAA Basketball Tournament.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p15167650_b_v8_ab.jpg?w=240&amp;h=360"/>
+    <icon src="https://cltv.tmsimg.com/assets/p15167650_b_v12_aa.jpg?w=240&amp;h=360"/>
     <date>2018</date>
     <category>Sports talk</category>
     <rating system="USA Parental Rating">TV14</rating>
@@ -233821,7 +234688,7 @@
     <title>Live: World Open Snooker [En vivo] [Nuevo]</title>
     <desc>Snooker action from the World Open.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9085229_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Quarter-Final</sub-title>
+    <sub-title>Quarter-Final: Ryan Day v Ronnie O'Sullivan</sub-title>
     <category>Snooker</category>
   </programme>
   <programme start="20260320090000 +0000" stop="20260320091500 +0000" channel="120950">
@@ -234403,7 +235270,7 @@
     <title>Live: World Open Snooker [En vivo] [Nuevo]</title>
     <desc>Snooker action from the World Open.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9085229_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Quarter-Final</sub-title>
+    <sub-title>Quarter-Final: Ryan Day v Ronnie O'Sullivan</sub-title>
     <category>Snooker</category>
   </programme>
   <programme start="20260320090000 +0000" stop="20260320103000 +0000" channel="120954">
@@ -234426,7 +235293,7 @@
     <title>Live: World Open Snooker [En vivo] [Nuevo]</title>
     <desc>Snooker action from the World Open.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9085229_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <sub-title>Quarter-Final</sub-title>
+    <sub-title>Quarter-Final: Judd Trump v Hossein Vafaei</sub-title>
     <category>Snooker</category>
   </programme>
   <programme start="20260320143000 +0000" stop="20260320150000 +0000" channel="120954">
@@ -239441,6 +240308,7 @@
   </programme>
   <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="18990">
     <title>All Elite Wrestling: Dynamite [En vivo] [Nuevo]</title>
+    <desc>Death-defying daredevil Darby Allin battles the ruthless Gabe Kidd in a Coffin Match.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32001221_b_v12_ae.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Pro wrestling</category>
@@ -239491,6 +240359,7 @@
   </programme>
   <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="18990">
     <title>All Elite Wrestling: Dynamite</title>
+    <desc>Death-defying daredevil Darby Allin battles the ruthless Gabe Kidd in a Coffin Match.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32001221_b_v12_ae.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Pro wrestling</category>
@@ -241904,7 +242773,7 @@
   </programme>
   <programme start="20260319024500 +0000" stop="20260319030500 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Festa do Líder.</desc>
+    <desc>Alberto Cowboy faz Festa do Líder de Halloween com decoração assustadora e &quot;Thriller&quot;.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -242079,7 +242948,7 @@
   </programme>
   <programme start="20260319110500 +0000" stop="20260319112500 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Festa do Líder.</desc>
+    <desc>Alberto Cowboy faz Festa do Líder de Halloween com decoração assustadora e &quot;Thriller&quot;.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -242351,7 +243220,7 @@
   </programme>
   <programme start="20260320012500 +0000" stop="20260320022500 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Um grupo de pessoas topa ficar confinado em uma casa cenográfica para disputar um prêmio milionário.</desc>
+    <desc>Os participantes disputam a liderança na Prova do Líder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -242527,7 +243396,7 @@
   </programme>
   <programme start="20260320105000 +0000" stop="20260320115000 +0000" channel="50798">
     <title>Big Brother Brasil</title>
-    <desc>Um grupo de pessoas topa ficar confinado em uma casa cenográfica para disputar um prêmio milionário.</desc>
+    <desc>Os participantes disputam a liderança na Prova do Líder.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p340712_b_v11_ad.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Competition Reality</category>
@@ -245812,6 +246681,7 @@
   </programme>
   <programme start="20260318233500 +0000" stop="20260319002500 +0000" channel="16217">
     <title>Sukha</title>
+    <desc>Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32432320_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -246200,6 +247070,7 @@
   </programme>
   <programme start="20260319233500 +0000" stop="20260320002500 +0000" channel="16217">
     <title>Sukha</title>
+    <desc>Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32432320_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -246551,6 +247422,7 @@
   </programme>
   <programme start="20260320233500 +0000" stop="20260321002500 +0000" channel="16217">
     <title>Sukha</title>
+    <desc>Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32432320_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Talk</category>
@@ -248610,6 +249482,7 @@
   </programme>
   <programme start="20260320143500 +0000" stop="20260320154300 +0000" channel="79693">
     <title>Compañero de cena</title>
+    <desc>Do-hee le dice a Hae-kyung que ya no deberían continuar con su relación.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18343260_b_v7_ai.jpg?w=240&amp;h=360"/>
     <date>2020</date>
     <category>Sitcom</category>
@@ -248619,6 +249492,7 @@
       <actor>Lee Ji-hoon</actor>
       <director>Ko Jaehyun</director>
     </credits>
+    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   <programme start="20260320154300 +0000" stop="20260320165000 +0000" channel="79693">
     <title>Compañero de cena</title>
@@ -248631,6 +249505,7 @@
       <actor>Lee Ji-hoon</actor>
       <director>Ko Jaehyun</director>
     </credits>
+    <rating system="USA Parental Rating">TVPG</rating>
   </programme>
   <programme start="20260320165000 +0000" stop="20260320173700 +0000" channel="79693">
     <title>¿Quién eres?</title>
@@ -250610,8 +251485,9 @@
   </programme>
   <programme start="20260319230000 +0000" stop="20260320000000 +0000" channel="29058">
     <title>Lo tomas o lo dejas [Nuevo]</title>
-    <desc>Oportunidad de ganar 100 000 dólares si se elige el maletín.</desc>
+    <desc>Directo de Toluca, Emanuel llega decidido a jugárselo todo: diversión y dinero.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p29596433_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Un fuerte competidor</sub-title>
     <date>2026</date>
     <category>Entertainment</category>
     <category>Game show</category>
@@ -251076,6 +251952,7 @@
     <title>Lo tomas o lo dejas [Nuevo]</title>
     <desc>Oportunidad de ganar 100 000 dólares si se elige el maletín.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p29596433_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Bendecida por los ángeles</sub-title>
     <date>2026</date>
     <category>Entertainment</category>
     <category>Game show</category>
@@ -262280,7 +263157,7 @@
   </programme>
   <programme start="20260320003000 +0000" stop="20260320010000 +0000" channel="45375">
     <title>Noticiero Univisión [En vivo] [Nuevo]</title>
-    <desc>Noticias que son de interés público para la comunidad hispana.</desc>
+    <desc>Toda la información más reciente de los Estados Unidos, México y el mundo en el Noticiero Univisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p270752_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -262311,8 +263188,9 @@
   </programme>
   <programme start="20260320020000 +0000" stop="20260320030000 +0000" channel="45375">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Nuria le confiesa a Íñigo que tiene una relación con Juan José.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Confrontando al miedo</sub-title>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -262320,6 +263198,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260320030000 +0000" stop="20260320040000 +0000" channel="45375">
     <title>Mi rival [Nuevo]</title>
@@ -262396,8 +263275,9 @@
   </programme>
   <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="45375">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Nuria le confiesa a Íñigo que tiene una relación con Juan José.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Confrontando al miedo</sub-title>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -262405,6 +263285,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="45375">
     <title>Contacto deportivo [En vivo] [Nuevo]</title>
@@ -262991,7 +263872,7 @@
   </programme>
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="11118">
     <title>Noticiero Univisión [En vivo] [Nuevo]</title>
-    <desc>Noticias que son de interés público para la comunidad hispana.</desc>
+    <desc>Toda la información más reciente de los Estados Unidos, México y el mundo en el Noticiero Univisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p270752_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
@@ -263022,8 +263903,9 @@
   </programme>
   <programme start="20260320000000 +0000" stop="20260320010000 +0000" channel="11118">
     <title>Mi verdad oculta [Nuevo]</title>
-    <desc>Una mujer sufrió una violación por parte de los hermanos Lizárraga, de los que jura vengarse.</desc>
+    <desc>Nuria le confiesa a Íñigo que tiene una relación con Juan José.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31412753_b_v12_ac.jpg?w=240&amp;h=360"/>
+    <sub-title>Confrontando al miedo</sub-title>
     <category>Soap</category>
     <category>Drama</category>
     <credits>
@@ -263031,6 +263913,7 @@
       <actor>David Chocarro</actor>
       <actor>Andrés Palacios</actor>
     </credits>
+    <rating system="USA Parental Rating">TV14</rating>
   </programme>
   <programme start="20260320010000 +0000" stop="20260320020000 +0000" channel="11118">
     <title>Mi rival [Nuevo]</title>
@@ -263062,7 +263945,7 @@
   </programme>
   <programme start="20260320030000 +0000" stop="20260320033000 +0000" channel="11118">
     <title>Noticiero Univisión</title>
-    <desc>Noticias que son de interés público para la comunidad hispana.</desc>
+    <desc>Toda la información más reciente de los Estados Unidos, México y el mundo en el Noticiero Univisión.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p270752_b_v12_ac.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>News</category>
