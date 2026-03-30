@@ -2789,12 +2789,12 @@
     <segmentation-upid>TFPG012603220201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331160001 +0000" stop="20260331180000 +0000">
+  <programme channel="1" start="20260331160001 +0000" stop="20260331174221 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  CF Pachuca vs CF Monterrey  |  03/27/2026</title>
     <episode-num system="assetID">TFPG022603270201</episode-num>
     <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: CF Pachuca vs CF Monterrey 03/27/2026</desc>
-    <length units="seconds">7199</length>
+    <length units="seconds">6140</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2802,7 +2802,20 @@
     <segmentation-upid>TFPG022603270201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331180000 +0000" stop="20260331200000 +0000">
+  <programme channel="1" start="20260331174221 +0000" stop="20260331180001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Liga MX Femenil  |  Querétaro FC vs Club Tijuana de Caliente  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG022603210203</episode-num>
+    <desc lang="es">Resumen de 15 min Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Querétaro FC vs Club Tijuana de Caliente 03/21/2026</desc>
+    <length units="seconds">1060</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603210203</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260331180001 +0000" stop="20260331200001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Club Tijuana de Caliente vs Guadalajara Chivas  |  03/29/2026</title>
     <episode-num system="assetID">TFPG022603290201</episode-num>
@@ -2815,7 +2828,7 @@
     <segmentation-upid>TFPG022603290201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331200000 +0000" stop="20260331214336 +0000">
+  <programme channel="1" start="20260331200001 +0000" stop="20260331214337 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Tigres UANL vs CF América  |  03/25/2026</title>
     <episode-num system="assetID">TFPG022603250101</episode-num>
@@ -2828,7 +2841,7 @@
     <segmentation-upid>TFPG022603250101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331214336 +0000" stop="20260331220000 +0000">
+  <programme channel="1" start="20260331214337 +0000" stop="20260331220001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min Liga MX Femenil  |  Club León vs Atlas FC  |  03/23/2026</title>
     <episode-num system="assetID">TFPG022603230103</episode-num>
@@ -2841,7 +2854,7 @@
     <segmentation-upid>TFPG022603230103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331220000 +0000" stop="20260331225000 +0000">
+  <programme channel="1" start="20260331220001 +0000" stop="20260331225001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">ESPECIALISTAS  |  03/31/2026</title>
     <episode-num system="assetID">TFPG172603310101</episode-num>
@@ -2854,7 +2867,7 @@
     <segmentation-upid>TFPG172603310101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260331225000 +0000" stop="20260401010000 +0000">
+  <programme channel="1" start="20260331225001 +0000" stop="20260401010001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Liga MX Femenil  |  Club León vs Deportivo Toluca FC  |  03/31/2026</title>
     <episode-num system="assetID">TFPG022603310101</episode-num>
@@ -2867,12 +2880,12 @@
     <segmentation-upid>TFPG022603310101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401010000 +0000" stop="20260401030000 +0000">
+  <programme channel="1" start="20260401010001 +0000" stop="20260401024246 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Women´s Super League  |  Manchester United vs Manchester City FC  |  03/28/2026</title>
     <episode-num system="assetID">TFPG202603280101</episode-num>
     <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester United vs Manchester City FC 03/28/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6165</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2880,7 +2893,20 @@
     <segmentation-upid>TFPG202603280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401030000 +0000" stop="20260401040000 +0000">
+  <programme channel="1" start="20260401024246 +0000" stop="20260401030001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220103</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">1035</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260401030001 +0000" stop="20260401040001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  Post Selección Mexicana  |  03/31/2026</title>
     <episode-num system="assetID">TFPG172603310201</episode-num>
@@ -2893,12 +2919,12 @@
     <segmentation-upid>TFPG172603310201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401040000 +0000" stop="20260401060000 +0000">
+  <programme channel="1" start="20260401040001 +0000" stop="20260401060000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">EL CHIRINGUITO  |  03/31/2026</title>
     <episode-num system="assetID">TFPG172603310301</episode-num>
     <desc lang="es">Los mejores debates y análisis sobre la principal liga de fútbol de España, LaLiga, además de entrevistas con las figuras más destacadas del fútbol. 03/31/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">7199</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2906,12 +2932,12 @@
     <segmentation-upid>TFPG172603310301</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401060000 +0000" stop="20260401080000 +0000">
+  <programme channel="1" start="20260401060000 +0000" stop="20260401080342 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP Suiza  |  03/29/2026</title>
     <episode-num system="assetID">TFPG082603290201</episode-num>
     <desc lang="es">MXGP: Carrera 2 MX2 &amp; MXGP Suiza 03/29/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">7422</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2919,7 +2945,7 @@
     <segmentation-upid>TFPG082603290201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401080000 +0000" stop="20260401103000 +0000">
+  <programme channel="1" start="20260401080342 +0000" stop="20260401103342 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">NASCAR CRAFTSMAN O´REILLY AUTO PARTS SERIES  |  NFPA 250  |  03/28/2026</title>
     <episode-num system="assetID">TFPG062603280101</episode-num>
@@ -2932,12 +2958,12 @@
     <segmentation-upid>TFPG062603280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401103000 +0000" stop="20260401140000 +0000">
+  <programme channel="1" start="20260401103342 +0000" stop="20260401130002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">NASCAR CUP SERIES  |  Cook Out 400  |  03/29/2026</title>
     <episode-num system="assetID">TFPG062603290101</episode-num>
     <desc lang="es">NASCAR CUP SERIES 2026: Cook Out 400 Martinsville Speedway Virginia 03/29/2026</desc>
-    <length units="seconds">12600</length>
+    <length units="seconds">8780</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2945,20 +2971,59 @@
     <segmentation-upid>TFPG062603290101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401140000 +0000" stop="20260401170000 +0000">
+  <programme channel="1" start="20260401130002 +0000" stop="20260401140000 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">UFL  |  Birmingham Stallions vs Louisville Kings  |  03/27/2026</title>
-    <episode-num system="assetID">TFPG072603270101</episode-num>
-    <desc lang="es">UFL 2026 Partido inaugural-Semana 1: Birmingham Stallions vs Louisville Kings Lynn Family Stadium Louisville Kentucky 03/27/2026</desc>
-    <length units="seconds">10800</length>
+    <title lang="es">Lucha Libre AAA  |  Episodio 10  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG252603210101</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 10: Rey de Reyes Segundo Episodio Auditorio GNP Seguros Puebla 03/21/2026</desc>
+    <length units="seconds">3598</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG072603270101</segmentation-upid>
+    <segmentation-upid>TFPG252603210101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401170000 +0000" stop="20260401184401 +0000">
+  <programme channel="1" start="20260401140000 +0000" stop="20260401150000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
+    <episode-num system="assetID">TFPG252603280201</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
+    <length units="seconds">3600</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG252603280201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260401150000 +0000" stop="20260401164232 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Manchester United vs Manchester City FC  |  03/28/2026</title>
+    <episode-num system="assetID">TFPG202603280101</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester United vs Manchester City FC 03/28/2026</desc>
+    <length units="seconds">6152</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603280101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260401164232 +0000" stop="20260401170001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220103</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">1049</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260401170001 +0000" stop="20260401184402 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Tigres UANL vs CF América  |  03/25/2026</title>
     <episode-num system="assetID">TFPG022603250101</episode-num>
@@ -2971,7 +3036,7 @@
     <segmentation-upid>TFPG022603250101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401184401 +0000" stop="20260401190001 +0000">
+  <programme channel="1" start="20260401184402 +0000" stop="20260401190002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min Liga MX Femenil  |  Club León vs Atlas FC  |  03/23/2026</title>
     <episode-num system="assetID">TFPG022603230103</episode-num>
@@ -2984,12 +3049,12 @@
     <segmentation-upid>TFPG022603230103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401190001 +0000" stop="20260401210000 +0000">
+  <programme channel="1" start="20260401190002 +0000" stop="20260401204222 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  CF Pachuca vs CF Monterrey  |  03/27/2026</title>
     <episode-num system="assetID">TFPG022603270201</episode-num>
     <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: CF Pachuca vs CF Monterrey 03/27/2026</desc>
-    <length units="seconds">7199</length>
+    <length units="seconds">6140</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2997,12 +3062,25 @@
     <segmentation-upid>TFPG022603270201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401210000 +0000" stop="20260401213000 +0000">
+  <programme channel="1" start="20260401204222 +0000" stop="20260401210002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Liga MX Femenil  |  Puebla FC vs CF América  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG022603220103</episode-num>
+    <desc lang="es">Resumen de 15 min Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Puebla FC vs CF América 03/22/2026</desc>
+    <length units="seconds">1060</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603220103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260401210002 +0000" stop="20260401213001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">1799</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3010,7 +3088,7 @@
     <segmentation-upid>TFPG172603150101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260401213000 +0000" stop="20260402000000 +0000">
+  <programme channel="1" start="20260401213001 +0000" stop="20260402000001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Liga MX Femenil  |  Puebla FC vs Querétaro FC  |  04/01/2026</title>
     <episode-num system="assetID">TFPG022604010101</episode-num>
@@ -3023,20 +3101,46 @@
     <segmentation-upid>TFPG022604010101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402000000 +0000" stop="20260402030000 +0000">
+  <programme channel="1" start="20260402000001 +0000" stop="20260402010000 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">UFL  |  Houston Gamblers vs Dallas Renegades  |  03/28/2026</title>
-    <episode-num system="assetID">TFPG072603280101</episode-num>
-    <desc lang="es">UFL 2026 Battle For Texas-Semana 1: Houston Gamblers vs Dallas Renegades Toyota Stadium Frisco Texas 03/28/2026</desc>
-    <length units="seconds">10800</length>
+    <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
+    <episode-num system="assetID">TFPG252603280201</episode-num>
+    <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
+    <length units="seconds">3599</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG072603280101</segmentation-upid>
+    <segmentation-upid>TFPG252603280201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402030000 +0000" stop="20260402050000 +0000">
+  <programme channel="1" start="20260402010000 +0000" stop="20260402024331 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Women´s Super League  |  Arsenal FC vs Tottenham Hotspur FC  |  03/28/2026</title>
+    <episode-num system="assetID">TFPG202603280201</episode-num>
+    <desc lang="es">Women´s Super League 2025-26 Semana 18: Arsenal FC vs Tottenham Hotspur FC 03/28/2026</desc>
+    <length units="seconds">6211</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603280201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402024331 +0000" stop="20260402030001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210103</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">990</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402030001 +0000" stop="20260402050001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">EL CHIRINGUITO  |  04/01/2026</title>
     <episode-num system="assetID">TFPG172604010101</episode-num>
@@ -3049,12 +3153,12 @@
     <segmentation-upid>TFPG172604010101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402050000 +0000" stop="20260402060000 +0000">
+  <programme channel="1" start="20260402050001 +0000" stop="20260402060000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CUADRO TITULAR  |  04/01/2026</title>
     <episode-num system="assetID">TFPG172604010201</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 04/01/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">3599</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3062,17 +3166,30 @@
     <segmentation-upid>TFPG172604010201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402060000 +0000" stop="20260402080000 +0000">
+  <programme channel="1" start="20260402060000 +0000" stop="20260402074150 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  CF Pachuca vs CF Monterrey  |  03/27/2026</title>
     <episode-num system="assetID">TFPG022603270201</episode-num>
     <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 14: CF Pachuca vs CF Monterrey 03/27/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6110</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
     <segmentation-upid>TFPG022603270201</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402074150 +0000" stop="20260402080000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Liga MX Femenil  |  Atlas FC vs Necaxa  |  03/27/2026</title>
+    <episode-num system="assetID">TFPG022603270103</episode-num>
+    <desc lang="es">Resumen de 15 min Partido de Liga MX Femenil Clausura 2026 - Jornada 14: Atlas FC vs Necaxa 03/27/2026</desc>
+    <length units="seconds">1090</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG022603270103</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260402080000 +0000" stop="20260402094346 +0000">
@@ -3090,23 +3207,23 @@
   </programme>
   <programme channel="1" start="20260402094346 +0000" stop="20260402100001 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">Resumen de 15 min Liga MX Femenil  |  Club León vs Atlas FC  |  03/23/2026</title>
-    <episode-num system="assetID">TFPG022603230103</episode-num>
-    <desc lang="es">Resumen de 15 min Partido de Liga MX Femenil Clausura 2026 - Jornada 13: Club León vs Atlas FC 03/23/2026</desc>
+    <title lang="es">Resumen de 15 min Liga MX Femenil  |  Mazatlán FC vs Deportivo Toluca FC  |  03/27/2026</title>
+    <episode-num system="assetID">TFPG022603270303</episode-num>
+    <desc lang="es">Resumen de 15 min Partido de Liga MX Femenil Clausura 2026 - Jornada 14: Mazatlán FC vs Deportivo Toluca FC 03/27/2026</desc>
     <length units="seconds">975</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG022603230103</segmentation-upid>
+    <segmentation-upid>TFPG022603270303</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402100001 +0000" stop="20260402120001 +0000">
+  <programme channel="1" start="20260402100001 +0000" stop="20260402120343 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP Suiza  |  03/29/2026</title>
     <episode-num system="assetID">TFPG082603290201</episode-num>
     <desc lang="es">MXGP: Carrera 2 MX2 &amp; MXGP Suiza 03/29/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">7422</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3114,12 +3231,12 @@
     <segmentation-upid>TFPG082603290201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402120001 +0000" stop="20260402140001 +0000">
+  <programme channel="1" start="20260402120343 +0000" stop="20260402134355 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Women´s Super League  |  Manchester United vs Manchester City FC  |  03/28/2026</title>
     <episode-num system="assetID">TFPG202603280101</episode-num>
     <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester United vs Manchester City FC 03/28/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6012</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3127,12 +3244,25 @@
     <segmentation-upid>TFPG202603280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402140001 +0000" stop="20260402160001 +0000">
+  <programme channel="1" start="20260402134355 +0000" stop="20260402140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Brighton &amp; Hove Albion FC vs Liverpool FC  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG202603220103</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Brighton &amp; Hove Albion FC vs Liverpool FC 03/22/2026</desc>
+    <length units="seconds">965</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603220103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402140000 +0000" stop="20260402154346 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Women´s Super League  |  Arsenal FC vs Tottenham Hotspur FC  |  03/28/2026</title>
     <episode-num system="assetID">TFPG202603280201</episode-num>
     <desc lang="es">Women´s Super League 2025-26 Semana 18: Arsenal FC vs Tottenham Hotspur FC 03/28/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6226</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3140,12 +3270,25 @@
     <segmentation-upid>TFPG202603280201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402160001 +0000" stop="20260402180001 +0000">
+  <programme channel="1" start="20260402154346 +0000" stop="20260402160001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Manchester City FC vs Tottenham Hotspur FC  |  03/21/2026</title>
+    <episode-num system="assetID">TFPG202603210103</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Manchester City FC vs Tottenham Hotspur FC 03/21/2026</desc>
+    <length units="seconds">975</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603210103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402160001 +0000" stop="20260402174130 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Coppa Italia Femminile  |  Juventus Turín vs ACF Fiorentina  |  03/29/2026</title>
     <episode-num system="assetID">TFPG232603290201</episode-num>
     <desc lang="es">Coppa Italia Femminile 2025-26 Semifinal-Vuelta: Juventus Turín vs ACF Fiorentina 03/29/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6089</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3153,7 +3296,20 @@
     <segmentation-upid>TFPG232603290201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402180001 +0000" stop="20260402200001 +0000">
+  <programme channel="1" start="20260402174130 +0000" stop="20260402180000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Coppa Italia Femminile  |  Inter Milán vs AS Roma  |  03/29/2026</title>
+    <episode-num system="assetID">TFPG232603290103</episode-num>
+    <desc lang="es">Resumen de 15 min Coppa Italia Femminile 2025-26 Semifinal-Vuelta: Inter Milán vs AS Roma 03/29/2026</desc>
+    <length units="seconds">1110</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG232603290103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260402180000 +0000" stop="20260402200000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Club León vs Deportivo Toluca FC  |  03/31/2026</title>
     <episode-num system="assetID">TFPG022603310101</episode-num>
@@ -3166,7 +3322,7 @@
     <segmentation-upid>TFPG022603310101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402200001 +0000" stop="20260402220001 +0000">
+  <programme channel="1" start="20260402200000 +0000" stop="20260402220000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Puebla FC vs Querétaro FC  |  04/01/2026</title>
     <episode-num system="assetID">TFPG022604010101</episode-num>
@@ -3179,7 +3335,7 @@
     <segmentation-upid>TFPG022604010101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402220001 +0000" stop="20260402230001 +0000">
+  <programme channel="1" start="20260402220000 +0000" stop="20260402230000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">ESPECIALISTAS  |  04/02/2026</title>
     <episode-num system="assetID">TFPG172604020101</episode-num>
@@ -3192,12 +3348,12 @@
     <segmentation-upid>TFPG172604020101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260402230001 +0000" stop="20260402233001 +0000">
+  <programme channel="1" start="20260402230000 +0000" stop="20260402233001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">1801</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3257,12 +3413,12 @@
     <segmentation-upid>TFPG172604020201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403060000 +0000" stop="20260403090000 +0000">
+  <programme channel="1" start="20260403060000 +0000" stop="20260403100001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">PFL  |  Pittsburgh  |  03/28/2026</title>
     <episode-num system="assetID">TFPG252603280101</episode-num>
     <desc lang="es">PFL 2026: UPCM Events Center, Pittsburgh Pennsylvania 03/28/2026</desc>
-    <length units="seconds">10800</length>
+    <length units="seconds">14401</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3270,25 +3426,12 @@
     <segmentation-upid>TFPG252603280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403090000 +0000" stop="20260403100000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
-    <episode-num system="assetID">TFPG252603280201</episode-num>
-    <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
-    <length units="seconds">3600</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG252603280201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260403100000 +0000" stop="20260403120000 +0000">
+  <programme channel="1" start="20260403100001 +0000" stop="20260403120343 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">MXGP  |  Carrera 2 MX2 &amp; MXGP Suiza  |  03/29/2026</title>
     <episode-num system="assetID">TFPG082603290201</episode-num>
     <desc lang="es">MXGP: Carrera 2 MX2 &amp; MXGP Suiza 03/29/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">7422</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3296,12 +3439,12 @@
     <segmentation-upid>TFPG082603290201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403120000 +0000" stop="20260403140000 +0000">
+  <programme channel="1" start="20260403120343 +0000" stop="20260403134417 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Coppa Italia Femminile  |  Inter Milán vs AS Roma  |  03/29/2026</title>
     <episode-num system="assetID">TFPG232603290101</episode-num>
     <desc lang="es">Coppa Italia Femminile 2025-26 Semifinal-Vuelta: Inter Milán vs AS Roma 03/29/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6034</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3309,12 +3452,25 @@
     <segmentation-upid>TFPG232603290101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403140000 +0000" stop="20260403160000 +0000">
+  <programme channel="1" start="20260403134417 +0000" stop="20260403140000 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Coppa Italia Femminile  |  Juventus Turín vs ACF Fiorentina  |  03/29/2026</title>
+    <episode-num system="assetID">TFPG232603290203</episode-num>
+    <desc lang="es">Resumen de 15 min Coppa Italia Femminile 2025-26 Semifinal-Vuelta: Juventus Turín vs ACF Fiorentina 03/29/2026</desc>
+    <length units="seconds">943</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG232603290203</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260403140000 +0000" stop="20260403154135 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Women´s Super League  |  Manchester United vs Manchester City FC  |  03/28/2026</title>
     <episode-num system="assetID">TFPG202603280101</episode-num>
     <desc lang="es">Women´s Super League 2025-26 Semana 18: Manchester United vs Manchester City FC 03/28/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6095</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3322,7 +3478,20 @@
     <segmentation-upid>TFPG202603280101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403160000 +0000" stop="20260403180000 +0000">
+  <programme channel="1" start="20260403154135 +0000" stop="20260403160001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Women´s Super League  |  Arsenal FC vs Tottenham Hotspur FC  |  03/28/2026</title>
+    <episode-num system="assetID">TFPG202603280203</episode-num>
+    <desc lang="es">Resumen de 15 min Women´s Super League 2025-26 Semana 18: Arsenal FC vs Tottenham Hotspur FC 03/28/2026</desc>
+    <length units="seconds">1106</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG202603280203</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260403160001 +0000" stop="20260403180001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Guadalajara Chivas vs Mazatlán FC  |  04/02/2026</title>
     <episode-num system="assetID">TFPG022604020101</episode-num>
@@ -3335,7 +3504,7 @@
     <segmentation-upid>TFPG022604020101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403180000 +0000" stop="20260403200000 +0000">
+  <programme channel="1" start="20260403180001 +0000" stop="20260403200001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Club León vs Deportivo Toluca FC  |  03/31/2026</title>
     <episode-num system="assetID">TFPG022603310101</episode-num>
@@ -3348,7 +3517,7 @@
     <segmentation-upid>TFPG022603310101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403200000 +0000" stop="20260403220000 +0000">
+  <programme channel="1" start="20260403200001 +0000" stop="20260403220001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Liga MX Femenil  |  Club Tijuana de Caliente vs Tigres UANL  |  04/02/2026</title>
     <episode-num system="assetID">TFPG022604020201</episode-num>
@@ -3361,7 +3530,7 @@
     <segmentation-upid>TFPG022604020201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403220000 +0000" stop="20260403230000 +0000">
+  <programme channel="1" start="20260403220001 +0000" stop="20260403230001 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">ESPECIALISTAS  |  04/03/2026</title>
     <episode-num system="assetID">TFPG172604030101</episode-num>
@@ -3374,12 +3543,12 @@
     <segmentation-upid>TFPG172604030101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260403230000 +0000" stop="20260404000000 +0000">
+  <programme channel="1" start="20260403230001 +0000" stop="20260404000000 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
     <episode-num system="assetID">TFPG252603280201</episode-num>
     <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">3599</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3439,225 +3608,17 @@
     <segmentation-upid>TFPG152604030101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260404050000 +0000" stop="20260404060000 +0000">
+  <programme channel="1" start="20260404050000 +0000" stop="20260405060000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  04/03/2026</title>
     <episode-num system="assetID">TFPG172604030201</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 04/03/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">90000</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>True</LiveEvent>
     <segmentation-upid>TFPG172604030201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404060000 +0000" stop="20260404090000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">UFL  |  DC Defenders vs Columbus Aviators  |  04/03/2026</title>
-    <episode-num system="assetID">TFPG072604030101</episode-num>
-    <desc lang="es">UFL 2026 Semana 2: DC Defenders vs Columbus Aviators Historic Crew Stadium Columbus 04/03/2026</desc>
-    <length units="seconds">10800</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG072604030101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404090000 +0000" stop="20260404093000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
-    <episode-num system="assetID">TFPG172603150101</episode-num>
-    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603150101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404093000 +0000" stop="20260404100000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
-    <episode-num system="assetID">TFPG172603220101</episode-num>
-    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603220101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404100000 +0000" stop="20260404120000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX Femenil  |  Club Tijuana de Caliente vs Tigres UANL  |  04/02/2026</title>
-    <episode-num system="assetID">TFPG022604020201</episode-num>
-    <desc lang="es">Partido de Liga MX Femenil Clausura 2026 - Jornada 15: Club Tijuana de Caliente vs Tigres UANL 04/02/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG022604020201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404120000 +0000" stop="20260404130000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
-    <episode-num system="assetID">TFPG252603280201</episode-num>
-    <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
-    <length units="seconds">3600</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG252603280201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404130000 +0000" stop="20260404150000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX  |  Puebla FC vs FC Juárez  |  04/03/2026</title>
-    <episode-num system="assetID">TFPG012604030101</episode-num>
-    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 13: Puebla FC vs FC Juárez 04/03/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG012604030101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404150000 +0000" stop="20260404170000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX  |  Club Tijuana de Caliente vs Tigres UANL  |  04/03/2026</title>
-    <episode-num system="assetID">TFPG012604030201</episode-num>
-    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 13: Club Tijuana de Caliente vs Tigres UANL 04/03/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG012604030201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404170000 +0000" stop="20260404190000 +0000">
-    <liveEvent>true</liveEvent>
-    <title lang="es">Ligue 1  |  Stade Brest vs FC Stade Rennes  |  04/04/2026</title>
-    <episode-num system="assetID">TFPG152604040101</episode-num>
-    <desc lang="es">Ligue 1 2025-26 Semana 28: Stade Brest vs FC Stade Rennes 04/04/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG152604040101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404190000 +0000" stop="20260404210000 +0000">
-    <liveEvent>true</liveEvent>
-    <title lang="es">Ligue 1  |  LOSC Lille vs RC Lens  |  04/04/2026</title>
-    <episode-num system="assetID">TFPG152604040201</episode-num>
-    <desc lang="es">Ligue 1 2025-26 Semana 28: LOSC Lille vs RC Lens 04/04/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG152604040201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404210000 +0000" stop="20260404230000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Saudi Pro League  |  Al-Nassr vs AL Najma  |  04/03/2026</title>
-    <episode-num system="assetID">TFPG192604030101</episode-num>
-    <desc lang="es">Saudi Pro League 2025-26: Al-Nassr vs AL Najma 04/03/2026</desc>
-    <length units="seconds">7200</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG192604030101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260404230000 +0000" stop="20260405020000 +0000">
-    <liveEvent>true</liveEvent>
-    <title lang="es">MLB  |  Chicago Cubs vs Cleveland Guardians  |  04/04/2026</title>
-    <episode-num system="assetID">TFPG222604040101</episode-num>
-    <desc lang="es">MLB 2026: Chicago Cubs vs Cleveland Guardians Progressive Field Cleveland Ohio 04/04/2026</desc>
-    <length units="seconds">10800</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG222604040101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260405020000 +0000" stop="20260405030000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">Lucha Libre AAA  |  Episodio 11  |  03/28/2026</title>
-    <episode-num system="assetID">TFPG252603280201</episode-num>
-    <desc lang="es">Lucha Libre AAA 2026 Episodio 11: Rey de Reyes Tercer Episodio Auditorio GNP Seguros Puebla 03/28/2026</desc>
-    <length units="seconds">3600</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG252603280201</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260405030000 +0000" stop="20260405040000 +0000">
-    <liveEvent>true</liveEvent>
-    <title lang="es">Lucha Libre AAA  |  Episodio 12  |  04/04/2026</title>
-    <episode-num system="assetID">TFPG252604040101</episode-num>
-    <desc lang="es">Lucha Libre AAA 2026 Episodio 12: Rey de Reyes Cuarto Episodio Auditorio GNP Seguros Puebla 04/04/2026</desc>
-    <length units="seconds">3600</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG252604040101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260405040000 +0000" stop="20260405043000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
-    <episode-num system="assetID">TFPG172603150101</episode-num>
-    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603150101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260405043000 +0000" stop="20260405050001 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
-    <episode-num system="assetID">TFPG172603220101</episode-num>
-    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1801</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603220101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260405050001 +0000" stop="20260405060000 +0000">
-    <liveEvent>true</liveEvent>
-    <title lang="es">CUADRO TITULAR  |  04/04/2026</title>
-    <episode-num system="assetID">TFPG172604040101</episode-num>
-    <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 04/04/2026</desc>
-    <length units="seconds">3599</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>True</LiveEvent>
-    <segmentation-upid>TFPG172604040101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260405060000 +0000" stop="20260405080000 +0000">
