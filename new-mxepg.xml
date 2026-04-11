@@ -1751,443 +1751,464 @@
     <display-name>SMESP09</display-name>
     <icon src="https://cltv.tmsimg.com/assets/s95856_ll_h15_aa.png?w=360&amp;h=270"/>
   </channel>
-  <programme start="20260411043000 +0000" channel="sky_sports_24" stop="20260411063000 +0000">
+  <programme start="20260411023000 +0000" channel="sky_sports_24" stop="20260411043000 +0000">
     <title>FC Augsburg vs. TSG Hoffenheim</title>
   </programme>
-  <programme start="20260411050000 +0000" channel="sky_sports_1_mexico" stop="20260411080000 +0000">
+  <programme start="20260411030000 +0000" channel="sky_sports_1_mexico" stop="20260411060000 +0000">
     <title>Carolina Hurricanes vs. Chicago</title>
   </programme>
-  <programme start="20260411050000 +0000" channel="sky_sports_16" stop="20260411070000 +0000">
+  <programme start="20260411030000 +0000" channel="sky_sports_16" stop="20260411050000 +0000">
     <title>Real Madrid vs. Girona FC</title>
   </programme>
-  <programme start="20260411053000 +0000" channel="a_mas" stop="20260411063000 +0000">
+  <programme start="20260411033000 +0000" channel="a_mas" stop="20260411043000 +0000">
     <title>Ahora Más Noticias</title>
+  </programme>
+  <programme start="20260411043000 +0000" channel="sky_sports_24" stop="20260411050000 +0000">
+    <title>Bundesliga weekly</title>
+  </programme>
+  <programme start="20260411043000 +0000" channel="a_mas" stop="20260411060000 +0000">
+    <title>Reventón en Acapulco</title>
+  </programme>
+  <programme start="20260411050000 +0000" channel="sky_sports_16" stop="20260411060000 +0000">
+    <title>Real Sociedad vs. Levante</title>
+  </programme>
+  <programme start="20260411050000 +0000" channel="sky_sports_24" stop="20260411053000 +0000">
+    <title>Bundesliga special show #17</title>
+  </programme>
+  <programme start="20260411053000 +0000" channel="sky_sports_24" stop="20260411060000 +0000">
+    <title>Bundesliga weekly</title>
+  </programme>
+  <programme start="20260411060000 +0000" channel="sky_sports_1_mexico" stop="20260411080000 +0000">
+    <title>World athletics indoor tour 20</title>
+  </programme>
+  <programme start="20260411060000 +0000" channel="sky_sports_16" stop="20260411070000 +0000">
+    <title>Real Sociedad vs. Levante</title>
+  </programme>
+  <programme start="20260411060000 +0000" channel="sky_sports_24" stop="20260411063000 +0000">
+    <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260411060000 +0000" channel="a_mas" stop="20260411063000 +0000">
+    <title>Infomerciales</title>
   </programme>
   <programme start="20260411063000 +0000" channel="sky_sports_24" stop="20260411070000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260411063000 +0000" channel="a_mas" stop="20260411080000 +0000">
-    <title>Reventón en Acapulco</title>
+  <programme start="20260411063000 +0000" channel="a_mas" stop="20260411070000 +0000">
+    <title>Sognare</title>
   </programme>
-  <programme start="20260411070000 +0000" channel="sky_sports_16" stop="20260411080000 +0000">
-    <title>Real Sociedad vs. Levante</title>
+  <programme start="20260411070000 +0000" channel="sky_sports_16" stop="20260411090000 +0000">
+    <title>Real Betis vs. Espanyol</title>
   </programme>
   <programme start="20260411070000 +0000" channel="sky_sports_24" stop="20260411073000 +0000">
-    <title>Bundesliga special show #17</title>
-  </programme>
-  <programme start="20260411073000 +0000" channel="sky_sports_24" stop="20260411080000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
+  <programme start="20260411070000 +0000" channel="a_mas" stop="20260411073000 +0000">
+    <title>Infomerciales</title>
+  </programme>
+  <programme start="20260411073000 +0000" channel="sky_sports_24" stop="20260411093000 +0000">
+    <title>Arminia vs. SV Darmstadt 98</title>
+  </programme>
+  <programme start="20260411073000 +0000" channel="a_mas" stop="20260411080000 +0000">
+    <title>Sognare</title>
+  </programme>
   <programme start="20260411080000 +0000" channel="sky_sports_1_mexico" stop="20260411100000 +0000">
-    <title>World athletics indoor tour 20</title>
-  </programme>
-  <programme start="20260411080000 +0000" channel="sky_sports_16" stop="20260411090000 +0000">
-    <title>Real Sociedad vs. Levante</title>
-  </programme>
-  <programme start="20260411080000 +0000" channel="sky_sports_24" stop="20260411083000 +0000">
-    <title>Sky Sports 24</title>
+    <title>FC Andorra vs. R. Racing Club</title>
   </programme>
   <programme start="20260411080000 +0000" channel="a_mas" stop="20260411083000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260411083000 +0000" channel="sky_sports_24" stop="20260411090000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
   <programme start="20260411083000 +0000" channel="a_mas" stop="20260411090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260411090000 +0000" channel="sky_sports_16" stop="20260411110000 +0000">
-    <title>Real Betis vs. Espanyol</title>
+  <programme start="20260411090000 +0000" channel="sky_sports_16" stop="20260411094500 +0000">
+    <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260411090000 +0000" channel="sky_sports_24" stop="20260411093000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
-  <programme start="20260411090000 +0000" channel="a_mas" stop="20260411093000 +0000">
+  <programme start="20260411090000 +0000" channel="a_mas" stop="20260411100000 +0000">
     <title>Infomerciales</title>
   </programme>
   <programme start="20260411093000 +0000" channel="sky_sports_24" stop="20260411113000 +0000">
-    <title>Arminia vs. SV Darmstadt 98</title>
+    <title>Schalke 04 vs. Karlsruher SC</title>
   </programme>
-  <programme start="20260411093000 +0000" channel="a_mas" stop="20260411100000 +0000">
-    <title>Sognare</title>
+  <programme start="20260411094500 +0000" channel="sky_sports_16" stop="20260411114500 +0000">
+    <title>Real Madrid vs. Girona FC</title>
   </programme>
   <programme start="20260411100000 +0000" channel="sky_sports_1_mexico" stop="20260411120000 +0000">
-    <title>FC Andorra vs. R. Racing Club</title>
+    <title>World athletics continental to</title>
   </programme>
   <programme start="20260411100000 +0000" channel="a_mas" stop="20260411103000 +0000">
-    <title>Infomerciales</title>
-  </programme>
-  <programme start="20260411103000 +0000" channel="a_mas" stop="20260411110000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260411110000 +0000" channel="sky_sports_16" stop="20260411114500 +0000">
-    <title>Sky Sports 16</title>
-  </programme>
-  <programme start="20260411110000 +0000" channel="a_mas" stop="20260411120000 +0000">
+  <programme start="20260411103000 +0000" channel="a_mas" stop="20260411143000 +0000">
     <title>Infomerciales</title>
   </programme>
   <programme start="20260411113000 +0000" channel="sky_sports_24" stop="20260411133000 +0000">
-    <title>Schalke 04 vs. Karlsruher SC</title>
-  </programme>
-  <programme start="20260411114500 +0000" channel="sky_sports_16" stop="20260411134500 +0000">
-    <title>Real Madrid vs. Girona FC</title>
-  </programme>
-  <programme start="20260411120000 +0000" channel="sky_sports_1_mexico" stop="20260411140000 +0000">
-    <title>World athletics continental to</title>
-  </programme>
-  <programme start="20260411120000 +0000" channel="a_mas" stop="20260411123000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260411123000 +0000" channel="a_mas" stop="20260411163000 +0000">
-    <title>Infomerciales</title>
-  </programme>
-  <programme start="20260411133000 +0000" channel="sky_sports_24" stop="20260411153000 +0000">
     <title>FC Augsburg vs. TSG Hoffenheim</title>
   </programme>
-  <programme start="20260411134500 +0000" channel="sky_sports_16" stop="20260411140000 +0000">
+  <programme start="20260411114500 +0000" channel="sky_sports_16" stop="20260411120000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260411140000 +0000" channel="sky_sports_1_mexico" stop="20260411160000 +0000">
+  <programme start="20260411120000 +0000" channel="sky_sports_1_mexico" stop="20260411140000 +0000">
     <title>AD Ceuta FC vs. Real Sociedad B</title>
   </programme>
-  <programme start="20260411140000 +0000" channel="sky_sports_16" stop="20260411160000 +0000">
+  <programme start="20260411120000 +0000" channel="sky_sports_16" stop="20260411140000 +0000">
     <title>Real Sociedad vs. Deportivo Ala</title>
   </programme>
-  <programme start="20260411153000 +0000" channel="sky_sports_24" stop="20260411173000 +0000">
+  <programme start="20260411133000 +0000" channel="sky_sports_24" stop="20260411153000 +0000">
     <title>Borussia Dortmund vs. Bayer 04</title>
   </programme>
-  <programme start="20260411160000 +0000" channel="sky_sports_1_mexico" stop="20260411161500 +0000">
+  <programme start="20260411140000 +0000" channel="sky_sports_1_mexico" stop="20260411141500 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260411160000 +0000" channel="sky_sports_16" stop="20260411161500 +0000">
+  <programme start="20260411140000 +0000" channel="sky_sports_16" stop="20260411141500 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260411161500 +0000" channel="sky_sports_1_mexico" stop="20260411181500 +0000">
+  <programme start="20260411141500 +0000" channel="sky_sports_1_mexico" stop="20260411161500 +0000">
     <title>Burgos CF vs. Real Sporting de</title>
   </programme>
-  <programme start="20260411161500 +0000" channel="sky_sports_16" stop="20260411181500 +0000">
+  <programme start="20260411141500 +0000" channel="sky_sports_16" stop="20260411161500 +0000">
     <title>Elche vs. Valencia</title>
   </programme>
-  <programme start="20260411163000 +0000" channel="a_mas" stop="20260411170000 +0000">
+  <programme start="20260411143000 +0000" channel="a_mas" stop="20260411150000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260411170000 +0000" channel="a_mas" stop="20260411180000 +0000">
+  <programme start="20260411150000 +0000" channel="a_mas" stop="20260411160000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260411173000 +0000" channel="sky_sports_24" stop="20260411174500 +0000">
+  <programme start="20260411153000 +0000" channel="sky_sports_24" stop="20260411154500 +0000">
     <title>Sky Sports 24</title>
   </programme>
-  <programme start="20260411174500 +0000" channel="sky_sports_24" stop="20260411181500 +0000">
+  <programme start="20260411154500 +0000" channel="sky_sports_24" stop="20260411161500 +0000">
     <title>Bundesliga special show #17</title>
   </programme>
-  <programme start="20260411180000 +0000" channel="a_mas" stop="20260411210000 +0000">
+  <programme start="20260411160000 +0000" channel="a_mas" stop="20260411190000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260411181500 +0000" channel="sky_sports_1_mexico" stop="20260411183000 +0000">
+  <programme start="20260411161500 +0000" channel="sky_sports_1_mexico" stop="20260411163000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260411181500 +0000" channel="sky_sports_16" stop="20260411183000 +0000">
+  <programme start="20260411161500 +0000" channel="sky_sports_16" stop="20260411163000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260411181500 +0000" channel="sky_sports_24" stop="20260411183000 +0000">
+  <programme start="20260411161500 +0000" channel="sky_sports_24" stop="20260411163000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260411183000 +0000" channel="sky_sports_1_mexico" stop="20260411203000 +0000">
+  <programme start="20260411163000 +0000" channel="sky_sports_1_mexico" stop="20260411183000 +0000">
     <title>Málaga vs. UD las Palmas</title>
   </programme>
-  <programme start="20260411183000 +0000" channel="sky_sports_16" stop="20260411203000 +0000">
+  <programme start="20260411163000 +0000" channel="sky_sports_16" stop="20260411183000 +0000">
     <title>Barcelona vs. Espanyol</title>
   </programme>
-  <programme start="20260411183000 +0000" channel="sky_sports_24" stop="20260411203000 +0000">
+  <programme start="20260411163000 +0000" channel="sky_sports_24" stop="20260411183000 +0000">
     <title>FC St. Pauli vs. FC Bayern Münc</title>
   </programme>
-  <programme start="20260411203000 +0000" channel="sky_sports_1_mexico" stop="20260411210000 +0000">
+  <programme start="20260411183000 +0000" channel="sky_sports_1_mexico" stop="20260411190000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260411203000 +0000" channel="sky_sports_16" stop="20260411210000 +0000">
+  <programme start="20260411183000 +0000" channel="sky_sports_16" stop="20260411190000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260411203000 +0000" channel="sky_sports_24" stop="20260411223000 +0000">
+  <programme start="20260411183000 +0000" channel="sky_sports_24" stop="20260411203000 +0000">
     <title>SV Darmstadt 98 vs. Hannover 96</title>
   </programme>
-  <programme start="20260411210000 +0000" channel="sky_sports_1_mexico" stop="20260411230000 +0000">
+  <programme start="20260411190000 +0000" channel="sky_sports_1_mexico" stop="20260411210000 +0000">
     <title>Córdoba vs. Real Zaragoza</title>
   </programme>
-  <programme start="20260411210000 +0000" channel="sky_sports_16" stop="20260411230000 +0000">
+  <programme start="20260411190000 +0000" channel="sky_sports_16" stop="20260411210000 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260411210000 +0000" channel="a_mas" stop="20260411233000 +0000">
+  <programme start="20260411190000 +0000" channel="a_mas" stop="20260411213000 +0000">
     <title>Dr. Quinn</title>
   </programme>
-  <programme start="20260411223000 +0000" channel="sky_sports_24" stop="20260412003000 +0000">
+  <programme start="20260411203000 +0000" channel="sky_sports_24" stop="20260411223000 +0000">
     <title>RB Leipzig vs. Borussia M'gladb</title>
   </programme>
-  <programme start="20260411230000 +0000" channel="sky_sports_1_mexico" stop="20260412020000 +0000">
+  <programme start="20260411210000 +0000" channel="sky_sports_1_mexico" stop="20260412000000 +0000">
     <title>Minnesota Wild vs. Nashville Pr</title>
   </programme>
-  <programme start="20260411230000 +0000" channel="sky_sports_16" stop="20260412010000 +0000">
+  <programme start="20260411210000 +0000" channel="sky_sports_16" stop="20260411230000 +0000">
     <title>Real Madrid vs. Girona FC</title>
   </programme>
-  <programme start="20260411233000 +0000" channel="a_mas" stop="20260412013000 +0000">
+  <programme start="20260411213000 +0000" channel="a_mas" stop="20260411233000 +0000">
     <title>Cómicos y canciones</title>
   </programme>
-  <programme start="20260412003000 +0000" channel="sky_sports_24" stop="20260412023000 +0000">
+  <programme start="20260411223000 +0000" channel="sky_sports_24" stop="20260412003000 +0000">
     <title>Wolfsburg vs. Eintracht Fra</title>
   </programme>
-  <programme start="20260412010000 +0000" channel="sky_sports_16" stop="20260412030000 +0000">
+  <programme start="20260411230000 +0000" channel="sky_sports_16" stop="20260412010000 +0000">
     <title>Real Sociedad vs. Deportivo Ala</title>
   </programme>
-  <programme start="20260412013000 +0000" channel="a_mas" stop="20260412031500 +0000">
+  <programme start="20260411233000 +0000" channel="a_mas" stop="20260412011500 +0000">
     <title>la marca del zorrillo</title>
   </programme>
-  <programme start="20260412020000 +0000" channel="sky_sports_1_mexico" stop="20260412040000 +0000">
+  <programme start="20260412000000 +0000" channel="sky_sports_1_mexico" stop="20260412020000 +0000">
     <title>Burgos CF vs. Real Sporting de</title>
   </programme>
-  <programme start="20260412023000 +0000" channel="sky_sports_24" stop="20260412043000 +0000">
+  <programme start="20260412003000 +0000" channel="sky_sports_24" stop="20260412023000 +0000">
     <title>1. FC Heidenheim 1846 vs. Unión</title>
   </programme>
-  <programme start="20260412030000 +0000" channel="sky_sports_16" stop="20260412050000 +0000">
+  <programme start="20260412010000 +0000" channel="sky_sports_16" stop="20260412030000 +0000">
     <title>Barcelona vs. Espanyol</title>
   </programme>
-  <programme start="20260412031500 +0000" channel="a_mas" stop="20260412044500 +0000">
+  <programme start="20260412011500 +0000" channel="a_mas" stop="20260412024500 +0000">
     <title>Pesadilla mortal</title>
   </programme>
-  <programme start="20260412040000 +0000" channel="sky_sports_1_mexico" stop="20260412060000 +0000">
+  <programme start="20260412020000 +0000" channel="sky_sports_1_mexico" stop="20260412040000 +0000">
     <title>Málaga vs. UD las Palmas</title>
   </programme>
-  <programme start="20260412043000 +0000" channel="sky_sports_24" stop="20260412063000 +0000">
+  <programme start="20260412023000 +0000" channel="sky_sports_24" stop="20260412043000 +0000">
     <title>Borussia Dortmund vs. Bayer 04</title>
   </programme>
-  <programme start="20260412044500 +0000" channel="a_mas" stop="20260412063000 +0000">
+  <programme start="20260412024500 +0000" channel="a_mas" stop="20260412043000 +0000">
     <title>Ángel del silencio</title>
   </programme>
-  <programme start="20260412050000 +0000" channel="sky_sports_16" stop="20260412070000 +0000">
+  <programme start="20260412030000 +0000" channel="sky_sports_16" stop="20260412050000 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260412060000 +0000" channel="sky_sports_1_mexico" stop="20260412080000 +0000">
+  <programme start="20260412040000 +0000" channel="sky_sports_1_mexico" stop="20260412060000 +0000">
     <title>Minnesota Wild vs. Nashville Pr</title>
   </programme>
-  <programme start="20260412063000 +0000" channel="sky_sports_24" stop="20260412070000 +0000">
+  <programme start="20260412043000 +0000" channel="sky_sports_24" stop="20260412050000 +0000">
     <title>Bundesliga special show #17</title>
   </programme>
-  <programme start="20260412063000 +0000" channel="a_mas" stop="20260412080000 +0000">
+  <programme start="20260412043000 +0000" channel="a_mas" stop="20260412060000 +0000">
     <title>¡Quiero vivir mi vida!</title>
   </programme>
-  <programme start="20260412070000 +0000" channel="sky_sports_16" stop="20260412080000 +0000">
+  <programme start="20260412050000 +0000" channel="sky_sports_16" stop="20260412060000 +0000">
     <title>Elche vs. Valencia</title>
   </programme>
-  <programme start="20260412070000 +0000" channel="sky_sports_24" stop="20260412073000 +0000">
+  <programme start="20260412050000 +0000" channel="sky_sports_24" stop="20260412053000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260412073000 +0000" channel="sky_sports_24" stop="20260412080000 +0000">
+  <programme start="20260412053000 +0000" channel="sky_sports_24" stop="20260412060000 +0000">
     <title>Bundesliga weekly</title>
   </programme>
-  <programme start="20260412080000 +0000" channel="sky_sports_1_mexico" stop="20260412090000 +0000">
+  <programme start="20260412060000 +0000" channel="sky_sports_1_mexico" stop="20260412070000 +0000">
     <title>Minnesota Wild vs. Nashville Pr</title>
   </programme>
-  <programme start="20260412080000 +0000" channel="sky_sports_16" stop="20260412090000 +0000">
+  <programme start="20260412060000 +0000" channel="sky_sports_16" stop="20260412070000 +0000">
     <title>Elche vs. Valencia</title>
   </programme>
-  <programme start="20260412080000 +0000" channel="sky_sports_24" stop="20260412083000 +0000">
+  <programme start="20260412060000 +0000" channel="sky_sports_24" stop="20260412063000 +0000">
     <title>Sky Sports 24</title>
+  </programme>
+  <programme start="20260412060000 +0000" channel="a_mas" stop="20260412063000 +0000">
+    <title>Infomerciales</title>
+  </programme>
+  <programme start="20260412063000 +0000" channel="sky_sports_24" stop="20260412070000 +0000">
+    <title>Bundesliga weekly</title>
+  </programme>
+  <programme start="20260412063000 +0000" channel="a_mas" stop="20260412070000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260412070000 +0000" channel="sky_sports_1_mexico" stop="20260412090000 +0000">
+    <title>Córdoba vs. Real Zaragoza</title>
+  </programme>
+  <programme start="20260412070000 +0000" channel="sky_sports_16" stop="20260412090000 +0000">
+    <title>Real Sociedad vs. Deportivo Ala</title>
+  </programme>
+  <programme start="20260412070000 +0000" channel="sky_sports_24" stop="20260412073000 +0000">
+    <title>Bundesliga special show #17</title>
+  </programme>
+  <programme start="20260412070000 +0000" channel="a_mas" stop="20260412073000 +0000">
+    <title>Infomerciales</title>
+  </programme>
+  <programme start="20260412073000 +0000" channel="sky_sports_24" stop="20260412093000 +0000">
+    <title>1. FC Heidenheim 1846 vs. Unión</title>
+  </programme>
+  <programme start="20260412073000 +0000" channel="a_mas" stop="20260412080000 +0000">
+    <title>Sognare</title>
   </programme>
   <programme start="20260412080000 +0000" channel="a_mas" stop="20260412083000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260412083000 +0000" channel="sky_sports_24" stop="20260412090000 +0000">
-    <title>Bundesliga weekly</title>
-  </programme>
   <programme start="20260412083000 +0000" channel="a_mas" stop="20260412090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260412090000 +0000" channel="sky_sports_1_mexico" stop="20260412110000 +0000">
-    <title>Córdoba vs. Real Zaragoza</title>
-  </programme>
-  <programme start="20260412090000 +0000" channel="sky_sports_16" stop="20260412110000 +0000">
-    <title>Real Sociedad vs. Deportivo Ala</title>
-  </programme>
-  <programme start="20260412090000 +0000" channel="sky_sports_24" stop="20260412093000 +0000">
-    <title>Bundesliga special show #17</title>
-  </programme>
-  <programme start="20260412090000 +0000" channel="a_mas" stop="20260412093000 +0000">
-    <title>Infomerciales</title>
-  </programme>
-  <programme start="20260412093000 +0000" channel="sky_sports_24" stop="20260412113000 +0000">
-    <title>1. FC Heidenheim 1846 vs. Unión</title>
-  </programme>
-  <programme start="20260412093000 +0000" channel="a_mas" stop="20260412100000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260412100000 +0000" channel="a_mas" stop="20260412103000 +0000">
-    <title>Infomerciales</title>
-  </programme>
-  <programme start="20260412103000 +0000" channel="a_mas" stop="20260412110000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260412110000 +0000" channel="sky_sports_1_mexico" stop="20260412113000 +0000">
+  <programme start="20260412090000 +0000" channel="sky_sports_1_mexico" stop="20260412093000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260412110000 +0000" channel="sky_sports_16" stop="20260412114500 +0000">
+  <programme start="20260412090000 +0000" channel="sky_sports_16" stop="20260412094500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260412110000 +0000" channel="a_mas" stop="20260412120000 +0000">
+  <programme start="20260412090000 +0000" channel="a_mas" stop="20260412100000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260412113000 +0000" channel="sky_sports_1_mexico" stop="20260412140000 +0000">
+  <programme start="20260412093000 +0000" channel="sky_sports_1_mexico" stop="20260412120000 +0000">
     <title>World athletics indoor tour 20</title>
   </programme>
-  <programme start="20260412113000 +0000" channel="sky_sports_24" stop="20260412133000 +0000">
+  <programme start="20260412093000 +0000" channel="sky_sports_24" stop="20260412113000 +0000">
     <title>SV Darmstadt 98 vs. Hannover 96</title>
   </programme>
-  <programme start="20260412114500 +0000" channel="sky_sports_16" stop="20260412134500 +0000">
+  <programme start="20260412094500 +0000" channel="sky_sports_16" stop="20260412114500 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260412120000 +0000" channel="a_mas" stop="20260412123000 +0000">
+  <programme start="20260412100000 +0000" channel="a_mas" stop="20260412103000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260412123000 +0000" channel="a_mas" stop="20260412163000 +0000">
+  <programme start="20260412103000 +0000" channel="a_mas" stop="20260412143000 +0000">
     <title>Infomerciales</title>
   </programme>
-  <programme start="20260412133000 +0000" channel="sky_sports_24" stop="20260412153000 +0000">
+  <programme start="20260412113000 +0000" channel="sky_sports_24" stop="20260412133000 +0000">
     <title>SV Elversberg vs. Schalke 04</title>
   </programme>
-  <programme start="20260412134500 +0000" channel="sky_sports_16" stop="20260412140000 +0000">
+  <programme start="20260412114500 +0000" channel="sky_sports_16" stop="20260412120000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260412140000 +0000" channel="sky_sports_1_mexico" stop="20260412160000 +0000">
+  <programme start="20260412120000 +0000" channel="sky_sports_1_mexico" stop="20260412140000 +0000">
     <title>Granada vs. Cultural Leonesa</title>
   </programme>
-  <programme start="20260412140000 +0000" channel="sky_sports_16" stop="20260412160000 +0000">
+  <programme start="20260412120000 +0000" channel="sky_sports_16" stop="20260412140000 +0000">
     <title>CA Osasuna vs. Real Betis</title>
   </programme>
-  <programme start="20260412153000 +0000" channel="sky_sports_24" stop="20260412173000 +0000">
+  <programme start="20260412133000 +0000" channel="sky_sports_24" stop="20260412153000 +0000">
     <title>1. FC Köln vs. SV Werder Bremen</title>
   </programme>
-  <programme start="20260412160000 +0000" channel="sky_sports_1_mexico" stop="20260412161500 +0000">
+  <programme start="20260412140000 +0000" channel="sky_sports_1_mexico" stop="20260412141500 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260412160000 +0000" channel="sky_sports_16" stop="20260412161500 +0000">
+  <programme start="20260412140000 +0000" channel="sky_sports_16" stop="20260412141500 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260412161500 +0000" channel="sky_sports_1_mexico" stop="20260412181500 +0000">
+  <programme start="20260412141500 +0000" channel="sky_sports_1_mexico" stop="20260412161500 +0000">
     <title>Huesca vs. RC Deportivo</title>
   </programme>
-  <programme start="20260412161500 +0000" channel="sky_sports_16" stop="20260412181500 +0000">
+  <programme start="20260412141500 +0000" channel="sky_sports_16" stop="20260412161500 +0000">
     <title>RCD Mallorca vs. Rayo Vallecano</title>
   </programme>
-  <programme start="20260412163000 +0000" channel="a_mas" stop="20260412170000 +0000">
+  <programme start="20260412143000 +0000" channel="a_mas" stop="20260412150000 +0000">
     <title>Sognare</title>
+  </programme>
+  <programme start="20260412150000 +0000" channel="a_mas" stop="20260412170000 +0000">
+    <title>Infomerciales</title>
+  </programme>
+  <programme start="20260412153000 +0000" channel="sky_sports_24" stop="20260412173000 +0000">
+    <title>VfB Stuttgart vs. Hamburger SV</title>
+  </programme>
+  <programme start="20260412161500 +0000" channel="sky_sports_1_mexico" stop="20260412163000 +0000">
+    <title>SKY Sports</title>
+  </programme>
+  <programme start="20260412161500 +0000" channel="sky_sports_16" stop="20260412163000 +0000">
+    <title>Previo</title>
+  </programme>
+  <programme start="20260412163000 +0000" channel="sky_sports_1_mexico" stop="20260412183000 +0000">
+    <title>Cádiz CF vs. FC Andorra</title>
+  </programme>
+  <programme start="20260412163000 +0000" channel="sky_sports_16" stop="20260412183000 +0000">
+    <title>Celta de Vigo vs. Real Oviedo</title>
   </programme>
   <programme start="20260412170000 +0000" channel="a_mas" stop="20260412190000 +0000">
     <title>Infomerciales</title>
   </programme>
   <programme start="20260412173000 +0000" channel="sky_sports_24" stop="20260412193000 +0000">
-    <title>VfB Stuttgart vs. Hamburger SV</title>
+    <title>FSV Mainz vs. SC Freiburg</title>
   </programme>
-  <programme start="20260412181500 +0000" channel="sky_sports_1_mexico" stop="20260412183000 +0000">
+  <programme start="20260412183000 +0000" channel="sky_sports_1_mexico" stop="20260412190000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260412181500 +0000" channel="sky_sports_16" stop="20260412183000 +0000">
+  <programme start="20260412183000 +0000" channel="sky_sports_16" stop="20260412190000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260412183000 +0000" channel="sky_sports_1_mexico" stop="20260412203000 +0000">
-    <title>Cádiz CF vs. FC Andorra</title>
+  <programme start="20260412190000 +0000" channel="sky_sports_1_mexico" stop="20260412210000 +0000">
+    <title>R. Racing Club vs. Almería</title>
   </programme>
-  <programme start="20260412183000 +0000" channel="sky_sports_16" stop="20260412203000 +0000">
-    <title>Celta de Vigo vs. Real Oviedo</title>
+  <programme start="20260412190000 +0000" channel="sky_sports_16" stop="20260412210000 +0000">
+    <title>Athletic Club de Bilbao vs. Vil</title>
   </programme>
-  <programme start="20260412190000 +0000" channel="a_mas" stop="20260412210000 +0000">
+  <programme start="20260412190000 +0000" channel="a_mas" stop="20260412200000 +0000">
     <title>Infomerciales</title>
   </programme>
   <programme start="20260412193000 +0000" channel="sky_sports_24" stop="20260412213000 +0000">
-    <title>FSV Mainz vs. SC Freiburg</title>
-  </programme>
-  <programme start="20260412203000 +0000" channel="sky_sports_1_mexico" stop="20260412210000 +0000">
-    <title>SKY Sports</title>
-  </programme>
-  <programme start="20260412203000 +0000" channel="sky_sports_16" stop="20260412210000 +0000">
-    <title>Previo</title>
-  </programme>
-  <programme start="20260412210000 +0000" channel="sky_sports_1_mexico" stop="20260412230000 +0000">
-    <title>R. Racing Club vs. Almería</title>
-  </programme>
-  <programme start="20260412210000 +0000" channel="sky_sports_16" stop="20260412230000 +0000">
-    <title>Athletic Club de Bilbao vs. Vil</title>
-  </programme>
-  <programme start="20260412210000 +0000" channel="a_mas" stop="20260412220000 +0000">
-    <title>Infomerciales</title>
-  </programme>
-  <programme start="20260412213000 +0000" channel="sky_sports_24" stop="20260412233000 +0000">
     <title>FC St. Pauli vs. FC Bayern Münc</title>
   </programme>
-  <programme start="20260412220000 +0000" channel="a_mas" stop="20260412233000 +0000">
+  <programme start="20260412200000 +0000" channel="a_mas" stop="20260412213000 +0000">
     <title>Cain y Abel</title>
   </programme>
-  <programme start="20260412230000 +0000" channel="sky_sports_1_mexico" stop="20260413000000 +0000">
+  <programme start="20260412210000 +0000" channel="sky_sports_1_mexico" stop="20260412220000 +0000">
     <title>SKY Sports</title>
   </programme>
-  <programme start="20260412230000 +0000" channel="sky_sports_16" stop="20260413010000 +0000">
+  <programme start="20260412210000 +0000" channel="sky_sports_16" stop="20260412230000 +0000">
     <title>Barcelona vs. Espanyol</title>
   </programme>
-  <programme start="20260412233000 +0000" channel="sky_sports_24" stop="20260413013000 +0000">
+  <programme start="20260412213000 +0000" channel="sky_sports_24" stop="20260412233000 +0000">
     <title>SV Darmstadt 98 vs. Hannover 96</title>
   </programme>
-  <programme start="20260412233000 +0000" channel="a_mas" stop="20260413010000 +0000">
+  <programme start="20260412213000 +0000" channel="a_mas" stop="20260412230000 +0000">
     <title>El Último Cartucho</title>
   </programme>
-  <programme start="20260413000000 +0000" channel="sky_sports_1_mexico" stop="20260413030000 +0000">
+  <programme start="20260412220000 +0000" channel="sky_sports_1_mexico" stop="20260413010000 +0000">
     <title>Boston Bruins vs. Columbus Blue</title>
   </programme>
-  <programme start="20260413010000 +0000" channel="sky_sports_16" stop="20260413030000 +0000">
+  <programme start="20260412230000 +0000" channel="sky_sports_16" stop="20260413010000 +0000">
     <title>CA Osasuna vs. Real Betis</title>
   </programme>
-  <programme start="20260413010000 +0000" channel="a_mas" stop="20260413023000 +0000">
+  <programme start="20260412230000 +0000" channel="a_mas" stop="20260413003000 +0000">
     <title>Indio</title>
   </programme>
-  <programme start="20260413013000 +0000" channel="sky_sports_24" stop="20260413033000 +0000">
+  <programme start="20260412233000 +0000" channel="sky_sports_24" stop="20260413013000 +0000">
     <title>RB Leipzig vs. Borussia M'gladb</title>
   </programme>
-  <programme start="20260413023000 +0000" channel="a_mas" stop="20260413043000 +0000">
+  <programme start="20260413003000 +0000" channel="a_mas" stop="20260413023000 +0000">
     <title>Juan el desalmado</title>
   </programme>
-  <programme start="20260413030000 +0000" channel="sky_sports_1_mexico" stop="20260413050000 +0000">
+  <programme start="20260413010000 +0000" channel="sky_sports_1_mexico" stop="20260413030000 +0000">
     <title>Granada vs. Cultural Leonesa</title>
   </programme>
-  <programme start="20260413030000 +0000" channel="sky_sports_16" stop="20260413050000 +0000">
+  <programme start="20260413010000 +0000" channel="sky_sports_16" stop="20260413030000 +0000">
     <title>Real Madrid vs. Girona FC</title>
   </programme>
-  <programme start="20260413033000 +0000" channel="sky_sports_24" stop="20260413053000 +0000">
+  <programme start="20260413013000 +0000" channel="sky_sports_24" stop="20260413033000 +0000">
     <title>Wolfsburg vs. Eintracht Fra</title>
   </programme>
-  <programme start="20260413043000 +0000" channel="a_mas" stop="20260413061500 +0000">
+  <programme start="20260413023000 +0000" channel="a_mas" stop="20260413041500 +0000">
     <title>Traficante por Ambición</title>
   </programme>
-  <programme start="20260413050000 +0000" channel="sky_sports_1_mexico" stop="20260413080000 +0000">
+  <programme start="20260413030000 +0000" channel="sky_sports_1_mexico" stop="20260413060000 +0000">
     <title>Boston Bruins vs. Columbus Blue</title>
   </programme>
-  <programme start="20260413050000 +0000" channel="sky_sports_16" stop="20260413070000 +0000">
+  <programme start="20260413030000 +0000" channel="sky_sports_16" stop="20260413050000 +0000">
     <title>Athletic Club de Bilbao vs. Vil</title>
   </programme>
-  <programme start="20260413053000 +0000" channel="sky_sports_24" stop="20260413073000 +0000">
+  <programme start="20260413033000 +0000" channel="sky_sports_24" stop="20260413053000 +0000">
     <title>1. FC Heidenheim 1846 vs. Unión</title>
   </programme>
-  <programme start="20260413061500 +0000" channel="a_mas" stop="20260413080000 +0000">
+  <programme start="20260413041500 +0000" channel="a_mas" stop="20260413060000 +0000">
     <title>Traición</title>
   </programme>
-  <programme start="20260413070000 +0000" channel="sky_sports_16" stop="20260413080000 +0000">
+  <programme start="20260413050000 +0000" channel="sky_sports_16" stop="20260413060000 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260413073000 +0000" channel="sky_sports_24" stop="20260413080000 +0000">
+  <programme start="20260413053000 +0000" channel="sky_sports_24" stop="20260413060000 +0000">
     <title>Bundesliga special show #17</title>
   </programme>
-  <programme start="20260413080000 +0000" channel="sky_sports_1_mexico" stop="20260413100000 +0000">
+  <programme start="20260413060000 +0000" channel="sky_sports_1_mexico" stop="20260413080000 +0000">
     <title>Huesca vs. RC Deportivo</title>
   </programme>
-  <programme start="20260413080000 +0000" channel="sky_sports_16" stop="20260413090000 +0000">
+  <programme start="20260413060000 +0000" channel="sky_sports_16" stop="20260413070000 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260413080000 +0000" channel="sky_sports_24" stop="20260413100000 +0000">
+  <programme start="20260413060000 +0000" channel="sky_sports_24" stop="20260413080000 +0000">
     <title>SV Elversberg vs. Schalke 04</title>
+  </programme>
+  <programme start="20260413060000 +0000" channel="a_mas" stop="20260413063000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260413063000 +0000" channel="a_mas" stop="20260413070000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260413070000 +0000" channel="sky_sports_16" stop="20260413090000 +0000">
+    <title>RCD Mallorca vs. Rayo Vallecano</title>
+  </programme>
+  <programme start="20260413070000 +0000" channel="a_mas" stop="20260413073000 +0000">
+    <title>Paid Programing</title>
+  </programme>
+  <programme start="20260413073000 +0000" channel="a_mas" stop="20260413080000 +0000">
+    <title>Sognare</title>
+  </programme>
+  <programme start="20260413080000 +0000" channel="sky_sports_1_mexico" stop="20260413100000 +0000">
+    <title>World athletics indoor tour 20</title>
+  </programme>
+  <programme start="20260413080000 +0000" channel="sky_sports_24" stop="20260413100000 +0000">
+    <title>SV Darmstadt 98 vs. Hannover 96</title>
   </programme>
   <programme start="20260413080000 +0000" channel="a_mas" stop="20260413083000 +0000">
     <title>Paid Programing</title>
@@ -2195,145 +2216,124 @@
   <programme start="20260413083000 +0000" channel="a_mas" stop="20260413090000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260413090000 +0000" channel="sky_sports_16" stop="20260413110000 +0000">
-    <title>RCD Mallorca vs. Rayo Vallecano</title>
-  </programme>
-  <programme start="20260413090000 +0000" channel="a_mas" stop="20260413093000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260413093000 +0000" channel="a_mas" stop="20260413100000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260413100000 +0000" channel="sky_sports_1_mexico" stop="20260413120000 +0000">
-    <title>World athletics indoor tour 20</title>
-  </programme>
-  <programme start="20260413100000 +0000" channel="sky_sports_24" stop="20260413120000 +0000">
-    <title>SV Darmstadt 98 vs. Hannover 96</title>
-  </programme>
-  <programme start="20260413100000 +0000" channel="a_mas" stop="20260413103000 +0000">
-    <title>Paid Programing</title>
-  </programme>
-  <programme start="20260413103000 +0000" channel="a_mas" stop="20260413110000 +0000">
-    <title>Sognare</title>
-  </programme>
-  <programme start="20260413110000 +0000" channel="sky_sports_16" stop="20260413124500 +0000">
+  <programme start="20260413090000 +0000" channel="sky_sports_16" stop="20260413104500 +0000">
     <title>Sky Sports 16</title>
   </programme>
-  <programme start="20260413110000 +0000" channel="a_mas" stop="20260413120000 +0000">
+  <programme start="20260413090000 +0000" channel="a_mas" stop="20260413100000 +0000">
     <title>Paid Programing</title>
   </programme>
-  <programme start="20260413120000 +0000" channel="sky_sports_1_mexico" stop="20260413153000 +0000">
+  <programme start="20260413100000 +0000" channel="sky_sports_1_mexico" stop="20260413133000 +0000">
     <title>ISU 2025-2026 Speed Skating W</title>
   </programme>
-  <programme start="20260413120000 +0000" channel="sky_sports_24" stop="20260413140000 +0000">
+  <programme start="20260413100000 +0000" channel="sky_sports_24" stop="20260413120000 +0000">
     <title>RB Leipzig vs. Borussia M'gladb</title>
   </programme>
-  <programme start="20260413120000 +0000" channel="a_mas" stop="20260413123000 +0000">
+  <programme start="20260413100000 +0000" channel="a_mas" stop="20260413103000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260413123000 +0000" channel="a_mas" stop="20260413163000 +0000">
+  <programme start="20260413103000 +0000" channel="a_mas" stop="20260413143000 +0000">
     <title>Paid Programing</title>
   </programme>
-  <programme start="20260413124500 +0000" channel="sky_sports_16" stop="20260413144500 +0000">
+  <programme start="20260413104500 +0000" channel="sky_sports_16" stop="20260413124500 +0000">
     <title>Celta de Vigo vs. Real Oviedo</title>
   </programme>
-  <programme start="20260413140000 +0000" channel="sky_sports_24" stop="20260413160000 +0000">
+  <programme start="20260413120000 +0000" channel="sky_sports_24" stop="20260413140000 +0000">
     <title>Wolfsburg vs. Eintracht Fra</title>
   </programme>
-  <programme start="20260413144500 +0000" channel="sky_sports_16" stop="20260413164500 +0000">
+  <programme start="20260413124500 +0000" channel="sky_sports_16" stop="20260413144500 +0000">
     <title>Real Sociedad vs. Deportivo Ala</title>
   </programme>
-  <programme start="20260413153000 +0000" channel="sky_sports_1_mexico" stop="20260413173000 +0000">
+  <programme start="20260413133000 +0000" channel="sky_sports_1_mexico" stop="20260413153000 +0000">
     <title>Cádiz CF vs. FC Andorra</title>
   </programme>
-  <programme start="20260413160000 +0000" channel="sky_sports_24" stop="20260413180000 +0000">
+  <programme start="20260413140000 +0000" channel="sky_sports_24" stop="20260413160000 +0000">
     <title>FC St. Pauli vs. FC Bayern Münc</title>
   </programme>
-  <programme start="20260413163000 +0000" channel="a_mas" stop="20260413170000 +0000">
+  <programme start="20260413143000 +0000" channel="a_mas" stop="20260413150000 +0000">
     <title>Sognare</title>
   </programme>
-  <programme start="20260413164500 +0000" channel="sky_sports_16" stop="20260413184500 +0000">
+  <programme start="20260413144500 +0000" channel="sky_sports_16" stop="20260413164500 +0000">
     <title>Elche vs. Valencia</title>
   </programme>
-  <programme start="20260413170000 +0000" channel="a_mas" stop="20260413180000 +0000">
+  <programme start="20260413150000 +0000" channel="a_mas" stop="20260413160000 +0000">
     <title>Naturista Naturalmente</title>
   </programme>
-  <programme start="20260413173000 +0000" channel="sky_sports_1_mexico" stop="20260413203000 +0000">
+  <programme start="20260413153000 +0000" channel="sky_sports_1_mexico" stop="20260413183000 +0000">
     <title>Boston Bruins vs. Columbus Blue</title>
   </programme>
-  <programme start="20260413180000 +0000" channel="sky_sports_24" stop="20260413200000 +0000">
+  <programme start="20260413160000 +0000" channel="sky_sports_24" stop="20260413180000 +0000">
     <title>Borussia Dortmund vs. Bayer 04</title>
   </programme>
-  <programme start="20260413180000 +0000" channel="a_mas" stop="20260413200000 +0000">
-    <title>Las Tres Alegres Comadres</title>
+  <programme start="20260413160000 +0000" channel="a_mas" stop="20260413180000 +0000">
+    <title>La Mujer Que Yo Amé</title>
   </programme>
-  <programme start="20260413184500 +0000" channel="sky_sports_16" stop="20260413204500 +0000">
+  <programme start="20260413164500 +0000" channel="sky_sports_16" stop="20260413184500 +0000">
     <title>CA Osasuna vs. Real Betis</title>
   </programme>
-  <programme start="20260413200000 +0000" channel="sky_sports_24" stop="20260413220000 +0000">
+  <programme start="20260413180000 +0000" channel="sky_sports_24" stop="20260413200000 +0000">
     <title>FC Augsburg vs. TSG Hoffenheim</title>
   </programme>
-  <programme start="20260413200000 +0000" channel="a_mas" stop="20260413220000 +0000">
+  <programme start="20260413180000 +0000" channel="a_mas" stop="20260413200000 +0000">
     <title>Los Rey</title>
   </programme>
-  <programme start="20260413203000 +0000" channel="sky_sports_1_mexico" stop="20260413223000 +0000">
+  <programme start="20260413183000 +0000" channel="sky_sports_1_mexico" stop="20260413203000 +0000">
     <title>Real Valladolid CF vs. Eibar</title>
   </programme>
-  <programme start="20260413204500 +0000" channel="sky_sports_16" stop="20260413210000 +0000">
+  <programme start="20260413184500 +0000" channel="sky_sports_16" stop="20260413190000 +0000">
     <title>Previo</title>
   </programme>
-  <programme start="20260413210000 +0000" channel="sky_sports_16" stop="20260413230000 +0000">
+  <programme start="20260413190000 +0000" channel="sky_sports_16" stop="20260413210000 +0000">
     <title>Levante vs. Getafe</title>
   </programme>
-  <programme start="20260413220000 +0000" channel="sky_sports_24" stop="20260414000000 +0000">
+  <programme start="20260413200000 +0000" channel="sky_sports_24" stop="20260413220000 +0000">
     <title>SV Elversberg vs. Schalke 04</title>
   </programme>
-  <programme start="20260413220000 +0000" channel="a_mas" stop="20260414000000 +0000">
-    <title>Contigo en la distancia</title>
+  <programme start="20260413200000 +0000" channel="a_mas" stop="20260413220000 +0000">
+    <title>Rateros último modelo</title>
   </programme>
-  <programme start="20260413223000 +0000" channel="sky_sports_1_mexico" stop="20260414000000 +0000">
+  <programme start="20260413203000 +0000" channel="sky_sports_1_mexico" stop="20260413220000 +0000">
     <title>Isu figure skating championshi</title>
   </programme>
-  <programme start="20260413230000 +0000" channel="sky_sports_16" stop="20260414010000 +0000">
+  <programme start="20260413210000 +0000" channel="sky_sports_16" stop="20260413230000 +0000">
     <title>Athletic Club de Bilbao vs. Vil</title>
   </programme>
-  <programme start="20260414000000 +0000" channel="sky_sports_1_mexico" stop="20260414030000 +0000">
+  <programme start="20260413220000 +0000" channel="sky_sports_1_mexico" stop="20260414010000 +0000">
     <title>Detroit Red Wings vs. Tampa Bay</title>
   </programme>
-  <programme start="20260414000000 +0000" channel="sky_sports_24" stop="20260414020000 +0000">
+  <programme start="20260413220000 +0000" channel="sky_sports_24" stop="20260414000000 +0000">
     <title>1. FC Köln vs. SV Werder Bremen</title>
   </programme>
-  <programme start="20260414000000 +0000" channel="a_mas" stop="20260414014500 +0000">
-    <title>Mi desconocida esposa</title>
+  <programme start="20260413220000 +0000" channel="a_mas" stop="20260413234500 +0000">
+    <title>Manuel Saldivar, el Texano</title>
   </programme>
-  <programme start="20260414010000 +0000" channel="sky_sports_16" stop="20260414030000 +0000">
+  <programme start="20260413230000 +0000" channel="sky_sports_16" stop="20260414010000 +0000">
     <title>Sevilla vs. Atlético de Madrid</title>
   </programme>
-  <programme start="20260414014500 +0000" channel="a_mas" stop="20260414033000 +0000">
-    <title>El ceniciento</title>
+  <programme start="20260413234500 +0000" channel="a_mas" stop="20260414013000 +0000">
+    <title>Dos Gallos en Palenque</title>
   </programme>
-  <programme start="20260414020000 +0000" channel="sky_sports_24" stop="20260414040000 +0000">
+  <programme start="20260414000000 +0000" channel="sky_sports_24" stop="20260414020000 +0000">
     <title>VfB Stuttgart vs. Hamburger SV</title>
   </programme>
-  <programme start="20260414030000 +0000" channel="sky_sports_1_mexico" stop="20260414050000 +0000">
+  <programme start="20260414010000 +0000" channel="sky_sports_1_mexico" stop="20260414030000 +0000">
     <title>World athletics continental to</title>
   </programme>
-  <programme start="20260414030000 +0000" channel="sky_sports_16" stop="20260414050000 +0000">
+  <programme start="20260414010000 +0000" channel="sky_sports_16" stop="20260414030000 +0000">
     <title>Barcelona vs. Espanyol</title>
   </programme>
-  <programme start="20260414033000 +0000" channel="a_mas" stop="20260414053000 +0000">
+  <programme start="20260414013000 +0000" channel="a_mas" stop="20260414033000 +0000">
     <title>Los elegidos</title>
   </programme>
-  <programme start="20260414040000 +0000" channel="sky_sports_24" stop="20260414060000 +0000">
+  <programme start="20260414020000 +0000" channel="sky_sports_24" stop="20260414040000 +0000">
     <title>FSV Mainz vs. SC Freiburg</title>
   </programme>
-  <programme start="20260414050000 +0000" channel="sky_sports_1_mexico" stop="20260414070000 +0000">
+  <programme start="20260414030000 +0000" channel="sky_sports_1_mexico" stop="20260414050000 +0000">
     <title>Real Valladolid CF vs. Eibar</title>
   </programme>
-  <programme start="20260414050000 +0000" channel="sky_sports_16" stop="20260414070000 +0000">
+  <programme start="20260414030000 +0000" channel="sky_sports_16" stop="20260414050000 +0000">
     <title>Levante vs. Getafe</title>
   </programme>
-  <programme start="20260414053000 +0000" channel="a_mas" stop="20260414063000 +0000">
+  <programme start="20260414033000 +0000" channel="a_mas" stop="20260414043000 +0000">
     <title>Ahora Más Noticias</title>
   </programme>
   <programme channel="1" start="20260410060000 +0000" stop="20260410080000 +0000">
@@ -2817,25 +2817,12 @@
     <segmentation-upid>TFPG172603150101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412033001 +0000" stop="20260412040000 +0000">
-    <liveEvent>false</liveEvent>
-    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
-    <episode-num system="assetID">TFPG172603220101</episode-num>
-    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1799</length>
-    <rating>
-      <value>NA</value>
-    </rating>
-    <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG172603220101</segmentation-upid>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="1" start="20260412040000 +0000" stop="20260412050000 +0000">
+  <programme channel="1" start="20260412033001 +0000" stop="20260412050001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Lucha Libre AAA  |  Episodio 13  |  04/11/2026</title>
     <episode-num system="assetID">TFPG252604110201</episode-num>
     <desc lang="es">Lucha Libre AAA 2026 Episodio 13: CDMX 04/11/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">5400</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2843,12 +2830,12 @@
     <segmentation-upid>TFPG252604110201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412050000 +0000" stop="20260412060000 +0000">
+  <programme channel="1" start="20260412050001 +0000" stop="20260412060000 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">CUADRO TITULAR  |  04/11/2026</title>
     <episode-num system="assetID">TFPG172604110101</episode-num>
     <desc lang="es">Programa que rompe los moldes del análisis deportivo. Aquí el futbol se habla como lo vive el jugador. Presentado por Claudia García y Santiago Fourcade acompañados de un panel de exfutbolistas, que aportan su experiencia de cancha para aderezar cada debate. 04/11/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">3599</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2908,12 +2895,12 @@
     <segmentation-upid>TFPG172603080101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412103001 +0000" stop="20260412123001 +0000">
+  <programme channel="1" start="20260412103001 +0000" stop="20260412121221 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  West Ham United FC vs Wolverhampton  |  04/10/2026</title>
     <episode-num system="assetID">TFPG042604100101</episode-num>
     <desc lang="es">Premier League 2025-26 Semana 32: West Ham United FC vs Wolverhampton 04/10/2026</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">6140</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2921,12 +2908,25 @@
     <segmentation-upid>TFPG042604100101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412123001 +0000" stop="20260412130001 +0000">
+  <programme channel="1" start="20260412121221 +0000" stop="20260412123001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">Resumen de 15 min Premier League  |  Tottenham Hotspur FC vs Nottingham Forest  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG042603220103</episode-num>
+    <desc lang="es">Resumen de 15 min Premier League 2025-26 Semana 31: Tottenham Hotspur FC vs Nottingham Forest 03/22/2026</desc>
+    <length units="seconds">1060</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG042603220103</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260412123001 +0000" stop="20260412130002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
     <episode-num system="assetID">TFPG172603150101</episode-num>
     <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">1801</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -2934,7 +2934,7 @@
     <segmentation-upid>TFPG172603150101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412130001 +0000" stop="20260412150001 +0000">
+  <programme channel="1" start="20260412130002 +0000" stop="20260412150002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Saudi Pro League  |  AL Akhdood vs Al-Nassr  |  04/11/2026</title>
     <episode-num system="assetID">TFPG192604110201</episode-num>
@@ -2947,7 +2947,7 @@
     <segmentation-upid>TFPG192604110201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412150001 +0000" stop="20260412170001 +0000">
+  <programme channel="1" start="20260412150002 +0000" stop="20260412170002 +0000">
     <liveEvent>true</liveEvent>
     <title lang="es">Ligue 1  |  OGC Niza vs Le Havre AC  |  04/12/2026</title>
     <episode-num system="assetID">TFPG152604120101</episode-num>
@@ -2960,7 +2960,7 @@
     <segmentation-upid>TFPG152604120101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412170001 +0000" stop="20260412173001 +0000">
+  <programme channel="1" start="20260412170002 +0000" stop="20260412173002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
     <episode-num system="assetID">TFPG172603220101</episode-num>
@@ -2973,7 +2973,7 @@
     <segmentation-upid>TFPG172603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412173001 +0000" stop="20260412180000 +0000">
+  <programme channel="1" start="20260412173002 +0000" stop="20260412180001 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">MXGP  |  Behind The Gate Capítulo 2  |  03/23/2026</title>
     <episode-num system="assetID">TFPG082600000201</episode-num>
@@ -2986,7 +2986,7 @@
     <segmentation-upid>TFPG082600000201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412180000 +0000" stop="20260412194200 +0000">
+  <programme channel="1" start="20260412180001 +0000" stop="20260412194201 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  FC Barcelona vs Atlético Madrid  |  04/08/2026</title>
     <episode-num system="assetID">TFPG142604080101</episode-num>
@@ -2999,7 +2999,7 @@
     <segmentation-upid>TFPG142604080101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412194200 +0000" stop="20260412200001 +0000">
+  <programme channel="1" start="20260412194201 +0000" stop="20260412200002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Tottenham Hotspur FC vs Atlético Madrid  |  03/18/2026</title>
     <episode-num system="assetID">TFPG142603180203</episode-num>
@@ -3012,7 +3012,7 @@
     <segmentation-upid>TFPG142603180203</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412200001 +0000" stop="20260412214031 +0000">
+  <programme channel="1" start="20260412200002 +0000" stop="20260412214032 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Paris Saint-Germain FC vs Liverpool FC  |  04/08/2026</title>
     <episode-num system="assetID">TFPG142604080201</episode-num>
@@ -3025,12 +3025,12 @@
     <segmentation-upid>TFPG142604080201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412214031 +0000" stop="20260412220002 +0000">
+  <programme channel="1" start="20260412214032 +0000" stop="20260412220002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE  |  Liverpool FC vs Galatasaray SK  |  03/18/2026</title>
     <episode-num system="assetID">TFPG142603180303</episode-num>
     <desc lang="es">Resumen de 15 min UEFA CHAMPIONS LEAGUE 2025-26 Octavos de Final: Liverpool FC vs Galatasaray SK 03/18/2026</desc>
-    <length units="seconds">1171</length>
+    <length units="seconds">1170</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3038,12 +3038,12 @@
     <segmentation-upid>TFPG142603180303</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412220002 +0000" stop="20260412230002 +0000">
+  <programme channel="1" start="20260412220002 +0000" stop="20260412233002 +0000">
     <liveEvent>false</liveEvent>
     <title lang="es">Lucha Libre AAA  |  Episodio 13  |  04/11/2026</title>
     <episode-num system="assetID">TFPG252604110201</episode-num>
     <desc lang="es">Lucha Libre AAA 2026 Episodio 13: CDMX 04/11/2026</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">5400</length>
     <rating>
       <value>NA</value>
     </rating>
@@ -3051,17 +3051,43 @@
     <segmentation-upid>TFPG252604110201</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="1" start="20260412230002 +0000" stop="20260413010002 +0000">
+  <programme channel="1" start="20260412233002 +0000" stop="20260413000001 +0000">
     <liveEvent>false</liveEvent>
-    <title lang="es">Liga MX  |  Tigres UANL vs Guadalajara Chivas  |  04/11/2026</title>
-    <episode-num system="assetID">TFPG012604110201</episode-num>
-    <desc lang="es">Partido de Liga MX Clausura 2026 - Jornada 14: Tigres UANL vs Guadalajara Chivas 04/11/2026</desc>
-    <length units="seconds">7200</length>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 1  |  03/08/2026</title>
+    <episode-num system="assetID">TFPG172603080101</episode-num>
+    <desc lang="es">El primer episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1799</length>
     <rating>
       <value>NA</value>
     </rating>
     <LiveEvent>False</LiveEvent>
-    <segmentation-upid>TFPG012604110201</segmentation-upid>
+    <segmentation-upid>TFPG172603080101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260413000001 +0000" stop="20260413003001 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 2  |  03/15/2026</title>
+    <episode-num system="assetID">TFPG172603150101</episode-num>
+    <desc lang="es">El SEGUNDO episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1800</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603150101</segmentation-upid>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme channel="1" start="20260413003001 +0000" stop="20260413010002 +0000">
+    <liveEvent>false</liveEvent>
+    <title lang="es">CONCACAF CHAMPIONS CUP  |  EPISODIO 3  |  03/22/2026</title>
+    <episode-num system="assetID">TFPG172603220101</episode-num>
+    <desc lang="es">El TERCER episodio del documental de la CONCACAF CHAMPIONS CUP 2025 presenta el arranque del torneo de clubes más importantes de la región. con acceso exclusivo y testimonios de los protagonistas, revive la intensidad de los primeros enfrentamientos y el inicio del camino que llevará a los finalistas rumbo a la gran batalla por el título continental.</desc>
+    <length units="seconds">1801</length>
+    <rating>
+      <value>NA</value>
+    </rating>
+    <LiveEvent>False</LiveEvent>
+    <segmentation-upid>TFPG172603220101</segmentation-upid>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="1" start="20260413010002 +0000" stop="20260413030001 +0000">
@@ -3276,7 +3302,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">Ligue 1  |  Highlights  |  04/13/2026</title>
     <episode-num system="assetID">TFPG172604130201</episode-num>
-    <desc lang="es">Las mejores jugadas de Ligue 1.</desc>
+    <desc lang="es">Disfruta de más contenido de la máxima categoría francesa: goles, atajadas y jugadas de todos los equipos de Ligue 1. También cuenta con entrevistas con sus máximas estrellas. 04/13/2026</desc>
     <length units="seconds">1801</length>
     <rating>
       <value>NA</value>
@@ -3471,7 +3497,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Highlights  |  04/14/2026</title>
     <episode-num system="assetID">TFPG172604140101</episode-num>
-    <desc lang="es">Las mejores jugadas de la premier league.</desc>
+    <desc lang="es">Encontraras los momentos más destacados y vibrantes que dejo la jornada de Premier League. Jugadas, goles, atajadas y acciones polémicas encontraras aquí.04/14/2026</desc>
     <length units="seconds">1799</length>
     <rating>
       <value>NA</value>
@@ -3627,7 +3653,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Highlights  |  04/14/2026</title>
     <episode-num system="assetID">TFPG172604140101</episode-num>
-    <desc lang="es">Las mejores jugadas de la premier league.</desc>
+    <desc lang="es">Encontraras los momentos más destacados y vibrantes que dejo la jornada de Premier League. Jugadas, goles, atajadas y acciones polémicas encontraras aquí.04/14/2026</desc>
     <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
@@ -3796,7 +3822,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Magazine  |  04/15/2026</title>
     <episode-num system="assetID">TFPG172604150501</episode-num>
-    <desc lang="es">Lo mejor de la UEFA Champions League en un solo lugar 04/15/2026</desc>
+    <desc lang="es">Las ultimas noticias de la UEFA Champions League las encontraras aquí, entrevistas, análisis, reportajes y mucho más te ofrece este Magazine.04/15/2026</desc>
     <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
@@ -3835,7 +3861,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Magazine  |  04/15/2026</title>
     <episode-num system="assetID">TFPG172604150501</episode-num>
-    <desc lang="es">Lo mejor de la UEFA Champions League en un solo lugar 04/15/2026</desc>
+    <desc lang="es">Las ultimas noticias de la UEFA Champions League las encontraras aquí, entrevistas, análisis, reportajes y mucho más te ofrece este Magazine.04/15/2026</desc>
     <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
@@ -4160,7 +4186,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">UEFA CHAMPIONS LEAGUE  |  Magazine  |  04/15/2026</title>
     <episode-num system="assetID">TFPG172604150501</episode-num>
-    <desc lang="es">Lo mejor de la UEFA Champions League en un solo lugar 04/15/2026</desc>
+    <desc lang="es">Las ultimas noticias de la UEFA Champions League las encontraras aquí, entrevistas, análisis, reportajes y mucho más te ofrece este Magazine.04/15/2026</desc>
     <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
@@ -4537,7 +4563,7 @@
     <liveEvent>false</liveEvent>
     <title lang="es">Premier League  |  Highlights  |  04/14/2026</title>
     <episode-num system="assetID">TFPG172604140101</episode-num>
-    <desc lang="es">Las mejores jugadas de la premier league.</desc>
+    <desc lang="es">Encontraras los momentos más destacados y vibrantes que dejo la jornada de Premier League. Jugadas, goles, atajadas y acciones polémicas encontraras aquí.04/14/2026</desc>
     <length units="seconds">1800</length>
     <rating>
       <value>NA</value>
@@ -55144,7 +55170,14 @@
     <category>Playoff sports</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411100000 +0000" stop="20260411110000 +0000" channel="72012">
+  <programme start="20260411100000 +0000" stop="20260411114500 +0000" channel="72012">
+    <title>Baloncesto Argentino Liga Nacional</title>
+    <desc>Acción de la fase regular de la Liga Nacional 2025-26. Desde el estadio Socios Fundadores.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG00320THR.jpg?w=240&amp;h=360"/>
+    <sub-title>Gimnasia (CR) vs. Unión (SF)</sub-title>
+    <category>Basketball</category>
+  </programme>
+  <programme start="20260411114500 +0000" stop="20260411134500 +0000" channel="72012">
     <title>Metrópolis</title>
     <desc>Actualidad, noticias, cultura y deportes desde un punto de vista intrépido, abierto y diverso.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19908433_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -55155,19 +55188,7 @@
       <actor>Rodrigo Gómez</actor>
     </credits>
   </programme>
-  <programme start="20260411110000 +0000" stop="20260411113000 +0000" channel="72012">
-    <title>Conexiones</title>
-    <desc>Un espacio para interactuar y conocer más acerca del deporte a través de las redes sociales.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19332062_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Sports talk</category>
-    <credits>
-      <actor>Ignacio Miranda</actor>
-      <actor>Carolina Muñoz</actor>
-      <actor>José Tomás Lambert</actor>
-    </credits>
-  </programme>
-  <programme start="20260411113000 +0000" stop="20260411130000 +0000" channel="72012">
+  <programme start="20260411134500 +0000" stop="20260411151500 +0000" channel="72012">
     <title>Hola Deportes</title>
     <desc>Los expertos analizan la actualidad de los deportes olímpicos en Chile.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p18273602_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -55177,202 +55198,198 @@
       <actor>Antonio Belmar</actor>
     </credits>
   </programme>
-  <programme start="20260411130000 +0000" stop="20260411140000 +0000" channel="72012">
-    <title>CDO Noticias</title>
-    <desc>Presentando las noticias más relevantes del país y el mundo.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p21727158_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2022</date>
-    <category>News</category>
+  <programme start="20260411151500 +0000" stop="20260411155500 +0000" channel="72012">
+    <title>Mi historia</title>
+    <desc>Testimonios de vida, mostrando cómo la fe y la relación con Dios han transformado personas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8974997_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2011</date>
+    <category>Religious</category>
   </programme>
-  <programme start="20260411140000 +0000" stop="20260411160000 +0000" channel="72012">
-    <title>Baloncesto Chileno Liga Nacional</title>
-    <desc>Toda la acción y la emoción de la máxima categoría de baloncesto profesional de Chile.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16075625_b_v8_aa.jpg?w=240&amp;h=360"/>
+  <programme start="20260411155500 +0000" stop="20260411180000 +0000" channel="72012">
+    <title>Baloncesto Liga ACB [En vivo] [Nuevo]</title>
+    <desc>Jornada 26 de la Liga ACB temporada 2025-26. Desde el Pabellón Príncipe Felipe, en Zaragoza.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030GRNE.jpg?w=240&amp;h=360"/>
+    <sub-title>Casademont Zaragoza vs. Hiopos Lleida</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260411160000 +0000" stop="20260411163000 +0000" channel="72012">
-    <title>Conexiones</title>
-    <desc>Un espacio para interactuar y conocer más acerca del deporte a través de las redes sociales.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19332062_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Sports talk</category>
-    <credits>
-      <actor>Ignacio Miranda</actor>
-      <actor>Carolina Muñoz</actor>
-      <actor>José Tomás Lambert</actor>
-    </credits>
+  <programme start="20260411180000 +0000" stop="20260411184500 +0000" channel="72012">
+    <title>Resúmenes en 30</title>
+    <desc>Los mejores momentos del juego de la fase regular de la Liga Nacional 2025-26.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Baloncesto Liga Nacional Argentina: San Martín vs. Obras</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
-  <programme start="20260411163000 +0000" stop="20260411170000 +0000" channel="72012">
-    <title>La senda del Outdoor</title>
-    <desc>Chile posee paisajes hermosos que invitan a un desafío que solo los valientes se atreven a tomar.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19628282_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Running</category>
-    <category>Outdoors</category>
+  <programme start="20260411184500 +0000" stop="20260411191500 +0000" channel="72012">
+    <title>Resúmenes en 30</title>
+    <desc>Juego de la semana 3 del Torneo Apertura de la Liga UNO 2026. Disputado el 9 de abril.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Liga UNO: UdeC vs. Colegio Los Leones</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
-  <programme start="20260411170000 +0000" stop="20260411180000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  <programme start="20260411191500 +0000" stop="20260411213000 +0000" channel="72012">
+    <title>Rugby [En vivo] [Nuevo]</title>
+    <desc>Cobertura de los grandes partidos de rugby y los mejores momentos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p886390_b_v12_ap.jpg?w=240&amp;h=360"/>
+    <sub-title>Top10 Arusa: Old Macks vs. Sporting RC</sub-title>
+    <date>2026</date>
+    <category>Rugby</category>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Ministero della Cultura">T</rating>
     <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
   </programme>
-  <programme start="20260411180000 +0000" stop="20260411210000 +0000" channel="72012">
-    <title>Hockey sobre césped masculino</title>
-    <desc>La mejor cobertura y toda la emoción de los partidos y eventos masculinos de hockey sobre césped.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p15224042_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <category>Field hockey</category>
-    <rating system="Kijkwijzer">AL</rating>
-  </programme>
-  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="72012">
-    <title>Hockey sobre césped femenino</title>
-    <desc>La mejor cobertura y toda la acción de cada uno de los partidos de hockey sobre césped femenino.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8027865_b_v8_aq.jpg?w=240&amp;h=360"/>
-    <category>Field hockey</category>
-  </programme>
-  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="72012">
-    <title>Climbing for a reason</title>
-    <desc>Una gran travesía de escaladas por lo lugares más recónditos del planeta.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19488271_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Sport climbing</category>
-    <category>Adventure</category>
+  <programme start="20260411213000 +0000" stop="20260411233000 +0000" channel="72012">
+    <title>Baloncesto Argentino Liga Nacional</title>
+    <desc>Acción de la fase regular de la Liga Nacional 2025-26. Desde el estadio Raúl Argentino Ortiz.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031VV60.jpg?w=240&amp;h=360"/>
+    <sub-title>San Martin (C) vs. Obras</sub-title>
+    <category>Basketball</category>
   </programme>
   <programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="72012">
-    <title>La senda del Outdoor [Nuevo]</title>
-    <desc>Chile posee paisajes hermosos que invitan a un desafío que solo los valientes se atreven a tomar.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19628282_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Running</category>
-    <category>Outdoors</category>
+    <title>Resúmenes en 30 [Nuevo]</title>
+    <desc>Se presentan los mejores momentos captados en el mundo del deporte.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Liga Chery: CD Castro vs. ABA Ancud</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
   <programme start="20260412000000 +0000" stop="20260412023000 +0000" channel="72012">
-    <title>Baloncesto Chileno Liga Nacional</title>
-    <desc>Toda la acción y la emoción de la máxima categoría de baloncesto profesional de Chile.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16075625_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <title>Baloncesto Chileno Liga Nacional [En vivo] [Nuevo]</title>
+    <desc>Semana 3 del Torneo Apertura 2026 de la Liga UNO. Desde el Coliseo Municipal Antonio Azurmendy.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032CDZ7.jpg?w=240&amp;h=360"/>
+    <sub-title>Valdivia vs. Puerto Varas</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260412023000 +0000" stop="20260412030000 +0000" channel="72012">
-    <title>Lo mejor de la semana [Nuevo]</title>
-    <desc>Un repaso de lo más destacado de la pantalla de CDO.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19488276_b_v8_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Action sports</category>
+  <programme start="20260412023000 +0000" stop="20260412043000 +0000" channel="72012">
+    <title>Baloncesto Liga ACB</title>
+    <desc>Jornada 26 de la Liga ACB temporada 2025-26. Desde el Pabellón Príncipe Felipe, en Zaragoza.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030GRNE.jpg?w=240&amp;h=360"/>
+    <sub-title>Casademont Zaragoza vs. Hiopos Lleida</sub-title>
+    <category>Basketball</category>
   </programme>
-  <programme start="20260412030000 +0000" stop="20260412060000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
+  <programme start="20260412043000 +0000" stop="20260412050000 +0000" channel="72012">
+    <title>Resúmenes en 30</title>
+    <desc>Recuento del partido de la fase regular de la Liga Nacional 2025-26. Disputado el 8 de abril.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Baloncesto Liga Nacional Argentina: Gimnasia vs. Unión</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
-  <programme start="20260412060000 +0000" stop="20260412070000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
+  <programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="72012">
+    <title>Baloncesto Chileno Liga Nacional</title>
+    <desc>Semana 2 de la Liga UNO temporada 2026. Desde el Coliseo Antonio Azurmendy, en Valdivia.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031XG2Z.jpg?w=240&amp;h=360"/>
+    <sub-title>Las Ánimas vs. ABA Ancud</sub-title>
+    <category>Basketball</category>
   </programme>
   <programme start="20260412070000 +0000" stop="20260412073000 +0000" channel="72012">
-    <title>La senda del Outdoor</title>
-    <desc>Chile posee paisajes hermosos que invitan a un desafío que solo los valientes se atreven a tomar.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p19628282_b_v11_aa.jpg?w=240&amp;h=360"/>
-    <date>2021</date>
-    <category>Running</category>
-    <category>Outdoors</category>
+    <title>Resúmenes en 30</title>
+    <desc>Juego de la semana 3 del Torneo Apertura de la Liga UNO 2026. Disputado el 9 de abril.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Liga UNO: UdeC vs. Colegio Los Leones</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
   <programme start="20260412073000 +0000" stop="20260412093000 +0000" channel="72012">
-    <title>Baloncesto Chileno Liga Nacional</title>
-    <desc>Toda la acción y la emoción de la máxima categoría de baloncesto profesional de Chile.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16075625_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <title>Rugby</title>
+    <desc>Cobertura de los grandes partidos de rugby y los mejores momentos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p886390_b_v12_ap.jpg?w=240&amp;h=360"/>
+    <sub-title>Top10 Arusa: Old Macks vs. Sporting RC</sub-title>
+    <date>2026</date>
+    <category>Rugby</category>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Ministero della Cultura">T</rating>
+    <rating system="Australian Classification Board">PG</rating>
+  </programme>
+  <programme start="20260412093000 +0000" stop="20260412113000 +0000" channel="72012">
+    <title>Baloncesto Argentino Liga Nacional</title>
+    <desc>Acción de la fase regular de la Liga Nacional 2025-26. Desde el estadio Raúl Argentino Ortiz.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031VV60.jpg?w=240&amp;h=360"/>
+    <sub-title>San Martin (C) vs. Obras</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260412093000 +0000" stop="20260412120000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
-  </programme>
-  <programme start="20260412130000 +0000" stop="20260412140000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
-  </programme>
-  <programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="72012">
-    <title>Baloncesto Chileno Liga Nacional</title>
-    <desc>Toda la acción y la emoción de la máxima categoría de baloncesto profesional de Chile.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16075625_b_v8_aa.jpg?w=240&amp;h=360"/>
+  <programme start="20260412113000 +0000" stop="20260412133000 +0000" channel="72012">
+    <title>Baloncesto Liga ACB</title>
+    <desc>Jornada 26 de la Liga ACB temporada 2025-26. Desde el Pabellón Príncipe Felipe, en Zaragoza.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030GRNE.jpg?w=240&amp;h=360"/>
+    <sub-title>Casademont Zaragoza vs. Hiopos Lleida</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260412160000 +0000" stop="20260412170000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
+  <programme start="20260412133000 +0000" stop="20260412135500 +0000" channel="72012">
+    <title>Resumen en 10</title>
+    <desc>Revive los mejores momentos ocurridos a través de distintas disciplinas alrededor del mundo.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30836032_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
+    <category>Sports talk</category>
   </programme>
-  <programme start="20260412170000 +0000" stop="20260412180000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
+  <programme start="20260412135500 +0000" stop="20260412160000 +0000" channel="72012">
+    <title>Superliga de Dinamarca [En vivo] [Nuevo]</title>
+    <desc>Desde Brøndby Stadium, en Brøndby, Dinamarca.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032FELJ.jpg?w=240&amp;h=360"/>
+    <sub-title>Brøndby IF vs. FC Midtjylland</sub-title>
+    <category>Playoff sports</category>
+    <category>Soccer</category>
   </programme>
-  <programme start="20260412180000 +0000" stop="20260412200000 +0000" channel="72012">
-    <title>FIBA Champions League Américas</title>
-    <desc>Torneo organizado por FIBA Américas en el que se enfrentan los mejores equipos de América.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p17511679_b_v8_ae.jpg?w=240&amp;h=360"/>
+  <programme start="20260412160000 +0000" stop="20260412180000 +0000" channel="72012">
+    <title>Rugby [Nuevo]</title>
+    <desc>Cobertura de los grandes partidos de rugby y los mejores momentos.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p886390_b_v12_ap.jpg?w=240&amp;h=360"/>
+    <sub-title>Top 10 Arusa: Stade Francais vs. Old Boys</sub-title>
+    <date>2026</date>
+    <category>Rugby</category>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">0</rating>
+    <rating system="Kijkwijzer">AL</rating>
+    <rating system="Ministero della Cultura">T</rating>
+    <rating system="Australian Classification Board">PG</rating>
+  </programme>
+  <programme start="20260412180000 +0000" stop="20260412183000 +0000" channel="72012">
+    <title>Resúmenes en 30</title>
+    <desc>Recuento del partido de la fase regular de la Liga Nacional 2025-26. Disputado el 8 de abril.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Baloncesto Liga Nacional Argentina: Gimnasia vs. Unión</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
+  </programme>
+  <programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="72012">
+    <title>Mi historia</title>
+    <desc>Testimonios de vida, mostrando cómo la fe y la relación con Dios han transformado personas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p8974997_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2011</date>
+    <category>Religious</category>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412193000 +0000" channel="72012">
+    <title>Resúmenes en 30</title>
+    <desc>Se presentan los mejores momentos captados en el mundo del deporte.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Liga Chery: CD Castro vs. ABA Ancud</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
+  </programme>
+  <programme start="20260412193000 +0000" stop="20260412213000 +0000" channel="72012">
+    <title>Baloncesto Argentino Liga Nacional</title>
+    <desc>Fase regular de la Liga Nacional 2025-26. Desde el estadio Socios Fundadores, en Comodoro Rivadavia.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031VV8R.jpg?w=240&amp;h=360"/>
+    <sub-title>Gimnasia (CR) vs. Instituto Atletico Central Cordoba</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="72012">
-    <title>Baloncesto Chileno Liga Nacional</title>
-    <desc>Toda la acción y la emoción de la máxima categoría de baloncesto profesional de Chile.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p16075625_b_v8_aa.jpg?w=240&amp;h=360"/>
+  <programme start="20260412213000 +0000" stop="20260412233000 +0000" channel="72012">
+    <title>Baloncesto Liga ACB</title>
+    <desc>Acción de la jornada 26 de la Liga ACB temporada 2025-26. Desde el Palau Blaugrana, en Barcelona.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030HNLS.jpg?w=240&amp;h=360"/>
+    <sub-title>FC Barcelona vs. Surne Bilbao Basket</sub-title>
     <category>Basketball</category>
   </programme>
-  <programme start="20260412220000 +0000" stop="20260412230000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
-  </programme>
-  <programme start="20260412230000 +0000" stop="20260413000000 +0000" channel="72012">
-    <title>Voleibol de Playa</title>
-    <desc>Cobertura sobre los encuentros de voleibol de playa.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p3589882_b_v8_at.jpg?w=240&amp;h=360"/>
-    <category>Beach volleyball</category>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
-    <rating system="Australian Classification Board">PG</rating>
-    <rating system="Kijkwijzer">AL</rating>
+  <programme start="20260412233000 +0000" stop="20260413000000 +0000" channel="72012">
+    <title>Resúmenes en 30 [Nuevo]</title>
+    <desc>Se presentan los mejores momentos captados en el mundo del deporte.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30699948_b_v12_aa.jpg?w=240&amp;h=360"/>
+    <sub-title>Liga Chery: CD Valdivia vs. Puerto Varas</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Multi-sport event</category>
   </programme>
   <programme start="20260411000000 +0000" stop="20260411020000 +0000" channel="72754">
     <title>Baloncesto Argentino Liga Nacional</title>
@@ -117888,7 +117905,7 @@
   </programme>
   <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="159550">
     <title>Masters de Montecarlo [En vivo] [Nuevo]</title>
-    <desc>Cobertura de las semifinales del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Vacherot. Semifinal del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Semifinales</sub-title>
     <category>Tennis</category>
@@ -119817,7 +119834,7 @@
   </programme>
   <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="88735">
     <title>Masters de Montecarlo [En vivo] [Nuevo]</title>
-    <desc>Cobertura de las semifinales del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Vacherot. Semifinal del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Semifinales</sub-title>
     <category>Tennis</category>
@@ -120072,7 +120089,7 @@
     <date>2009</date>
     <category>Tennis</category>
   </programme>
-  <programme start="20260411073000 +0000" stop="20260411083000 +0000" channel="73834">
+  <programme start="20260411073000 +0000" stop="20260411083100 +0000" channel="73834">
     <title>ESPN KnockOut</title>
     <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22180768_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -120082,7 +120099,7 @@
       <actor>Renato Bermúdez</actor>
     </credits>
   </programme>
-  <programme start="20260411083000 +0000" stop="20260411093000 +0000" channel="73834">
+  <programme start="20260411083100 +0000" stop="20260411093000 +0000" channel="73834">
     <title>UEFA Europa League &amp; UEFA Conference League</title>
     <desc>Un análisis completo de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p20641464_b_v12_af.jpg?w=240&amp;h=360"/>
@@ -120091,7 +120108,7 @@
     <category>Sports talk</category>
     <rating system="Arcom">-12</rating>
   </programme>
-  <programme start="20260411093000 +0000" stop="20260411123000 +0000" channel="73834">
+  <programme start="20260411093000 +0000" stop="20260411100000 +0000" channel="73834">
     <title>ESPN KnockOut [En vivo] [Nuevo]</title>
     <desc>Pelea eliminatoria para contender por el título peso gallo del CMB. Desde Tokio, Japón.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16919782_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -120102,27 +120119,36 @@
       <actor>Renato Bermúdez</actor>
     </credits>
   </programme>
-  <programme start="20260411123000 +0000" stop="20260411125500 +0000" channel="73834">
-    <title>Acción de la NBA</title>
-    <desc>Noticias y titulares de la NBA.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p448615_b_v8_ak.jpg?w=240&amp;h=360"/>
-    <date>2009</date>
-    <category>Basketball</category>
-    <credits>
-      <actor>Ian Eagle</actor>
-    </credits>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">L</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Régie du cinéma">G</rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  <programme start="20260411100000 +0000" stop="20260411123000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
-  <programme start="20260411125500 +0000" stop="20260411132000 +0000" channel="73834">
+  <programme start="20260411123000 +0000" stop="20260411125500 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
+  </programme>
+  <programme start="20260411125500 +0000" stop="20260411130000 +0000" channel="73834">
     <title>Bundesliga Preview Show</title>
     <desc>Programa donde se analizan por adelantado cómo se presentan las jornadas de la Bundesliga.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p215510_b_v12_ae.jpg?w=240&amp;h=360"/>
     <date>2005</date>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260411130000 +0000" stop="20260411132000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260411132000 +0000" stop="20260411153000 +0000" channel="73834">
     <title>Fútbol Bundesliga [En vivo] [Nuevo]</title>
@@ -120149,12 +120175,20 @@
     <date>2025</date>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411162000 +0000" stop="20260411183000 +0000" channel="73834">
+  <programme start="20260411162000 +0000" stop="20260411170000 +0000" channel="73834">
     <title>Fútbol Bundesliga [En vivo] [Nuevo]</title>
     <desc>Acción de la jornada 29 de la Bundesliga 2025-26. St. Pauli busca alejarse del descenso.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032429G.jpg?w=240&amp;h=360"/>
     <sub-title>FC St. Pauli vs. Bayern Munich</sub-title>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260411170000 +0000" stop="20260411183000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260411183000 +0000" stop="20260411204500 +0000" channel="73834">
     <title>Fútbol Serie A [En vivo] [Nuevo]</title>
@@ -120172,13 +120206,21 @@
     <category>Soccer</category>
     <category>Event</category>
   </programme>
-  <programme start="20260411205500 +0000" stop="20260411220000 +0000" channel="73834">
+  <programme start="20260411205500 +0000" stop="20260411210000 +0000" channel="73834">
     <title>Queens League Americas [En vivo] [Nuevo]</title>
     <desc>Jornada 5, Split 3 de la Queens League México 2025-26. Desde El Domo, en Ciudad de México.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p28319559_b_v8_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Club América vs. Atlético Parceras FC</sub-title>
     <category>Soccer</category>
     <category>Futsal</category>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411220000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260411220000 +0000" stop="20260411225500 +0000" channel="73834">
     <title>SportsCenter [En vivo] [Nuevo]</title>
@@ -120198,10 +120240,12 @@
     <category>Rugby union</category>
   </programme>
   <programme start="20260412010000 +0000" stop="20260412020000 +0000" channel="73834">
-    <title>ESPN Compact</title>
-    <desc>El mejor resumen de lo más destacado del deporte mundial.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
-    <category>Classic Sport Event</category>
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260412020000 +0000" stop="20260412030000 +0000" channel="73834">
     <title>ESPN Compact</title>
@@ -120216,7 +120260,7 @@
     <sub-title>Bundesliga: FC St. Pauli vs. FC Bayern München</sub-title>
     <category>Classic Sport Event</category>
   </programme>
-  <programme start="20260412040000 +0000" stop="20260412060000 +0000" channel="73834">
+  <programme start="20260412040000 +0000" stop="20260412050000 +0000" channel="73834">
     <title>ESPN KnockOut</title>
     <desc>Pelea eliminatoria para contender por el título peso gallo del CMB. Desde Tokio, Japón.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p16919782_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -120227,6 +120271,14 @@
       <actor>Renato Bermúdez</actor>
     </credits>
   </programme>
+  <programme start="20260412050000 +0000" stop="20260412060000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
+  </programme>
   <programme start="20260412060000 +0000" stop="20260412080000 +0000" channel="73834">
     <title>English Premier League</title>
     <desc>Jornada 32 de la temporada 2025-2026 de la Premier League. Desde el estadio Anfield.</desc>
@@ -120234,12 +120286,20 @@
     <sub-title>Liverpool vs. Fulham</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412080000 +0000" stop="20260412100000 +0000" channel="73834">
+  <programme start="20260412080000 +0000" stop="20260412090000 +0000" channel="73834">
     <title>Fútbol Bundesliga</title>
     <desc>Acción de la jornada 29 de la Bundesliga 2025-26. St. Pauli busca alejarse del descenso.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032429G.jpg?w=240&amp;h=360"/>
     <sub-title>FC St. Pauli vs. Bayern Munich</sub-title>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260412090000 +0000" stop="20260412100000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="73834">
     <title>Súper Rugby Américas</title>
@@ -120249,13 +120309,21 @@
     <category>Rugby</category>
     <category>Rugby union</category>
   </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="73834">
+  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="73834">
     <title>Súper Rugby Américas</title>
     <desc>Fecha 7 del Súper Rugby Américas 2026. Desde el Estadio Héroes de Curupayty, en Luque, Paraguay.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032CWXC.jpg?w=240&amp;h=360"/>
     <sub-title>Yacaré XV vs. Dogos XV</sub-title>
     <category>Rugby</category>
     <category>Rugby union</category>
+  </programme>
+  <programme start="20260412130000 +0000" stop="20260412140000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260412140000 +0000" stop="20260412161500 +0000" channel="73834">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
@@ -120264,13 +120332,21 @@
     <sub-title>RCD Mallorca vs. Rayo Vallecano</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412161500 +0000" stop="20260412181500 +0000" channel="73834">
+  <programme start="20260412161500 +0000" stop="20260412170000 +0000" channel="73834">
     <title>Rugby Argentino Torneo de la URBA</title>
     <desc>Fecha 4 de la temporada regular 2026 de la URBA Top 14. Desde el Estadio CASI, en San Isidro.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032DCNX.jpg?w=240&amp;h=360"/>
     <sub-title>C.A. San Isidro vs. Regatas Bella Vista</sub-title>
     <category>Rugby</category>
     <category>Rugby union</category>
+  </programme>
+  <programme start="20260412170000 +0000" stop="20260412181500 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260412181500 +0000" stop="20260412183000 +0000" channel="73834">
     <title>F2: Chasing the Dream</title>
@@ -120291,12 +120367,20 @@
     <sub-title>Como vs. Inter de Milán</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412204000 +0000" stop="20260412214000 +0000" channel="73834">
+  <programme start="20260412204000 +0000" stop="20260412210000 +0000" channel="73834">
     <title>ESPN Compact</title>
     <desc>Los momentos más destacados de la final del Monte-Carlo Masters 2025.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p9595055_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>ATP Masters 1000: Monte-Carlo Masters, final</sub-title>
     <category>Classic Sport Event</category>
+  </programme>
+  <programme start="20260412210000 +0000" stop="20260412214000 +0000" channel="73834">
+    <title>ESPN 3 Argentina</title>
+    <desc>Programación deportiva.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p32394364_st_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
+    <category>Sports talk</category>
+    <category>News</category>
   </programme>
   <programme start="20260412214000 +0000" stop="20260412220000 +0000" channel="73834">
     <title>Acción de la NBA</title>
@@ -121355,21 +121439,21 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260411160000 +0000" stop="20260411190000 +0000" channel="10179">
+  <programme start="20260411160000 +0000" stop="20260411191000 +0000" channel="10179">
     <title>United Football League [En vivo] [Nuevo]</title>
     <desc>The Defenders host the Gamblers with both teams looking for a critical Week 3 victory.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030B375.jpg?w=240&amp;h=360"/>
     <sub-title>Houston Gamblers at D.C. Defenders</sub-title>
     <category>Football</category>
   </programme>
-  <programme start="20260411190000 +0000" stop="20260411193000 +0000" channel="10179">
+  <programme start="20260411191000 +0000" stop="20260411193100 +0000" channel="10179">
     <title>Hey Rookie, Welcome to the NFL</title>
     <desc>NFL rookies get their first taste of professional football at training camp.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p24088480_b_v8_aa.jpg?w=240&amp;h=360"/>
     <date>2026</date>
     <category>Football</category>
   </programme>
-  <programme start="20260411193000 +0000" stop="20260411210000 +0000" channel="10179">
+  <programme start="20260411193100 +0000" stop="20260411210000 +0000" channel="10179">
     <title>30 for 30</title>
     <desc>The 1983 NFL Draft was highlighted by a record six quarterbacks being taken in the first round.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p7817579_b_v12_ap.jpg?w=240&amp;h=360"/>
@@ -121542,7 +121626,7 @@
     <date>2026</date>
     <category>Football</category>
   </programme>
-  <programme start="20260412210000 +0000" stop="20260412221200 +0000" channel="10179">
+  <programme start="20260412210000 +0000" stop="20260412220000 +0000" channel="10179">
     <title>NBA Tip-Off [En vivo] [Nuevo]</title>
     <desc>Ernie Johnson, Shaquille O'Neal, Charles Barkley and Kenny Smith readies viewers for NBA action.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p267533_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -121553,6 +121637,14 @@
       <actor>Charles Barkley</actor>
       <actor>Shaquille O'Neal</actor>
     </credits>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412221200 +0000" channel="10179">
+    <title>NBA Basketball</title>
+    <desc>The Nets visit the Clippers in a potential NBA Finals preview. Brooklyn beat Los Angeles on Feb. 2.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p19205447_tb2_v12_as.jpg?w=240&amp;h=360"/>
+    <sub-title>Brooklyn Nets at Los Angeles Clippers</sub-title>
+    <category>Basketball</category>
+    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260412221200 +0000" stop="20260413003500 +0000" channel="10179">
     <title>NBA Basketball [En vivo] [Nuevo]</title>
@@ -121635,7 +121727,7 @@
   </programme>
   <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="99984">
     <title>Masters de Montecarlo [En vivo] [Nuevo]</title>
-    <desc>Cobertura de las semifinales del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Vacherot. Semifinal del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Semifinales</sub-title>
     <category>Tennis</category>
@@ -122238,7 +122330,7 @@
   </programme>
   <programme start="20260411133000 +0000" stop="20260411140000 +0000" channel="37747">
     <title>Masters de Montecarlo [En vivo] [Nuevo]</title>
-    <desc>Cobertura de las semifinales del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Vacherot. Semifinal del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Semifinales</sub-title>
     <category>Tennis</category>
@@ -122397,7 +122489,7 @@
   </programme>
   <programme start="20260412130000 +0000" stop="20260412140000 +0000" channel="37747">
     <title>Masters de Montecarlo [En vivo] [Nuevo]</title>
-    <desc>Cobertura de la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Sinner en la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Final</sub-title>
     <category>Tennis</category>
@@ -123601,7 +123693,7 @@
   </programme>
   <programme start="20260412190000 +0000" stop="20260412210000 +0000" channel="121144">
     <title>Masters de Montecarlo</title>
-    <desc>Cobertura de la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Sinner en la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Final</sub-title>
     <category>Tennis</category>
@@ -123948,7 +124040,7 @@
   </programme>
   <programme start="20260412193000 +0000" stop="20260412210000 +0000" channel="122027">
     <title>Masters de Montecarlo</title>
-    <desc>Cobertura de la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Sinner en la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Final</sub-title>
     <category>Tennis</category>
@@ -124216,7 +124308,7 @@
   </programme>
   <programme start="20260412210000 +0000" stop="20260412230000 +0000" channel="79923">
     <title>Masters de Montecarlo</title>
-    <desc>Cobertura de la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
+    <desc>Alcaraz contra Sinner en la final del Máster de Montecarlo 2026. Desde el Monte Carlo Country Club.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32125497_b_v8_ah.jpg?w=240&amp;h=360"/>
     <sub-title>Final</sub-title>
     <category>Tennis</category>
@@ -124603,35 +124695,35 @@
     <category>Sports talk</category>
     <rating system="Australian Classification Board">G</rating>
   </programme>
-  <programme start="20260411115500 +0000" stop="20260411140000 +0000" channel="71914">
+  <programme start="20260411115500 +0000" stop="20260411140700 +0000" channel="71914">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 31 de la temporada 2025-2026 de LaLiga. Desde el Estadio de Anoeta, en San Sebastián.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG00320LVG.jpg?w=240&amp;h=360"/>
     <sub-title>Real Sociedad de Fútbol vs. Deportivo Alavés</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411140000 +0000" stop="20260411161500 +0000" channel="71914">
+  <programme start="20260411140700 +0000" stop="20260411161300 +0000" channel="71914">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 31 de la temporada 2025-2026 de LaLiga. Desde el estadio Martínez Valero, en Elche.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032D5WF.jpg?w=240&amp;h=360"/>
     <sub-title>Elche vs. Valencia</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411161500 +0000" stop="20260411183000 +0000" channel="71914">
+  <programme start="20260411161300 +0000" stop="20260411183200 +0000" channel="71914">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 31 de la temporada 2025-2026 de LaLiga. Desde el estadio Camp Nou, en Barcelona.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032D63X.jpg?w=240&amp;h=360"/>
     <sub-title>Barcelona vs. Espanyol</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411183000 +0000" stop="20260411210000 +0000" channel="71914">
+  <programme start="20260411183200 +0000" stop="20260411210700 +0000" channel="71914">
     <title>Fútbol LaLiga [En vivo] [Nuevo]</title>
     <desc>Jornada 31 de la temporada 2025-2026 de LaLiga. Desde el estadio Ramón Sánchez-Pizjuán, en Sevilla.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032D6PX.jpg?w=240&amp;h=360"/>
     <sub-title>Sevilla vs. Atlético de Madrid</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="71914">
+  <programme start="20260411210700 +0000" stop="20260411230000 +0000" channel="71914">
     <title>Masters de Augusta 2026 [En vivo] [Nuevo]</title>
     <desc>Tercera ronda del Masters 2026. Desde el Augusta National Golf Club, en Augusta, Georgia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32424089_b_v12_af.jpg?w=240&amp;h=360"/>
@@ -127895,14 +127987,14 @@
     <sub-title>Itzulia Basque Country : Etapa 5</sub-title>
     <category>Cycling</category>
   </programme>
-  <programme start="20260411130000 +0000" stop="20260411152700 +0000" channel="91198">
+  <programme start="20260411130000 +0000" stop="20260411163000 +0000" channel="91198">
     <title>UCI WorldTour Masculino [En vivo] [Nuevo]</title>
     <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
     <sub-title>Itzulia Basque Country : Etapa 6</sub-title>
     <category>Cycling</category>
   </programme>
-  <programme start="20260411152700 +0000" stop="20260411174100 +0000" channel="91198">
+  <programme start="20260411163000 +0000" stop="20260411184500 +0000" channel="91198">
     <title>UCI WorldTour Masculino</title>
     <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
@@ -127910,25 +128002,25 @@
     <category>Cycling</category>
     <rating system="Medierådet">A</rating>
   </programme>
-  <programme start="20260411174100 +0000" stop="20260411194100 +0000" channel="91198">
+  <programme start="20260411184500 +0000" stop="20260411204500 +0000" channel="91198">
     <title>World Snooker Tour</title>
     <icon src="https://cltv.tmsimg.com/assets/p24829502_b_v12_ab.jpg?w=240&amp;h=360"/>
     <sub-title>SESSION 2</sub-title>
     <category>Snooker</category>
   </programme>
-  <programme start="20260411194100 +0000" stop="20260411214200 +0000" channel="91198">
+  <programme start="20260411204500 +0000" stop="20260411224600 +0000" channel="91198">
     <title>UCI WorldTour Masculino</title>
     <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
     <sub-title>Itzulia Basque Country : Etapa 6</sub-title>
     <category>Cycling</category>
   </programme>
-  <programme start="20260411214200 +0000" stop="20260411231500 +0000" channel="91198">
+  <programme start="20260411224600 +0000" stop="20260412001900 +0000" channel="91198">
     <title>World Snooker Tour</title>
     <icon src="https://cltv.tmsimg.com/assets/p24829502_b_v12_ab.jpg?w=240&amp;h=360"/>
     <category>Snooker</category>
   </programme>
-  <programme start="20260411231500 +0000" stop="20260412014500 +0000" channel="91198">
+  <programme start="20260412001900 +0000" stop="20260412022200 +0000" channel="91198">
     <title>UCI WorldTour Masculino</title>
     <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
@@ -127936,7 +128028,7 @@
     <category>Cycling</category>
     <rating system="Medierådet">A</rating>
   </programme>
-  <programme start="20260412014500 +0000" stop="20260412020000 +0000" channel="91198">
+  <programme start="20260412022200 +0000" stop="20260412024900 +0000" channel="91198">
     <title>The Cycling Show</title>
     <desc>Magazine.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19284945_b_v8_ah.jpg?w=240&amp;h=360"/>
@@ -127945,17 +128037,10 @@
     <rating system="Krajowa Rada Radiofonii i Telewizji">0</rating>
     <rating system="Ministero della Cultura">T</rating>
   </programme>
-  <programme start="20260412020000 +0000" stop="20260412040000 +0000" channel="91198">
+  <programme start="20260412024900 +0000" stop="20260412053500 +0000" channel="91198">
     <title>World Snooker Tour</title>
     <icon src="https://cltv.tmsimg.com/assets/p24829502_b_v12_ab.jpg?w=240&amp;h=360"/>
     <category>Snooker</category>
-  </programme>
-  <programme start="20260412040000 +0000" stop="20260412053500 +0000" channel="91198">
-    <title>UCI WorldTour Masculino</title>
-    <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
-    <sub-title>Itzulia Basque Country : Etapa 6</sub-title>
-    <category>Cycling</category>
   </programme>
   <programme start="20260412053500 +0000" stop="20260412055000 +0000" channel="91198">
     <title>Trail Highlights</title>
@@ -128241,17 +128326,12 @@
     <icon src="https://cltv.tmsimg.com/assets/p24829502_b_v12_ab.jpg?w=240&amp;h=360"/>
     <category>Snooker</category>
   </programme>
-  <programme start="20260412020000 +0000" stop="20260412040000 +0000" channel="90365">
+  <programme start="20260412020000 +0000" stop="20260412054500 +0000" channel="90365">
     <title>UCI WorldTour Masculino</title>
     <desc>Toda la acción del ciclismo de ruta élite masculino.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p23581551_b_v12_au.jpg?w=240&amp;h=360"/>
     <sub-title>Itzulia Basque Country : Etapa 6</sub-title>
     <category>Cycling</category>
-  </programme>
-  <programme start="20260412040000 +0000" stop="20260412054500 +0000" channel="90365">
-    <title>World Snooker Tour</title>
-    <icon src="https://cltv.tmsimg.com/assets/p24829502_b_v12_ab.jpg?w=240&amp;h=360"/>
-    <category>Snooker</category>
   </programme>
   <programme start="20260412054500 +0000" stop="20260412080000 +0000" channel="90365">
     <title>UCI WorldTour Masculino</title>
@@ -212458,40 +212538,39 @@
     <date>2026</date>
     <category>News</category>
   </programme>
-  <programme start="20260411230000 +0000" stop="20260412011000 +0000" channel="124693">
+  <programme start="20260411230000 +0000" stop="20260411232700 +0000" channel="124693">
     <title>Campeonato Brasileiro [En vivo] [Nuevo]</title>
     <desc>Do Estádio da Vila Belmiro, em Santos, SP.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031HB79.jpg?w=240&amp;h=360"/>
     <sub-title>Santos x Atlético-MG</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412011000 +0000" stop="20260412014000 +0000" channel="124693">
+  <programme start="20260411232700 +0000" stop="20260412014400 +0000" channel="124693">
+    <title>Campeonato Brasileiro [En vivo] [Nuevo]</title>
+    <desc>Do Estádio da Vila Belmiro, em Santos, SP.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0031HB79.jpg?w=240&amp;h=360"/>
+    <sub-title>Santos x Atlético-MG</sub-title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260412014400 +0000" stop="20260412021400 +0000" channel="124693">
     <title>Campeonato Brasileiro</title>
     <desc>Do Estádio Mangueirão, em Belém, PA.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030HHNV.jpg?w=240&amp;h=360"/>
     <sub-title>Remo x Vasco</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412014000 +0000" stop="20260412021000 +0000" channel="124693">
+  <programme start="20260412021400 +0000" stop="20260412024500 +0000" channel="124693">
     <title>Campeonato Brasileiro</title>
     <desc>Do Estádio Barradão, em Salvador, BA.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030HV7N.jpg?w=240&amp;h=360"/>
     <sub-title>Vitória x São Paulo</sub-title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260412021000 +0000" stop="20260412024000 +0000" channel="124693">
+  <programme start="20260412024500 +0000" stop="20260412033000 +0000" channel="124693">
     <title>Campeonato Brasileiro</title>
     <desc>Do Estádio José Maria de Campos Maia, em Mirassol, SP.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030GVWL.jpg?w=240&amp;h=360"/>
     <sub-title>Mirassol x Bahia</sub-title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260412024000 +0000" stop="20260412033000 +0000" channel="124693">
-    <title>Giro da Rodada</title>
-    <desc>Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p12527265_b_v8_ad.jpg?w=240&amp;h=360"/>
-    <sub-title>Brasileirão - 11a Rodada</sub-title>
-    <date>2026</date>
     <category>Soccer</category>
   </programme>
   <programme start="20260412033000 +0000" stop="20260412040000 +0000" channel="124693">
@@ -222796,24 +222875,21 @@
     <sub-title>Quartas de Final, Jogo 2: Guarulhos x Praia Clube/Uberlândia</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411060000 +0000" stop="20260411080600 +0000" channel="110214">
+  <programme start="20260411060000 +0000" stop="20260411083800 +0000" channel="110214">
     <title>Superliga Masculina de Vôlei</title>
     <desc>Da Arena Suzano, em Suzano, SP.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG00328CBJ.jpg?w=240&amp;h=360"/>
     <sub-title>Quartas de Final, Jogo 2: Suzano x Minas</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411080600 +0000" stop="20260411091600 +0000" channel="110214">
+  <programme start="20260411083800 +0000" stop="20260411091600 +0000" channel="110214">
     <title>Sem Bloqueio</title>
-    <desc>Zé Roberto treina três atletas da Seleção na Turquia; a Liga das Nações começa no Maracanãzinho.</desc>
+    <desc>Sem Bloqueio viaja para Macau com a Seleção e mostra os bastidores da segunda etapa da VNL.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22974104_b_v12_ab.jpg?w=240&amp;h=360"/>
-    <sub-title>Ano Olímpico</sub-title>
+    <sub-title>O Mundo Mágico de Macau</sub-title>
     <date>2024</date>
     <category>Volleyball</category>
     <category>Documentary</category>
-    <credits>
-      <director>Anna Azevedo</director>
-    </credits>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">AL</rating>
   </programme>
   <programme start="20260411091600 +0000" stop="20260411092400 +0000" channel="110214">
@@ -222824,21 +222900,14 @@
     <date>2025</date>
     <category>Documentary</category>
   </programme>
-  <programme start="20260411092400 +0000" stop="20260411103100 +0000" channel="110214">
+  <programme start="20260411092400 +0000" stop="20260411115700 +0000" channel="110214">
     <title>Superliga Masculina de Vôlei</title>
     <desc>Do Ginásio da Ponte Grande, em Guarulhos, SP.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032CDJW.jpg?w=240&amp;h=360"/>
     <sub-title>Quartas de Final, Jogo 2: Guarulhos x Praia Clube/Uberlândia</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411103100 +0000" stop="20260411115700 +0000" channel="110214">
-    <title>Superliga Masculina de Vôlei</title>
-    <desc>Do Ginásio da Ponte Grande, em Guarulhos, SP.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032CDJW.jpg?w=240&amp;h=360"/>
-    <sub-title>Quartas de Final, Jogo 2: Guarulhos x Praia Clube/Uberlândia</sub-title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260411115700 +0000" stop="20260411121400 +0000" channel="110214">
+  <programme start="20260411115700 +0000" stop="20260411121500 +0000" channel="110214">
     <title>Galeria SporTV</title>
     <desc>Primeira ginasta campeã mundial do Brasil, Daiane dos Santos tem sua trajetória homenageada.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p11587916_b_v7_ab.jpg?w=240&amp;h=360"/>
@@ -222846,53 +222915,56 @@
     <date>2024</date>
     <category>Gymnastics</category>
   </programme>
-  <programme start="20260411121400 +0000" stop="20260411155000 +0000" channel="110214">
+  <programme start="20260411121500 +0000" stop="20260411161600 +0000" channel="110214">
     <title>Copa do Mundo de Ginástica [En vivo] [Nuevo]</title>
     <desc>Disputa da decisão de nova etapa do mundial de ginástica. Do Gradski vrt Hall, em Osijek, Croácia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p15331385_b_v12_am.jpg?w=240&amp;h=360"/>
     <sub-title>Ginástica Artística: Osijek, Croácia - Finais</sub-title>
     <category>Gymnastics</category>
   </programme>
-  <programme start="20260411155000 +0000" stop="20260411163000 +0000" channel="110214">
-    <title>The Z Team</title>
-    <desc>Margarita Mamun tenta mudar a sorte da equipe de Ginástica Rítmica de Pirouette de Moscou.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p14349073_b_v8_ac.jpg?w=240&amp;h=360"/>
-    <sub-title>Ginástica com Margarita Mamun</sub-title>
-    <date>2019</date>
+  <programme start="20260411161600 +0000" stop="20260411162900 +0000" channel="110214">
+    <title>Hello LA</title>
+    <desc>Os principais acontecimentos das modalidades olímpicas no ciclo até os Jogos de Los Angeles 2028.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p28288381_b_v8_aa.jpg?w=240&amp;h=360"/>
+    <date>2024</date>
     <category>Olympics</category>
-    <rating system="USA Parental Rating">TVG</rating>
-    <rating system="Canadian Parental Rating">G</rating>
-    <rating system="Régie du cinéma">G</rating>
+    <category>Summer Olympics</category>
+    <credits>
+      <actor>Marcelo Barreto</actor>
+      <actor>Fabiana Alvim</actor>
+      <director>Renato Ribeiro</director>
+    </credits>
   </programme>
-  <programme start="20260411163000 +0000" stop="20260411170000 +0000" channel="110214">
-    <title>Lendas Olímpicas</title>
-    <desc>Jackie Silva, primeiro ouro feminino no vôlei de praia, está focada em ajudar a próxima geração.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p14570393_b_v8_ai.jpg?w=240&amp;h=360"/>
-    <sub-title>Jackie Silva</sub-title>
-    <date>2018</date>
-  </programme>
-  <programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="110214">
+  <programme start="20260411162900 +0000" stop="20260411185700 +0000" channel="110214">
     <title>Superliga Masculina de Vôlei</title>
     <desc>Do Ginásio Poliesportivo Raul Belém, em Monte Carmelo, MG.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0032C8JN.jpg?w=240&amp;h=360"/>
     <sub-title>Quartas de Final, Jogo 2: Monte Carmelo x Campinas</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411190000 +0000" stop="20260411211500 +0000" channel="110214">
+  <programme start="20260411185700 +0000" stop="20260411191400 +0000" channel="110214">
+    <title>Galeria SporTV</title>
+    <desc>Líder de geração vitoriosa do vôlei brasileiro relembra grandes momentos de sua trajetória.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p11587916_b_v7_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Giba Revê Conquistas e Momentos Marcantes da Carreira</sub-title>
+    <date>2025</date>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260411191400 +0000" stop="20260411211400 +0000" channel="110214">
     <title>Superliga Masculina de Vôlei</title>
     <desc>Da Arena Suzano, em Suzano, SP.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG00328CBJ.jpg?w=240&amp;h=360"/>
     <sub-title>Quartas de Final, Jogo 2: Suzano x Minas</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411211500 +0000" stop="20260411233000 +0000" channel="110214">
+  <programme start="20260411211400 +0000" stop="20260411233500 +0000" channel="110214">
     <title>Superliga B de Vôlei Masculino [En vivo] [Nuevo]</title>
     <desc>Acompanhe as emoções da divisão de acesso à elite do vôlei masculino entre clubes do Brasil.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10653733_b_v12_aa.jpg?w=240&amp;h=360"/>
     <sub-title>Semifinal, Jogo 3: Montes Claros x Brasília</sub-title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260411233000 +0000" stop="20260412020000 +0000" channel="110214">
+  <programme start="20260411233500 +0000" stop="20260412020000 +0000" channel="110214">
     <title>Superliga B de Vôlei Masculino [En vivo] [Nuevo]</title>
     <desc>Do Ginásio Aécio de Borba, em Fortaleza, CE.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10653733_b_v12_aa.jpg?w=240&amp;h=360"/>
@@ -223154,7 +223226,7 @@
       <director>Mariana Lima</director>
     </credits>
   </programme>
-  <programme start="20260411170300 +0000" stop="20260411173000 +0000" channel="110215">
+  <programme start="20260411170300 +0000" stop="20260411172900 +0000" channel="110215">
     <title>Born to Sail</title>
     <desc>Toda a jornada do Mubadala Brasil SailGP, o primeiro time sul-americano que disputa a liga de vela.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p31977952_b_v8_aa.jpg?w=240&amp;h=360"/>
@@ -223164,14 +223236,14 @@
       <director>Mariana Lima</director>
     </credits>
   </programme>
-  <programme start="20260411173000 +0000" stop="20260411193000 +0000" channel="110215">
+  <programme start="20260411172900 +0000" stop="20260411193200 +0000" channel="110215">
     <title>SailGP [En vivo] [Nuevo]</title>
     <desc>Primeira corrida da etapa inaugural do SailGP no Brasil. Do Rio de Janeiro–RJ.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p19827810_b_v8_ab.jpg?w=240&amp;h=360"/>
     <sub-title>Etapa do Rio de Janeiro - Dia 1</sub-title>
     <category>Sailing</category>
   </programme>
-  <programme start="20260411193000 +0000" stop="20260411200000 +0000" channel="110215">
+  <programme start="20260411193200 +0000" stop="20260411200000 +0000" channel="110215">
     <title>Especial Gabriel Bortoleto</title>
     <desc>Os bastidores e os desafios do piloto brasileiro antes do início da temporada 2026 da Fórmula 1.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32591142_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -223180,27 +223252,23 @@
     <category>Auto racing</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260411200000 +0000" stop="20260411220500 +0000" channel="110215">
+  <programme start="20260411200000 +0000" stop="20260411220600 +0000" channel="110215">
     <title>Fórmula 1</title>
     <desc>Do Circuito de Suzuka, em Suzuka, Japão.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p691060_b_v12_bu.jpg?w=240&amp;h=360"/>
     <sub-title>GP do Japão</sub-title>
     <category>Auto racing</category>
   </programme>
-  <programme start="20260411220500 +0000" stop="20260411223500 +0000" channel="110215">
-    <title>Fome de Luta</title>
-    <desc>Thiago conhece Jessica Andrade, paranaense que queria jogar futebol, mas ganhou o mundo no octógono.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p22950319_b_v8_ac.jpg?w=240&amp;h=360"/>
-    <sub-title>Jessica Andrade</sub-title>
-    <date>2022</date>
-    <category>Mixed martial arts</category>
-    <category>Cooking</category>
-    <credits>
-      <actor>Thiago Castanho</actor>
-    </credits>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
+  <programme start="20260411220600 +0000" stop="20260411222700 +0000" channel="110215">
+    <title>Galeria SporTV</title>
+    <desc>Ex-campeão mundial de boxe relembra trajetória no esporte marcada por dificuldades e conquistas.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p11587916_b_v7_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Abre Aspas - Popó Relembra Trajetória</sub-title>
+    <date>2025</date>
+    <category>Interview</category>
+    <category>Sports talk</category>
   </programme>
-  <programme start="20260411223500 +0000" stop="20260411230500 +0000" channel="110215">
+  <programme start="20260411222700 +0000" stop="20260411225700 +0000" channel="110215">
     <title>Fome de Luta</title>
     <desc>Thiago conhece Deiveson Figueiredo, que já foi cowboy, cabeleireiro e sushiman antes de lutar MMA.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p22950319_b_v8_ac.jpg?w=240&amp;h=360"/>
@@ -223210,26 +223278,26 @@
     <category>Cooking</category>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">A14</rating>
   </programme>
-  <programme start="20260411230500 +0000" stop="20260412020500 +0000" channel="110215">
+  <programme start="20260411225700 +0000" stop="20260412015500 +0000" channel="110215">
     <title>Jungle Fight 146</title>
     <desc>Evento com disputa por cinturão peso-leve. Do Ginásio Nilson Nelson, em Brasília-DF.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32638900_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Mixed martial arts</category>
   </programme>
-  <programme start="20260412020500 +0000" stop="20260412045000 +0000" channel="110215">
+  <programme start="20260412015500 +0000" stop="20260412044400 +0000" channel="110215">
     <title>Jungle Fight 147</title>
     <desc>Edição número 147 do evento brasileiro de MMA. Do Ginásio Nelson Ferreira Lima, em Magé, RJ.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p32690076_b_v12_aa.jpg?w=240&amp;h=360"/>
     <category>Mixed martial arts</category>
   </programme>
-  <programme start="20260412045000 +0000" stop="20260412070000 +0000" channel="110215">
+  <programme start="20260412044400 +0000" stop="20260412065400 +0000" channel="110215">
     <title>Grand Slam de Judô</title>
     <desc>Disputa pela medalha de ouro. Da Tbilisi Arena, em Tbilisi, na Geórgia.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p10751771_b_v12_ap.jpg?w=240&amp;h=360"/>
     <sub-title>Tbilisi, Geórgia</sub-title>
     <category>Judo</category>
   </programme>
-  <programme start="20260412070000 +0000" stop="20260412072500 +0000" channel="110215">
+  <programme start="20260412065400 +0000" stop="20260412072500 +0000" channel="110215">
     <title>Anatomy Of</title>
     <desc>Os poderes e físico de atletas de elite de tiro com arco, ginástica rítmica e maratona.</desc>
     <icon src="https://cltv.tmsimg.com/assets/p14493412_b_v8_ab.jpg?w=240&amp;h=360"/>
@@ -235955,7 +236023,7 @@
   </programme>
   <programme start="20260412190000 +0000" stop="20260412220000 +0000" channel="11164">
     <title>NHL Hockey [En vivo] [Nuevo]</title>
-    <desc>The Penguins travel to Capital One Arena to take on the Capitals. The Penguins leads the season 1-0.</desc>
+    <desc>The Penguins travel to Capital One Arena to take on the Capitals. The Penguins lead the season 1-0.</desc>
     <icon src="https://cltv.tmsimg.com/assets/GNLZZGG0030DCQW.jpg?w=240&amp;h=360"/>
     <sub-title>Pittsburgh Penguins at Washington Capitals</sub-title>
     <category>Hockey</category>
@@ -241251,12 +241319,30 @@
     <category>Classic Sport Event</category>
     <category>Auto racing</category>
   </programme>
-  <programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="120956">
-    <title>Live: Australia Championship Supercars [En vivo] [Nuevo]</title>
-    <desc>Action from the Repco Supercars Championship.</desc>
-    <icon src="https://cltv.tmsimg.com/assets/p8512612_b_v8_ae.jpg?w=240&amp;h=360"/>
-    <sub-title>Race 10: Taupō Super 440</sub-title>
-    <category>Auto racing</category>
+  <programme start="20260412030000 +0000" stop="20260412043000 +0000" channel="120956">
+    <title>Premier League</title>
+    <desc>Action from the Premier League as Arsenal face Bournemouth.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p378308_b_v11_aw.jpg?w=240&amp;h=360"/>
+    <sub-title>Arsenal v Bournemouth</sub-title>
+    <category>Classic Sport Event</category>
+    <category>Soccer</category>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">A</rating>
+  </programme>
+  <programme start="20260412043000 +0000" stop="20260412050000 +0000" channel="120956">
+    <title>Premier League Stories</title>
+    <desc>Victor looks back on his rise through English football, culminating in PL success with Chelsea.</desc>
+    <icon src="https://cltv.tmsimg.com/assets/p30076761_b_v12_ab.jpg?w=240&amp;h=360"/>
+    <sub-title>Victor Moses</sub-title>
+    <date>2026</date>
+    <category>Documentary</category>
+    <category>Soccer</category>
+    <credits>
+      <actor>Victor Moses</actor>
+    </credits>
+    <rating system="Arcom">-12</rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">12</rating>
+    <rating system="Australian Classification Board">MA 15+</rating>
+    <rating system="Kijkwijzer">AL</rating>
   </programme>
   <programme start="20260412050000 +0000" stop="20260412060000 +0000" channel="120956">
     <title>Itzulia Basque Country</title>
