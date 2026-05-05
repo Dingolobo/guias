@@ -46,7 +46,7 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_7_hd/default/index.mpd
 #EXTINF:-1 tvg-id="89873" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 8
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
 #KODIPROP:inputstream.adaptive.license_key=2c8dfa56ccc3cd71ae7e8a641ba2c44a:9f6413afbdbae75777c3c3d5a0cbfd4c
 https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-1-HD/default.mpd
@@ -54,9 +54,10 @@ https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-1-HD/default.mpd
 #EXTINF:-1 tvg-id="89807" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 9
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
 #KODIPROP:inputstream.adaptive.license_key=e50ac5788856914c8a0072edd5579fc7:d28dc99427683e4581abf9abcac7559c
-https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-2-HD/default.mpd
+https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-2-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="89808" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 10
 #KODIPROP:inputstream=inputstream.adaptive.
