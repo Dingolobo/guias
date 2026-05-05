@@ -1,99 +1,87 @@
-#EXTINF:-1 tvg-id="60889" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 1
-#KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_1_hd/default/index.mpd
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Dingolobo/guias/refs/heads/main/new-mxepg.xml"
 
-#EXTINF:-1 tvg-id="50118" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 2
+#EXTINF:-1 tvg-id="20742" tvg-logo="https://cltv.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Noticias", 24 Horas
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_2_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=83b70dd2efb59c4afc82f6291057560d:e6ee9459151ac38d37cfc3ca1a424440
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/14/out/u/dash/24-HRS-SD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50111" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 3
+#EXTINF:-1 tvg-id="87004" tvg-logo="https://cltv.tmsimg.com/assets/s10035_ld_h15_ab.png?w=360&h=270" group-title="Entretenimiento", A&E
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_3_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="75674" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 4
+#EXTINF:-1 tvg-id="82808" tvg-logo="https://cltv.tmsimg.com/assets/s82808_ld_h15_aa.png?w=360&h=270" group-title="Cine/Series", A3 Cine
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_4_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c86a2c9cca0c05c04dbc49c06561c033:b6b00e852c2e160bd3ed1f0dd797883a
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/13/out/u/dash/A3-CINE-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50120" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 5
+#EXTINF:-1 tvg-id="102943" tvg-logo="https://cltv.tmsimg.com/assets/s128756_ld_h15_aa.png?w=360&h=270" group-title="Cine/Series", A3 Series
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_5_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2ec74612833c48e4e2bf730aef0f92a5:bf851c48ef13fde3aa7ce6183fb5f861
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/12/out/u/dash/ATRES-SERIES-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50113" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 6
+#EXTINF:-1 tvg-id="15384" tvg-logo="https://imgmvshub.akamaized.net/images/vod/vod/256/256/0/0/2871563.png" group-title="Noticias", ADN40
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_6_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7bf657922964e875948afeaf853954fb:55d2a15c10a60093a350a56389879542
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/out/u/dash/CDMX1/ADN40-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50109" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 7
+#EXTINF:-1 tvg-id="83166" tvg-logo="https://cltv.tmsimg.com/assets/s83162_h3_aa.png?w=360&h=270" group-title="Deportes", Adrenalina Sports
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_7_hd/default/index.mpd
- 
-#EXTINF:-1 tvg-id="89873" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 8
-#KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=2c8dfa56ccc3cd71ae7e8a641ba2c44a:9f6413afbdbae75777c3c3d5a0cbfd4c
-https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-1-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=6de0a66b528401c0378c559712f74643:f9a240cea75f585add8405375ad1d787
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/11/out/u/dash/ADRENALINA-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="89807" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 9
+#EXTINF:-1 tvg-id="148503" tvg-logo="https://cltv.tmsimg.com/assets/s16496_ld_h15_ad.png?w=360&h=270" group-title="Infantil", Adult Swim (MX)
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=e50ac5788856914c8a0072edd5579fc7:d28dc99427683e4581abf9abcac7559c
-https://cun-live1-ott.izzigo.tv/11/out/u/dash/MLB-EI-2-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/15/out/u/dash/ADULTSWIM-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="89808" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 10
+#EXTINF:-1 tvg-id="68223" tvg-logo="https://cltv.tmsimg.com/assets/s16496_ld_h15_ad.png?w=360&h=270" group-title="Infantil", Adult Swim (LATAM)
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=26dd5a4cf5719d8df4be194d4f838470:9090a63ec967ccdfc6b1e26e60ba8c4b
-https://cun-live1-ott.izzigo.tv/12/out/u/dash/MLB-EI-3-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=233acf46698eb30c37dd52677d8014a2:8ded0edf602914075472a2f335831b4d
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TRU_TV_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="89809" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 11
+#EXTINF:-1 tvg-id="102458" tvg-logo="https://cltv.tmsimg.com/assets/s49968_ld_h15_ac.png?w=360&h=270" group-title="Noticias", Aljazeera
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=92aec2d4fc5d5f9dd69cc7a45c49e1f7:667ce95acd67617048a1a1de1cfb3073
-https://cun-live1-ott.izzigo.tv/12/out/u/dash/MLB-EI-4-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=ba7146a3064f23e9f34a76096509d664:604e9a361c3f7033d930c34ff4d3d830
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/14/out/u/dash/AL-JAZEERA-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="89810" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 12
+#EXTINF:-1 tvg-id="148508" tvg-logo="https://cltv.tmsimg.com/assets/s116157_ld_h15_ab.png?w=360&h=270" group-title="Entretenimiento", A mas
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=0b470e11c47058c281568c02770088cb:dbf3e8f72b04a59e8f90034aa7552135
-https://cun-live1-ott.izzigo.tv/12/out/u/dash/MLB-EI-5-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://livedashmx.cdn.startv.tv/bpk-tv/amas/vmx/index.mpd
 
-#EXTINF:-1 tvg-id="89811" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 13
+#EXTINF:-1 tvg-id="90852" tvg-logo="https://cltv.tmsimg.com/assets/s90653_ld_h15_ad.png?w=360&h=270" group-title="Cine/Series", AMC
 #KODIPROP:inputstream=inputstream.adaptive.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=aebcb59a70c83a2a4c292e72bbbea062:89e0bb3649b005d708cf28c9bba3b5b0
-https://cun-live1-ott.izzigo.tv/12/out/u/dash/MLB-EI-6-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
+#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
+https://cun-live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="89812" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 14
+#EXTINF:-1 tvg-id="131582" tvg-logo="https://cltv.tmsimg.com/assets/s131582_ld_h15_aa.png?w=360&h=270" group-title="Cine/Series", AMC en Español
 #KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=42bf115b12d82023361f1d63b878d429:57b87bbbcc2cd9ab3424c52be4b36f1c
-https://cun-live1-ott.izzigo.tv/13/out/u/dash/MLB-EI-7-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="89813" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 15
-#KODIPROP:inputstream=inputstream.adaptive.
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
-#KODIPROP:inputstream.adaptive.license_key=5e21420a5a995584de0323780abeeecd:e9f84781221baed3138f0e84f92c7be4
-https://cun-live1-ott.izzigo.tv/13/out/u/dash/MLB-EI-8-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
