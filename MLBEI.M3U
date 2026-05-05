@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-id="60889" tvg-logo="https://cltv.tmsimg.com/assets/s95839_ld_h3_ab.png?w=360&h=270" group-title="Deportes", MLB Extra Innings 1
 #KODIPROP:inputstream=inputstream.adaptive.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
 #KODIPROP:inputstream.adaptive.license_key=3fc69bcc6293478f94f7e1bcbce1aa18:7b358be2473a82661947a58d5b93b446
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mlb_1_hd/default/index.mpd
