@@ -5,8 +5,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
 #KODIPROP:inputstream.adaptive.license_key=83b70dd2efb59c4afc82f6291057560d:e6ee9459151ac38d37cfc3ca1a424440
-#KODIPROP:inputstream.adaptive.license_key_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Origin=https://izzigo.tv/&Referer=https://izzigo.tv/
 https://cun-live1-ott.izzigo.tv/14/out/u/dash/24-HRS-SD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="87004" tvg-logo="https://cltv.tmsimg.com/assets/s10035_ld_h15_ab.png?w=360&h=270" group-title="Entretenimiento", A&E
