@@ -1,0 +1,23 @@
+#EXTINF:-1 tvg-id="20742" tvg-logo="https://cltv.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Noticias", 24 Horas
+#KODIPROP:inputstream=inputstream.adaptive.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
+#KODIPROP:inputstream.adaptive.license_key=83b70dd2efb59c4afc82f6291057560d:e6ee9459151ac38d37cfc3ca1a424440
+https://cun-live1-ott.izzigo.tv/14/out/u/dash/24-HRS-SD/default.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="87004" tvg-logo="https://cltv.tmsimg.com/assets/s10035_ld_h15_ab.png?w=360&h=270" group-title="Entretenimiento", A&E
+#KODIPROP:inputstream=inputstream.adaptive.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+https://cun-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="82808" tvg-logo="https://cltv.tmsimg.com/assets/s82808_ld_h15_aa.png?w=360&h=270" group-title="Cine/Series", A3 Cine
+#KODIPROP:inputstream=inputstream.adaptive.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
+#KODIPROP:inputstream.adaptive.license_key=c86a2c9cca0c05c04dbc49c06561c033:b6b00e852c2e160bd3ed1f0dd797883a
+https://cun-live1-ott.izzigo.tv/13/out/u/dash/A3-CINE-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="102943" tvg-logo="https://cltv.tmsimg.com/assets/s128756_ld_h15_aa.png?w=360&h=270" group-title="Cine/Series", A3 Series
+#KODIPROP:inputstream=inputstream.adaptive.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey.
+#KODIPROP:inputstream.adaptive.license_key=2ec74612833c48e4e2bf730aef0f92a5:bf851c48ef13fde3aa7ce6183fb5f861
+https://cun-live1-ott.izzigo.tv/12/out/u/dash/ATRES-SERIES-HD/default.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
