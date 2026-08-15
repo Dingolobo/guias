@@ -2,8 +2,8 @@ import json
 import re
 import requests
 from playwright.sync_api import sync_playwright
-# Importamos el módulo completo para evitar conflictos de nombres de funciones entre versiones
-import playwright_stealth
+# Importamos la función exacta para Playwright Sincrónico
+from playwright_stealth import stealth_page
 
 API_URL = "https://api.ppv.is/api/streams"
 
@@ -60,12 +60,8 @@ def buscar_m3u8_en_iframe(url_info):
         
         page = context.new_page()
         
-        # !!!! APLICAMOS MODO SIGILOSO EVITANDO ERRORES DE IMPORTACIÓN !!!!
-        # Intentamos usar la función de las versiones nuevas, si falla usamos la clásica
-        try:
-            playwright_stealth.stealth_sync(page)
-        except AttributeError:
-            playwright_stealth.stealth(page)
+        # !!!! APLICAMOS MODO SIGILOSO CORRECTAMENTE !!!!
+        stealth_page(page)
 
         # Escuchamos todas las peticiones de red
         def interceptar_peticion(request):
@@ -108,7 +104,7 @@ def main():
     print(f"Se detectaron {len(eventos)} eventos en total.")
     print("--- MODO DE PRUEBA: Procesando únicamente el primer stream encontrado ---")
     
-    primer_evento = eventos[0]
+    primer_evento = eventos
     enlaces = buscar_m3u8_en_iframe(primer_evento)
     
     if enlaces:
