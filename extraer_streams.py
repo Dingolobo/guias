@@ -2,8 +2,8 @@ import json
 import re
 import requests
 from playwright.sync_api import sync_playwright
-# Importamos la herramienta de camuflaje
-from playwright_stealth import stealth_sync
+# Importamos el módulo completo para evitar conflictos de nombres de funciones entre versiones
+import playwright_stealth
 
 API_URL = "https://api.ppv.is/api/streams"
 
@@ -41,7 +41,7 @@ def buscar_m3u8_en_iframe(url_info):
     enlaces_encontrados = []
 
     with sync_playwright() as p:
-        # Iniciamos Chromium pasando argumentos para simular un entorno normal
+        # Lanzamos Chromium pasando argumentos que ocultan el control automatizado
         browser = p.chromium.launch(
             headless=True,
             args=[
@@ -60,13 +60,15 @@ def buscar_m3u8_en_iframe(url_info):
         
         page = context.new_page()
         
-        # !!!! AQUÍ APLICAMOS EL MODO SIGILOSO !!!!
-        # Esto borra las huellas de automatización antes de que cargue el JavaScript ofuscado de la página
-        stealth_sync(page)
+        # !!!! APLICAMOS MODO SIGILOSO EVITANDO ERRORES DE IMPORTACIÓN !!!!
+        # Intentamos usar la función de las versiones nuevas, si falla usamos la clásica
+        try:
+            playwright_stealth.stealth_sync(page)
+        except AttributeError:
+            playwright_stealth.stealth(page)
 
-        # Escuchamos todas las peticiones de red (XHR, fetch, scripts, etc.)
+        # Escuchamos todas las peticiones de red
         def interceptar_peticion(request):
-            # Evaluamos si la URL contiene .m3u8 (insensible a mayúsculas/minúsculas)
             if ".m3u8" in request.url.lower():
                 if request.url not in enlaces_encontrados:
                     enlaces_encontrados.append(request.url)
@@ -75,16 +77,16 @@ def buscar_m3u8_en_iframe(url_info):
         page.on("request", interceptar_peticion)
 
         try:
-            # Navegar al iframe esperando que el DOM inicial esté listo
+            # Navegar al iframe
             page.goto(url_objetivo, wait_until="domcontentloaded", timeout=45000)
             
-            # Esperamos 5 segundos para que los scripts internos descifren el contenido
+            # Esperamos a que los scripts internos de la web terminen de descifrar
             page.wait_for_timeout(5000)
             
-            # Simulamos un clic en el centro para despertar reproductores con "Click to Play"
+            # Simulamos un clic en el centro para despertar reproductores "Click to Play"
             page.mouse.click(640, 360)
             
-            # Damos 10 segundos adicionales para que empiece a reproducir y salte la petición de red
+            # Damos 10 segundos adicionales para que empiece a reproducir y salte la petición .m3u8
             print("    [*] Esperando transmisión de datos...")
             page.wait_for_timeout(10000)
             
