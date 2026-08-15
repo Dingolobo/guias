@@ -24,12 +24,13 @@ def obtener_iframes():
                 for stream in categoria["streams"]:
                     iframe_url = stream.get("iframe")
                     if iframe_url:
-                        # OPCIONAL: Si necesitas recortar antes del '?', descomenta la línea de abajo:
-                        # iframe_url = iframe_url.split('?')[0]
+                        # Cortamos la URL antes del signo "?" como solicitaste
+                        # Nota: Si el reproductor falla por falta de parámetros, vuelve a usar la completa
+                        iframe_limpio = iframe_url.split('?')[0]
                         
                         urls_iframe.append({
                             "name": stream.get("name", "Evento sin nombre"),
-                            "url": iframe_url
+                            "url": iframe_limpio
                         })
     return urls_iframe
 
@@ -39,33 +40,31 @@ def buscar_m3u8_en_iframe(url_info):
     url_objetivo = url_info["url"]
     
     print(f"\n[+] Analizando evento: {nombre_evento}")
-    print(f"    URL Iframe: {url_objetivo}")
+    print(f"    URL Iframe (limpia): {url_objetivo}")
 
     enlaces_encontrados = []
 
     with sync_playwright() as p:
         # Lanzar navegador en modo invisible
         browser = p.chromium.launch(headless=True)
-        # Configurar un User-Agent común para evitar bloqueos básicos
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
 
-        # Función interna que se activa con cada petición de red que hace la página
+        # Interceptamos las peticiones de red buscando el archivo .m3u8
         def interceptar_peticion(request):
             if ".m3u8" in request.url:
                 if request.url not in enlaces_encontrados:
                     enlaces_encontrados.append(request.url)
                     print(f"    [ENCONTRADO] -> {request.url}")
 
-        # Registrar el "escuchador" de peticiones de red
         page.on("request", interceptar_peticion)
 
         try:
-            # Ir a la página y esperar hasta 30 segundos a que carguen las conexiones de red
+            # Ir a la página y esperar a que la red se estabilice
             page.goto(url_objetivo, wait_until="networkidle", timeout=30000)
-            # Esperar 5 segundos extra en la pantalla por si el reproductor tarda en arrancar
+            # Damos 5 segundos extra para que el reproductor interno cargue el stream
             page.wait_for_timeout(5000)
         except Exception as e:
             print(f"    [!] Tiempo de espera agotado o error al cargar el iframe: {e}")
@@ -82,11 +81,17 @@ def main():
         print("No se encontraron eventos activos en la API.")
         return
 
-    print(f"Se encontraron {len(eventos)} eventos para procesar.")
+    print(f"Se detectaron {len(eventos)} eventos en total.")
+    print("--- MODO DE PRUEBA: Procesando únicamente el primer stream encontrado ---")
     
-    # Procesar cada iframe (puedes limitar esto si son demasiados)
-    for evento in eventos:
-        buscar_m3u8_en_iframe(evento)
+    # Tomamos solo el primer elemento de la lista utilizando [0]
+    primer_evento = eventos[0]
+    enlaces = buscar_m3u8_en_iframe(primer_evento)
+    
+    if enlaces:
+        print(f"\n[ÉXITO] Se obtuvieron {len(enlaces)} enlace(s) .m3u8 para el primer evento.")
+    else:
+        print("\n[ALERTA] No se detectó ninguna petición .m3u8 en este evento.")
 
 if __name__ == "__main__":
     main()
