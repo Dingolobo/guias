@@ -20,7 +20,7 @@ jobs:
 
     - name: Instalar dependencias del script
       run: |
-        pip install requests playwright playwright-stealth
+        pip install requests playwright
 
     - name: Instalar navegadores de Playwright
       run: |
