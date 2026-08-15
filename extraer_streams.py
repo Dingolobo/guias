@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 API_URL = "https://api.ppv.is/api/streams"
 
 def obtener_iframes():
-    """Obtiene todas las URLs de iframe desde la API."""
+    """Obtiene todas las URLs de iframe desde la API manteniendo los tokens necesarios."""
     try:
         response = requests.get(API_URL, timeout=15)
         response.raise_for_status()
@@ -17,38 +17,34 @@ def obtener_iframes():
 
     urls_iframe = []
     
-    # Recorrer la estructura del JSON entregado
     if "streams" in data:
         for categoria in data["streams"]:
             if "streams" in categoria:
                 for stream in categoria["streams"]:
                     iframe_url = stream.get("iframe")
                     if iframe_url:
-                        # Cortamos la URL antes del signo "?" como solicitaste
-                        # Nota: Si el reproductor falla por falta de parámetros, vuelve a usar la completa
-                        iframe_limpio = iframe_url.split('?')[0]
-                        
+                        # MANTENEMOS LA URL COMPLETA para que el reproductor tenga sus credenciales (como gid=...)
                         urls_iframe.append({
                             "name": stream.get("name", "Evento sin nombre"),
-                            "url": iframe_limpio
+                            "url": iframe_url 
                         })
     return urls_iframe
 
 def buscar_m3u8_en_iframe(url_info):
-    """Abre el iframe en un navegador invisible y captura el enlace .m3u8."""
+    """Abre el iframe con tokens, simula interacción y captura el enlace .m3u8."""
     nombre_evento = url_info["name"]
     url_objetivo = url_info["url"]
     
     print(f"\n[+] Analizando evento: {nombre_evento}")
-    print(f"    URL Iframe (limpia): {url_objetivo}")
+    print(f"    URL Iframe (Con Parámetros): {url_objetivo}")
 
     enlaces_encontrados = []
 
     with sync_playwright() as p:
-        # Lanzar navegador en modo invisible
+        # Iniciamos Chromium invisible
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         )
         page = context.new_page()
 
@@ -62,12 +58,18 @@ def buscar_m3u8_en_iframe(url_info):
         page.on("request", interceptar_peticion)
 
         try:
-            # Ir a la página y esperar a que la red se estabilice
-            page.goto(url_objetivo, wait_until="networkidle", timeout=30000)
-            # Damos 5 segundos extra para que el reproductor interno cargue el stream
-            page.wait_for_timeout(5000)
+            # Ir a la página y esperar que cargue la estructura básica
+            page.goto(url_objetivo, wait_until="domcontentloaded", timeout=30000)
+            
+            # Forzar una interacción física (Hacer clic en el centro de la pantalla)
+            # Esto activa reproductores que requieren un clic del usuario para empezar a transmitir
+            page.mouse.click(640, 360) 
+            
+            # Esperar 8 segundos a que se disparen las conexiones de video tras el clic
+            page.wait_for_timeout(8000)
+            
         except Exception as e:
-            print(f"    [!] Tiempo de espera agotado o error al cargar el iframe: {e}")
+            print(f"    [!] Error durante el análisis del iframe: {e}")
         finally:
             browser.close()
             
@@ -84,12 +86,12 @@ def main():
     print(f"Se detectaron {len(eventos)} eventos en total.")
     print("--- MODO DE PRUEBA: Procesando únicamente el primer stream encontrado ---")
     
-    # Tomamos solo el primer elemento de la lista utilizando [0]
+    # Tomamos el primer evento de la lista
     primer_evento = eventos[0]
     enlaces = buscar_m3u8_en_iframe(primer_evento)
     
     if enlaces:
-        print(f"\n[ÉXITO] Se obtuvieron {len(enlaces)} enlace(s) .m3u8 para el primer evento.")
+        print(f"\n[ÉXITO] Se obtuvieron {len(enlaces)} enlace(s) .m3u8.")
     else:
         print("\n[ALERTA] No se detectó ninguna petición .m3u8 en este evento.")
 
