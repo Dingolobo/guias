@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="MVS Hub Multi-Channel Dynamic 24h" generator-info-url="https://www.mvshub.com.mx/">
+  <channel id="1761">
+    <display-name>1BN</display-name>
+    <display-name>529</display-name>
+    <icon src="http://192.0.2.70:7780/xtv-ws-client/api/content/thumbnail/asset/3377907" />
+  </channel>
+  <programme start="20261110130000 +0000" stop="20261110160000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Leones del Caracas at Cardenales de Lara</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261109</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003TFV9S.jpg" />
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="1761">
+    <title lang="es">Entrelíneas</title>
+    <desc lang="es">Un programa que trata la realidad deportiva buscando sus antecedentes y las consecuencias tanto positivas como negativas. Pretende que los aficionados del fútbol puedan manejar la información y formar una opinión fundamentada y llena de valor.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p19533662_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20261110163000 +0000" stop="20261110173000 +0000" channel="1761">
+    <title lang="es">A palo limpio</title>
+    <desc lang="es">ByM Sport les trae un debate a cuatro voces y con la pasión a flor de piel semana a semana en la LVBP.</desc>
+    <category lang="es">Special</category>
+    <category lang="es">Sports talk</category>
+    <category lang="es">Debate</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p34317616_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20261110173000 +0000" stop="20261110183000 +0000" channel="1761">
+    <title lang="es">Fastball</title>
+    <desc lang="es">Científicos y glorias del béisbol analizan lo que pasa por la cabeza de un bateador al recibir el lanzamiento, algo que ocurre en menos de medio segundo.</desc>
+    <category lang="es">Documentary</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20160325</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p12633470_p_v12_ab.jpg" />
+  </programme>
+  <programme start="20261110183000 +0000" stop="20261110190000 +0000" channel="1761">
+    <title lang="es">Entrelíneas</title>
+    <desc lang="es">Un programa que trata la realidad deportiva buscando sus antecedentes y las consecuencias tanto positivas como negativas. Pretende que los aficionados del fútbol puedan manejar la información y formar una opinión fundamentada y llena de valor.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p19533662_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110223000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Estrellas Orientales visita a Gigantes del Cibao. Desde el estadio Julián Javier, en San Francisco de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Estrellas Orientales vs. Gigantes del Cibao</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261025</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RM9VR.jpg" />
+  </programme>
+  <programme start="20261110223000 +0000" stop="20261110233000 +0000" channel="1761">
+    <title lang="es">Fastball</title>
+    <desc lang="es">Científicos y glorias del béisbol analizan lo que pasa por la cabeza de un bateador al recibir el lanzamiento, algo que ocurre en menos de medio segundo.</desc>
+    <category lang="es">Documentary</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20160325</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p12633470_p_v12_ab.jpg" />
+  </programme>
+  <programme start="20261110233000 +0000" stop="20261111023000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Desde el estadio Tetelo Vargas, en San Pedro de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Estrellas Orientales vs. Leones del Escogido</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261017</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RHKZT.jpg" />
+  </programme>
+  <programme start="20261111023000 +0000" stop="20261111053000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261111053000 +0000" stop="20261111090000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Leones del Caracas at Cardenales de Lara</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261109</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003TFV9S.jpg" />
+  </programme>
+  <programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="1761">
+    <title lang="es">1BN Specials</title>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20250901</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p31373863_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="1761">
+    <title lang="es">1BN Specials</title>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20250901</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p31373863_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111130000 +0000" stop="20261111160000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261111160000 +0000" stop="20261111163000 +0000" channel="1761">
+    <title lang="es">Entrelíneas</title>
+    <desc lang="es">Un programa que trata la realidad deportiva buscando sus antecedentes y las consecuencias tanto positivas como negativas. Pretende que los aficionados del fútbol puedan manejar la información y formar una opinión fundamentada y llena de valor.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p19533662_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20261111163000 +0000" stop="20261111193000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Desde el estadio Tetelo Vargas, en San Pedro de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Estrellas Orientales vs. Leones del Escogido</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261017</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RHKZT.jpg" />
+  </programme>
+  <programme start="20261111193000 +0000" stop="20261111223000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="1761">
+    <title lang="es">Antesala</title>
+    <desc lang="es">Todo el análisis e información previa al encuentro entre los equipos.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20090613</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p3581451_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261112023000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara at Tiburones de La Guaira</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261111</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003TFV6D.jpg" />
+  </programme>
+  <programme start="20261112023000 +0000" stop="20261112053000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261112053000 +0000" stop="20261112090000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Toros del Este visita a Leones del Escogido. Desde el estadio Quisqueya Juan Marichal, en Santo Domingo, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Toros del Este vs. Leones del Escogido</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261024</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RMC75.jpg" />
+  </programme>
+  <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="1761">
+    <title lang="es">Fastball</title>
+    <desc lang="es">Científicos y glorias del béisbol analizan lo que pasa por la cabeza de un bateador al recibir el lanzamiento, algo que ocurre en menos de medio segundo.</desc>
+    <category lang="es">Documentary</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20160325</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p12633470_p_v12_ab.jpg" />
+  </programme>
+  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara at Tiburones de La Guaira</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261111</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003TFV6D.jpg" />
+  </programme>
+  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="1761">
+    <title lang="es">Entrelíneas</title>
+    <desc lang="es">Un programa que trata la realidad deportiva buscando sus antecedentes y las consecuencias tanto positivas como negativas. Pretende que los aficionados del fútbol puedan manejar la información y formar una opinión fundamentada y llena de valor.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p19533662_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20261112163000 +0000" stop="20261112193000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Toros del Este visita a Leones del Escogido. Desde el estadio Quisqueya Juan Marichal, en Santo Domingo, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Toros del Este vs. Leones del Escogido</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261024</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RMC75.jpg" />
+  </programme>
+  <programme start="20261112193000 +0000" stop="20261112223000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="1761">
+    <title lang="es">Antesala</title>
+    <desc lang="es">Todo el análisis e información previa al encuentro entre los equipos.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20090613</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p3581451_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113023000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara vs. Leones del Caracas</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261112</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBLX8.jpg" />
+  </programme>
+  <programme start="20261113023000 +0000" stop="20261113053000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113090000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara vs. Leones del Caracas</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261112</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBLX8.jpg" />
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="1761">
+    <title lang="es">1BN Specials</title>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20250901</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p31373863_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="1761">
+    <title lang="es">1BN Specials</title>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20250901</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p31373863_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113160000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara vs. Leones del Caracas</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261112</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBLX8.jpg" />
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="1761">
+    <title lang="es">Entrelíneas</title>
+    <desc lang="es">Un programa que trata la realidad deportiva buscando sus antecedentes y las consecuencias tanto positivas como negativas. Pretende que los aficionados del fútbol puedan manejar la información y formar una opinión fundamentada y llena de valor.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p19533662_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113193000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Cañeros de Los Mochis visita a Venados de Mazatlán. Desde el estadio Teodoro Mariscal, en Mazatlán, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cañeros de Los Mochis vs. Venados de Mazatlán</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261110</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CCGLH.jpg" />
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113223000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Cardenales de Lara vs. Leones del Caracas</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261112</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBLX8.jpg" />
+  </programme>
+  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="1761">
+    <title lang="es">Antesala</title>
+    <desc lang="es">Todo el análisis e información previa al encuentro entre los equipos.</desc>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20090613</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p3581451_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261114023000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres de Aragua vs. Caribes de Anzoátegui</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBZJK.jpg" />
+  </programme>
+  <programme start="20261114023000 +0000" stop="20261114053000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Águilas de Mexicali visita a Algodoneros de Guasave. Desde el estadio Francisco Carranza Limón, en Guasave, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Águilas de Mexicali vs. Algodoneros de Guasave</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CH3SS.jpg" />
+  </programme>
+  <programme start="20261114053000 +0000" stop="20261114090000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres de Aragua vs. Caribes de Anzoátegui</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBZJK.jpg" />
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="1761">
+    <title lang="es">World Baseball Classic Recap</title>
+    <desc lang="es">Revive cada torneo del Clásico Mundial de Béisbol a fondo, presentando juegos icónicos, actuaciones destacadas y momentos decisivos.</desc>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20260216</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p32209993_b_v12_ac.jpg" />
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="1761">
+    <title lang="es">Baseball Extra inning</title>
+    <category lang="es">Baseball</category>
+    <category lang="es">Sports talk</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20240810</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p28486036_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="1761">
+    <title lang="es">A palo limpio</title>
+    <desc lang="es">ByM Sport les trae un debate a cuatro voces y con la pasión a flor de piel semana a semana en la LVBP.</desc>
+    <category lang="es">Special</category>
+    <category lang="es">Sports talk</category>
+    <category lang="es">Debate</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p34317616_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114170000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la jornada inaugural de la temporada 2026-2027 de la LIDOM. Estrellas Orientales visita aToros del Este. Desde el estadio Francisco Micheli, en La Romana, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Estrellas Orientales vs. Toros del Este</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261016</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003RHL0Y.jpg" />
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="1761">
+    <title lang="es">A palo limpio</title>
+    <desc lang="es">ByM Sport les trae un debate a cuatro voces y con la pasión a flor de piel semana a semana en la LVBP.</desc>
+    <category lang="es">Special</category>
+    <category lang="es">Sports talk</category>
+    <category lang="es">Debate</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <icon src="http://dsmx.tmsimg.com/assets/p34317616_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20261114180000 +0000" stop="20261114210000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres de Aragua vs. Caribes de Anzoátegui</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBZJK.jpg" />
+  </programme>
+  <programme start="20261114210000 +0000" stop="20261115003000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Tigres del Licey visita a Gigantes del Cibao. Desde el estadio Julián Javier, en San Francisco de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres del Licey at Gigantes del Cibao</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261114</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003T71L0.jpg" />
+  </programme>
+  <programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="1761">
+    <title lang="es">1BN Specials</title>
+    <category lang="es">Baseball</category>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20250901</date>
+    <icon src="http://dsmx.tmsimg.com/assets/p31373863_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20261115010000 +0000" stop="20261115040000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Águilas de Mexicali visita a Algodoneros de Guasave. Desde el estadio Francisco Carranza Limón, en Guasave, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Águilas de Mexicali vs. Algodoneros de Guasave</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CH3SS.jpg" />
+  </programme>
+  <programme start="20261115040000 +0000" stop="20261115070000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Tigres del Licey visita a Gigantes del Cibao. Desde el estadio Julián Javier, en San Francisco de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres del Licey at Gigantes del Cibao</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261114</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003T71L0.jpg" />
+  </programme>
+  <programme start="20261115070000 +0000" stop="20261115100000 +0000" channel="1761">
+    <title lang="es">Béisbol Liga Mexicana del Pacífico</title>
+    <desc lang="es">Primera vuelta de la temporada regular 2026-27 de la Liga Mexicana del Pacífico. Primer juego de la serie. Águilas de Mexicali visita a Algodoneros de Guasave. Desde el estadio Francisco Carranza Limón, en Guasave, Sinaloa, México.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Águilas de Mexicali vs. Algodoneros de Guasave</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003CH3SS.jpg" />
+  </programme>
+  <programme start="20261115100000 +0000" stop="20261115130000 +0000" channel="1761">
+    <title lang="es">Béisbol de la República Dominicana LIDOM</title>
+    <desc lang="es">Acción de la temporada 2026-2027 de la LIDOM. Tigres del Licey visita a Gigantes del Cibao. Desde el estadio Julián Javier, en San Francisco de Macorís, República Dominicana.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres del Licey at Gigantes del Cibao</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261114</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003T71L0.jpg" />
+  </programme>
+  <programme start="20261115130000 +0000" stop="20261115160000 +0000" channel="1761">
+    <title lang="es">Béisbol Venezolano Liga Profesional</title>
+    <desc lang="es">Juegos de la Liga Venezolana de Béisbol Profesional.</desc>
+    <category lang="es">Baseball</category>
+    <sub-title lang="es">Tigres de Aragua vs. Caribes de Anzoátegui</sub-title>
+    <rating>
+      <value>NR</value>
+    </rating>
+    <date>20261113</date>
+    <icon src="http://dsmx.tmsimg.com/assets/GNLZZGG003VBZJK.jpg" />
+  </programme>
+</tv>
