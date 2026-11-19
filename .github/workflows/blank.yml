@@ -1,0 +1,32 @@
+name: Diagnóstico de Manifiesto DASH
+
+on:
+  workflow_dispatch:
+    inputs:
+      mpd_url:
+        description: 'URL del manifiesto MPD a verificar'
+        required: true
+        default: 'https://vod-ott.izzigo.tv/out/u/startover/dash/TNT-HD/manifest.mpd?begin=1795017600&end=1795021200'
+
+jobs:
+  check-stream-endpoint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar validación de manifiesto
+        env:
+          TARGET_MPD_URL: ${{ github.event.inputs.mpd_url }}
+          # Si usas un proxy en México, agrégalo en Settings > Secrets and variables > Actions
+          MX_PROXY_URL: ${{ secrets.MX_PROXY_URL }}
+        run: python testiz.py
